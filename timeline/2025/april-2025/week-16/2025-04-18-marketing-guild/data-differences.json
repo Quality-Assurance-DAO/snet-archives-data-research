@@ -1,0 +1,46 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2025-04-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AJ, Ayo, Eric Davies, esewilliams, Évéline Trinité, kareem, Kateri, kenichi, LordKizzy, martinsoki, photogee, SubZero, UknowZork",
+      "supabase": "AJ, Eric Davies, esewilliams, Évéline Trinité, kareem, Kateri, kenichi, LordKizzy, photogee, SubZero, UknowZork"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 8,
+      "supabase": 9
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "Governance Document For Marketing Guild",
+      "supabase": "R&D New Proposal Submission [Template] "
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0",
+      "supabase": "https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Workgroups >< Wider ecosystem collaboration",
+      "supabase": "Governance Document For Marketing Guild"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1yuVkAdkXA2R4QbLaCZQvWipaB83PAogQWnLR5hwD9ZE/edit?tab=t.0"
+    },
+    {
+      "field": "meetingInfo.workingDocs[7].title",
+      "gitbook": "ROLES AND RESPONSIBILITIES FOR MARKETING GUILD.",
+      "supabase": "Workgroups >< Wider ecosystem collaboration"
+    },
+    {
+      "field": "meetingInfo.workingDocs[7].link",
+      "gitbook": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=drivesdk",
+      "supabase": "https://docs.google.com/spreadsheets/d/1EMxTnjWwjgRyRYmKBaYhLu1vdaHpXQH5FWD69qgO54A/edit?usp=sharing"
+    }
+  ]
+}
