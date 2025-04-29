@@ -1,0 +1,16 @@
+{
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2025-04-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Budget-fitting: we agreed that for Q2, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking.",
+      "supabase": "Budget-fitting: we agreed that for Q2, all the admin roles will be allocated less budget; documentation for the 3 meetings in Q2 will be folded in to the co-chair role and done by Vani, so there is no additional cost for that; and we will try to preserve at least some transcription work and some transcript-checking. If token price does rise significantly, we will aim to also do some new interviews. If by the time of our May meeting, token price is still below $0.20, then we will likely need to make even more cuts, as the proposed fitted budget assumes an exchange rate of $0.20"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    }
+  ]
+}
