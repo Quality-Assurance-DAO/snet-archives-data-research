@@ -3,23 +3,9 @@
   "meetingDate": "2025-03-25",
   "differences": [
     {
-      "field": "agendaItems[0].discussionPoints[0]",
-      "gitbook": "Running through the outstanding objections to see if there were any we could resolve.",
-      "supabase": "Running through the outstanding objections to see if there were any we could resolve"
-    },
-    {
-      "field": "agendaItems[0].decisionItems.length",
-      "gitbook": 4,
-      "supabase": 1
-    },
-    {
       "field": "agendaItems[0].decisionItems[0].decision",
-      "gitbook": "We agreed that in Thursday's meeting, we need further discussion of the following:",
+      "gitbook": "We agreed that in Thursday's meeting, we need further discussion of the following: Can we, in a Governance meeting, deem a particular objection invalid? Should the 2nd round consent form list each objection separately, or should we consolidate them? What does the 80/20% rule mean in practice in this context?",
       "supabase": "We agreed that in Thursday's meeting, we need further discussion of the following: - Can we, in a Governance meeting, deem a particular objection invalid? - Should the 2nd round consent form list each objection separately, or should we consolidate them? - What does the 80/20% rule mean in practice in this context?"
-    },
-    {
-      "field": "agendaItems[0].decisionItems[0].rationale",
-      "supabase": "These issues were raised in today's meeting, but we didn't have time to reac firm conclusions."
     }
   ]
 }
