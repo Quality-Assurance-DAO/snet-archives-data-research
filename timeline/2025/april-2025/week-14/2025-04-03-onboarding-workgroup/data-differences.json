@@ -1,0 +1,10 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2025-04-03",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    }
+  ]
+}
