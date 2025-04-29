@@ -1,0 +1,47 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2025-04-09",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, frosh, Gorga Siagian, hogantuso, Slate, UKnowZork, Zalfred",
+      "supabase": "AshleyDawn, frosh, Gorga Siagian, hogantuso, UKnowZork, Zalfred"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates from presentation series.",
+      "supabase": "The meeting started with Slate welcoming everyone and having a bit of topic discussion on holidays"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "LLM Showcase.",
+      "supabase": "Then showcased his work on the presentation that he is almost done with the module 2 and sent and showcased the links to the research work"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Process Doc for certification program.",
+      "supabase": "Slate made some comments on the research work, to which gorga will make additions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "token price impact and move forward.",
+      "supabase": "Then zalfred chipped in that he is working on the presentation series module #3"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "supabase": "After that Slate showcased the new version of gemini which is capable of doing good work and can be beneficial to use for educational purposes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": "Moving forward in the meeting the topic about the certification program process document started which was presented and inputs were taken and processes were explained"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "Two research task were distributed to Zalfred and Tuso"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "supabase": "Zalfred raised a question on how to proceed with the token price fluctuation , on which Slate replied that we can take one project at a time to make things continue with flow without much impact on the budget"
+    }
+  ]
+}
