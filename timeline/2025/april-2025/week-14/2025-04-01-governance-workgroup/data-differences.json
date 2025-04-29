@@ -4,13 +4,7 @@
   "differences": [
     {
       "field": "agendaItems[0].decisionItems[0].opposing",
-      "gitbook": "- [**effect**] mayAffectOtherPeople",
-      "supabase": "\n"
-    },
-    {
-      "field": "agendaItems[0].decisionItems[0].effect",
-      "gitbook": "affectsOnlyThisWorkgroup",
-      "supabase": "mayAffectOtherPeople"
+      "supabase": "- [**effect**] mayAffectOtherPeople"
     }
   ]
 }
