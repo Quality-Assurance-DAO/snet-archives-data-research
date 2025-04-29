@@ -1,0 +1,40 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-03-27",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "CallyFromAuron",
+      "supabase": "Kateri, CallyFromAuron"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "How to prevent new objections from being raised in the 2nd consent round.",
+      "supabase": "How to prevent new objections from being raised in the 2nd consent round"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    }
+  ]
+}
