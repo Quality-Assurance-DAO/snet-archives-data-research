@@ -1,0 +1,44 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2025-04-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Dework Task Management.",
+      "supabase": "Dework Task Management"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[8]",
+      "gitbook": "Do you use \"Knowledge Bases\" often? - Decentralised organisations seem to use Knowledge Bases more often.",
+      "supabase": "Do you use \"Knowledge Bases\" often?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[9]",
+      "supabase": "Decentralised organisations seem to use Knowledge Bases more often"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Reviewed Knowledge Organising Process.",
+      "supabase": "Reviewed Knowledge Organising Process"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "(New [Miro Board Window](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764624239502493&cot=10)).",
+      "supabase": "(New [Miro Board Window](https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764624239502493&cot=10))"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    }
+  ]
+}
