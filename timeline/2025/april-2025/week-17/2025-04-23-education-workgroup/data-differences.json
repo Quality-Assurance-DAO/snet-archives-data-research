@@ -1,0 +1,41 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2025-04-23",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "esewilliams, frosh, Gorga Siagian, hogantuso, LordKizzy, osmium, Slate, smilez, UKnowZork, Zalfred",
+      "supabase": "esewilliams, frosh, Gorga Siagian, hogantuso, LordKizzy, osmium, smilez, UKnowZork, Zalfred"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then after the welcome the meeting shifted to discussing the topic of the updates which were suggested to Gorga's presentation on DeepDive Ecosystem, which covered the addition of AI marketplace interaction and how to work with it.",
+      "supabase": "Then after the welcome the meeting shifted to discussing the topic of the updates which were suggested to Gorga's presentation on DeepDive Ecosystem, which covered the addition of AI marketplace interaction and how to work with it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Afterwards this Zalfred presented his presentation on Canvas LMS platform , which according to the feedback felt really nice for the hosting of CCCP as it offers most of the feature that we are looking for and seems like a best fit.",
+      "supabase": "Afterwards this Zalfred presented his presentation on Canvas LMS platform , which according to the feedback felt really nice for the hosting of CCCP as it offers most of the feature that we are looking for and seems like a best fit"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Tuso mentioned that he will be working on his presentation this week and will present in the next.",
+      "supabase": "Tuso mentioned that he will be working on his presentation this week and will present in the next"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Zalfred mentioned that he is going to be awaiting kenichi's reply on the adjustment that are needed to be made on the presentation series.",
+      "supabase": "Zalfred mentioned that he is going to be awaiting kenichi's reply on the adjustment that are needed to be made on the presentation series"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "At the end Slate shared the portfolio form on which discussion was held asking for improvement points and others, the form will be shared with everyone to participate by tomorrow.",
+      "supabase": "At the end Slate shared the portfolio form on which discussion was held asking for improvement points and others, the form will be shared with everyone to participate by tomorrow"
+    }
+  ]
+}
