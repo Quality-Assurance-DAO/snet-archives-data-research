@@ -1,0 +1,14 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2025-04-03",
+  "differences": [
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
