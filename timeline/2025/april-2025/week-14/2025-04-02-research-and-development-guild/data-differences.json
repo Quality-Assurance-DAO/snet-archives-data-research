@@ -1,0 +1,11 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2025-04-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    }
+  ]
+}
