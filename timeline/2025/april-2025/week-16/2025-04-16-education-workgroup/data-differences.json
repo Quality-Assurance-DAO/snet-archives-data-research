@@ -1,0 +1,31 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2025-04-16",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, esewilliams, eve, Gorga Siagian, hogantuso, kenichi, Malik, osmium, Slate, Zalfred",
+      "supabase": "AshleyDawn, esewilliams, eve, Gorga Siagian, hogantuso, kenichi, Malik, osmium, Zalfred"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then the discussion on Presentation Series project started, with the discussion on module 2 and 3 which are being worked by zalfred and gorga , still some modifications required in both.",
+      "supabase": "Then the discussion on Presentation Series project started, with the discussion on module 2 and 3 which are being worked by zalfred and gorga , still some modifications required in both"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Ese had some question for kenichi in regards to the presentation series : \"So this would be updated overtime? Cos we have knowledge bank of SingularityNet everywhere. So why should we use the presentation for every event knowing fully well every event have their theme, focus, and even pattern. How then would we be able to use it\".",
+      "supabase": "Ese had some question for kenichi in regards to the presentation series : \"So this would be updated overtime? Cos we have knowledge bank of SingularityNet everywhere. So why should we use the presentation for every event knowing fully well every event have their theme, focus, and even pattern. How then would we be able to use it\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "These questions were answered by Kenichi.",
+      "supabase": "These questions were answered by Kenichi"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Then Malik presented the Gamers Guild presentation of Education Guild which was liked and approved, with a little modification/ addition of certified tag on the NFT section.",
+      "supabase": "Then Malik presented the Gamers Guild presentation of Education Guild which was liked and approved, with a little modification/ addition of certified tag on the NFT section"
+    }
+  ]
+}
