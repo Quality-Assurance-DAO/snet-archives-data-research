@@ -1,0 +1,18 @@
+{
+  "workgroup": "WG Sync Call",
+  "meetingDate": "2025-04-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    }
+  ]
+}
