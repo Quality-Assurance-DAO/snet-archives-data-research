@@ -1,0 +1,16 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-03-18",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Noting which WGs' Q2 2025 budgets have passed, and which have objections.",
+      "supabase": "Noting which WGs' Q2 2025 budgets have passed, and which have objections"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Working through the objections for AI Sandbox/Think Tank.",
+      "supabase": "Working through the objections for AI Sandbox/Think Tank"
+    }
+  ]
+}
