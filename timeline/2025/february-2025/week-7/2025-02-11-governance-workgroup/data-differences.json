@@ -1,0 +1,47 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-02-11",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Publicity materials for Q2 2025 budget submission and decision process.",
+      "supabase": "Publicity materials for Q2 2025 budget submission and decision process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Context-setting materials for the Q2 2025 budget process.",
+      "supabase": "Context-setting materials for the Q2 2025 budget process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Automation of process of calculating who is a Core Contributor.",
+      "supabase": "Automation of process of calculating who is a Core Contributor"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "How to make cuts to the GovWG budget, and using WG reserves to cover any shortfall.",
+      "supabase": "How to make cuts to the GovWG budget, and using WG reserves to cover any shortfall"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Creating policy on how to use the New Ideas budget -.",
+      "supabase": "Creating policy on how to use the New Ideas budget"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": ""
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
