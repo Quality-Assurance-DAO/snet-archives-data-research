@@ -1,0 +1,82 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2025-02-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Going over old and new action items.",
+      "supabase": "Going over old and new action items"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Assigning meeting summarizer and reviewer for 17.02.2025.",
+      "supabase": "Assigning meeting summarizer and reviewer for 17.02.2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4.",
+      "supabase": "How we manage Meeting Summaries - https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/.",
+      "supabase": "Meeting Summary Template - https://docs.google.com/document/d/1VU_VG8z7wnROx0DKsHsXOYshaJAoeZQ8dYZlRWYMSzE/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/.",
+      "supabase": "Knowledge Base WG Q1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/.",
+      "supabase": "Knowledge Base WG Proposal Q2 2025 https://docs.google.com/document/d/10TjExpU7uScZ0k9FtJLLLOhXZk_El0enKVC9RSYj_Wo/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Updating the Community Engagement section in the report.",
+      "supabase": "Updating the Community Engagement section in the report"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/.",
+      "supabase": "Category Descriptions https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "We reviewed 5 sub-sections of the categories.",
+      "supabase": "We reviewed 5 sub-sections of the categories"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Updates on GitBook and GitHub.",
+      "supabase": "Updates on GitBook and GitHub"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Updates on the current markdown automation progress.",
+      "supabase": "Updates on the current markdown automation progress"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Knowledge Base structure is visible now on GitBook.",
+      "supabase": "Knowledge Base structure is visible now on GitBook"
+    },
+    {
+      "field": "agendaItems[3].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
