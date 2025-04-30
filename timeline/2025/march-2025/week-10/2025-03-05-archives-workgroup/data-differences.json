@@ -1,0 +1,58 @@
+{
+  "workgroup": "Archives Workgroup",
+  "meetingDate": "2025-03-05",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[7].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 4,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "André has fixed the issue with tags where people are copy-pasting strings of comma-separated tags into the summary tool, but they are not rendering as separate tags, but as strings.",
+      "supabase": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].status",
+      "gitbook": "done",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "André",
+      "supabase": "André, CallyFromAuron"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].dueDate",
+      "gitbook": "5 March 2025",
+      "supabase": "2 April 2025"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "André and Vani to meet to wrap up the tag taxonomy issue by deciding on an initial controlled vocab for topic and emotion tags",
+      "supabase": "Andre to add \"All\", \"Alfred Itodele\" and \"Maxmilez\" as new Names in the names controlled vocab"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "André, CallyFromAuron",
+      "supabase": "André"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].dueDate",
+      "gitbook": "2 April 2025",
+      "supabase": "19 March 2025"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
