@@ -1,0 +1,31 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-02-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Dates for Q2 budget consent process.",
+      "supabase": "Dates for Q2 budget consent process"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
