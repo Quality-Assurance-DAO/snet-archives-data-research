@@ -4,8 +4,8 @@
   "differences": [
     {
       "field": "meetingInfo.peoplePresent",
-      "gitbook": "advanceameyaw, Ayo, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, martinsoki, Mikasa, PeterE, photogee, UknowZork, Zainab",
-      "supabase": "advanceameyaw, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, Mikasa, PeterE, photogee, UknowZork, Zainab"
+      "gitbook": "advanceameyaw, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, Mikasa, PeterE, photogee, UknowZork, Zainab",
+      "supabase": "advanceameyaw, Ayo, CJFrankie, Eric Davies, esewilliams, Gorga Siagian, Jeffrey Ndarake, kareem, Kateri, kenichi, LordKizzy, Malik, martinsoki, Mikasa, PeterE, photogee, UknowZork, Zainab"
     }
   ]
 }
