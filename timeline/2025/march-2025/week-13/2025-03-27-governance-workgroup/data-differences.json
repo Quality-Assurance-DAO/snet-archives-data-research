@@ -1,0 +1,26 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-03-27",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].effect",
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
+    }
+  ]
+}
