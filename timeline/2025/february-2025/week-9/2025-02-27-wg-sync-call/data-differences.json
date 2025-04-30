@@ -1,0 +1,21 @@
+{
+  "workgroup": "WG Sync Call",
+  "meetingDate": "2025-02-27",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Which WGs are represented on the call",
+      "supabase": "Which WGs are represented on the call?"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "What WG Sync calls should be about (results of Googleform",
+      "supabase": "What WG Sync calls should be about (results of Googleform)"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[6]",
+      "gitbook": "WGs that are not taking part",
+      "supabase": "WGs that are not taking part?  "
+    }
+  ]
+}
