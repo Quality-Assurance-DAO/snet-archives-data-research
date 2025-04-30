@@ -1,0 +1,38 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-03-20",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Reading out all objections in the Q2 process.",
+      "supabase": "Reading out all objections in the Q2 process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Approving Translation WG.",
+      "supabase": "Approving Translation WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Amending the timeline for the consent process.",
+      "supabase": "Amending the timeline for the consent process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections.",
+      "supabase": "Changes to the 2nd-round consent process to ensure fairness, and avoid an endless cycle of new objections"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    }
+  ]
+}
