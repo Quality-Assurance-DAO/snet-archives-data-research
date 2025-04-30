@@ -4,43 +4,23 @@
   "differences": [
     {
       "field": "agendaItems[0].decisionItems[1].effect",
-      "gitbook": "affectsOnlyThisWorkgroup",
-      "supabase": "mayAffectOtherPeople"
-    },
-    {
-      "field": "agendaItems[0].decisionItems[2].effect",
-      "gitbook": "affectsOnlyThisWorkgroup"
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
     },
     {
       "field": "agendaItems[0].decisionItems[3].effect",
-      "gitbook": "affectsOnlyThisWorkgroup",
-      "supabase": "mayAffectOtherPeople"
-    },
-    {
-      "field": "agendaItems[0].decisionItems[4].effect",
-      "gitbook": "affectsOnlyThisWorkgroup"
-    },
-    {
-      "field": "agendaItems[0].decisionItems[5].effect",
-      "gitbook": "affectsOnlyThisWorkgroup"
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
     },
     {
       "field": "agendaItems[0].decisionItems[6].effect",
-      "gitbook": "affectsOnlyThisWorkgroup",
-      "supabase": "mayAffectOtherPeople"
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
     },
     {
       "field": "agendaItems[0].decisionItems[7].effect",
-      "gitbook": "affectsOnlyThisWorkgroup",
-      "supabase": "mayAffectOtherPeople"
-    },
-    {
-      "field": "noSummaryGivenText",
-      "gitbook": "No Summary Given"
-    },
-    {
-      "field": "canceledSummaryText",
-      "gitbook": "Meeting was cancelled"
+      "gitbook": "mayAffectOtherPeople",
+      "supabase": "affectsOnlyThisWorkgroup"
     }
   ]
 }
