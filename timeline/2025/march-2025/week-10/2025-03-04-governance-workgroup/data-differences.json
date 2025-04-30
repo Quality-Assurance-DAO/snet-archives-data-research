@@ -1,0 +1,26 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-03-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Calculating Core Contributors for Q2.",
+      "supabase": "Calculating Core Contributors for Q2"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Signing off Q2 consent form.",
+      "supabase": "Signing off Q2 consent form"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems).",
+      "supabase": "Ideas and dates for future Governance sessions (including Mindplex/outreach to the rest of the ecosystem, Governance education; Contribution systems)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "End-Of-Year report 2024.",
+      "supabase": "End-Of-Year report 2024"
+    }
+  ]
+}
