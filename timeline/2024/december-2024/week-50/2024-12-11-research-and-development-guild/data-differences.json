@@ -1,0 +1,84 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-12-11",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, LordKizzy, Slate",
+      "supabase": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, lord kizzy, Slate"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Open discussion",
+      "supabase": "Open discussion\nHow to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[5]",
+      "gitbook": "MettaCoders Lab Discussion",
+      "supabase": "MetaCoders Lab Discussion"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the Foundation. Guillermo also noted that he will be presenting a proposal in DeepFunding for the Metta Coder labs initiative in R&D GUILD.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: Advance expressed a delay in the deliverables due to the busy schedule of Rojo and kenichi.",
+      "supabase": "Follow up on the CSDB: Advance expressed a delay in the deliverables due to the busy schedule of Rojo and kenichi"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then educational materials could be created on the tool by Education Guild.",
+      "supabase": "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Members to express interest in the sheet for facilitation",
+      "supabase": "Members to express interest in the sheet for facilitation,"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of calculating who is a Core Contributor by Treasury guild",
+      "supabase": "Lordkizzy and Guillermo to schedule a call with the team to discuss the automation of core Contributors by Treasury guild"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guilkd, collaboration, data privacy",
+      "supabase": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Friendly, Collaborative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
