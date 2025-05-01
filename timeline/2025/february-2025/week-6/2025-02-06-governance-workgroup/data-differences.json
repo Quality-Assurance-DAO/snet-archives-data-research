@@ -1,0 +1,77 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-02-06",
+  "differences": [
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "There was no agenda for today's meeting. (We had previously agreed that after January, we would try to keep the Thursday Open Governance meetings open, with no predetermined agenda, for anyone to raise a governance issue.)\n\nThe meeting was quite small.\n\nSo the meeting was more digressive than usual - a gentle conversation touching on a range of topics not directly related to the governance mechanisms of the Ambassador program. We agreed to document in a minimal way, by simply logging the topics that arose.",
+      "supabase": "There was no agenda for today's meeting. (We had previously agreed that after January, we would try to keep the Thursday Open Governance meetings open, with no predetermined agenda, for anyone to raise a governance issue.)\n\nThe meeting was also quite small.\n\nSo the meeting was more digressive than usual - a gentle conversation touching on a range of topics not directly related to the governance mechanisms of the Ambassador program. We agreed to document in a minimal way, by simply logging the topics that arose."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Cross-chain collaborations (especially with ETH, given AdvanceAmeyaw and Clement's planned attendance at the ETHiopia Ethereum conference in mid Feb).",
+      "supabase": "Cross-chain collaborations (especially with ETH, given AdvanceAmeyaw and Clement's planned attendance at the ETHiopia Ethereum conference in mid Feb)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Cross-chain collaboration as a mindset.",
+      "supabase": "Cross-chain collaboration as a mindset"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Adoption of different chains in Africa; which ones are most popular and widely used.",
+      "supabase": "Adoption of different chains in Africa; which ones are most popular and widely used"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Clement and AdvanceAmeyaw's plans for engagement at the ETHiopia conference.",
+      "supabase": "Clement and AdvanceAmeyaw's plans for engagement at the ETHiopia conference"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "How we keep track of, and follow up on, issues that were raised in the retrospective sessions for previous Quarters' budget decisions.",
+      "supabase": "How we keep track of, and follow up on, issues that were raised in the retrospective sessions for previous Quarters' budget decisions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "How we assess WG outputs and work quality - for example, video view numbers.",
+      "supabase": "How we assess WG outputs and work quality - for example, video view numbers"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "What our priorities are as a Program for WGs' work.",
+      "supabase": "What our priorities are as a Program for WGs' work"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "How Thursday meetings should go in future - open space, perhaps not recording, perhaps more minimal documentation, discussion of Governance concepts, particularly decentralised governence, rather than making decisions - but with the exception that we might carry over any pending agenda from Tuesdays sessions.",
+      "supabase": "How Thursday meetings should go in future - open space, perhaps not recording, perhaps more minimal documentation, discussion of Governance concepts, particularly decentralised governence, rather than making decisions - but with the exception that we might carry over any pending agenda from Tuesdays sessions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Tuesdays are the decision-making meeting - Thurs is gentler.",
+      "supabase": "Tuesdays are the decision-making meeting - Thurs is gentler"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "How to document discursive meetings of this nature - whether simply logging the topics covered would allow the knowledge graph approach that Archives WG is developing to track those topics easily.",
+      "supabase": "How to document discursive meetings of this nature - whether simply logging the topics covered would allow the knowledge graph approach that Archives WG is developing to track those topics easily"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
