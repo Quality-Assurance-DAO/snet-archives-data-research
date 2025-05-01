@@ -1,0 +1,14 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-12-11",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
