@@ -1,0 +1,34 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2025-01-27",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Not much progress made on descriptions yet.",
+      "supabase": "Not much progress made on descriptions yet"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "We added a clearer list of which descriptions are left to do.",
+      "supabase": "We added a clearer list of which descriptions are left to do"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Shared current status of development.",
+      "supabase": "Shared current status of development"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Current challenges are cleaning the data and making Miro Board item names match with analysis.",
+      "supabase": "Current challenges are cleaning the data and making Miro Board item names match with analysis"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
