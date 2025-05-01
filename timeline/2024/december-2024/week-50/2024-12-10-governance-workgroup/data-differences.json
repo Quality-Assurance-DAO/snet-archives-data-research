@@ -1,0 +1,39 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-12-10",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Agenda items for January.",
+      "supabase": "Agenda items for January"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Differentiating Tues and Thurs meetings.",
+      "supabase": "Differentiating Tues and Thurs meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Retrospective session on the Q1 2025 budget decision.",
+      "supabase": "Retrospective session on the Q1 2025 budget decision"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Why some core contributors don't take part in the consent process.",
+      "supabase": "Why some core contributors don't take part in the consent process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "WG Sync call.",
+      "supabase": "WG Sync call"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
