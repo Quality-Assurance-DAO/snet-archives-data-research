@@ -1,0 +1,86 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-12-12",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "AI TOOLSET EXHIBITION: Podcastle: A Podcast Automation Tool",
+      "supabase": "AI TOOLSET EXHIBITION: Podcaster: A Podcast Automation Tool"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "4th presentation AI Tools Exhibition: Podcastle",
+      "supabase": "Third Sandbox Presentation"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?#1",
+      "supabase": "https://www.canva.com/design/DAGXtSWFIzY/ybxkdIqo29rG55feJsCNyg/edit?utm_content=DAGXtSWFIzY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition series, talked about the mission, and highlighted the key takeaways and how it is relevant to the Ambassador program.",
+      "supabase": "Meeting Coordination and Introductions: Osmium welcomed everyone and gave a presentation on the overview of the AI Tools Exhibition, talked about the mission, and highlighted the key takeaways and how relevant it is to the Ambassador program."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Showcasing the fourth presentation of the exhibition made by Gorga about Podcastle.ai: This AI tool helps to edit podcasts, to have a good quality audio, and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful. He shared the link to the presentation https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted the.",
+      "supabase": "Showcasing the fourth presentation of the exhibition made by Gorga on Podcaster.ar: This AI tool helps to edit podcast, to have a good quality audio and makes transcriptions automatically. He specifically chose this AI tool to exhibit because a guild from our ambassador program has plans to start a podcast and this tool will be helpful. he shared the link to the presentation https://www.canva.com/design/DAGYg60PrCI/X_Dd9NVeO2p_z2TC1Azk_w/view?utm_content=DAGYg60PrCI&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted the"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "a) Overview of the toolset: Podcastle.ai is a cloud based, AI-powered audio production platform design to streamline the creation of podcasts, voiceovers and other audio content.",
+      "supabase": "a) Overview of the toolset: Podcaster.ai is a cloud based, or AI-powered cloud-based audio production platform design to streamline the creation of podcast, voiceovers and other audio content. b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] c) Demonstration [live demo or tutorial/ video walkthrough] d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart].",
+      "supabase": "Questions were asked and clarity was made on the operation of the Podcast.ai."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "c) Demonstration [live demo or tutorial/ video walkthrough).",
+      "supabase": "Iteration form: Is a form were members give monthly feedback on our sessions, on the tool we have used, and how we are going to progress implementing the tools."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Questions were asked and clarity was made on the operation of Podcastle.ai."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Iteration form: This is a form where members give monthly feedback on our sessions, on the tool we have showcased, and how we are going to progress implementing the tools."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided that the iteration form is always open and will be looked into monthly",
+      "supabase": "We decided that the iteration form is always opened and would be looked into monthly"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We decided to resume for the next quarter on Thurs 9th January 2025",
+      "supabase": "Decided to resume for the next quarter on the 9th of January 2025"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Kateri to create 2025 documenting roster",
+      "supabase": "Kateri to create 2025 documenting roaster"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "AI TOOLSET EXHIBITION, podcast, audio, transcrition, Roadmap of AI Sandbox/Think Tank, Podcastle.ai, Iteration, Iteration form, feedback, implementing tools",
+      "supabase": "AI TOOLSET EXHIBITION, Automating Workflows,  Roadmap of AI Sandbox/Think Tank, Podcaster.ai, Iteration, Iteration form"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
