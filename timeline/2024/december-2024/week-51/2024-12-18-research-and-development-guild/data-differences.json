@@ -1,0 +1,93 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-12-18",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, kenichi, LordKizzy, Rojo",
+      "supabase": "advanceameyaw, AJ, AshleyDawn, CollyPride, guillermolucero, kenichi, lord kizzy, Rojo"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics.length",
+      "gitbook": 8,
+      "supabase": 7
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Open discussion",
+      "supabase": "Open discussion\nHow to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[5]",
+      "gitbook": "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters",
+      "supabase": "MetaCoders Lab Discussion"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[6]",
+      "gitbook": "MetaCoders Lab Discussion",
+      "supabase": "Good bye messages"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[7]",
+      "gitbook": "Good bye messages"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Advance went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: SBD Tokens: Kenichi highlighted that the work on the backend has been slow due to the holidays and that the smart contract (Cardano Plutus) is almost ready, he also noted the need for a call with the team members on the testing and promised to provide a quarterly report on development. He also requested the program's Database from Rojo for intergration.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: SBD Tokens: Kenichi highlighted that the work on the backend has been slow due to the holidays and that the smart contract (Cardano Plutus) is almost ready, he also noted the need for a call with the team members on the testing and promised to provide a quarter report on development. He also requested for the program's Database from rojo for the intergration"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the Foundation. Guillermo also noted that he will be presenting a proposal in DeepFunding for the Metta coder labs initiative in R&D GUILD.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: The initiative is set to start in Q1 2025 and communications are still ongoing with the representatives from the foundation. Guillermo also noted that he will be presenting a proposal on the DeepFunding for the Metta coder labs initiative in R&D GUILD."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: Advance expressed a delay in the deliverables due to an expected integration issue, but hopes to resolve everything in the coming week, guillermo also pointed out the need to get the project out and receive feedback on it.",
+      "supabase": "Follow up on the CSDB: Advance expressed a delay in the deliverables due to an expected integration issue, but hope to resolve everything in the coming week, guillermo also pointed out the need to get the project out and receive feedback on"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Guillermo has been actively contributing by participating in Governance WG calls and documenting deliverables. Lordkizzy, on the other hand, acknowledged his absence due to a three-week journey but assured he would provide a report before the week's end.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, Guillermo has been actively contributing by participating in governance calls and documenting deliverables. Lordkizzy, on the other hand, acknowledged his absence due to a three-week journey but assured he would provide a report before the week's end."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenario where tools developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then educational materials could be created on the tool by Education Guild.",
+      "supabase": "How to implement the potential outcome of AI SandBox & AI Think Tank in the R&D Guild in the next quarters: Advance shared his views on the the open discussion, he felt that there is a possibility for a collaboration between the R&D Guild, Education Guild, AI Sandbox/Think-tank, and he gave a scenerio, where tools been developed by the R&D Guild could be presented as a project showcase for AI Sandbox, then Educational materials could be created on the tool by the education guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Web 3 Contributors' Dashboard, Rojo apologized for being absent from previous calls due to time zone difference and pointed out that he was going to work on the Quarterly report for the Web 3 Contributor's Dashboard.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Web 3 Contributor's Dashboard, Rojo apologized for being absent from previous calls due to time zone difference and pointed out that he was going to work on the Quarterly report for the Web 3 Contributor's Dashboard"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Education Guild, AI Sandbox/Think Tank, collaboration, Governance Dashboard, Governance Workgroup, DeepFunding",
+      "supabase": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
