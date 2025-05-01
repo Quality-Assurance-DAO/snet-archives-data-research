@@ -1,0 +1,74 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-12-16",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Reviewed Dework tasks.",
+      "supabase": "Reviewed Dework Tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "[Treasury Guild Calendar on Miro Board] (https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601622292432&cot=14).",
+      "supabase": "[Treasury Guild Calendar on Miro Board] (https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764601622292432&cot=14)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "We checked Ambassador Program Q1 2025 Budgets for all Workgroups.",
+      "supabase": "Checked Ambassador Program Q1 Budgets"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Notice! In Quarter 2, the Treasury Operators will start to meet bi-weekly",
+      "supabase": "Notice! In Quarter 2, The Treasury Operators start to meet bi-weekly"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "We will continue using the Meeting Summary rotation model that we started to experiment in Q4 2024",
+      "supabase": "Continue using the Meeting Summary rotation model that we started to experiment in Q4"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[5].decision",
+      "gitbook": "The Ambassador Program Q1 Budgets are all decided and approved.",
+      "supabase": "The Ambassador Program Q1 Budgets are decided and approved."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Effiom to include his hours on his Dework Tasks",
+      "supabase": "Effiom to include hours to Dework Tasks"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Check up with Onize to learn how much time she spent on drafting Treasury Proposal for Q1",
+      "supabase": "Check up with Onize to learn how much she spent on drafting Treasury Proposal"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Tevo to update who has Core Contributor tag in Discord",
+      "supabase": "Tevo to update Core Contributors in Discord"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].text",
+      "gitbook": "André to update Quarter 1 Budgets on Dashboard",
+      "supabase": "Andre to update Quarter 1 Budgets on Dashboard"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Do WorkGroup reserves get clawed back? - before 2023 it was done automatically, and currently nothing in place for this.",
+      "supabase": "Do WorkGroup reserves get clawed back? - before 2023 it was done automatically and currently nothing in place for this"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Quarter 1 2025, Reporting, Quarter 2 2025, Proposal, Budget, Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserves, Fixed AGIX Rewards, Rewards",
+      "supabase": "Quarter 1, Reporting, Quarter 2, Proposal, Budget , Guild Management, Documentation, treasury guild operations, Automation, Miro Board, Reserve, Fixed AGIX Rewards, Rewards"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
