@@ -1,0 +1,29 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-01-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Criteria to be core contributor.",
+      "supabase": "Criteria to be core contributor"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Self nomination.",
+      "supabase": "Self nomination"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "attendance at ETHiopia conference.",
+      "supabase": "attendance at ETHiopia conference"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
