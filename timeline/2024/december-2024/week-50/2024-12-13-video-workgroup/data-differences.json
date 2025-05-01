@@ -1,0 +1,63 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-12-13",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, frosh, killy, LordKizzy, malik, SubZero, Zalfred",
+      "supabase": "AndrewBen, frosh, killy, lord kizzy, malik, SubZero, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the Video Workgroup. The meeting focused on weekly updates and tasks distribution.",
+      "supabase": "The meeting focused on weekly updates and tasks distribution"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "A quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress. UPDATE FROM THE SOCIAL MEDIA MANAGER:.",
+      "supabase": "UPADTE FROM THE TASK MANAGER A quick update from Malik on various tasks assigned within the week. He highlighted that the town hall videos are in-progress"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "The Social Media manager, Andrew Ben, noted that he had undergone the training with Rojo and is currently catching up to speed on the activities. TOWN HALL UPDATES:.",
+      "supabase": "Update from the Social Media manager, Andrew Ben noted that he had undergone the training with Rojo and is currently catching up to speed on the activities"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Zalfred gave an update from the previous Town Hall (10th Dec), also pointing out that most Workgroups are currently on holidays. HOLIDAY AND VIDEO CREATION UPDATES:.",
+      "supabase": "Town hall updates: Zalfred gave the updates from the previous town hall, also pointing out that most Workgroups are currently on holidays."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday after this call, returning on the 10th of January. He also noted that the workgroup will still keep creating content even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts. INTRODUCTION OF NEW MEMBER:.",
+      "supabase": "Holiday and Video creation updates: Lordkizzy spoke on the holiday and suggested that the video workgroup goes on a holiday from this call and to return on the 10th of January, he also noted that the workgroup will still keep creating contents even during the break. Lordkizzy also highlighted that the video workgroup have an allocation for 7 long videos (It's going to be one suggestion per person) and due to the increase in token price, the video workgroup can compensate for 5 more shorts"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "There was a new attendee in the room (Frosh) who was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed.",
+      "supabase": "Introduction of new member: there was a new attendee in the room that was interested in joining the video workgroup, he gave an introduction and he was welcomed by members, Zalfred notified him that the workgroup is currently closed"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Video Edit, Holidays, New members",
+      "supabase": "Video Edit, Holidays"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, speedy, Collaborative",
+      "supabase": "Friendly, speedy , Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
