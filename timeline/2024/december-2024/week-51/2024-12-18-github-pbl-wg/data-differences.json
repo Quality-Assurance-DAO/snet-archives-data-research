@@ -1,0 +1,28 @@
+{
+  "workgroup": "GitHub PBL WG",
+  "meetingDate": "2024-12-18",
+  "differences": [
+    {
+      "field": "meetingInfo.otherMediaLink",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Allocating participation rewards.",
+      "supabase": "Allocating participation rewards"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Restructuring who will make the background knowledge quizzes.",
+      "supabase": "Restructuring who will make the background knowledge quizzes"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
