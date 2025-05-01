@@ -1,0 +1,69 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2025-01-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Selection of a meeting summariser and a reviewer for 13.01.2025.",
+      "supabase": "Selection of a meeting summariser and a reviewer for 13.01.2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "New Meeting Summary template doc - https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU.",
+      "supabase": "New Meeting Summary template doc - https://docs.google.com/document/d/1v4zoPFp25Wx2M28JY5XiXFgBCV454iq_9fKF9sykNxU"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Using Managing Meeting Summaries guide https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4 as Core Tasks guidelines.",
+      "supabase": "Using Managing Meeting Summaries guide https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4 as Core Tasks guidelines"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Quarter 1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/.",
+      "supabase": "Quarter 1 2025 Report - https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Adoption of the fixed hourly AGIX rate for tasks and fixed AGIX amount.",
+      "supabase": "Adoption of the fixed hourly AGIX rate for tasks and fixed AGIX amount"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Some fixed hourly rate tasks are meeting summary and review, preparation of meetings, and review of tasks.",
+      "supabase": "Some fixed hourly rate tasks are meeting summary and review, preparation of meetings, and review of tasks"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "What helps to draft the Q2 proposal? Knowledge Base WG Q1 2025 Report- https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8 Knowledge Base WG Q4 Report - https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo Knowledge Base WG Proposal Q1 2025 - https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY.",
+      "supabase": "What helps to draft the Q2 proposal? Knowledge Base WG Q1 2025 Report- https://docs.google.com/document/d/1I1KAFNsyQTtnXduB-q34MXsR63q-3g5eIbZh4AKdb-8 Knowledge Base WG Q4 Report - https://docs.google.com/document/d/1o7oWhDiI4TScTqgWpORIO4_SMi-HMNw91LdOq9i4Fzo Knowledge Base WG Proposal Q1 2025 - https://docs.google.com/document/d/1lV5E52tbfTb6tSjkqZVwtp9su92AwvqQopCCce-8pIY"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "User feedback, and uploading assets to Knowledge Base WG.",
+      "supabase": "User feedback, and uploading assets to Knowledge Base WG"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Moving back to the basic process of what the group was initially intended for.",
+      "supabase": "Moving back to the basic process of what the group was initially intended for"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[4]",
+      "gitbook": "Making all the relevant content created by the Ambassador Program easily accessible in an organized way.",
+      "supabase": "Making all the relevant content created by the Ambassador Program easily accessible in an organized way"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "No new updates have been made to Category Descriptions - https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw.",
+      "supabase": "No new updates have been made to Category Descriptions - https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
