@@ -1,0 +1,19 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-01-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Retrospective on the consent process for Q1 budgets.",
+      "supabase": "Retrospective on the consent process for Q1 budgets"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
