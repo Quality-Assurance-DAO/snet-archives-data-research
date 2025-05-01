@@ -1,0 +1,24 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2025-01-30",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Decision on AdvanceAmeyaw and Clemennt's proposal to use Ambassador Reserves funding to attend ETHiopia event in mid Feb.",
+      "supabase": "Decision on AdvanceAmeyaw and Clemennt's proposal to use Ambassador Reserves funding to attend ETHiopia event in mid Feb"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Q2 2025 budget caps.",
+      "supabase": "Q2 2025 budget caps"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
