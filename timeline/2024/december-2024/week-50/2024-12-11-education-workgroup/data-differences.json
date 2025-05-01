@@ -1,0 +1,103 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-12-11",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, AshleyDawn, esewilliams, Franklynstein, frosh, Gorga Siagian, hogantuso, Kateri, Zalfred",
+      "supabase": "AndrewBen, AshleyDawn, esewilliams, Franklynstein, frosh, Gorga Siagian, hogantuso, Kateri, tuso, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular weekly meeting of Education Guild, covering: Website / Wiki Integration Updates; AI For Beginners Discussion",
+      "supabase": "Website / Wiki Integration Updates — AI For Beginners Discussion"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "After the introduction, the meeting started with some random topics of discussion.",
+      "supabase": "After the introduction, the meeting started with some random topics of discussion"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then the meeting set off with updates from the website and wiki integration. Gorga and Franklyn showcased the website design, on which everyone's opinion was taken.",
+      "supabase": "Then afterwards, the meeting set off with the updates from the website and wiki integration, on which gorga and franklyn showcased the website design , on which everyone's opinion was taken"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate mentioned that the nav bar should have certification dashboard along with the integration of the live sheet to it, with the bar hovering on each screen.",
+      "supabase": "Slate mentioned that the nav bar should have certification dashboard along with the integration of the live sheet to it with the bar hovering on each screen"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "The logo was mentioned to change as it didn't entailed anything, so franklyn is going to rework the logo for the website.",
+      "supabase": "Logo was mentioned to change as it didn't entailed anything so franklyn is going to reworking on the logo for the website"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then the design for the website was finalized, and will soon be put to production by Franklyn.",
+      "supabase": "Then after that the design for the website was finalized , and will soon be put to production by franklyn"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Then we discussed the Ai For Beginners project, on which there were multiple questions from Zalfred and Tuso which were cleared up by Ese.",
+      "supabase": "AFter the first update the discussion regarding the Ai For Beginners Project started, on which there were multiple questions from zalfred and tuso which were cleared out by ese."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Zalfred had a question regarding the review team for the certification program; Slate said that the next production for resources for the program will be starting from next quarter.",
+      "supabase": "Zalfred had question regarding the review team for the certification program , which were cleared out by Slate that the next production for resources for the program will be starting from next quarter."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "At the end there was a vote to decide whether Education Guild should go on holidays or not, on which majority agreed on going to holidays. The next meeting for Education Guild will be on 8th January.",
+      "supabase": "At the end there was a vote to decide whether education guild should go on holidays or not, on which majority agreed on going to holidays and the next meeting for education guild will be on 8th of January."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "most people agreed",
+      "supabase": "mostAgreed "
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Franklyn to start the development process for the website",
+      "supabase": "Franlyn to start the development process for the site"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Ese to post the submission for votes in the guild Discord channel",
+      "supabase": "Ese to post the submission for votes in the guild channel"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "CCCP, certification, certification program, Wiki, Education website, website design, logo, Ai For Beginners, Task Assignment, review, integration, holidays",
+      "supabase": "CCCP, announcement, sugestion , website, Aiforbeginners, design, Task Assignment"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive,  Collaborative, Businesslike",
+      "supabase": "productive,  Collaborative, Businesslike."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
