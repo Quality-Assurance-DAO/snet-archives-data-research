@@ -1,0 +1,18 @@
+{
+  "workgroup": "Archives Workgroup",
+  "meetingDate": "2025-02-05",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[13].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
