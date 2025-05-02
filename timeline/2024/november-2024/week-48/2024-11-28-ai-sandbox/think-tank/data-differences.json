@@ -1,0 +1,45 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-11-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "The session continued with Malik taking us through the following:.",
+      "supabase": "The session continued with Malik taking us through the following: - a) Overview of the toolset: A simple workflow on building a Zap by linking your Google Drive to YouTube for automated uploads. - b) Architecture and Technology Stack: The Zapier site link (https://zapier.com) was shared to highlight more on this. - c) Demonstration [live demo or tutorial/video walkthrough]: Zapier automation: How to build a Zap - Zapier 101 - d) Outcome Report or Results and Impact: Talked about the impact and performance of Zapier increasing efficiency and boosting productivity."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "a) Overview of the toolset: A simple workflow on building a Zap by linking your Google Drive to YouTube for automated uploads.",
+      "supabase": "Questions were raised around integrating with Discord, pricing, and monetizing automated workflows with YouTube, with a showcase of the process of integrating, visiting the pricing page, and uncertainty on monetization until explored by Malik."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "b) Architecture and Technology Stack: The Zapier site link (https://zapier.com) was shared to highlight more on this.",
+      "supabase": "Osmium showed the Roadmap of AI Sandbox/Think Tank, which emphasises the moderation phase, ideation phase, and iteration phase. He narrowed down on the iteration phase and getting a mechanism to take constructive feedback from people who have experienced our sessions so far. Kizzy stressed how ideally this feedback would help the program in terms of possible adoptions and comparison with other tools within the Ambassador program."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "c) Demonstration [live demo or tutorial/video walkthrough]: Zapier automation: How to build a Zap - Zapier 101."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "d) Outcome Report or Results and Impact: Talked about the impact and performance of Zapier increasing efficiency and boosting productivity."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Questions were raised around integrating with Discord, pricing, and monetizing automated workflows with YouTube, with a showcase of the process of integrating, visiting the pricing page, and uncertainty on monetization until explored by Malik."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Osmium showed the Roadmap of AI Sandbox/Think Tank, which emphasises the moderation phase, ideation phase, and iteration phase. He narrowed down on the iteration phase and getting a mechanism to take constructive feedback from people who have experienced our sessions so far. Kizzy stressed how ideally this feedback would help the program in terms of possible adoptions and comparison with other tools within the Ambassador program."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
