@@ -1,0 +1,24 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-10-21",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "Strategy Guild Q4 2024 budget",
+      "supabase": "Budget Fitting"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Governance Context Setting Document: Cap on number of Contributors.",
+      "supabase": "The Governance Issue: Cap on number of Contributors."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
