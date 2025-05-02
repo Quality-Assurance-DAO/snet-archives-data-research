@@ -1,0 +1,89 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-10-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Aguboss, AshleyDawn, Ayo, Cjfrankie, Daniel Effiom, Eric Davies, Ese Williams, GorgaSiagian, Kareem, Kenichi, lord kizzy, malik, Olokoji, Photogee, Temioluwa",
+      "supabase": "Aguboss, Ashley, Ayo, Cjfrankie, Daniel Effiom, Eric Davies, Ese Williams, Gorga, Kareem, Kenichi, lord kizzy, malik, Olokoji, Photogee, Temioluwa"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 4,
+      "supabase": 5
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Community Creatives Initiatives campaign",
+      "supabase": "Community Creatives Initiaitives campaign"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Marketing Guild Meeting Agenda Document",
+      "supabase": "Meeting Summary - Marketing Guild - 11 October 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?tab=t.0",
+      "supabase": "https://docs.google.com/document/d/1JuVdQLVSAIuc2uLKUMDEF4k1UsUE3-nuDurVDv779RE/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Unified Content Calendar: Kizzy mentioned that a single content calendar has been created, including a schedule for videos and the Marketing Guild, allowing us to know in advance what content will be published. We are still awaiting information from the Writers' Workgroup to add additional content to the calendar.",
+      "supabase": "Unified Content Calendar: Kizzy mentioned that a single content calendar has been created, including a schedule for videos and the Marketing Guild, allowing us to know in advance what content will be published. We are still awaiting information from the Writer’s Workgroup to add additional content to the calendar."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Community Initiatives:Ese reported that only a few submissions have been received, which has been communicated to Photogee. Ayo suggested reporting to Kizzy, Kenichi, or Ayo.",
+      "supabase": "Community Initiatives: Ese reported that only a few submissions have been received, which has been communicated to Photogee. Ayo suggested reporting to Kizzy, Kenichi, or Ayo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Podcast Campaign: Kenichi has made progress with the podcast campaign, including drafting an invitation letter, setting details for episode one, creating a list of discussion points, and preparing questions. There is a need to source questions from the community for the podcast. The team also needs to decide whether to switch producers for each episode or stick to one producer for all four episodes. Writers need to be assigned to start researching questions and gathering community input on the topics for each guest in the episodes.",
+      "supabase": "Podcast Campaign: Kenichi has made progress with the podcast campaign, including drafting an invitation letter, setting details for episode one, creating a list of discussion points, and preparing questions. There is a need to source questions from the community for the podcast. The team also needs to decide whether to switch producers for each episode or stick to one producer for all four episodes. Writers need to be assigned to start researching questions and gather community input regarding the topics for each guest in the episodes."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Governance Setting Document: Ayo shared a link from Governance WG for team members to drop their thoughts on governance settings via CryptPad, ensuring anonymity for feedback. See https://cryptpad.fr/pad/#/2/pad/view/ipJrKwnNkw59JlxfG3H4gzcL1qtL0lU5lstf-88XIaI/embed/.",
+      "supabase": "Governance Setting Document: Ayo shared a link for team members to drop their thoughts on governance settings via CryptPad, ensuring anonymity for feedback."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Feedback from Writers' Workgroup: CJFrankie reported that the Writers' Workgroup meetings have been running smoothly, with no issues outside of the expected ethics. The meeting summaries have accurately captured the discussions.",
+      "supabase": "Feedback from Writer’s Workgroup: CJFrankie reported that the Writer's Workgroup meetings have been running smoothly, with no issues outside of the expected ethics. The meeting summaries have accurately captured the discussions."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Ops breakout Budget Concerns: The proposed budget does not seem feasible or sustainable, and proposing a higher budget doesn't appear realistic. Mascot Initiative: The mascot initiative involves a one-time payment of $200. Zealot Initiative: The Zealot initiative will run for 30 days, after which its impact will be compared to previous Zealy initiatives to determine the most feasible approach moving forward. Podcast Initiative: It was suggested to separate the budget requests for the podcast initiative. Although a podcast channel had been set up previously, it never went live. Marketing Survey: The marketing survey is now ready.",
+      "supabase": "Ops breakout Budget Concerns: The proposed budget does not seem feasible or sustainable, and proposing a higher budget doesn't appear realistic. Mascot Initiative: The mascot initiative involves a one-time payment of $200. Zealot Initiative: The Zealot initiative will run for 30 days, after which its impact will be compared to previous Zealy initiatives to determine the most feasible approach moving forward. Podcast Initiative: It was suggested to separate the budget requests for the podcast initiative. Although a podcast channel had been set up previously, it never went live. Marketing Survey: The marketing survey is now ready"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Comms Breakout Initiative Updates: General updates were shared on ongoing initiatives, including progress on spotlight contributor and working group projects. Conference Involvement: The team agreed on participating in an upcoming conference at Unilag, with an estimated attendance of 3,000. This presents a valuable opportunity, but specific details still need to be finalized. Booth and Marketing: Consideration was given to securing a booth at the event, though there is a need for clarity on the marketing budget, including sponsorship packages and branded merchandise. Tangible Data and Conversion: Discussions focused on how to convert event participants into tangible data (e.g. creating a group chat), with an emphasis on defining the purpose and value of this conversion. Budget Considerations: The conversation also touched on understanding budget requirements, particularly for sponsorship and other associated expenses.",
+      "supabase": "Comms Breakout Initiative Updates: General updates were shared on ongoing initiatives, including progress on spotlight contributor and working group projects. Conference Involvement: The team agreed on participating in an upcoming conference, with an estimated attendance of 3,000. This presents a valuable opportunity, but specific details still need to be finalized. Booth and Marketing: Consideration was given to securing a booth at the event, though there is a need for clarity on the marketing budget, including sponsorship packages and branded merchandise. Tangible Data and Conversion: Discussions focused on how to convert event participants into tangible data (e.g., creating a group chat), with an emphasis on defining the purpose and value of this conversion. Budget Considerations: The conversation also touched on understanding budget requirements, particularly for sponsorship and other associated expenses."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We agreed to review the progress updates on each initiative and announce the community engagement initiative, including the submission deadline, in the town hall update presentation.",
+      "supabase": "We agreed to review the progress updates on each initiative and announce the community engagement initiative, including the submission deadline for the town hall update presentation."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Proposal, community engagement, Facilitation, content calendar, conference, UNILAG, spotlight, budget, marketing survey, podcast, town hall update, Zealot, mascot",
+      "supabase": "Proposal, community engagement, Facilitation, content calendar"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Thoughtful, productive, Friendly",
+      "supabase": "Collaborative, Thoughtful , productive , Friendly"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
