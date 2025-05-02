@@ -1,0 +1,43 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-12-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate mentioned that the certification program has finally ended and the prize winners will be rewarded in the next TreasuryGuild call.",
+      "supabase": "Slate mentioned that the certification program has finally ended and the prize winners will be rewarded in the next TreasuryGuild call"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then we had updates from AI For Beginners. There was a video submission on which a remark was given that the video was completely comprised of subtitles and there is mostly stocks attached to it. Ese said that she has already notified the team about the updates, and they will be working on it.",
+      "supabase": "Then we had updates from AI For Beginners. There was a video submission on which a remark was given that the video was completely comprised of subtitles and there is mostly stocks attached to it. Ese said that she has already notified the team about the updates, and they will be working on it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then Gorga and Franklyn showcased the education website design; the initial design was finalised.",
+      "supabase": "Then Gorga and Franklyn showcased the education website design; the initial design was finalised"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Kenichi showcased the Presentation Series roadmap and everybody liked the solid plan, and that he will be assessing people based on their interests in accordance with the research topics.",
+      "supabase": "Kenichi showcased the Presentation Series roadmap and everybody liked the solid plan, and that he will be assessing people based on their interests in accordance with the research topics"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
