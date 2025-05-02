@@ -1,0 +1,74 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-11-13",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, AndrewBen, AshleyDawn, guillermolucero, LordKizzy, osmium, Raman Deep",
+      "supabase": "advanceameyaw, AJ, AndrewBen, AshleyDawn, Guillermo, lord kizzy, osmium, Raman Deep"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Code Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in Bangkok and he shared the full folder on the METTA libary: https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once, so lordkizzy noted he was going to host the session within the coming week, guillermo also spoke on the deadline for redeployment (25th Nov) and asked the team if they were still on track on the deadline, and the team hopes to meet the deadline, tho AJ suggested for an extra week, we also spoke on the hosting charges for heroku and he is going to disburse the funds to Advance.",
+      "supabase": "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once, so lordkizzy noted he was going to host the session within the coming week, guillermo also spoke on the deadline for redeployment (25th Nov) and asked the team if they were still on track on the deadline, and the team hopes to meet the deadline, tho AJ suggested for an extra week, we also spoke on the hosting charges for heroku and he is going to disburse the funds to Advance"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "ASI summit: Vasu gave updates on the event and highlighted his communication with influential figures.",
+      "supabase": "ASI summit: Vasu gave updates on the event and highlighted his communication with influential figures"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy gave an update on the call he had with Guillermo on the governance dashboard where we looked at some features for the tool, like a space in the dashboard for constructive criticism and also how to extract this data.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy gave an update on the call he had with Guillermo on the governance dashboard where we looked at some features for the tool, like a space in the dashboard for constructive criticism and also how to extract this data"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Q1 Budget and Tier system: members gave their views on the tier system and the guild's allocation. We noted the previous challenges faced within the guild in terms of compensation for project work and took a vote for more funds.",
+      "supabase": "Q1 Budget and Tier system: members gave their views on the tier system and the guild's allocation noted the previous challenges faced within the guild in terms of compensation for project work and took a vote for more funds"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Q1 2025 budget, budget tiers, budget cap, governance dashboard",
+      "supabase": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, Welcoming, Thoughtful, Friendly, Collaborative, productive",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
