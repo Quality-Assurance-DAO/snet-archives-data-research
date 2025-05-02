@@ -1,0 +1,73 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-10-16",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, AshleyDawn, Clement Umoh, Eric Davies, esewilliams, Franklynstein, GorgaSiagian, hogantuso, kateri, Kenichi, Lex, lord kizzy, malik, martinsoki, osmium, Photogee, Slate, SubZero, Zalfred",
+      "supabase": "AndrewBen, AshleyDawn, Clement Umoh, Eric Davies, esewilliams, Franklynstein, GorgaSeagian, hogantuso, kateri, Kenichi, Lex, lord kizzy, malik, martinsoki, osmium, Photogee, Slate, SubZero, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: Updates from CCCP- Ai for Beginners Discussions-Wiki Website Updates- Webinar Series Updates- Updates from Kenichi regarding presentation series",
+      "supabase": "Updates from CCCP- Ai for Beginners Discussions-Wiki Website Updates- Webinar Series Updates- Updates from Kenichi regarding presentation series "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate gave some updates from the certification program: multiple core contributors are taking part in the certification program and many have already started. He also mentioned that Onize was able to complete most of the classroom and she has progressed to the classroom#15 but unfortunately she wasnt able to progress any further than that.",
+      "supabase": "Then after the introduction part , Slate gave some updates from the certification program that multiple core contributors are taking part in the certification program and many have already started"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ese gave updates on the outreach of the certification program: socials have already posted about it, and regular updates will also be given through ambassador general Discord channel.",
+      "supabase": "He also mentioned that onize was able to complete most of the classroom and she has progressed to the classroom#15 but unfortunately she wasnt able to progress any further than that"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Several video creators were selected for Ai for Beginners and assigned the modules. There was also a need for a scriptwriter, but since there were too many people in the meeting it will be selected asynchrounously.",
+      "supabase": "AFter wards ese gave updates regarding the outreach of the certification program that socials have already posted about the certification program and regular updates will also be given through ambassador general channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Franklyn and Gorga gave updates from the Wiki website creation: they will be presenting it in the upcoming meetings.",
+      "supabase": "Then from Ai for beginners multiple video creators were selected and assigned the modules , there was also a need for the script writer but since there were too many people in the meeting it will be selected asynchrounously"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Osmium still needs some time to progress with the webinar series, and had no updates.",
+      "supabase": "AFter wards franklyn and Gorga gave updates from the website creation and that they would be presenting it in the upcoming meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Kenichi is already working on the first module of the presentation series, and will be using that as a reference for the rest of the presentations. The project will start in Q1 of 2025.",
+      "supabase": "Osmium still needs some time to process with the webinar series and had no updates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "The meeting wrapped up with good participation count.",
+      "supabase": "Kenichi pointed out that he is already working on the first module of the presentation series and will be using that as a reference for the rest of the presentations, and that project will start from the Q1 of 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "The meeting wrapped up with good participation count"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "CCCP, core contributors, announcement, publicity, outreach, social media, Discord, Ai for Beginners, video, video creators, scriptwriter, Wiki, presentation series, project updates",
+      "supabase": "CCCP, announcement, project updates"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
