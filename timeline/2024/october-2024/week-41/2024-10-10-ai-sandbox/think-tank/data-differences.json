@@ -1,0 +1,49 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-10-10",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Apple, AshleyDawn, Ayo, Boaz, CallyFromAuron, Clement Umoh, Effiom, Gorga Siagian, guillermolucero, Hogantuso, Kareem, Kateri, LadyTempestt, lord kizzy, Malik., Onize, osmium, PeterE, Slate, SubZero, Valola, Yemi Solves",
+      "supabase": "Advanceameyaw, Apple, AshleyDawn, Ayo, Boaz, Clement Umoh, Effiom, Gorga Siagian, Guillermo, Hogantuso, Kareem, Kateri, LadyTempestt, lord kizzy, Malik., Onize, osmium, Peter, Slate, SubZero, Valola, Vanessa, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Welcoming and Introduction of new members: members were welcomed into the call and we were able to gather some suggestions from some of the members, such as: education on MeTTa, use of knowledge graphs, and so on.",
+      "supabase": "Welcoming and Introduction of new members: members were welcomed into the call and we were able to gather some suggestions from some of the members like; education on Metta, use of knowledge graphs and so on."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "EXPLANATION OF THE BLUEPRINT FOR AI SANDBOX/THINK TANK: Vasu went through the blueprint in detail. Here is the blueprint: https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing.",
+      "supabase": "EXPLANATION OF THE BLUEPRINT FOR AI SANDBOX/THINK TANK: Vasu went through the blueprint in details. Here is the documentation of the blueprint: https://docs.google.com/document/d/1U_gCzRj4bhcjcNB5uaZt--yVPeNJsadFNknIsl16bLI/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Q&A Session: there were some questions from members, including \"the schedule of our calls\"- Lordkizzy answered that we are going to have the sessions alternately, so AI Sandbox one week, then Think Tank the next week. there was another question on the similarities between AI sandbox/think tank and the R&D guild; lordkizzy explained the difference between them.",
+      "supabase": "Q&A Session: there were some questions from the members like \"the schedule of Our calls\"- Lordkizzy answered that we are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week. there was another question towards the similarities between AI sandbox/think tank and the R&D guild, lordkizzy was able to distinguish between both WGs."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The sessions will alternate: AI sandbox one week, then Think Tank the next week.",
+      "supabase": "we are going to have the sessions simultaneously, so AI sandbox a week, then Think Tank the next week."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Experimentation, Exhibitions, Knowledge Graphs, MeTTa, Brain Fog, meeting schedule, Zoom permissions, Zoom,",
+      "supabase": " Experimentation, Exhibitions, Knowledge Graphs, Brain Fog"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Collaborative, speedy, progressive, Welcoming",
+      "supabase": "Friendly, Collaborative, speedy , The meeting was quick and progressive, Welcoming"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
