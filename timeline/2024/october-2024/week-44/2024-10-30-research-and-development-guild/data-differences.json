@@ -1,0 +1,89 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-10-30",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, AshleyDawn, Clement Umoh, CollyPride, guillermolucero, LordKizzy, osmium, SubZero",
+      "supabase": "Advanceameyaw, AJ, AshleyDawn, Clement Umoh, CollyPride, Guillermo, lord kizzy, osmium, SubZero"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Review of last meeting's Action Items",
+      "supabase": "Review of last meeting summary Action Items"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting's Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: going forward updates on development will be given monthly rather than weekly.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: going forward updates on development will be given monthly rather than weekly"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: Guillermo shared the survey form for members (https://forms.gle/y6FiaCLQzJKpTeDF7), he also shared some documents for members to add their inputs (https://docs.google.com/document/d/1iyTYXeXyzc-jMOKxggCMQJbtCR1uHH9FInS6CTCwDNU/edit?usp=sharing, https://docs.google.com/document/d/17n3zU9ZBwgPiw1f8ExaPgh7Ma9-H00QNz-oUgE5QNdQ/edit?usp=sharing).",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo share the survey form for members (https://forms.gle/y6FiaCLQzJKpTeDF7), he also shared some documents for members to add their inputs (https://docs.google.com/document/d/1iyTYXeXyzc-jMOKxggCMQJbtCR1uHH9FInS6CTCwDNU/edit?usp=sharing, https://docs.google.com/document/d/17n3zU9ZBwgPiw1f8ExaPgh7Ma9-H00QNz-oUgE5QNdQ/edit?usp=sharing)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system.",
+      "supabase": "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Fetch AI/SOLANA COPA AMERICA: guillermo explained about the Fetch AI/SOLANA COPA AMERICA and its applications with AI agents, he also gave a presentation.",
+      "supabase": "Fetch AI/SOLANA COPA AMERICA: guillermo explained of the Fetch AI/SOLANA COPA AMERICA and its applications with AI agents, he also gave a presentation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Ambassador program's Content calendar: Subzero informed the group that they will be needing two participants from the R&D GUILD to have edit access on the content calendar, the names will be sent out to subzero after the call.",
+      "supabase": "Ambassador program's Content calendar: Subzero informed the group that they will be needing two participants from the R&D GUILD to have edit access on the content calendar, the names will be sent out to subzero after the call"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Clement to give the guild's monthly townhall update",
+      "supabase": "Clement to give the guild monthly townhall"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, survey, Hackathon, Fetch, Solana, Copa America, content calendar, Marketing Guild, onboarding WG, Collaboration Skills Database",
+      "supabase": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
