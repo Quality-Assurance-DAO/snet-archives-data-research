@@ -1,0 +1,28 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-10-25",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The task manager will reach out to LilyCupcake not to create an ecosystem short but can come up with something else. - Lord Kizzy suggested that we decide in the meeting to appoint two members as representatives for the workgroup.",
+      "supabase": "The task manager will reach out to LilyCupcake not to create an ecosystem short but can come up with something else."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
