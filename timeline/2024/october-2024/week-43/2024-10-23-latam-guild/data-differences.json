@@ -1,0 +1,61 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-10-23",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "SergioBenaR",
+      "supabase": "Sergio"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "guillermolucero, Martin Rivero, SergioBenaR",
+      "supabase": "Guillermo, Martin Rivero, Sergio"
+    },
+    {
+      "field": "meetingInfo.meetingVideoLink",
+      "supabase": "https://app.read.ai/analytics/meetings/01JAXQAJCE7894CMJKWH59Y9QT?utm_source=Share_Nav "
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Martín and Sergio will be in charge of the second X space of SNET_LatAm, entitled \"ecosystem update and news\", which will take place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting.",
+      "supabase": "Martín and Sergio will be in charge of the second X space of SNET_LatAm entitled \"ecosystem update and news\", which will take place on Thursday, October 24, according to the program for Q4. They met to establish each point to be developed, the duration, the topics, the order and the assignment, which was presented during this meeting."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "The X-Space will begin with an opening and presentation by Guillermo. Then, Martín will comment on the first news item, Sergio will give the second, and so on",
+      "supabase": "The X Space will begin with an opening and presentation by Guillermo. Then, Martín will comment on the first news item, Sergio will give the second, and so on"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "content calendar, X spaces",
+      "supabase": "content calendar, X spaces, Meeting Summaries"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Strategic, Task-focused, teamwork",
+      "supabase": "Collaborative, Strategic, Task-focused"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Team Work"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
