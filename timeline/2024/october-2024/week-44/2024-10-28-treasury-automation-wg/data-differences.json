@@ -1,0 +1,132 @@
+{
+  "workgroup": "Treasury Automation WG",
+  "meetingDate": "2024-10-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "28.10.2024 Development Updates video: https://www.youtube.com/watch?v=0k4TPL6VcwA.",
+      "supabase": "28.10.2024 Development Updates video: https://www.youtube.com/watch?v=0k4TPL6VcwA"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "The completion of main functionalities with ongoing testing for the JSON generator.",
+      "supabase": "The completion of main functionalities with ongoing testing for the JSON generator"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "We finalized the process map for data movement directions.",
+      "supabase": "We finalized the process map for data movement directions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "We addressed issues regarding format consistency, fixed quarterly totals, and JSON generator fee date bug.",
+      "supabase": "We addressed issues regarding format consistency, fixed quarterly totals, and JSON generator fee date bug"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Features that were not implemented but were addressed differently.",
+      "supabase": "Features that were not implemented but were addressed differently"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Plan for a complete overhaul, including a database update for enhanced functionality.",
+      "supabase": "Plan for a complete overhaul, including a database update for enhanced functionality"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Creation of a filtering option to handle over-budget tracking which caused new bugs requiring fixes.",
+      "supabase": "Creation of a filtering option to handle over-budget tracking which caused new bugs requiring fixes"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Improved role configurations, the manage files panel UX, and updates done on the Participation Rewarding sheet.",
+      "supabase": "Improved role configurations, the manage files panel UX, and updates done on the Participation Rewarding sheet"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Simplification of task/group reward assignments and addition of a new column for recognition status.",
+      "supabase": "Simplification of task/group reward assignments and addition of a new column for recognition status"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Overview of Backlog Updates like bundle transaction fitting.",
+      "supabase": "Overview of Backlog Updates like bundle transaction fitting"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Using API for Zoom mass import participants.",
+      "supabase": "Using API for Zoom mass import participants"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Quarter 3 Proposal: https://docs.google.com/document/d/1JuUjsLn6gXH4iHE9w3sv_pJnwzA4uWiHk8Q9ladP-qg/edit?tab=t.0#heading=h.cy5465ix7fj6.",
+      "supabase": "Quarter 3 Proposal: https://docs.google.com/document/d/1JuUjsLn6gXH4iHE9w3sv_pJnwzA4uWiHk8Q9ladP-qg/edit?tab=t.0#heading=h.cy5465ix7fj6"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Estimated development time resource for backend.",
+      "supabase": "Estimated development time resource for backend"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Estimated development time resource for Excel.",
+      "supabase": "Estimated development time resource for Excel"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Documentation went 1 hour over the estimated time.",
+      "supabase": "Documentation went 1 hour over the estimated time"
+    },
+    {
+      "field": "agendaItems[2].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Q4 Deliverables that are being carried over due to resource constraints.",
+      "supabase": "Q4 Deliverables that are being carried over due to resource constraints"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Adjustments to the Q4 budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843.",
+      "supabase": "Adjustments to the Q4 budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Established a new metadata standard with the potential for future adjustments based on overhauls and testing outcomes.",
+      "supabase": "Established a new metadata standard with the potential for future adjustments based on overhauls and testing outcomes"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[3]",
+      "gitbook": "Update done to include meeting duration into reward calculation for Contribution vs. participation tooling.",
+      "supabase": "Update done to include meeting duration into reward calculation for Contribution vs. participation tooling"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[4]",
+      "gitbook": "Overview of Zoom import manager Q4 tasks.",
+      "supabase": "Overview of Zoom import manager Q4 tasks"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Meeting Summary for the 28.10.2024 session.",
+      "supabase": "Meeting Summary for the 28.10.2024 session"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[2]",
+      "gitbook": "Looking ahead into Q1 2025.",
+      "supabase": "Looking ahead into Q1 2025"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
