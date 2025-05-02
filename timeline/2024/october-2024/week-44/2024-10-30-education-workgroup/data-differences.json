@@ -1,0 +1,14 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-10-30",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
