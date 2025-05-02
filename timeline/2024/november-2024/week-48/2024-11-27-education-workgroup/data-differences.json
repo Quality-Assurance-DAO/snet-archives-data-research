@@ -1,0 +1,28 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-11-27",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Then Gorga showed the design for the education website main page, which was a in a mock format showed like windows floating in the design for the education projects. There was a suggestion to add the ambassador program guilds and wgs as well.",
+      "supabase": "Then Gorga showed the design for the education website main page, which was a in a mock format showed like windows floating in the design for the education projects. There was a suggestion to add the ambassador program guilds and wgs as well"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
