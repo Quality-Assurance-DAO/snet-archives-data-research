@@ -1,0 +1,43 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-12-06",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, devon, hogantuso, killy, LordKizzy, malik, osmium, Rojo, Slate, SubZero, Zalfred",
+      "supabase": "AndrewBen, devon, hogantuso, killy, lord kizzy, malik, osmium, Rojo, Slate, SubZero, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the Video WorkGroup. The meeting focused on weekly updates and tasks distribution.",
+      "supabase": "The meeting focused on weekly updates and tasks distribution"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "UPDATE FROM THE TASK MANAGER A quick update from Tuso on various tasks assigned within the week.",
+      "supabase": "UPADTE FROM THE TASK MANAGER A quick update from tuso on various tasks assigned within the week."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE FROM THE SOCIAL MEDIA MANAGER adding that he will be off for a few weeks. Offering a special training for qualified and interested persons who'd like to take up the task.",
+      "supabase": "Update from the Social Media manager adding that he'd be off for a few weeks. Offering a special training for qualified and interested persons who'd like to take up the task."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Concerning the need for a temporary social media manager, Andrew Ben emerged as one who'd take up the task.",
+      "supabase": "Concerning the need for a momentary social media manager, Andrew Ben emerged as one who'd take up the task."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
