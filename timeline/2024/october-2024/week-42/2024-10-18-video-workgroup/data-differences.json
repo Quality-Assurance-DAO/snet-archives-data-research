@@ -1,0 +1,34 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-10-18",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular weekly meeting of the Video WG. This meeting focused on task updates, automation tool, and budget cuts.",
+      "supabase": "The meeting focused on task updates, automation tool, and budget cuts."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Zalfred provided updates on the task manager role: informing the house that there was not much work done as the role was given three days ago and had engaged in an operational call as the essence is to help the new review members get acquainted with a smooth process as a team, emphasizing communication between the task manager the review team and the video editors; and as he is picking up from where the previous task manager stopped.",
+      "supabase": "Zalfred provided updates on the task manager role: informing the house that there was not much work done as the role was given three days ago and had engaged in an operational call as the essence is to help the new review the members get acquainted with a smooth process as a team, emphasizing on communication between the task manager the review team and the video editors. and as he is picking up from where the previous task manager stopped form."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Lord Kizzy shared the screen and gave a breakdown explanation of the content calendar for the entire ambassador program, sharing the goals and guidelines to get submissions from other guilds and workgroups, making sure they align with the guidelines before being posted or scheduled. We are yet to get information/schedules to complete the calendar from other workgroups. Kizzy did make mention of the weekly recaps on articles and videos going out at the end of every week and looking at opening a channel, having two representatives from each workgroup to track submissions from the workgroup knowing the current status of the workgroup post. having the workgroup social media marketers from the video, writers, and marketing workgroup present giving their ideas and coming up with this information. Kizzy also gave an update informing the workgroup on the animation team for the month and how we will go about the subscription process.",
+      "supabase": "Lord Kizzy shared the screen and gave a breakdown explanation of the content calendar for the entire ambassador program, sharing the goals and guidelines to get submissions from other guilds and workgroups. Making sure they align with the guidelines before being posted or scheduled. and were yet to get information/schedules to complete the calendar from other workgroups. Kizzy did make mention of the weekly recaps on articles and videos going out at the end of every week and looking at opening a channel, having two representatives from each workgroup to track submissions from the workgroup knowing the current status of the workgroup post. having the work group social media marketers from the video, writer, and marketing workgroup present giving their ideas coming up with this information Kizzy also gave an update informing the workgroup on the animation team for the month and we'd go about the subscription process."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, participation, Collaboration, pool, animation, content calendar, writers WG, marketing guild",
+      "supabase": "social media management, participation, Collaboration, pool"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
