@@ -1,0 +1,64 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-11-20",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, AndrewBen, AshleyDawn, CollyPride, LordKizzy, Zalfred",
+      "supabase": "advanceameyaw, AJ, AndrewBen, AshleyDawn, CollyPride, lord kizzy, Zalfred"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in Bangkok and he shared the full folder on the METTA libary: https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once and perform the integration and testing, so lordkizzy noted he was going to host the session within the week, lordkizzy also asked the team if they were still on track on the deadline (25 NOV), and the team hopes to meet the deadline, the team suggested an extension of the deadline to 27th Nov, AJ also noted that he had updated the frontend using React and made some design changes based on an idea proposed by Rojo, which he will share that in our next meeting and is also waiting for the meeting with the onboarding group before finalizing the design and authentication. He also apologized for the delay due to network issues.",
+      "supabase": "Follow up on the CSDB: Advance spoke on the progress so far on the hosting and suggested having the call with the onboarding workgroup early, to round up the changes at once and perform the integration and testing, so lordkizzy noted he was going to host the session within the week, lordkizzy also asked the team if they were still on track on the deadline (25 NOV), and the team hopes to meet the deadline, the TEAM suggested for an extension of the deadline to 27th Nov, AJ also noted that he had updated the frontend using React and made some design changes based on an idea proposed by Rojo, which he will share that in our next meeting and is also waiting for the meeting with the onboarding group before finalizing the design and authentication. he also apologized for the delay due to network issues"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Feedback from the Strategy workshop: Advance gave the updates highlighting the key goals of the workshops and lord Kizzy suggested that members could turn up and participate.",
+      "supabase": "Feed back from the strategy workshop: Advance gave the updates highlighting the key goals of the workshops and lord Kizzy suggested that members could turn up and participate"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, Collaboration Skills Database, Onboarding WG, Strategy Guild",
+      "supabase": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, busy",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
