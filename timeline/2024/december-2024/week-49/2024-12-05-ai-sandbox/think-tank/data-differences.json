@@ -1,0 +1,19 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-12-05",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "martinsoki, Kateri",
+      "supabase": "martinsoki"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
