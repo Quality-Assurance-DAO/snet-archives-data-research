@@ -1,0 +1,87 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-10-09",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Billy, Clement Umoh, Effiom, esewilliams, GorgaSiagian, kateri, lord kizzy, malik, martinsoki, osmium, Zalfred",
+      "supabase": "AshleyDawn, Billy, Clement Umoh, Effiom, esewilliams, GorgaSeagian, kateri, lord kizzy, malik, martinsoki, osmium, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: Ai for Beginners Discussions - Ai for Beginners Complete Video for Module 1 - Certification Program Start Date/Demonstration - Webinar Series Discussion - Wiki Website Update",
+      "supabase": "Ai for Beginners Discussions -Ai for Beginners Complete Video for Module 1- Certification Program Start Date/Demonstration - Webinar Series Discussion - Wiki Website Update "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate asked for confirmation regarding the Ai for Beginners Video - it was supposed to be a demo video but then was shifted to being a course original video. Osmium clarified stuff and showcased the module 1 video, which got approved.",
+      "supabase": "Then slate asked for confirmation regarding the Ai for Beginners Video , that it was supposed to be a demo video but then it was shifted to being a course original video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate asked that proper documentation should be published for the Ai For Beginners team structure and the procedure should be properly documented.",
+      "supabase": "Then osmium clarified stuff and showcased the module 1 video which got approved"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate showcased the certification program dashboard. We will launch it on Friday and the certification program channel will be opened to core contributors.",
+      "supabase": "Then Slate also asked that proper documentation should be published for the Ai For Beginners team structure and the procedure should be properly documenteed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Kizzy had multiple questions regarding this, which were clarified by Slate.",
+      "supabase": "Then Slate showcased certification program dashboard and told that we are going to be launching it on Friday and the certification program channel will be opened to core contributors"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Webinar series project: talks with Governance WG are ongoing and soon osmium will provide the initial document regarding it to which process to follow upon it.",
+      "supabase": "Kizzy had multiple questions regarding this and was clarified by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Ese notified that we should start the marketing for the certification program and green light was given to this. Slate suggested the publicity could be done through a flyer; Malik expressed interest in making one, and was given the task.",
+      "supabase": "Then discussion shifted towards the Webinar series project in which it was discussed that talks with governance workgroup are ongoing and soon osmium is going to be providing the initial document regarding it to which process to follow upon it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Gorga said he will soon provide the initial Wiki website design to the group, probably by next week.",
+      "supabase": "Ese notified that we should start the marketing for the certification program and green signal was given to it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "Slate also mentioned that if the publicity would be done through a flyer that be great on which malik showcased interest and was given the task for it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "supabase": "Gorga mentioned that he is soon going to be providing the initial wiki website design to the group , most probably by next week"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Start the certification program on Friday 11th Oct",
+      "supabase": "Start the certification program on friday"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "11 October 2024",
+      "supabase": "12 October 2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Presentation, CCCP, dashboard, ideation, Reward automation, CCCP launch, publicity, flyer, Wiki, webinar series, Ai for Beginners, Video WG, Governance WG",
+      "supabase": "Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation, CCCP launch"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
