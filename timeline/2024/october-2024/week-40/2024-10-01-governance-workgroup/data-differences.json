@@ -1,0 +1,34 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-10-01",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Completion of budget approval process for GitHub PBL WG and LatAm Guild.",
+      "supabase": "Completion of budget approval process for GitHub PBL WG and LatAm Guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussion on objections and the consent process.",
+      "supabase": "Discussion on objections and the consent process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Finalizing on the Task list for Governance WG in Q3.",
+      "supabase": "Finalizing on the Task list for Governance WG in Q3"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Planning for a retrospective on the entire Consent process over several Quarters.",
+      "supabase": "Planning for a retrospective on the entire Consent process over several Quarters"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
