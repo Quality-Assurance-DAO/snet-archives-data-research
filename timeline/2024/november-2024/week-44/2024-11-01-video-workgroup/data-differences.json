@@ -1,0 +1,73 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-11-01",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, devon, hogantuso, lilycupcake, LordKizzy, malik, Rojo, Slate, SubZero, Zalfred",
+      "supabase": "AndrewBen, devon, hogantuso, lilycupcake, lord kizzy, malik, Rojo, Slate, SubZero, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the Video WorkGroup. The meeting focused on task updates and problems affecting the workgroup.",
+      "supabase": "The meeting focused on task updates and problems affecting the workgroup."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "A brief mention from Zalfred, as he will be facilitating the session also mentioned that the Vrewiev team approved two long videos, and three long videos are still in the review process.",
+      "supabase": "A brief mention from Zalfred, as he will be facilitating the session also mentioned the Vrewiev team approved two long videos and three long videos as still in the review process and lord kizzy to"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Rojo gave insight into the social media management role, going through the usual posts from the Town Halls and some shorts. He mentioned working on the mixpost platform to allow short clips to be posted. There was a problem with the TikTok posting, as it would be done manually from this device.",
+      "supabase": "Rojo gave insight into the social media management role, going through the usual posts from the town halls and some shorts. He mentions working on the mixed platform to allow short clips to be posted. There was a problem with the TikTok posting, as it would be done manually from this device."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Interaction discussions were made on the Abuon tus video and looking forward to updating the video document in the position, caption, main visual, and arrangement of shorts for a better clip.",
+      "supabase": "Interaction discussions were made on the Abuon tus video and looking forward to updating the video document in the position, caption, main visual, and arrangement of shorts for a better clip"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "LordKizzy gave an update regarding the animation video for those who'd work on the animations for this month as we will be going for more shorts this month. We are looking into the engagements in these videos to come up with new plans and monthly plans on the subscription creating a mail for the five-man members making the editing. People should reach out to LordKizzy privately if they need access to the platform as it's a sensitive piece of information for non-members.",
+      "supabase": "Lord Kizzy gave an update regarding the amination video for those who'd work on the animation for this month as we'd be going for more shorts this month. looking into the engagements in these videos to come up with new plans and monthly plans on the subscription creating a mail for the five-man members making the editing and reaching out to him privately if you need access to the platform as it's a sensitive piece of information for non-members."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "There were deliberations on the biweekly video from Lilycupcake who has raised issues about the review process, hearing her point of view and coming to an understanding in keeping up with the good work.",
+      "supabase": "There were deliberations on the Bie weekly video from Lilcupcake hearing her point of view and coming to an understanding in keeping up with the good work"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "To decrease the number of long and increase the number of short videos as we are running to a tight budget.",
+      "supabase": "To decrease the number of long and increase the number of shorts videos as we are running through a tight budget."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Zalfred to move approved video to content sheet after the call",
+      "supabase": "move approved video to content sheet after the call"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Rojo to come up with the new document for the video workgroup updates on the clips \"HOW TO GO ABOUT IT\"",
+      "supabase": "coming up with the new document for the video workgroup updates on the clips \"HOW TO GO ABOUT IT\""
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Partnership, budget, Q1 2025 budget, long videos, short videos, video review process, animation, engagement, social media, Town Hall videos, MixPost, TikTok, video editing",
+      "supabase": "Partnership, Budget , Proposal"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
