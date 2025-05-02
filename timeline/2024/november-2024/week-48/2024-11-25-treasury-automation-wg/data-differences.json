@@ -1,0 +1,54 @@
+{
+  "workgroup": "Treasury Automation WG",
+  "meetingDate": "2024-11-25",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "End to End testing of JSON Generator is tested and implemented.",
+      "supabase": "End to End testing of JSON Generator is tested and implemented"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "A lot of bug fixing in Treasury Manager is caused by filtering changes.",
+      "supabase": "A lot of bug fixing in Treasury Manager is caused by filtering changes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Update Video: https://youtu.be/LjhQkgkk8UM.",
+      "supabase": "Update Video: https://youtu.be/LjhQkgkk8UM"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Zoom API layer created by Andre to request relevant participation info trough treasury system.",
+      "supabase": "Zoom API layer created by Andre to request relevant participation info trough treasury system"
+    },
+    {
+      "field": "agendaItems[1].agenda",
+      "gitbook": "Quarter 4 2024 Report",
+      "supabase": "Quarter 4 Report"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "We shared Quarter 4 2024 report https://docs.google.com/document/d/1hx1Bjzucisv7rQDg16xx75Kueeu_uYoO44nnWxcg4GM.",
+      "supabase": "We shared Quarter 4 report https://docs.google.com/document/d/1hx1Bjzucisv7rQDg16xx75Kueeu_uYoO44nnWxcg4GM"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "We updated the Q1 2025 proposal budget https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843.",
+      "supabase": "We updated Q1 2025 Proposal Budget https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/edit?gid=1852063843#gid=1852063843"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "We shared the Q1 2025 proposal https://docs.google.com/document/d/13nenax4GhArFaISTrDq1zGmO6ClwphhNQl2c7pp-cSU.",
+      "supabase": "We Shared Q1 2025 Proposal https://docs.google.com/document/d/13nenax4GhArFaISTrDq1zGmO6ClwphhNQl2c7pp-cSU"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
