@@ -1,0 +1,52 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-11-06",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "CCCP (Core Contributors Certification Program",
+      "supabase": "  CCCP (Core Contributors Certification Program)\n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then after the introduction, we started having updates from different projects. Following are their discussions:.",
+      "supabase": "Then after the introduction, we started having updates from different projects. Following are their discussions:"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ai For Beginners Points to Note: 3 of the scripts are ready, sent to osmium for review and waiting for his approval before presentation to the group.",
+      "supabase": "Ai For Beginners Points to Note: 3 of the scripts are ready, sent to osmium for review and waiting for his approval before presentation to the group"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Education Guild Website Wiki / CCCP Integration Points to Note:.",
+      "supabase": "Education Guild Website Wiki / CCCP Integration Points to Note: - Franklyn presented the design for the wiki website - There were a couple of suggestions regarding the design for the wiki website which included the following: Suggestion : Update the data Suggestion : Put education guild main stuff Suggestion : Gather the main data for sNET in a single page distributing them in products and technology Update the founding members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Franklyn presented the design for the wiki website.",
+      "supabase": "Osmium will be flying to the forthcoming event in Bangkok and will be networking with others there"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "There were a couple of suggestions regarding the design for the wiki website which included the following: Suggestion : Update the data Suggestion : Put education guild main stuff Suggestion : Gather the main data for sNET in a single page distributing them in products and technology Update the founding members."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Osmium will be flying to the forthcoming event in Bangkok and will be networking with others there."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
