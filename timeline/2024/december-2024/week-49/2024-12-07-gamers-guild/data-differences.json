@@ -1,0 +1,72 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-12-07",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Gorga Siagian, hogantuso, Kateri, LordKizzy, Malik, martinsoki, merryman007, rebel, SubZero",
+      "supabase": "AshleyDawn, Gorga Siagian, hogantuso, Kateri, lord kizzy, malik, martinsoki, merryman007, rebel, SubZero"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular biweekly meeting of Gamers' Guild. The purpose of this meeting was to present progress on Workgroup building creation, discuss potential expansions and integrations with other gaming platforms, and outline the upcoming roadmap and next quarter’s initiatives.",
+      "supabase": "The purpose of the meeting was to present progress on Workgroup building creation. discuss potential expansions and integrations with other gaming platforms and outline the upcoming roadmap and next quarter’s initiatives."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Rebel showcased new animations in the Dework PBL building, notably adding a teaching NPC who uses objects (e.g. a pointing stick) to instruct newcomers visually. Rebel expressed concern about his partner’s delayed contributions. Slate agreed to address the partner’s inactivity, reassuring Rebel that either the partner will meet deadlines or Rebel will receive fair compensation for taking on additional responsibilities.",
+      "supabase": "Rebel showcased new animations in the Dework PBL building, notably adding a teaching NPC who uses objects (e.g., a pointing stick) to instruct newcomers visually.Rebel expressed concern about his partner’s delayed contributions. Slate agreed to address the partner’s inactivity, reassuring Rebel that either the partner will meet deadlines or Rebel will receive fair compensation for taking on additional responsibilities."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Looking ahead, Slate outlined the next steps: selecting two additional map creators to join Gorga and Kateri for creating the water area. Gamers will also refine existing building models, adding interactive functionalities to enhance realism, and possibly developing areas for newer workgroups like Latam and African Guilds. With AGIX value higher than anticipated, Gamers' Guild can leverage the extra funds to accelerate development, broaden project scopes, and support more ambitious tasks within the Roblox environment and beyond.",
+      "supabase": "Looking ahead, Slate outlined the next steps: selecting two additional map creators to join Gorga and Kateri, for creating the water area. Gamers will also refine existing building models, adding interactive functionalities to enhance realism, and possibly developing areas for new workgroups like Latam and Regional Guilds. With AGIX value higher than anticipated, the guild can leverage the extra funds to accelerate development, broaden project scopes, and support more ambitious tasks within the Roblox environment and beyond."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Lord kizzy and Devon updated that they will start working on the Writers' Workgroup building creation.",
+      "supabase": "Lord kizzy and Devon updated that they will start working on the writer workgroup building creation"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "martinsoki, scarecrow",
+      "supabase": "martinsoki, scare-crow"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "LordKizzy, devon",
+      "supabase": "lord kizzy, devon"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, Map creation,  #WorkgroupPresentations, Elowyn Game, roadmap, Q1 2025 budget, animation, task reassignment, incomplete tasks",
+      "supabase": "Roblox, metaverse, department Creation, work updates, Map creation,  #WorkgroupPresentations, ElowynGame, roadmap"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Collaborative, informative, Building, contributive, forward-planning",
+      "supabase": "Friendly, Collaborative, informative, Building, contributive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
