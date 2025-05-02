@@ -1,0 +1,34 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-11-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "A brief mention from Zalfred, as he will be facilitating the session. He welcomed all members to the meeting and opened the floor for some information from lord Kizzy.",
+      "supabase": "A brief mention from Zalfred, as he will be facilitating the session also mentioned and welcomed all members to the meeting and opened the floor for some information from lord Kizzy."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Lord Kizzy advised all members to join in Governance meetings coming up with their contributions and wherever decisions are made, e.g. on budget process, to keep the workgroup in the active. After which we had the task assignments for the month.",
+      "supabase": "Lord Kizzy extensively advised all members to join in meetings coming up with their contributions to the governance meeting and wherever decisions are made to keep the workgroup in the active. After which we had the task assignment for the month."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Partnership, Budget, Task Assignment, Governance WorkGroup",
+      "supabase": "Partnership, Budget , Task Assignment"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, informative, Organised, Thoughtful, repetitive",
+      "supabase": "productive, informative, Organised, Thoughtful , repetitive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
