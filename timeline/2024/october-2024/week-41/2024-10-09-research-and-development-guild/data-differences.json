@@ -1,0 +1,69 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-10-09",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AshleyDawn, Billy, Clement Umoh, CollyPride, guillermolucero, lord kizzy, malik, Onize, osmium, Slate",
+      "supabase": "Advanceameyaw, AshleyDawn, Billy, Clement Umoh, CollyPride, Guillermo, lord kizzy, malik, Onize, osmium, Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database: AJ and Advanceameyaw have given the town hall presentation on deliverables.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database; AJ and ADVANCEAMEYAW have given the town hall presentation on deliverables"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Proposal voting results: Guillermo shared the voting results and 3 out of 4 proposals passed the voting quorum: Contributor's Portal Integrations, the legacy system V1.0, Consensus Dashboard for Quarterly Reports and Budgets. Here is the link to the results; https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit#slide=id.g2d3693e018d_0_591.",
+      "supabase": "Proposal voting results: Guillermo shared the voting results and 3 out of 4 proposals passed the voting quorum, Contributor's Portal Integrations, the legacy system V1.0, Consensus Dashboard for Quarterly Reports and Budgets. Here is the link to the results; https://docs.google.com/presentation/d/1M3o8dlh1pSB0PDaWM3sjlN2LQMaTjp8A_5DoXXXXIQE/edit#slide=id.g2d3693e018d_0_591"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussions on R&D New Operations System Retrospective: We had a retrospective session where members highlighted the benefits of the new operations system and areas for improvements. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing.",
+      "supabase": "Discussions on R&D New Operations System Retrospective: We had a retrospective session where members highlighted the benefits of the new operations system and areas for improvements. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Duke to give the presentation of the Ideation Project on Impact of Lingual Differences",
+      "supabase": "Duke give the presentation of the Ideation Project on Impact of Lingual Differences"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "8 October 2024",
+      "supabase": "1 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "kenichi to give a 3-minute presentation for the final deliverables on Legacy system at Townhall",
+      "supabase": "kenichi to give a 3 minutes presentation for the final deliverables on Legacy system in the Townhall"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Entity Connections, Retrospective, skills database, Q3 2024 report",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, Operations , Entity Connections, Retrospective"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
