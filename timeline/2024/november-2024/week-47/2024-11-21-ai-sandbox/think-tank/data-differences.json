@@ -1,0 +1,73 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-11-21",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Osmium showcased the presentation of the exhibition on Benevolent Artificial General Intelligence: he shared the link to the presentation https://www.canva.com/design/DAGXGJ5nA2c/WawaQ_Bj3VI21a85LzvHnQ/edit where he highlighted the.",
+      "supabase": "Osmium showcased the presentation of the exhibition on Benevolent Artificial General Intelligence: he shared the link to the presentation https://www.canva.com/design/DAGXGJ5nA2c/WawaQ_Bj3VI21a85LzvHnQ/edit where he highlighted the - a) Overview of the toolset - b) Purpose of the tool: To ensure AGI operates within moral and ethical frameworks that prioritize humanity's well-being - c) Demonstration of the detail topics were shown Topics - Ethical architecture for AGI; Moral Decision-Making Frameworks, Value Alignment Techniques and Dynamic Ethical Adaptation. - Self-Regulating AGI Systems; Artificial Immune Systems (AIS) for AGI, Meta-Cognitive Systems and Dynamic Safety Constraints. - Neuromorphic and Bio-Inspired Architectures; Neuro-Immune Integration, Cellular Automata for AGI and Fractal Intelligence. - AGI Cognitive Architectures; Recursive Self-Improvement (RSI), Unified Theory of Cognition and Attention Mechanisms for AGI. - Emotional and Social Intelligence in AGI; Social awareness AGI and *Simulating Emotional Dynamics* - Distributed AGI Systems; Swarm Intelligence in AGI, Federated Learning for AGI and Hierarchical AGI Ecosystems."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "a) Overview of the toolset.",
+      "supabase": "Questions: - What disaster will the tool cause? Natural disaster - How is AGI going to analyze global market trends without accessing the patients' personal records? The data set they used is different and it should be on the blockchain technology. Like smart contract, the data set will be encrypted."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "b) Purpose of the tool: To ensure AGI operates within moral and ethical frameworks that prioritize humanity's well-being.",
+      "supabase": "Workgroup Budget discussion: We requested an extra 2,419 AGIX but we were able to get 1,000 AGIX. Our plans for Q1 2025 are to have the sessions we didn't include in our current quarter. So far, our plan for Q1 is to have project showcase, two theoretical debates, team pieces to gather member insights on AI topics and others."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "c) Demonstration of the detail topics were shown Topics."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Ethical architecture for AGI; Moral Decision-Making Frameworks, Value Alignment Techniques and Dynamic Ethical Adaptation."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Self-Regulating AGI Systems; Artificial Immune Systems (AIS) for AGI, Meta-Cognitive Systems and Dynamic Safety Constraints."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Neuromorphic and Bio-Inspired Architectures; Neuro-Immune Integration, Cellular Automata for AGI and Fractal Intelligence."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "AGI Cognitive Architectures; Recursive Self-Improvement (RSI), Unified Theory of Cognition and Attention Mechanisms for AGI."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Emotional and Social Intelligence in AGI; Social awareness AGI and *Simulating Emotional Dynamics*."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Distributed AGI Systems; Swarm Intelligence in AGI, Federated Learning for AGI and Hierarchical AGI Ecosystems."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Questions:."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "What disaster will the tool cause? Natural disaster."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[13]",
+      "gitbook": "How is AGI going to analyze global market trends without accessing the patients' personal records? The data set they used is different and it should be on the blockchain technology. Like smart contract, the data set will be encrypted."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[14]",
+      "gitbook": "Workgroup Budget discussion: We requested an extra 2,419 AGIX but we were able to get 1,000 AGIX. Our plans for Q1 2025 are to have the sessions we didn't include in our current quarter. So far, our plan for Q1 is to have project showcase, two theoretical debates, team pieces to gather member insights on AI topics and others."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
