@@ -1,0 +1,59 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-12-06",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AshleyDawn, Eric Davies, esewilliams, Gorga Siagian, kareem, kateri, kenichi, LordKizzy, Merryman, Mikasa, SubZero",
+      "supabase": "advanceameyaw, Ashley, Eric Davies, esewilliams, Gorga Siagian, kareem, kateri, kenichi, lord kizzy, Merryman, Mikasa, SubZero"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 5,
+      "supabase": 6
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Marketing Guild Meeting Agenda Document",
+      "supabase": "Meeting Agenda"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "ROLES AND RESPONSIBILITIES FOR MARKETING GUILD",
+      "supabase": "Marketing guild meeting summary 22 Nov"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/document/d/1UyyJLWXeeRwy7vizfNu_kf1TsG7H7IW_3RgjAmNlRn4/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1IkD4UD3MUg4C_IdY5XSQBaTo88ULy0PhsRyeYPrq6-Y/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Kizzy and Photogee to have a call on the key roles that are important and the ones that we need to push going forward. Also to get the list of members that have not been performing, or review the performance and get the list of members so that we could discuss their fate in the marketing guild.",
+      "supabase": "Kizzy and Photogee to have a call on the key roles that are important and the ones that we need to push going forward. And also get the list of members that have not been performing or review the performance and get the list of members so that we could discuss their fate in the marketing guild."
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Kizzy to share the roles and responsibilities doc in the marketing guild Discord channel for inputs.",
+      "supabase": "Kizzy to share the roles and responsibility in the marketing guild for inputs."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Governance, Roles, task assignment, members, member performance, participation, low participation, Analytics team, outreach, technical tools, tooling, Notion, Tally, Airtable, Zapier,",
+      "supabase": "Governance, Roles, Task Assignment"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Thoughtful, Collaborative, analytical, informative",
+      "supabase": "Thoughtful , Collaborative , analytical, informative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
