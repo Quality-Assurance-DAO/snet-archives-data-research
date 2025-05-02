@@ -1,0 +1,19 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-10-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
