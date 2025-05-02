@@ -1,0 +1,78 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-11-29",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, devon, hogantuso, killy, LordKizzy, malik, oep, osmium, Rojo, Slate, SubZero, Zalfred",
+      "supabase": "AndrewBen, devon, hogantuso, killy, lord kizzy, malik, oep, osmium, Rojo, Slate, SubZero, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the Video WorkGroup. The purpose of this meeting was to discuss the activities of the video workgroup and possibly get an alternative social media automation tool; secondly, to resolve misunderstandings that transpired in the workgroup; and lastly, find solutions to the issue of uploading large files.",
+      "supabase": "The sole purpose of this meeting was to discuss the activities of the video work and possibly, get an alternative social media automation tool. Secondly, To resolve misunderstandings that transpired in the work group and lastly, find possible Solutions to the issue of uploading Large files."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Malik suggested that Zaps (part of Zapier) would be a great automation tool for scheduling and automatically posting out our Town Hall Video edits on time",
+      "supabase": "Milik suggested that zaps would be a great automation tool for scheduling and automatically posting out our Town Hall Video edits on time"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].opposing",
+      "gitbook": "Rojo added that there are quite a few limitations to Zaps (an automation tool) as the file size that the software can handle is limited.\n\nRojo suggested that the Town Hall video editors could edit and upload Town Hall videos as fast as possible, and on the question of large video sizes, he added that compressing these videos will help mitigate the problem. \nHe added that sometimes our Town Hall video sizes are as large as 5GB and so compressing these videos will be a great idea",
+      "supabase": "Rojo added that there are quite a few limitations to zaps ( an automation tool) as the software is limited by large file size . \n\nRojo suggested that the Town Hall video editors could edit and upload Town Hall videos as fast as possible and on the context of large video sizes, he added that compressing these videos will help  mitigate the issue of large video sizes. \nHe added that sometimes our Town Hall video sizes are estimated around 5GB and so, compressing these videos will be a great idea"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Concerns were raised about video quality, but Rojo reaffirmed that compressing these videos will not have any negative effect on the video quality.",
+      "supabase": "Concerns were raised about The video quality as Rojo reaffirmed that compressing these videos will not have any negative effect on the video quality."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "As the workgroup is quite aware that quality visual content is our top priority, Rojo added that compressing the background picture or templates of the Town Hall video before editing the zoom video into the template will solve this problem.",
+      "supabase": "As the work group is quite aware that quality visual content is our top priority, Rojo added that compressing the background picture or templates of the Town Hall video before editing the zoom video into the template will solve this problem."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Resolving the interpersonal dispute or misunderstanding that transpired in the workgroup's Discord the previous week.",
+      "supabase": "Resolving the dispute or misunderstanding that transpired in the work group the previous week."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "Those present at this meeting felt that it was simply a case of misunderstandings and misinformation between affected parties. However, one of the parties was not present today, so Rojo was assigned to reach out to them to try and resolve the underlying dispute.",
+      "supabase": "It was sensed that it was simply a case of slight misunderstandings and misinformation between affected parties. "
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Rojo to reach out to one of the affected parties to the recent dispute to try and resolve the underlying issues",
+      "supabase": "Rojo to reach out to one of the affected party to try and resolve the underling dispute"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Town Hall video editors to edit and upload these high priority videos on time in future",
+      "supabase": "Town Hall video Editors to edit and upload these high priority videos on time"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints",
+      "supabase": [
+        "Update from Tuso Our social Media Manager : Tuso gave a quick update on the various tasks He assigned to different members in the previous week covering some video submissions, etc.",
+        "Update from Rojo our Social media manager: Rojo gave a brief update on the activities on our Social media platforms stating that he posted out our regular videos . He also addressed the issues of a missing Town Hall video and lastly, he addressed the issue of late Town Hall Video submissions.",
+        "Alternative social media automation tool and possible Solutions to the issue of Large files",
+        "Resolving a misunderstanding or dispute that transpired in the work group"
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Town Hall videos, timeliness, video size, Zaps, social media automation, video quality, Discord dispute, conflict resolution,",
+      "supabase": "Town Hall Videos, video sizes, automated social media"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
