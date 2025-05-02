@@ -1,0 +1,64 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-11-06",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AJ, AndrewBen, AshleyDawn, guillermolucero, LordKizzy, osmium, SubZero",
+      "supabase": "AJ, AndrewBen, AshleyDawn, Guillermo, lord kizzy, osmium, SubZero"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 14,
+      "supabase": 13
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in Bangkok and he shared the full folder on the METTA libary: https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: lordkizzy and guillermo hosted an async call with the teams to discuss on the integration of the CSDB, the WEB3 dashboard and the reputation system, here is a summary of the session: https://docs.google.com/document/d/1fP196O1E_Yn_stlxJIc_BqSwj6oipwMCvptRVqVxPjw/edit?usp=sharing.",
+      "supabase": "Follow up on the CSDB: lordkizzy and guillermo hosted an async call with the teams to discuss on the integration of the CSDB, the WEB3 dashboard and the reputation system, here is a summary of the session:https://docs.google.com/document/d/1fP196O1E_Yn_stlxJIc_BqSwj6oipwMCvptRVqVxPjw/edit?usp=sharing"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, Collaboration Skills Database, Web3 dashboard, reputation, reputation system, integration,",
+      "supabase": "Tool Development, AI tooling, Deliverbles, Presentation, Documentation, Operations , Metta, Hakathon"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
