@@ -1,0 +1,74 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-11-01",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AshleyDawn, Ayo, Cjfrankie, Eric Davies, esewilliams, Kareem, Kenichi, LordKizzy, Malik, Mikasa, Olokoji, PeterE, photogee, Tevo, TheFreysDeFi",
+      "supabase": "Advanceameyaw, Ashley, Ayo, Cjfrankie, Eric Davies, Ese Williams, Kareem, Kenichi, kevin Frey, lord kizzy, malik, Malik., Mikasa, Olokoji, Peter, Photogee, Tevo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review and adoption of last meeting’s summary notes.",
+      "supabase": "Review and Adoption of Last Meeting’s Summary Notes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Collaboration suggestion: Tevo recommended that Photogee collaborate with the Knowledge Base workgroup, as they also gather useful links, which could enhance information sharing and reduce redundancy.",
+      "supabase": "Collaboration Suggestion: Tevo recommended that Photogee collaborate with the knowledge-based workgroup, as they also gather useful links, which could enhance information sharing and reduce redundancy."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Community initiative campaign results: Ese reported that the community initiative campaign has concluded, resulting in eight proposals. The review team will now evaluate these to decide whether to push them to the sNET Foundation or extend the campaign for additional input.",
+      "supabase": "Community Initiative Campaign Results: Ese reported that the community initiative campaign has concluded, resulting in eight proposals. The review team will now evaluate these to decide whether to push them to the foundation or extend the campaign for additional input."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Podcast initiative: Kenichi suggested drafting formal invites for the upcoming podcast episodes, with specific dates and potential hosts assigned to each session to improve planning and engagement.",
+      "supabase": "Podcast Initiative: Kenichi suggested drafting formal invites for upcoming podcast episodes, with specific dates and potential hosts assigned to each session to improve planning and engagement."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Discussion Item: Workgroup management and content scheduling Kizzy inquired about the workgroups Tevo manages, specifically those involved in uploading videos to YouTube. He asked if Tevo is coordinating with groups like Treasury and GitHub PBL, and if there are any additional workgroups that need to be informed. Additionally, Kizzy sought clarification on the scheduling timeline for these YouTube posts, aiming to understand the workflow and ensure content consistency across platforms.",
+      "supabase": "Discussion Item: Workgroup Management and Content Scheduling Kizzy inquired about the workgroups Tevo manages, specifically those involved in uploading videos to YouTube. He asked if Tevo is coordinating with groups like Treasury and GitHub, and if there are any additional workgroups that need to be informed. Additionally, Kizzy sought clarification on the scheduling timeline for these YouTube posts, aiming to understand the workflow and ensure content consistency across platforms."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Mascot Campaign update: Kareem reported that the mascot competition concluded on the 20th of last month, receiving a total of 16 submissions. He, along with Gorga and Malik, narrowed down the submissions to four finalists based on brand guidelines and the defined mascot characteristics.",
+      "supabase": "Mascot Campaign Update: Kareem reported that the mascot competition concluded on the 20th of last month, receiving a total of 16 submissions. He, along with Goga and Malik, narrowed down the submissions to four finalists based on brand guidelines and the defined mascot characteristics."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Design Workgroup Proposal presentation: Kareem presented the concept and objectives behind the design workgroup proposal, outlining how it aligns with the brand's goals and visual standards.",
+      "supabase": "Design Workgroup Proposal Presentation: Kareem presented the concept and objectives behind the design workgroup's proposal, outlining how it aligns with the brand's goals and visual standards."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "AGIX Reallocation Request for Translation WG: Tevo proposed reallocating around 500 AGIX from Marketing Guild’s budget to support the translators workgroup, as quarterly translation tasks had exceeded initial funding. This reallocation would ensure that translation needs are adequately met.",
+      "supabase": "AGIX Reallocation Request for Translations: Tevo proposed reallocating around 500 AGIX from the marketing guild’s budget to support the translators workgroup, as quarterly translation tasks had exceeded initial funding. This reallocation would ensure that translation needs are adequately met."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[14]",
+      "gitbook": "Marketing Guild's role in Governance Workgroup: Ayo proposed that Marketing Guild members should actively participate in Governance Workgroup, as marketing aligns closely with the ambassador program’s purpose. He also mentioned potential rewards for members who join governance calls, which could incentivize involvement.",
+      "supabase": "Marketing Guild's Role in Governance Workgroup: Ayo proposed that the Marketing Guild should actively participate in the Governance Workgroup, as marketing aligns closely with the ambassador program’s purpose. He also mentioned potential rewards for members who join governance calls, which could incentivize involvement."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Mikasa to ensure the schedule on the Ambassador Program's Google Calendar is consistently updated and matches the Zoom links, ensuring that any changes made to the calendar are reflected in the corresponding Zoom meeting details to avoid discrepancies.",
+      "supabase": "Mikasa to ensure the schedule on Google Calendar is consistently updated and match the Zoom links, ensuring that any changes made to the calendar are reflected in the corresponding Zoom meeting details to avoid discrepancies."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "podcasts, useful links, Community initiative campaign, podcasts, community engagement, Zealot, mascot, Translation WG, Google calendar, Olympus, collaboration, Governance WG, low participation, content calendar, Design workgroup proposal, content scheduling, timeliness",
+      "supabase": "podcasts, Town Hall update, Notion, community engagement"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
