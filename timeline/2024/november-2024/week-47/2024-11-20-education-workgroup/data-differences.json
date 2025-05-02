@@ -1,0 +1,51 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-11-20",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Upon the approval from everybody the budget proposal creation started; though the budget being less than what Education Guild usually uses, it was difficult to adjust with it.",
+      "supabase": "Upon the approval from everybody the budget proposal creation started; though the budget being less than what Education Guild usually uses, it was difficult to adjust with it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "For each of the current projects, opinion was taken on more funding is required for them or not.",
+      "supabase": "For each of the current projects, opinion was taken on more funding is required for them or not. - Ai For beginners: no funding required, all good - Website: Funding is required for hosting costs and integration - Webinar Series: Excluded due to no progress having been made in the current quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Ai For beginners: no funding required, all good.",
+      "supabase": "After implementing the budget proposal according to the feedback, the task of writing the Q4 2024 quarterly report was assigned."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Website: Funding is required for hosting costs and integration.",
+      "supabase": "At the end, we discussed the Presentation Series. We will be starting the presentation series project from Q1 2025, the budget discussion in regards to the presentation series project was delayed till next meeting and it will continue from there."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Webinar Series: Excluded due to no progress having been made in the current quarter."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "After implementing the budget proposal according to the feedback, the task of writing the Q4 2024 quarterly report was assigned."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "At the end, we discussed the Presentation Series. We will be starting the presentation series project from Q1 2025, the budget discussion in regards to the presentation series project was delayed till next meeting and it will continue from there."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
