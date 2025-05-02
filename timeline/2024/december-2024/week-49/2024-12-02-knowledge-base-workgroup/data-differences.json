@@ -1,0 +1,14 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-12-02",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
