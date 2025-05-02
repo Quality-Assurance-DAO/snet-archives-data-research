@@ -1,0 +1,19 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-11-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "4. Risk of over-reliance on AI: From the proposition team, Advanceameyaw stated that AI is a tool and not a replacement for human interactions. When you see an AI tool doing all the task, it is not there to eliminate our critical thinking. He said that AI is human knowledge accumulated in silicon or in an application for us to assess - we use AI to get the information that we need and then through our creative thinking we are able to work out that information and turn it to relevant data. From the opposition team, Gorga highlighted that over-reliance on AI is very risky. Clement added that there are studies that have demonstrated that AI is tampering with human creative thinking (for example, Zhai, C., Wibowo, S. & Li, L.D. \"The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review\" Smart Learn. Environ. 11, 28 (2024). https://doi.org/10.1186/s40561-024-00316-7). He concluded that yes, it is fine that we get information from AI but we also need to bring human input and that is where the problem lies because 'who is there to define where to draw the line?'.",
+      "supabase": "4. Risk of over-reliance on AI: From the proposition team, Advanceameyaw stated that AI is a tool and not a replacement for human interactions. When you see an AI tool doing all the task, it is not there to eliminate our critical thinking. He said that AI is human knowledge accumulated in silicon or in an application for us to assess - we use AI to get the information that we need and then through our creative thinking we are able to work out that information and turn it to relevant data. From the opposition team, Gorga highlighted that over-reliance on AI is very risky. Clement added that there are studies that have demonstrated that AI is tampering with human creative thinking (for example, Zhai, C., Wibowo, S. & Li, L.D. \"The effects of over-reliance on AI dialogue systems on students' cognitive abilities: a systematic review\" Smart Learn. Environ. 11, 28 (2024). https://doi.org/10.1186/s40561-024-00316-7). He concluded that yes, it is fine that we get information from AI but we also need to bring human input and that is where the problem lies because 'who is there to define where to draw the line?'"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
