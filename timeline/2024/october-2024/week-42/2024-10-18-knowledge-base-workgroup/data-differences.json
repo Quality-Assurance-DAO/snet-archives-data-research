@@ -1,0 +1,91 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-10-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Effiom, Evelyn, LadyTempestt, Tevo",
+      "supabase": "Advanceameyaw, Effiom, Evelyn, Lady, Tevo"
+    },
+    {
+      "field": "agendaItems.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Task Name from Budget Sheet corresponds with Dework Task Template https://docs.google.com/spreadsheets/d/1oHaNJHd3kH2eCUOThlIQ_9wVjYePTZMYolXSErm3o-o/.",
+      "supabase": "Task Name from Budget Sheet corresponds with Dework Task Template https://docs.google.com/spreadsheets/d/1oHaNJHd3kH2eCUOThlIQ_9wVjYePTZMYolXSErm3o-o/"
+    },
+    {
+      "field": "agendaItems[1].agenda",
+      "gitbook": "Create a flowchart about asset movement from source to GitBook"
+    },
+    {
+      "field": "agendaItems[1].status",
+      "gitbook": "resolved",
+      "supabase": "carry over"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Where are assets coming from?",
+      "supabase": "How does the collected data have an effect on GPT?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Who is collecting assets?",
+      "supabase": "https://chatgpt.com/g/g-5ynQ4fAv6-ambassador-program-knowledge-base-wg-ai-organiser"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "How do we store assets?",
+      "supabase": "Didn't work as expected no sign of using our even reading our reasoning. Starts doing even more mistakes when additional commands given to try to use our csv data"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "How do we organise assets?",
+      "supabase": "Might need to create another GPT that tries to compare and validate suggested responses with existing rationale"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "How do we share assets?",
+      "supabase": "Updating the google sheet Template to capture the format data presented in GPT"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "supabase": "How do we use GPT?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "supabase": "Do we continue using Miro Board to visualize our final results?"
+    },
+    {
+      "field": "agendaItems[1].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "We won't create request templates - currently we have enough items to work with",
+      "supabase": "We don't create another GPT to improve quality. Right now, our focus is to get good enough results on GitBook to others to see"
+    },
+    {
+      "field": "agendaItems[1].actionItems",
+      "supabase": [
+        {
+          "text": "Provide item name and analysis/description and copy the results from GPT to Google Sheet Template https://docs.google.com/spreadsheets/d/1ykSOOcXzv_fXQg53HBm54ibc_KtUou13g0JYPbvpEp8/ Then Copy template to Organised Resources page as last row, then clear template (but leave the questions)",
+          "assignee": "everyone",
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
