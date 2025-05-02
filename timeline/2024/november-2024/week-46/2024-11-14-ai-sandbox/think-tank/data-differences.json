@@ -1,0 +1,105 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-11-14",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AshleyDawn, Clement Umoh, Gorga Siagian, Kateri, LordKizzy, martinsoki, osmium, Sucre n Spice, Valola",
+      "supabase": "Advanceameyaw, AshleyDawn, Clement Umoh, Gorga Siagian, Kateri, lord kizzy, MartinSoki, osmium, Sucre n Spice, Valola"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Second Think-Tank Session: AI TOOLSET EXHIBITION: Google LM Notetaker",
+      "supabase": "Second Think-Thank Session AI TOOLSET EXHIBITION : Google LM Notetaker"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Second Sandbox presentation: Google LM Notetaker",
+      "supabase": "Second Sandbox presentation"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit?usp=sharing&ouid=113948067158841872178&rtpof=true&sd=true",
+      "supabase": "https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p6"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone and waited for Clement to join the meeting to begin his presentation on Google LM Notetaker.",
+      "supabase": "Meeting Coordination and Introductions: Lord Kizzy welcomed everyone and waited for Clement to join the meeting to begin his presentation on the AI TOOLSET EXHIBITION.."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "While waiting for Clement to join, Osmium gave an introduction to what AI TOOLSET EXHIBITION is. He reflected on the purpose behind including this segment in the first half of AI SANDBOX sessions, and walked through the key takeaways.",
+      "supabase": "While waiting for Clement to join, Osmium gave an introduction to what AI TOOLSET EXHIBITION is and Reflected upon the purpose behind including this segment in the first half of AI SANDBOX sessions and walked through the key takeaways."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "LordKizzy showed AI Sandbox/Think Tank's Q1 2025 budget allocation of 5K AGIX and asked participants if they agreed with it. He also highlighted the impact of the allocation on our activites. In the discussion, Gorga said that the approval of the budget allocation was waiting on Lordkizzy to finish attending the Governance WG meeting and send a note to the channel on how the budget allocation system at the Governance meeting would be. Sucren argued that the budget allocation must be decided, whether it is approved now or not, and can send a message to Vani regarding the budget allocation decision how.",
+      "supabase": "LordKizzy showed AI Sanbox/Think Tank's Q1 2025 Budget Allocation of 5K AGIX and asked participants if they agreed with the budget allocation, he also highlighted the impact of the allocation on our activites. In the discussion, Gorga said that the approval of the budget allocation was waiting on Lordkizzy to finish attending the governance meeting and send a note to the channel on how the budget allocation system at the Governance meeting would be, while Sucren argued that the Budget Allocation must be decided whether it is approved now or not and can send a message to Vani regarding the Budget allocation decision how."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Showcasing the second presentation of the Toolset Exhibition series, made by Clement on Google LM Notetaker: A dynamic approach to meeting notetaking. Clement shared the link to the presentation https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p2 where he highlighted.",
+      "supabase": "Showcasing the second presentation of the exhibition made by Clement on the THE GOOGLE LM NOTETAKER: A Dynamic Approach to Meeting Note taking and he shared the link to the presentation https://docs.google.com/presentation/d/1UupX-2mUK3Ods5FdYTxFLWauGyzpafaD/edit#slide=id.p2 where he highlighted the a) Overview of the toolset [Detailed Description and Use Cases] b) Architecture and Technology Stack [Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart] c) Demonstration [live demo or tutorial/ video walkthrough] d) Outcome Report or Results and Impact [ illustration through case studies or showcasing measurable results eg. key performance metrics]"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "a) Overview of the toolset (Detailed Description and Use Cases)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "c) Demonstration (live demo or tutorial/ video walkthrough)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided to change the documenter for this meeting from Advancemayeaww to Gorga. Advancemayeaww will document next week's session.",
+      "supabase": "Decided to change the documenters from Advancemayeaww to Gorga and Advancemayeaww will be the documenters in next week's session."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Lord Kizzy to join the Governance WG call to understand budget calculation for each workgroup, and make a note of budget concerns in our Discord channel for discussion",
+      "supabase": "Join the governance call to understand budget calculation for each work group and Make note of budget concerns in the channel for discussion"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Gorga to share the meeting summary in the Discord channel",
+      "supabase": "Share the meeting summary in the channel"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Members who want to document meetings should indicate their interest in the Discord channel",
+      "supabase": "Members who want to document should indicate in the channel"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Lord kizzy to create a repository for the next call where members can submit code and documentation for the AI tools",
+      "supabase": "Lord kizzy to create a repository for the next call where members could submit codes and documentation for the AI tools"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "AI TOOLSET EXHIBITION, Google LM Notetaker, meeting notes, documentation",
+      "supabase": "AI TOOLSET EXHIBITION, Google LM Notetaker"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Welcoming, interactive, Thoughtful, informative",
+      "supabase": "Welcoming, interactive, Thoughtful , informative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
