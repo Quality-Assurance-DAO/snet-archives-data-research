@@ -1,0 +1,39 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-11-08",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Ayo, Cjfrankie, Eric Davies, Gorga Siagian, Kareem, kateri, LordKizzy, Malik, Mikasa, SubZero, Temiloluwa Hamzat",
+      "supabase": "Ashley, Ayo, Cjfrankie, Eric Davies, GorgaSeagian, Kareem, kateri, lord kizzy, Malik., Mikasa, SubZero, Temiloluwa Hamzat"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Design Workgroup proposal: Kareem noted that typically, new workgroups are not established mid-quarter, suggesting that funding for the proposal could potentially come from the Marketing Guild.",
+      "supabase": "Design Proposal: Kareem noted that typically, new workgroups are not established mid-quarter, suggesting that funding for the proposal could potentially come from the Marketing Guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Community Spotlight delay: Kizzy inquired about the delay with the community spotlight, seeking clarification on its status.",
+      "supabase": "Community Spotlight Hold: Kizzy inquired about the delay with the community spotlight, seeking clarification on its status."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, productivity, work rate, continuity, mascot, content calendar, podcast, community spotlight, delays, design workgroup",
+      "supabase": "Rewards, Guilds , Proposal"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Poor Attendance, quick, progressive",
+      "supabase": "Friendly, Poor Attendance , The meeting was quick and progressive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
