@@ -1,0 +1,79 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-11-22",
+  "differences": [
+    {
+      "field": "meetingInfo.miroBoardLink",
+      "gitbook": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764607231577569&cot=10",
+      "supabase": "https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764606365412078&cot=10"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Draft Proposal for Q1 2025.",
+      "supabase": "Draft Proposal for Q1 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Meeting Summary for 22.11.2024.",
+      "supabase": "Meeting Summary for 22.11.2024"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Description of categories and subcategories.",
+      "supabase": "Description of categories and subcategories"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "What went well? We finally created GitBook and tried and understood the flow. Excited to see the GitBook outcomes We used GPT and it worked well - Someone liked using AI to organize assets and it saved a lot of time Project management went well - Different people in workgroup created Dework Tasks this quarter Despite moving a lot of work async and reducing our operational alignment, we made progress on proposal.",
+      "supabase": "What went well? We finally created GitBook and tried and understood the flow. Excited to see the GitBook outcomes We used GPT and it worked well - Someone liked using AI to organize assets and it saved a lot of time Project management went well - Different people in workgroup created Dework Tasks this quarter Despite moving a lot of work async and reducing our operational alignment, we made progress on proposal"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "What didn't go well? Meeting participation has dropped - Unclear if it was because of time change? Because we seemed to have more participants on Wednesdays Assigning tasks async didn't go well at all Workgroup contributions were less decentralised.",
+      "supabase": "What didn't go well? Meeting participation has dropped - Unclear if it was because of time change? Because we seemed to have more participants on Wednesdays Assigning tasks async didn't go well at all Workgroup contributions were less decentralised"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "What should we do in Quarter 1 2025? Work towards increasing participation Planning with the 4k AGIX cap.",
+      "supabase": "What should we do in Quarter 1? Work towards increasing participation Planning with the 4k AGIX cap"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "We agreed to create a new schedule to check sentiment quarterly as Process Guild activity",
+      "supabase": "We agreed to create new schedule to check sentiment quarterly as Process Guild activity"
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].text",
+      "gitbook": "Next quarter we will create a new schedule to check sentiment",
+      "supabase": "Next quarter we create new schedule to check sentiment"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "What will we do in the next session?",
+      "supabase": "What do we do in the next session?"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Deciding on items to be included into Gitbook.",
+      "supabase": "Deciding on items to be included into Gitbook"
+    },
+    {
+      "field": "agendaItems[2].actionItems[2].text",
+      "gitbook": "We will decide on uploading date in the next meeting",
+      "supabase": "We decide on uploading date on the next meeting"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "GitBook, Miro Board, Q4 2024 report, Retrospective, GitHub, Q1 2025 proposal",
+      "supabase": "GitBook, Miro Board, Q4 report, Retrospective, GitHub, Q1 proposal"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
