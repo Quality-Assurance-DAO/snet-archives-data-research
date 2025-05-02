@@ -1,0 +1,153 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-10-12",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Eric Davies, hotasiro, kateri, malik, martinsoki, rebel, scarecrow",
+      "supabase": "AshleyDawn, boo, GorgaSeagian, lord kizzy, malik, martinsoki, rebel, scarecrow"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Gamers' Guild. This meeting centered around WG creators showcasing their progress and discussing improvements for their workgroup models and plugins tutorials",
+      "supabase": "To review progress and discuss updates on asset creation, game features, and project developments within the Gamers Guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Scarecrow showcased the updated Treasury Guild building model on Roblox. The building features: Vibrant design with the Treasury Guild logo. Guarded entrance with two guards. Main entrance area with a board displaying meeting times. A Miro board representing treasury and ambassador wallet details. A waiting area enhanced with a TV, fans, and other lively elements. Cash counter managed by NPCs representing treasury members. Staff-only areas including an ATM and a highly secured meeting room. File handling area with added security cameras and amenities. A vault storing AGIX, monitored by NPCs. Slate praised the model for its realistic bank-like vibe and the excellent additions.",
+      "supabase": "Slate discussed the creation of assets such as shirts, pants, and UGC items for listing on the Roblox marketplace and integration into the main game using mannequins."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate provided feedback on the building model for Dework/Github PBL, created by PhotoGee and Rebel. Key points of feedback: The \"Meeting Room\" label is floating and should be repositioned. Non-functional lighting fixtures need attention. Implementation of a futuristic door model for consistency across departments. Color schemes and materials do not match the intended design. Decals should be updated to reflect Dework or GitHub PBL content instead of generic or unrelated images. Oversized chairs need scaling down to fit character proportions. Anchoring issues causing objects such as tables to detach. Empty areas should be filled with relevant content, possibly incorporating GitHub PBL materials. Lord Kizzy suggested updating references from Dework PBL to GitHub PBL due to the course evolution. Discussion on designating floors for Dework PBL and GitHub PBL respectively.",
+      "supabase": "Slate demonstrated how mannequins will display items in the game, allowing players to interact, try on, and purchase assets directly from them."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Tutorial on Roblox Model Selection Tools and Plugins: Slate conducted a tutorial on using the Negate and Union functions to create precise spaces, such as doorways in walls. Demonstrating how to create holes in walls that match door dimensions exactly. Introduction to essential plugins: ResizeAlign: For precise resizing and alignment of parts. Archimedes: To create circular or spiral designs. Scene Tools: For adding animations such as spinning parts. Part to Terrain: Converting parts into terrain materials e.g. water. Slate emphasized the importance of anchoring objects and proper lighting for night visibility. Lord Kizzy recommended recording the tutorial for future reference. Slate agreed and began recording for later distribution.",
+      "supabase": "Slate presented dynamic clothing textures, moving grasses, and bushes that respond to wind, aiming to enhance game realism"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Slate inquired if any gamer guild members were not working on a workgroup, to which Lord Kizzy and Devon expressed interest.",
+      "supabase": "Slate showcased visual effects like spawn animations that players can purchase to customize their characters, enhancing player attraction and engagement."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Slate skipped other model updates to allow creators ample time to complete and showcase their work and because the process can be time-consuming.",
+      "supabase": "Slate introduced an under-development in-game intercom system for future meetings, enabling speakers to project their voices through in-game speakers."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "Gorga presented updates on the VR map, including a restaurant, realistic buildings, trees, and drivable sports cars. Slate suggested optimizing the VR map by making some buildings non-enterable and duplicating houses to create uniform streets."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "supabase": "Photogee and Rebel showcased their Dework PBL workgroup building model, featuring signature doors, workrooms, learning desks, GitHub labs, and aesthetic elements aligning with both Dework and Github. Slate provided feedback on the Dework PBL model, noting the need for anchoring certain objects and adding lighting improvements."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "Slate mentioned that he will upload all the recordings of creation to youtube and share with us"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "supabase": "Slate assigned writers workgroup model creation to lord kizzy and devon based on their interest."
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 3,
+      "supabase": 1
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Slate will record and upload the tutorials on using Roblox tools and plugins to a shared platform",
+      "supabase": "Decided to incorporate dynamic textures and special effects to the game."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "to allow creators to revisit the tutorial for improved understanding",
+      "supabase": "to enhance game realism and player experience."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "26 October 2024",
+      "supabase": "9 November 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].dueDate",
+      "gitbook": "26 October 2024",
+      "supabase": "9 November 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Animation and dialogue - Archives Workgroup",
+      "supabase": "Animation and dialogue - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].dueDate",
+      "gitbook": "26 October 2024",
+      "supabase": "9 November 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Department Creation - Dework PBL",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "rebel, Photogee",
+      "supabase": "oep, CollyPride"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department creation - Writers WG"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].status",
+      "gitbook": "in progress",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "oep, CollyPride",
+      "supabase": "lord kizzy, devon"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].dueDate",
+      "gitbook": "26 October 2024",
+      "supabase": "9 November 2024"
+    },
+    {
+      "field": "agendaItems[0].gameRules",
+      "gitbook": "Racing game: the first to finish three laps wins.\nparticipants: malik, martinsoki, lord kizzy, devon, scarecrow, rebel",
+      "supabase": "No games played"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, Map creation, plugins, anchoring objects, lighting, tutorial",
+      "supabase": "Roblox, metaverse, department Creation, work updates, Map creation, plugins"
+    },
+    {
+      "field": "tags.gamesPlayed",
+      "gitbook": "Racing Game"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
