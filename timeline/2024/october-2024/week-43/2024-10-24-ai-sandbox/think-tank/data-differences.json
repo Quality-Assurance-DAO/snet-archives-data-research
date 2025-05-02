@@ -1,0 +1,56 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-10-24",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "AI Performance Ratings and Future Implications: Lordkizzy decided to play a little game with the house by rating AI‘s impact in the future (10 for the best thing humans have ever seen and super beneficial, 0 for AI will fade away in the next 3-4 years, -10 for AI will cause more harm than good and is likely to be a disaster).",
+      "supabase": "AI Performance Ratings and Future Implications: Lordkizzy decided to play a little game with the house by rating AI‘s impact in the future (10 for the best thing humans have ever seen and super beneficial, 0 for AI will fade away in the next 3-4 years, -10 for AI will cause more harm than good and is likely to be a disaster). - Malik rated it nine out ten - Advance rated it minus ten and ten - AJ rated it seven now but in future lower to five - Clement rated it five, reflecting on the balance view of the whole stuff - Colleen rated it minus ten and ten - Guillermo rated it minus ten and ten - Kateri rated it nine and minus eight - Peter did not give a ratings to this."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Malik rated it nine out ten.",
+      "supabase": "Lord Kizzy summarized the session by stating that one observation he had from the discussion is that AI is not going to fade away in the coming years. Its wider impact is yet to be seen but AI is here to stay."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "Advance rated it minus ten and ten."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[13]",
+      "gitbook": "AJ rated it seven now but in future lower to five."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[14]",
+      "gitbook": "Clement rated it five, reflecting on the balance view of the whole stuff."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[15]",
+      "gitbook": "Colleen rated it minus ten and ten."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[16]",
+      "gitbook": "Guillermo rated it minus ten and ten."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[17]",
+      "gitbook": "Kateri rated it nine and minus eight."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[18]",
+      "gitbook": "Peter did not give a ratings to this."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[19]",
+      "gitbook": "Lord Kizzy summarized the session by stating that one observation he had from the discussion is that AI is not going to fade away in the coming years. Its wider impact is yet to be seen but AI is here to stay."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
