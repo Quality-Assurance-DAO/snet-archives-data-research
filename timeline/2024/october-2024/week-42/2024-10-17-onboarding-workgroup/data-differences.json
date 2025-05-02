@@ -1,0 +1,308 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-10-17",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "MartinSoki, CallyFromAuron",
+      "supabase": "MartinSoki "
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 4,
+      "supabase": 6
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Adjusted Q4 budget proposal",
+      "supabase": "Meeting agenda "
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].townHallUpdates",
+      "gitbook": "The October update will cover:\n- Recap of Github training session, and share Colleen's slides\n- Announce the shift to Biweekly meetings \n- Announce the two upcoming skills training sessions (M&E; decentralized governance)\n- Re-share the Onboarding journeys infographics, plus a doc where people can add their own input on barriers they have faced",
+      "supabase": "- Recap of Github session with the slides\n- Announcing the shift to Biweekly meetings \n- Announce the upcoming skills training session (M&E session and Onboarding to decentralized governance)\n- Share the Onboarding journeys infographics"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting: We agreed the minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting: We agreed the minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Skillshare matrix: The regular reminder was made for new people to input their skills into the skillshare matrix document.",
+      "supabase": "Skillshare matrix: A reminder was made for new people to input their skills into the skillshare matrix document."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Action items from the last meeting: We went through the action items for the last meeting.",
+      "supabase": "Action items from the last meeting: We went through the action items for the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Facilitation/documentation next meeting: Colleen to facilitate the next meeting (31st Oct) and Photogee to document and add to the summary tool.",
+      "supabase": "Facilitation/documentation next meeting: Colleen to facilitate the next meeting and Photogee to document and add to the summary tool."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Town hall update: Duke to give the townhall updates at the end of the month.",
+      "supabase": "Town hall update: Duke to give the townhall updates at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Onboarding Journeys: Onize agreed to publicize the infographics created by Duke, Love and Cjfrankie in the ambassador-general Discord channel and other relevant channels. She will also create a survey for people to give info on their own onboarding experiences (see https://forms.gle/VcQVJAoXtYa1ukB77).",
+      "supabase": "Onboarding Journey: Onize agreed to publicize the infographics created by Duke and Cjfrankie in the ambassador general and some relevant channels."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Skillshare matrix: LadyTempestt noted that the Skillshare Matrix might be somewhat redundant now, as the workgroup is currently closed, so all existing members have already added to it, and any new people would be adding their skills without being able to get paid tasks in which to use them. Vani suggested we could get further use out of the skillshare matrix by sharing it with the rest of the Program, perhaps in collaboration with R&D's collaboration skills database project - we might be able to add useful input on classifying and better representing non-tech skills, as we've done quite a lot of work on that in our skillshare matrix, and the R&D approach has tended to prioritise tech skills. Then LordKizzy spoke on R&D's Collaboration Skills Database project and its possible collaborations with the Onboarding workgroup. He suggested gathering skills of members through the R&D Guild project rather than having two initiatives that serve the same purpose. We agreed to discuss further next meeting.",
+      "supabase": "Skillshare matrix: Love Owokere suggested that the Skills Matrix is currently ineffective for new members, as they cannot perform tasks without tag and the workgroup is currently closed for them to get one. Vani proposed that the Skills Matrix should be shared to other workgroups, including in the ambassador program, to help members, especially new ones, better understand their skill requirements and development pathways, then LordKizzy spoke on the R&D Guild’s Collaboration Skills Database project and its possible collaborations with the Onboarding workgroup. He emphasized on gathering the skills of members within the program through the R&D Guild project rather than having two initiatives that serve the same purpose."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Onboarding to decentralization research project: Ayo shared a planning doc created by him and Kateri (see https://docs.google.com/document/d/14erz8t4HKPtql7BB9dK6bKLZ-2KFxay76YWrqgmBfRI/edit?usp=sharing) to outline possible questions, and we discussed. Couple of suggestions were made for minor changes, but generally, the group approved it. Ayo and Kateri will come back next meeting to outline a research strategy or approach.",
+      "supabase": "Onboarding to decentralization: Ayo discussed the aim of study on how people transition into and adapt to a decentralized work environment. Specifically, it aims to understand previous experiences, support and resources, adaptation process, the challenges and the benefits, the perceptions of decentralization.Also to note that since the workgroup is closed, it is not possible to get the tag back if taken from."
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 2,
+      "supabase": 1
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "It was decided during the meeting that the recording of the GitHub training should not be timestamped or shared",
+      "supabase": "Onize suggested promoting the onboarding journeys by visiting various workgroup meetings, while the group collectively decided against sharing onboarding challenges on public platforms, opting for internal communication instead."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Colleen was absent and Vani had to step in to host the session without adequate preparation, so it might not be that useful; also, LordKizzy has already produced a GitHub walkthru video for Archives WG - see https://youtu.be/abaUWUBOU28?si=PyR0CRq9CLC2e3Na"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].opposing",
+      "gitbook": "None"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 11,
+      "supabase": 7
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Duke to facilitate next meeting and MartinSoki to document",
+      "supabase": "Duke to give Town hall update"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].status",
+      "gitbook": "done",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "Duke Peter, MartinSoki",
+      "supabase": "Duke Peter"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].dueDate",
+      "gitbook": "17 October 2024",
+      "supabase": "29 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Duke to give the next Town hall update",
+      "supabase": "Onize to lead Monitoring and Evaluation session on the 24th November."
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "Duke Peter",
+      "supabase": "Onize"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].dueDate",
+      "gitbook": "29 October 2024",
+      "supabase": "24 November 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Onize and Duke to share the onboarding Journey with the community on governance call",
+      "supabase": "Vani to lead Decentralized governance on 5th December."
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].status",
+      "gitbook": "done",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "Onize, Duke Peter",
+      "supabase": "CallyFromAuron"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].dueDate",
+      "gitbook": "10 October 2024",
+      "supabase": "5 December 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Vani to add Onboarding Journey on the agenda for governance call",
+      "supabase": "Colleen to facilitate the next meeting and Photogee to document."
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].status",
+      "gitbook": "done",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "CallyFromAuron",
+      "supabase": "Colleen, Photogee"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].dueDate",
+      "gitbook": "10 October 2024",
+      "supabase": "31 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].text",
+      "gitbook": "Ayo and kateri to present a draft of the research project next meeting.",
+      "supabase": "Vani to follow up on Colleen and Ayo to follow up on Photogee on their availability."
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].status",
+      "gitbook": "done",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].assignee",
+      "gitbook": "oluAyoola7D, Kateri",
+      "supabase": "Vanessa, Ayo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].dueDate",
+      "gitbook": "17 October 2024",
+      "supabase": "31 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].text",
+      "gitbook": "Onize to lead Monitoring and Evaluation session on the 24th November.",
+      "supabase": "Onize to share the onboarding journey graphics in the ambassador general channel and create a document for feedback on challenges faced."
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].dueDate",
+      "gitbook": "24 November 2024",
+      "supabase": "31 October 2024"
+    },
+    {
+      "field": "agendaItems[0].issues[0].53",
+      "gitbook": ",",
+      "supabase": "."
+    },
+    {
+      "field": "agendaItems[0].issues[0].54",
+      "gitbook": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].55",
+      "gitbook": "S"
+    },
+    {
+      "field": "agendaItems[0].issues[0].56",
+      "gitbook": "k"
+    },
+    {
+      "field": "agendaItems[0].issues[0].57",
+      "gitbook": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].58",
+      "gitbook": "l"
+    },
+    {
+      "field": "agendaItems[0].issues[0].59",
+      "gitbook": "l"
+    },
+    {
+      "field": "agendaItems[0].issues[0].60",
+      "gitbook": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].61",
+      "gitbook": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].62",
+      "gitbook": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].63",
+      "gitbook": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].64",
+      "gitbook": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].65",
+      "gitbook": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].66",
+      "gitbook": "m"
+    },
+    {
+      "field": "agendaItems[0].issues[0].67",
+      "gitbook": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].68",
+      "gitbook": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].69",
+      "gitbook": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].70",
+      "gitbook": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].71",
+      "gitbook": "x"
+    },
+    {
+      "field": "agendaItems[0].issues[0].72",
+      "gitbook": "."
+    },
+    {
+      "field": "agendaItems[0].learningPoints",
+      "supabase": [
+        "Skillshare session "
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "TH Update, Onboarding Journey Scripts, skills matrix, research, decentralisation, decentralization, Collaboration Skills Database, R&D Guild, collaboration, non-tech skills, classifying skills",
+      "supabase": "TH Update , Onboarding Journey Scripts, skills matrix, research, Marketing WG, biweekly, meeting dates, Collaboration Skill Database "
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Collaborative, speedy",
+      "supabase": "Friendly, Collaborative, Casual, speedy "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
