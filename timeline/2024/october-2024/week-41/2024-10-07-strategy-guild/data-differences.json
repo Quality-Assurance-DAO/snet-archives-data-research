@@ -1,0 +1,43 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-10-07",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Ayo, Clement, Effiom, Eric Davies, Ese Williams, Kateri, Kenichi, Mikasa, TheFreysDefi",
+      "supabase": "AshleyDawn, Ayo, Clement, Effiom, Eric Davies, Ese Williams, Kateri, Kenichi, kevin, Mikasa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Strategy Guild.",
+      "supabase": "Bi weekly meeting to discuss the Q4 plans and the current updates in the guild."
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "INTRODUCTION - The meeting began with Clement extending greeting to each member.\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING -  Clement led the discussion on the action items from the previous meeting. Items DONE were closed and others were left OPEN:\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Ayo officially welcomed Kateri and Yemisolves as core members of the guild, acknowledging their valuable contributions and commitment. It was announced that members should go and update their attendance as the core membership role is officially closed.\n\nBUDGET/BUDGETING FITTING AND BUDGET ASSESSMENT - Ayo clarified that the  budget fitting of 20% cut was $837 total, leaving the guild with just $3103 in our budget. He said that if we decide to do all the tasks budgeted in this quarter, the funds would not be enough and some tasks won't be paid until next quarter. Clement suggested that the core members should go on a call and conduct budget fitting.\n\n\nQ4 TASKS ROSTER UPDATE - The roster was updated and brought to the meeting. \n\nQ3 RESEARCH CONTINUANCE AND TIMELINE - Effiom noted that before the end of October the research would be completed.\n\nQ4 WORKSHOP 1 - Ayo said that since the Q3 workshop was \"Outward bound workgroups\" the Q4 workshop title would be \"Mixed bound\". Stating that it comprises workgroups and guilds that do things for both the ambassador program and the general public, for example Education Guild, Research and Development Guild, etc. He concluded that the workshop will take place within 4 weeks.\n\nA.O.B - Ayo expressed gratitude to the participants.",
+      "supabase": "INTRODUCTION - The meeting began with Clement extending greeting to each members.\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING -  Clement led the discussion on the action items from the previous meeting. Items DONE were closed and others were left OPEN:\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Ayo officially welcomed Kateri and Yemisolves as core members of the guild, acknowledging their valuable contributions and commitment. It was announced that members should go and update their attendance as the core membership role is officially closed.\n\nBUDGET/BUDGETING FITTING AND BUDGET ASSESSMENT - Ayo clarified that the  budget fitting of 20% cut was $837 total, leaving the guild with just $3103 in our budget. He said that if we decide to do all the tasks budgeted in this quarter, the funds would not be enough and some tasks won't be paid until next quarter. Clement suggested that the core member should go on a call and conduct budget fitting.\n\n\nQ4 TASKS ROSTER UPDATE - The roster was updated and brought to the meeting. \n\nQ3 RESEARCH CONTINUANCE AND TIMELINE - Effiom noted that before the ending of October the research would be completed.\n\nQ4 WORKSHOP 1 - Ayo said that since the Q3 workshop was \"How to bound workgroup\" the Q4 workshop title would be \"Mixed bound\". Stating that it comprises workgroups and guilds that do things for both the ambassador program and the general public, examples were education guild, Research and development workgroup and e.t.c., he concluded that  the workshop would be within 4 weeks.\n\nA.O.B - Ayo expressed gratitude to the participants."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Resolve strategy guild quarter 3 reports and quarter 4 budget concerns before deadline",
+      "supabase": "Resolve strategy guilt quarter 3 reports and quarter 4 budget concern before deadline"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].text",
+      "gitbook": "Members to indicate interest to quarter 4 task roster by the end of the last meeting",
+      "supabase": "Members to indicate interest to quarter 4 task rooster by the end of the last meeting"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
