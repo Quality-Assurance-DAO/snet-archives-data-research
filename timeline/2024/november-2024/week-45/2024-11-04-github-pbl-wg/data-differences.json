@@ -1,0 +1,74 @@
+{
+  "workgroup": "GitHub PBL WG",
+  "meetingDate": "2024-11-04",
+  "differences": [
+    {
+      "field": "meetingInfo.otherMediaLink",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Dework and rewards.",
+      "supabase": "Dework and rewards"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "How to add people to GitHub Project Board? - email is required and can probably get email through their zoom registration for meetings.",
+      "supabase": "How to add people to GitHub Project Board? - email is required and can probably get email through their zoom registration for meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "What do we do async until the next meeting?",
+      "supabase": "What do we do async until the next meeting? - Research existing lessons first - Google Doc drafts for the lessons - Test it on GitHub"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Research existing lessons first."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Google Doc drafts for the lessons."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Test it on GitHub."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Should we include a feedback form? It didn’t necessarily bring back feedback with Dework PBL.",
+      "supabase": "Should we include a feedback form? It didn’t necessarily bring back feedback with Dework PBL"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Form link to sign up for drafting or reviewing lessons and using Andamio.",
+      "supabase": "Form link to sign up for drafting or reviewing lessons and using Andamio"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Use Discord to log in.",
+      "supabase": "Use Discord to log in"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Do we want extra events using Gimbalabs Extra Playground?",
+      "supabase": "Do we want extra events using Gimbalabs Extra Playground? - To bring different students and course creators together to share the work they do, how they do it and experiences."
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[4]",
+      "gitbook": "To bring different students and course creators together to share the work they do, how they do it and experiences.",
+      "supabase": "We will reward documentation of learning from New Ideas Budget"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[5]",
+      "gitbook": "We will reward documentation of learning from New Ideas Budget."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
