@@ -1,0 +1,81 @@
+{
+  "workgroup": "GitHub PBL WG",
+  "meetingDate": "2024-10-14",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "We went through our WG proposal, explaining the processes through the proposal fitting sheet and the importance of the different roles. We encouraged members to show interest in various tasks (content ideation and creation, project management, course creation on Andamio, etc), kick-starting the workgroup. -.",
+      "supabase": "We went through our WG proposal, explaining the processes through the proposal fitting sheet and the importance of the different roles. We encouraged members to show interest in various tasks (content ideation and creation, project management, course creation on Andamio, etc), kick-starting the workgroup."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "supabase": ""
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "We worked on reducing our budget by approx 20%.",
+      "supabase": "We worked on reducing our budget by approx 20%"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Course creation, Quizzes, reduced costs here by 20%.",
+      "supabase": "Course creation, Quizzes, reduced costs here by 20%"
+    },
+    {
+      "field": "agendaItems[2].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "We agreed to have 4 sessions this quarter (reducing 2 session amounts) - We will create fewer lessons, which should naturally reduce rewards from all the other refinement work",
+      "supabase": "We agreed to have 4 sessions this quarter (reducing 2 session amounts)"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "More sources to be created with the rest of the budget.",
+      "supabase": "More sources to be created with the rest of the budget"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[3]",
+      "gitbook": "We planned the whole quarter's main activities on Miro Board schedule.",
+      "supabase": "We planned the whole quarter's main activities on Miro Board schedule"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[4]",
+      "gitbook": "Setting up Github.",
+      "supabase": "Setting up Github"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[5]",
+      "gitbook": "Tasks templates on Dework.",
+      "supabase": "Tasks templates on Dework"
+    },
+    {
+      "field": "agendaItems[3].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].decision",
+      "gitbook": "We will meet on 4th and 18th November by 11:00 UTC, and on 17th December by 16:00 UTC for this quarter. - We will not yet remove Project Management Framework ideation from the Miro board, but we won’t pick it up if we don’t have enough time in our agendas",
+      "supabase": "We will meet on 4th and 18th November by 11:00 UTC, and on 17th December by 16:00 UTC for this quarter."
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
