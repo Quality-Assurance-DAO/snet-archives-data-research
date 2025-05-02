@@ -1,0 +1,27 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-10-25",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, AshleyDawn, cjfrankie, Eric Davis, Evelyn Robert, Gorga Siagian, Kenichi, LadyTempestt, Mikasa",
+      "supabase": "advanceameyaw, AJ, AJ, AshleyDawn, cjfrankie, Eric Davis, Evelyn Robert, Gorga Siagian, Kenichi, LadyTempestt, Mikasa"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
