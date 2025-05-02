@@ -1,0 +1,44 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-11-04",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, Ayo, Clement Umoh, Effiom, Eric Davies, kateri, LordKizzy, martinsoki, Mikasa, Photogee",
+      "supabase": "Ashley Coventry, Ayo, Clement Umoh, Effiom, Eric Davies, Eric Davis, kateri, lord kizzy, martinsoki, Mikasa, Photogee"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Kick-off: Photogee welcomed everyone with a warm greeting, and then we tackled the action items from the last meeting. Effiom shared an update on the status of the \"strategy core\" and \"strategy member\" Discord tags. He stated that the tags haven’t taken effect because there’s still a back-and-forth issue that needs to be fixed. He hinted that at the next meeting or workshop, he’d give an update on the status.\n\nBudget Fitting: Momentarily, we had a budget fitting walkthrough by Effiom; some deliverables will be moved to Q1 2025 and there will only be 1 workshop session in Q4, while a few things are removed to fit the budget. \n\nQ4 Task Roster & Async Follow-up: Ayo took to the stage and assured everyone with their names on the roster of getting a task in Q4. We also discussed what to do with members who haven’t been showing up for meetings; Ayo added that we can swap those names with active members who would like to take up tasks. We also discussed Q3 workshop follow-up. These groups of people will attend WG meetings of marketing guild, video workgroup, and writers workgroup, and collect information about what strategy was adopted in the workgroup from the last strategy guild workshop and how it’s going. To this effect, we have Photogee and Ese to take on the Q3 workshop follow-up while Cjfrankie and Mikasa take on the Q4 workshop follow-up.\n\nMore on Workshops: We have decided that there will be only one workshop session in Q4, focusing on R&D Guild and Education Guild. These workshops will start next Monday (11th Nov) and run for 3 straight weeks. Cjfrankie and Mikasa are to attend both the R&D and the Education guild meetings, and ask them to select three members that will represent them well.\n\nResearch Update: Effiom shared an update on the research he’s working on about what people in the Ambassador Program think about Strategy Guild. The survey form is complete and is ready to be sent out to gather responses from community members. He sought feedback on the survey and encouraged members to check out the form and add comments.\n\nLooking Ahead: As Q4 wraps up, we looked forward to having a promising Q1 in 2025. Ayo said the strategy guild welcomes research ideas, initiatives, workshops, and collaboration from members. As a matter of finality, he added that Q1 2025 won’t only be about facilitation and documentation. Rather, it’s about strategy stuff.\n\nAOB: The AOB session was led by Ayo, who sought two people who would liaise with the marketing guild for their content calendar — if we have any content for the socials, the idea is to have two people who would be in close communication with the marketing guild for proper scheduling of posts.",
+      "supabase": "Kick-off: The biweekly meeting of the strategy guild started strong with Photogee as he welcomed everyone with a warm greeting, and then we skimmed and tackled the action items from the last meeting. Firstly, Effiom shared an update on the status of the strategy core and strategy member tags 🏷️ He stated that the tags haven’t taken effect because there’s still a back-and-forth issue that needs to be fixed. He hinted that at the next meeting or workshop, he’d give an update on the status.\n\nBudget Fitting: Momentarily, we had a budget fitting walkthrough by Effiom; he added that some deliverables will be moved to Q1 2025 and there would only be 1 workshop session in Q4, while a few things are removed to fit the budget. \n\nQ4 Task Roster & Async Follow-up: Ayo took to the stage and assured everyone with their names on the roster of getting a task in Q4. We also featured a discussion about what to do with members who haven’t been showing up for meetings; Ayo added that we can swap those names with active members who would like to take up tasks. We also featured discussions centered around Q3 workshop follow-up. These groups of people will attend WG meetings (marketing guild, video workgroup, and writers workgroup,) and collect information about what strategy was adopted in their workgroup from the last strategy guild workshop and how it’s going. To this effect, we have Photogee and Ese to take on the Q3 workshop follow-up while Cjfrankie and Mikasa take on the Q4 workshop follow-up.\n\nMore on Workshop: We have decided that there will be only one workshop session in Q4. These workshops will focus on the R&D guild and education guild. These workshops shall commence next Monday and run for 3 straight weeks. In light of such, Cjfrankie and Mikasa are to attend both the R&D and the education guild meetings just so the workgroup can signpost three members that will represent them well.\n\nResearch Update: Effiom shared an update on the research he’s working on. He hinted that the survey form is complete and is ready to be sent out to gather responses from community members. Additionally, he sought to get some feedback concerning the survey and then encouraged members to check out the form and add comments, too.\n\nLooking Ahead: As Q4 wraps up, the strategy workgroup looks forward to having a promising Q1 in 2025. According to Ayo, he mentioned that the strategy guild welcomes research ideas, initiatives, workshops, and collaboration from members. As a matter of finality, he added that Q1 2025 won’t only be about facilitation and documentation. Rather, it’s about strategy stuff.\n\nAOB: The AOB session was led by Ayo, who sought two people who would liaise with the marketing guild in view of the content calendar — Just so we have any content for the socials, the idea is to have two people who would be in close communication with the marketing guild for proper scheduling of posts."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Cjfrankie and Mikasa to attend R&D and Education guild meetings and have them select three members that will represent their WGs in the forthcoming workshop session.",
+      "supabase": "Cjfrankie and Mikasa to attend the R&D and the education guild meeting and have them signpost three members that will represent their WGs in the forthcoming workshop session."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "Photogee",
+      "supabase": "Photoghee"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up, survey, Q1 2025 projections, Marketing Guild, Discord tags",
+      "supabase": "content calendar, Workshop, Budget fitting, R&D guild, Education Guild, Task roster, Async follow up , survey , Q1 2025 projections, Signposting , Marketing Guild"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "funny, resourceful, informative, speedy, looking-ahead, forward-looking",
+      "supabase": "funny , resourceful, informative, speedy , looking-ahead"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
