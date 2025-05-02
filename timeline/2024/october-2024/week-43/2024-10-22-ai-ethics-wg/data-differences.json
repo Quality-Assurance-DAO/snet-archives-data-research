@@ -1,0 +1,22 @@
+{
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2024-10-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
