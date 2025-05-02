@@ -1,0 +1,763 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-11-14",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, CallyFromAuron, CJFrankie, Clement Umoh, Duke, Gorga Siagian, hogantuso, Kateri, LadyTempestt, LordKizzy, martinsoki, Sucre n Spice, Valola",
+      "supabase": "Ashley, CJFrankie, Clement Umoh, Duke, Gorga Siagian, hogantuso, Kateri, LadyTempestt, LordKizzy, martinsoki, Sucre n Spice, Valola, Vani"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Agreeing the minutes of the last meeting.",
+      "supabase": "Agreeing to the minutes of the last meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Facilitation and documentation next meeting.",
+      "supabase": "Agreeing to the minutes of the last meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Town Hall Updates: Cjfrankie suggested an update on the topics to share - he will cover the upcoming skillshare session on Monitoring and Evaluation scheduled for November 21st. Vani also suggested sharing a link to our quarterly report and budget, which will be submitted before the Town Hall updates.”.",
+      "supabase": "Agreeing to the minutes of the last meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Onboarding journeys survey.",
+      "supabase": "Facilitation and documentation next time."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Skillshare matrix and collab with R&D: R&D Guild has had some internal discussion about the Skills database collab with onboarding WG, and will set a date for a discussion session with Onboarding WG.",
+      "supabase": "Town Hall Updates: “Cjfrankie suggested an update on the topics to share during the forthcoming Ambassadors Town Hall meeting: He aims to discuss the upcoming session on “Monitoring and Evaluation scheduled for November 21st. Vani also suggested sharing a link to our quarterly report and budget, which will be submitted before the Town Hall updates.”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Research project: Kateri and Ayo have done three group interviews each. They are documenting the responses, and will share them once it’s finished.",
+      "supabase": "Onboarding journeys survey"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Quarterly report for Q4 2024.",
+      "supabase": "Skillshare matrix and collab with R&D: “LordKizzy hinted that R&D has had some internal discussion about the Skill database collab with onboarding WG. After which, there shall be a session with the onboarding WG.”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Governance update: We had a brief discussion about the newly implemented tier/budget cap system for WG budgets, and everyone seems to embrace the idea.",
+      "supabase": "Research project: “Kateri mentioned that she and Ayo have had three interview sessions each, and they’re documenting the responses, and it’ll be shared once it’s finished.”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "Quarterly report for Q4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "supabase": "Governance update: “We had a brief discussion about the newly implemented tier system for the WG budget, and everyone seems to embrace the idea.”"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Following a discussion on the new budget cap/tiers policy, the onboarding workgroup has embraced the allocation of 8.5k AGIX. It is close to our planned budget, but we noted that a couple of small cuts to our planned budget have been needed.",
+      "supabase": "Following a discussion with the new budget capping policy, the onboarding workgroup has embraced the allocation of 8.5k AGIX, which is close to our planned budget. There was also a supportive atmosphere, with everyone aligning on the next steps!"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Cjfrankie to publicize the upcoming skillshare sessions on “Monitoring and Evaluation” and “Decentralized Governance.”",
+      "supabase": "Cjfrankie to publicize the upcoming sessions on “Monitoring and Evaluation” and “Decentralized Governance.”"
+    },
+    {
+      "field": "agendaItems[0].issues[0].0",
+      "gitbook": "O",
+      "supabase": "“"
+    },
+    {
+      "field": "agendaItems[0].issues[0].1",
+      "gitbook": "n",
+      "supabase": "O"
+    },
+    {
+      "field": "agendaItems[0].issues[0].2",
+      "gitbook": "b",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].3",
+      "gitbook": "o",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[0].4",
+      "gitbook": "a",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].5",
+      "gitbook": "r",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].6",
+      "gitbook": "d",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].7",
+      "gitbook": "i",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].8",
+      "gitbook": "n",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].9",
+      "gitbook": "g",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].10",
+      "gitbook": " ",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].11",
+      "gitbook": "J",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].12",
+      "gitbook": "o",
+      "supabase": "J"
+    },
+    {
+      "field": "agendaItems[0].issues[0].13",
+      "gitbook": "u",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].14",
+      "gitbook": "r",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].15",
+      "gitbook": "n",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].16",
+      "gitbook": "e",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].17",
+      "gitbook": "y",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].18",
+      "gitbook": "s",
+      "supabase": "y"
+    },
+    {
+      "field": "agendaItems[0].issues[0].19",
+      "gitbook": " ",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].20",
+      "gitbook": "S",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].21",
+      "gitbook": "u",
+      "supabase": "S"
+    },
+    {
+      "field": "agendaItems[0].issues[0].22",
+      "gitbook": "r",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].23",
+      "gitbook": "v",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].24",
+      "gitbook": "e",
+      "supabase": "v"
+    },
+    {
+      "field": "agendaItems[0].issues[0].25",
+      "gitbook": "y",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].26",
+      "gitbook": " ",
+      "supabase": "y"
+    },
+    {
+      "field": "agendaItems[0].issues[0].27",
+      "gitbook": "—",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].28",
+      "gitbook": " ",
+      "supabase": "—"
+    },
+    {
+      "field": "agendaItems[0].issues[0].29",
+      "gitbook": "a",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].30",
+      "gitbook": "t",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].31",
+      "gitbook": " ",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].32",
+      "gitbook": "t",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].33",
+      "gitbook": "h",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].34",
+      "gitbook": "e",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].35",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].36",
+      "gitbook": "n",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].37",
+      "gitbook": "e",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].38",
+      "gitbook": "x",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].39",
+      "gitbook": "t",
+      "supabase": "x"
+    },
+    {
+      "field": "agendaItems[0].issues[0].40",
+      "gitbook": " ",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].41",
+      "gitbook": "m",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].42",
+      "gitbook": "e",
+      "supabase": "m"
+    },
+    {
+      "field": "agendaItems[0].issues[0].44",
+      "gitbook": "t",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].45",
+      "gitbook": "i",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].46",
+      "gitbook": "n",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].47",
+      "gitbook": "g",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].48",
+      "gitbook": ",",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].49",
+      "gitbook": " ",
+      "supabase": ","
+    },
+    {
+      "field": "agendaItems[0].issues[0].50",
+      "gitbook": "w",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].51",
+      "gitbook": "e",
+      "supabase": "w"
+    },
+    {
+      "field": "agendaItems[0].issues[0].52",
+      "gitbook": "’",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].53",
+      "gitbook": "l",
+      "supabase": "’"
+    },
+    {
+      "field": "agendaItems[0].issues[0].55",
+      "gitbook": " ",
+      "supabase": "l"
+    },
+    {
+      "field": "agendaItems[0].issues[0].56",
+      "gitbook": "b",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].57",
+      "gitbook": "e",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[0].58",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].59",
+      "gitbook": "l",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].60",
+      "gitbook": "o",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].61",
+      "gitbook": "o",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].62",
+      "gitbook": "k",
+      "supabase": "c"
+    },
+    {
+      "field": "agendaItems[0].issues[0].63",
+      "gitbook": "i",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].64",
+      "gitbook": "n",
+      "supabase": "v"
+    },
+    {
+      "field": "agendaItems[0].issues[0].65",
+      "gitbook": "g",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].66",
+      "gitbook": " ",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].67",
+      "gitbook": "a",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].68",
+      "gitbook": "t",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].69",
+      "gitbook": " ",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].70",
+      "gitbook": "t",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].71",
+      "gitbook": "h",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].72",
+      "gitbook": "e",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].73",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].74",
+      "gitbook": "r",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].75",
+      "gitbook": "e",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].76",
+      "gitbook": "s",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].77",
+      "gitbook": "p",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].78",
+      "gitbook": "o",
+      "supabase": "p"
+    },
+    {
+      "field": "agendaItems[0].issues[0].79",
+      "gitbook": "n",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].80",
+      "gitbook": "s",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].81",
+      "gitbook": "e",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].82",
+      "gitbook": "s",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].83",
+      "gitbook": " ",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].84",
+      "gitbook": "g",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].85",
+      "gitbook": "a",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].86",
+      "gitbook": "t",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].87",
+      "gitbook": "h",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].88",
+      "gitbook": "e",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].89",
+      "gitbook": "r",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].90",
+      "gitbook": "e",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].91",
+      "gitbook": "d",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].92",
+      "gitbook": " ",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].93",
+      "gitbook": "f",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].94",
+      "gitbook": "r",
+      "supabase": "f"
+    },
+    {
+      "field": "agendaItems[0].issues[0].95",
+      "gitbook": "o",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].96",
+      "gitbook": "m",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].97",
+      "gitbook": " ",
+      "supabase": "m"
+    },
+    {
+      "field": "agendaItems[0].issues[0].98",
+      "gitbook": "t",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].99",
+      "gitbook": "h",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].100",
+      "gitbook": "e",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].101",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].102",
+      "gitbook": "O",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].103",
+      "gitbook": "n",
+      "supabase": "O"
+    },
+    {
+      "field": "agendaItems[0].issues[0].104",
+      "gitbook": "b",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].105",
+      "gitbook": "o",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[0].106",
+      "gitbook": "a",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].107",
+      "gitbook": "r",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].108",
+      "gitbook": "d",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].109",
+      "gitbook": "i",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].110",
+      "gitbook": "n",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].111",
+      "gitbook": "g",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].112",
+      "gitbook": " ",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].113",
+      "gitbook": "J",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].114",
+      "gitbook": "o",
+      "supabase": "J"
+    },
+    {
+      "field": "agendaItems[0].issues[0].115",
+      "gitbook": "u",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].116",
+      "gitbook": "r",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].117",
+      "gitbook": "n",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].118",
+      "gitbook": "e",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].119",
+      "gitbook": "y",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].120",
+      "gitbook": "s",
+      "supabase": "y"
+    },
+    {
+      "field": "agendaItems[0].issues[0].121",
+      "gitbook": " ",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].122",
+      "gitbook": "S",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].123",
+      "gitbook": "u",
+      "supabase": "S"
+    },
+    {
+      "field": "agendaItems[0].issues[0].124",
+      "gitbook": "r",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].125",
+      "gitbook": "v",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].126",
+      "gitbook": "e",
+      "supabase": "v"
+    },
+    {
+      "field": "agendaItems[0].issues[0].127",
+      "gitbook": "y",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].128",
+      "gitbook": " ",
+      "supabase": "y"
+    },
+    {
+      "field": "agendaItems[0].issues[0].129",
+      "gitbook": "f",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].130",
+      "gitbook": "o",
+      "supabase": "f"
+    },
+    {
+      "field": "agendaItems[0].issues[0].131",
+      "gitbook": "r",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].132",
+      "gitbook": "m",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[0].133",
+      "gitbook": ".",
+      "supabase": "m"
+    },
+    {
+      "field": "agendaItems[0].issues[0].134",
+      "supabase": "!"
+    },
+    {
+      "field": "agendaItems[0].issues[0].135",
+      "supabase": "”"
+    },
+    {
+      "field": "agendaItems[0].issues[0].136",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].137",
+      "supabase": "\n"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "skillshare matrix, onboarding journeys, Q4 2024 Quarterly report, Q1 2025 budget, Governance, budget caps, budget tiers, Town Hall update, skillshare sessions, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization",
+      "supabase": "skillshare matrix, onboarding journeys, Q2 2024 Quarterly report, Q1 2025 BUDGET, Governance, Town Hall update, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skill database, R&D guild, publicity, decentralization research, Decentralization"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "speedy, productive, Collaborative",
+      "supabase": "speedy , productive, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
