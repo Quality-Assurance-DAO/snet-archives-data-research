@@ -1,0 +1,14 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-11-28",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    }
+  ]
+}
