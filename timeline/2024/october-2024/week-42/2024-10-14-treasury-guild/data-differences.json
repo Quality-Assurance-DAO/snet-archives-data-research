@@ -1,0 +1,69 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-10-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Are there new Policy submissions? No new policy was submitted.",
+      "supabase": "Are there new Policy submissions? No new policy was submitted"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Has there been any feedback/enactments for new policies? No new feedback.",
+      "supabase": "Has there been any feedback/enactments for new policies? No new feedback"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Policy Submission Form (Responses): https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/.",
+      "supabase": "Policy Submission Form (Responses): https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Policy Feedback (Responses): https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/.",
+      "supabase": "Policy Feedback (Responses): https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Updates made to the dashboard which shows the percentiles and numbers.",
+      "supabase": "Updates made to the dashboard which shows the percentiles and numbers"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "The first iteration was a temperature check, 2 people voted against all proposals, It is unclear why.",
+      "supabase": "The first iteration was a temperature check, 2 people voted against all proposals, It is unclear why"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Documents on the objections were made [Governance Memo for Budget Approval Iteration 3] https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing for an overview. These objections should be considered for upcoming quarters. Objections have been collated here https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing.",
+      "supabase": "Documents on the objections were made [Governance Memo for Budget Approval Iteration 3] https://docs.google.com/document/d/1Z7f-486NMdGo2H5w5wF3rhtnLfL4SLsEhqe7_ytowLM/edit?usp=sharing for an overview. These objections should be considered for upcoming quarters. Objections have been collated here https://docs.google.com/document/d/1vzqhY_KDaE5l_4z_NVwr5aNFJKa6f71roslsg9Md0vU/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "The more expensive WGs/Guilds are those with an external focus.",
+      "supabase": "The more expensive WGs/Guilds are those with an external focus"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[8]",
+      "gitbook": "Budget fitting is used to make the requests fit the total budget. WGs/Guilds decide for themselves how to apply this lowering rate. Q4 lowering percentage was 17.4%. Q3 was 24.5%.",
+      "supabase": "Budget fitting is used to make the requests fit the total budget. WGs/Guilds decide for themselves how to apply this lowering rate. Q4 lowering percentage was 17.4%. Q3 was 24.5%"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Governance WG retrospective week of Oct 7th: https://miro.com/app/board/uXjVLV8bexg=/.",
+      "supabase": "Governance WG retrospective week of Oct 7th: https://miro.com/app/board/uXjVLV8bexg=/"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "See Miro of this meeting for more retrospective items: https://miro.com/app/board/uXjVN8kUlbw=/.",
+      "supabase": "See Miro of this meeting for more retrospective items: https://miro.com/app/board/uXjVN8kUlbw=/"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
