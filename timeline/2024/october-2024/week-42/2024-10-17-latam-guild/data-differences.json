@@ -1,0 +1,72 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-10-17",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "SergioBenaR",
+      "supabase": "Sergio"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Daniela Alves, guillermolucero, Martin Rivero, SergioBenaR",
+      "supabase": "Daniela Alves, Guillermo, Martin Rivero, Sergio"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "@SNET_LatAm Program for the second X space; Deep Funding Town Hall Brazil.",
+      "supabase": "@SNET_LatAm Program for the second X space, Deep Funding Town Hall Brazil. "
+    },
+    {
+      "field": "agendaItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Continuing with the development of the X spaces, the second one of Q4 2024 will be held under the leadership of Martín and Sergio. This space will have the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined.",
+      "supabase": "Continuing with the development of the X spaces, the second one of Q4 will be held under the leadership of Martín and Sergio. This space will have the characteristic of providing an update and news from the SingularityNET ecosystem and the ASI. The structure and points for the program for October 18 have been defined."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Martín and Sergio will host the X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem",
+      "supabase": "Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "guillermolucero, inesgav",
+      "supabase": "guillermolucero, ines gavina"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "content calendar, Rewards, X spaces",
+      "supabase": "content calendar, Rewards, X spaces, Meeting Summaries"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Strategic, Task-focused, teamwork",
+      "supabase": "Collaborative, Strategic, Task-focused"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Team Work"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
