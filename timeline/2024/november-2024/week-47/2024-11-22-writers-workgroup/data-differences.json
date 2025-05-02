@@ -1,0 +1,14 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-11-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].learningPoints[0].140",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[1].90",
+      "supabase": "\n"
+    }
+  ]
+}
