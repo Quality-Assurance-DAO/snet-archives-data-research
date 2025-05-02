@@ -1,0 +1,141 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-11-01",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AshleyDawn, effiom, LordKizzy, tevo, TheFreysDefi",
+      "supabase": "advanceameyaw, Ashley, effiom, lord_kizzy, tevo, TheFreysDefi"
+    },
+    {
+      "field": "meetingInfo.meetingVideoLink",
+      "supabase": "https://youtu.be/mPduh-UUTjI"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Overview of the KBWG onboarding miro board.",
+      "supabase": "Overview of the KBWG onboarding miro board"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Historic walkthrough of WG to new member.",
+      "supabase": "Historic walkthrough of WG to new member"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Difference between Knowledge Base WG and Archives WG.",
+      "supabase": "Difference between the Knowledge Base WG and Archives WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Explaining our resource planning process.",
+      "supabase": "Explaining our resource planning process"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Positioning the WG in a way that allows people contribute to avoid waste of rewards.",
+      "supabase": "Positioning the WG in a way that allows people contribute to avoid waste of rewards"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Reviewing the WG Dework Board for October 2024.",
+      "supabase": "Reviewing the WG Dework Board for October 2024"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Meeting Summary for the 01.11.2024 session.",
+      "supabase": "Meeting Summary for the 01.11.2024 session"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Looking ahead to Q1 2025.",
+      "supabase": "Looking ahead into Q1 2025"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Our approach to collecting Items.",
+      "supabase": "Our approach to collecting Items"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "Reward distribution for October participation will be delayed by a week and will be distributed after October rewards have been paid",
+      "supabase": "Reward distribution for October participation would be delayed by a week and would be distributed after October rewards has been paid"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup",
+      "supabase": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "We agreed that funds for drafting Q4 2024 Report will be taken from Process Guild as there was no allocation for it in Knowledge Base's Q4 budget",
+      "supabase": "We agreed that funds for Drafting Q4 Report will be taken from Process Guild as there was no allocation for it on Knowledge Base Q4 budget"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].actionItems[1].text",
+      "gitbook": "Draft Quarterly Report for Q4 2024",
+      "supabase": "Draft Quarterly Report for Q4"
+    },
+    {
+      "field": "agendaItems[1].actionItems[1].assignee",
+      "gitbook": "Effiom, LordKizzy",
+      "supabase": "Effiom, lord kizzy"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Creating GitBook and GitHub accounts.",
+      "supabase": "Creating GitBook and GitHub accounts"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Synchronization of the accounts created.",
+      "supabase": "Synchronization of the accounts created"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "GitHub, we will use Gitbook to enter data.",
+      "supabase": "GitHub, we will use Gitbook to enter data"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Initializing our GitHub repo with a commit on categories.",
+      "supabase": "Initializing our GitHub repo with a commit on categories"
+    },
+    {
+      "field": "agendaItems[2].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "We agreed to get a license Gitbook account either plus or pro eventually - We agreed to use GitBook to enter data - Each Knowledge Base Category would be provided with descriptions",
+      "supabase": "We agreed to get a license Gitbook account either plus or pro eventually"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Ambassador Gitbook, Miro Board, Github, Project Management, Dework, Category description, Q4 2024 Report, Archives WG, rewards",
+      "supabase": "Ambassador Gitbook, Miro Board, Github, Project Management, Dework, Category description, Q4 Report"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Interactive, detailed, collaborative, educative, new people present",
+      "supabase": "Interactive, detailed, collaborative, educative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
