@@ -1,0 +1,24 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-10-31",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, AshleyDawn, CallyFromAuron, Cjfrankie, Effiom, Eric Davies, Gorga Siagian, Kateri, LadyTempestt, lord kizzy, MartinSoki, Onize, Photogee, SucrenSpice, Valola",
+      "supabase": "Advanceameyaw, AJ, AshleyDawn, CallyFromAuron, Cjfrankie, Cjfrankie, Effiom, Eric Davies, Gorga Siagian, Kateri, LadyTempestt, lord kizzy, MartinSoki, Onize, Photogee, SucrenSpice, Valola"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "We agreed the minutes of the last meeting. Vani raised the point that if corrections are made to a summary by WG members, then the documenter needs to make the relevant changes when they add the summary to the meeting summary tool. (In the last meeting summary, the documenter unfortunately didn't do this.).",
+      "supabase": "We agreed the minutes of the last meeting. Vani raised the point that if corrections are made to a summary by WG members, then the documenter needs to make the relevant changes when they add the summary to the meeting summary tool. (In the last meeting summary, the documenter unfortunately didn't do this.)"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
