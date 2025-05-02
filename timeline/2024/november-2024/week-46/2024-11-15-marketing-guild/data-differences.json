@@ -1,0 +1,43 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-11-15",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AshleyDawn, Ayo, Cjfrankie, Eric Davies, esewilliams, kateri, LordKizzy, merryman, SubZero",
+      "supabase": "advanceameyaw, Ashley, Ayo, Cjfrankie, Eric Davies, esewilliams, kateri, lord kizzy, merryman, SubZero"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Q1 2025 budget caps",
+      "supabase": "Meeting Summary for Marketing Guild"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/101ZldCCqnZFaSAuZ0GEcgNl-ctWI-jKgsBJuILV9Zn8/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1dXgr6fnNPQAw_NUQ7-0R_yGLYGqIErnqD-Q4vhudfx0/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Marketing Budget Cap and Tiers: Kizzy presented the current budget cap, highlighting the limited allocation to the Marketing Guild — approximately half of the proposed amount. He also criticized the guild's lack of involvement in governance meetings. Ashley suggested that the budget cap should be reviewed and adjusted regularly to ensure alignment with priorities. Ayo proposed merging some guilds to optimize resource allocation and collaboration.",
+      "supabase": "Marketing Budget Cap: Kizzy presented the current budget cap, highlighting the limited allocation to the Marketing Guild—approximately half of the proposed amount. He also criticized the guild's lack of involvement in governance. Ashley suggested that the budget cap should be reviewed and adjusted regularly to ensure alignment with priorities. Ayo proposed merging some guilds to optimize resource allocation and collaboration."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Budget, Q1 2025 budget, budget cap, budget tiers, Rewards, Governance, transparency, voting transparency, mascot, redundancy, inactive members, membership, Zealot",
+      "supabase": "Budget , Rewards, Governance"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
