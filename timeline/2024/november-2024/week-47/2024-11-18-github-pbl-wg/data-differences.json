@@ -1,0 +1,85 @@
+{
+  "workgroup": "GitHub PBL WG",
+  "meetingDate": "2024-11-18",
+  "differences": [
+    {
+      "field": "meetingInfo.otherMediaLink",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "What do we do async until the next meeting?",
+      "supabase": "What do we do async until the next meeting? - Draft Quarterly Report for Q4 2024 - Prepare Q1 2025 Budget Proposal - Draft meeting summary"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Draft Quarterly Report for Q4 2024.",
+      "supabase": "How do we review lessons?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Prepare Q1 2025 Budget Proposal.",
+      "supabase": "Ideate on new lessons"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Draft meeting summary."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "How do we review lessons?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Ideate on new lessons."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Defined the lessons. Currently there are no strict guidelines for reviewing lessons; we simply use commenting to give feedback. We will continue using Google Docs to review.",
+      "supabase": "Defined the lessons. Currently there are no strict guidelines for reviewing lessons; we simply use commenting to give feedback. We will continue using Google Docs to review"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Should we stop drafting in Google Docs?",
+      "supabase": "Should we stop drafting in Google Docs? - fewer operations to copy paste work - looks like we mostly comment in Discord"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "fewer operations to copy paste work.",
+      "supabase": "Allocate participation rewards"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "looks like we mostly comment in Discord.",
+      "supabase": "Generate quiz examples for all the lessons - Multiple questions per lesson with 4 multiple-choice selection options - Every lesson owner to create minimum 1 question with options"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Allocate participation rewards."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Generate quiz examples for all the lessons."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "Multiple questions per lesson with 4 multiple-choice selection options."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "Every lesson owner to create minimum 1 question with options."
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
