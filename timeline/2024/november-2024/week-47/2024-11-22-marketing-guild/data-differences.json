@@ -1,0 +1,49 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-11-22",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AshleyDawn, Eric Davies, Gorga Siagian, Hamzat, kareem, kateri, LordKizzy, Malik, Mikasa, photogee, SubZero",
+      "supabase": "advanceameyaw, Ashley, Eric Davies, Gorga Siagian, Hamzat, kareem, kateri, lord kizzy, Malik, Mikasa, photogee, SubZero"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Content Calendar: SubZero presented updates from all workgroups, with only the Translator Workgroup pending recorded email input from their representative.",
+      "supabase": "Content Calendar: Sub Zero presented updates from all workgroups, with only the Translator Workgroup pending recorded email input from their representative."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Q1 2025 Budget breakdown: Kizzy presented the budget breakdown to gather input from members.",
+      "supabase": "Budget Breakdown: Kizzy presented the budget breakdown to gather input from members."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Community Initiative funding: Kizzy suggested pushing the community initiative to the sNET Foundation due to budget constraints.",
+      "supabase": "Community Initiative Funding: Kizzy suggested pushing the community initiative to the foundation due to budget constraints."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].decision",
+      "gitbook": "Communication and Collaboration: CJFrankie is to work with Ese on the zealot campaign, and hazmat to work with kenichi on the podcast initiative",
+      "supabase": "Communication and Collaboration: CJ is to work with Ese on the zealot campaign, and hazmat to work with kenichi on the podcast initiative"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Zealy, Collaboration, Onboarding, TH Update, mascot, Q1 2025 budget, budget constraints, Figma, tooling, podcast, content approval, branding, Notion, GitHub, Zealy, collaboration, Writers WorkGroup, video WG",
+      "supabase": "Zealy, Collaboration, Onboarding, TH Update "
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Thoughtful, productive, Deliberative, Brainstorm",
+      "supabase": "Collaborative, Thoughtful , productive, Deliberative, Brainstorm, productive "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
