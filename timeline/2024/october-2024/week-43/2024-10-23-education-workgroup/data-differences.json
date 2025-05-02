@@ -1,0 +1,63 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-10-23",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: Project Based Updates",
+      "supabase": "Project Based Updates"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics.length",
+      "gitbook": 3,
+      "supabase": 4
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "supabase": "\n\n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from different projects, and discussion.",
+      "supabase": "Then after the introduction part , we started having updates from different projects. Following are their discussions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ai For Beginners: Scripts are coming in, 90% complete. Minor editing required to pass the scripts to the community for review.",
+      "supabase": "Ai For Beginners Points to Note : Scripts are coming in , 90% complete . Minor edittings required to pass the scripts to the community for review"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Certification Program: Marketing going well; one announcement made today. Core Contributors were tagged. We will make an announcement in upcoming townhalls and workgroup meetings.",
+      "supabase": "Certification Program Points to Note : Marketing going well , one announcement made today . Contributors also tagged . Make an announcement in upcoming townhalls and workgroup meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Education Guild Website Wiki / CCCP Integration: Design template is being worked on by Gorga and Franklyn and is about 70% complete. Gorga presented his design in Canva; Slate pointed out some stuff and gave suggestions.",
+      "supabase": "Education Guild Website Wiki / CCCP Integration Points to Note : Design template is being worked on by gorga and franklyn and its about 70% complete Gorga Presented his design in canva Slate pointed out some stuff and gave suggestions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Workshop / Webinar Series: Osmium ill, he will be joining in soon.",
+      "supabase": "Workshop / Webinar Series Osmium ill, he will be joining in soon"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "CCCP, announcement, publicity, Core Contributors, Town Hall, scripts,Wiki, Wiki design template, project updates",
+      "supabase": "CCCP, announcement, project updates"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
