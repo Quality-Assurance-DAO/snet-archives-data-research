@@ -1,0 +1,79 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-11-27",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AshleyDawn, BoazB, CollyPride, guillermolucero, hogantuso, kenichi, LordKizzy, Slate, Tevo",
+      "supabase": "advanceameyaw, AshleyDawn, BoazB, CollyPride, guillermolucero, hogantuso, kenichi, lord kizzy, Slate, Tevo"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[6]",
+      "gitbook": "Feedback from the Strategy Guild workshop",
+      "supabase": "Feedback from the strategy workshop"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Guillermo went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Guillermo went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Teams are currently working async on their projects and will give an update at the end of the month"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in Bangkok and he shared the full folder on the METTA libary: https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo didn't have the chance to speack with the METTA team due to the event in bangkok and he shared the full folder on the METTA libary:https://drive.google.com/drive/folders/1EpETWEyKp2EaEIHopotWb7kCkupCZ8KF?usp=sharing, we also had discussion on the early topics for the METTA initiative in Q1 2025"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: Advance spoke on the progress so far, he also noted that 80 % of the project has been done, and also mentioned a call with the Onboarding Workgroup and highlighted the impact of the call and he is hoping to have another call with the Reps of Onboarding Workgroup for clarity on some things that could be kept into consideration.",
+      "supabase": "Follow up on the CSDB: Advance spoke on the progress so far, he also noted that 80 % of the project has been done, and also mentioned a call with the Onboarding Workgroup and highlighted the impact of the call and he is hoping to have another call with the Reps of Onboarding Workgroup for clarity on some things that could be kept into consideration"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Governance Dashboard, lordkizzy couldn't have a call with Guillermo due to his busy schedule but promised to host one in the coming week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "RFPs and Initiatives on OpenCog Hyperon for the R&D Guild: Guillermo mentioned the creation of a proposal from R&D Guild for the Metta coder lab initiative and so highlighted a possible collaboration with Education Guild.",
+      "supabase": "RFPs and Initiatives on OpenCog Hyperon for the R&D Guild: Guillermo mentioned the creation of a proposal from R&D Guild for the Metta coder lab initiative and so highlighted a possible collaboration with Education Guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Legacy System: he noted that he is currently working on the Cardano side of this using Plutus, and AJ is going to help out with the project documentation.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Legacy System: he noted that he was currently working on the cardano side of this using plutus and AJ was going to help out with the project documentation"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Members to express interest in the sheet for facilitation",
+      "supabase": "Members to express interest in the sheet for facilitation,"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, AI tooling, Presentation, Operations, Workshop, Facilitation, CSDB, collaboration skills database, Onboarding WorkGroup, Cardano, Plutus, Legacy system, Governance dashboard, RFP< Open Cog Hyperon",
+      "supabase": "Tool Development, AI tooling, Presentation, Operations , Workshop, Facilitation, CSDB"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, Welcoming, Thoughtful, Friendly, Collaborative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
