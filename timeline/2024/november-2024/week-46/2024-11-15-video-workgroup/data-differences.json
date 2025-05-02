@@ -1,0 +1,103 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-11-15",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of Video WorkGroup. The meeting focused on adjusting to The budget tier system",
+      "supabase": "The meeting focused on adjusting to The Tier system \n-Budget fitting\n-Q4 Report\n-Q1 2025 Budget proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "A brief update from Tuso as he expressed his excitement on getting the role. He added that he hasn’t done much yet, besides setting up and bracing up for the month. Social Management Update (Rojo).",
+      "supabase": "Task Manager Update (Tuso) A brief Update from Tuso as he expressed his excitement on getting the role. He added that he hasn’t done much yet, besides setting up and bracing up for the month. Social Management Update (Rojo) -Updates from our the Social Media Manager. Rojo Announced that we’ve been posting out our regular videos and a couples shorts and we’re doing pretty well on that. -Rojo affirmed that the analytics have been quite stable although not much growth in the past days. -Rojo added that there were no interactions on our mastodon Account so far. He suggested that we need to publicize our Mastodon account to the SNET community so we can get more interactions and push our contents further ."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from the Social Media Manager. Rojo announced that we’ve been posting out our regular videos and a couple of shorts and we’re doing pretty well on that.",
+      "supabase": "Budget fitting and the Tier system -Lord Kizzy Announced that the video workgroup will have to rule out a lot to fit into the new tier system -He added that all recurring task will face a 15% cut , ruling out 10 short videos and 4 long videos and lastly , they'd be no room for a new member in the coming Quarter. -Deliberations around the number of videos to be produced ( both long and shorts) -Deliberations on what stays and what’s to be ruled out. -Deliberations on changing the work group reward system: -Malik suggested that our reward system be shifted to AGIX and not USD anymore. -Rojo affirmed to this adding that our work load could be rewarded hourly in Agix. -Many other concerns were raised concerning the implication of changing the work group reward system. -Tuso and a few others opposed the motion of basing the rewarding system on Agix,stating reasons as to why that should not stand. Some of these reason are stated below: 1. The fluctuations of Agix prices 2. ⁠The video work Group might end up outrunning our allocations. 3. ⁠more work, less reward factor and others. -Lord kizzy and Malik stressed that the either ways, the allocation wouldn’t be enough to cover the VWG operations. -Malik opined that we could try rewarding our task both in USD and AGIX. Lord Kizzy commented on the complexities that will follow. He added that it would complicate things to the task manager and Perry he treasury guild. -Although an inconclusive discussion, we resolved at drawing a pull on the VWG channel to decide the fate of the house."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Rojo affirmed that the analytics have been quite stable although not much growth in the past days.",
+      "supabase": "Clarity on Osmium ASI video proposal Deliberations on accepting Osmium's Video proposal Kizzy added that due to the budget constraints, it might be an uphill battle at the moment. The house agreed that Osmium's content be shared to the Work Group for a review and that will determine his rewards."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "He added that there were no interactions on our Mastodon account so far. He suggested that we need to publicize our Mastodon account to the SNET community so we can get more interactions and push our contents further . Budget fitting and the Tier system."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Lord Kizzy announced that the video workgroup will have to rule out a lot to fit into the new budget cap/tier system. He added that all recurring tasks will face a 15% cut, ruling out 10 short videos and 4 long videos, and there will be no room for new members in Quarter 1 2025."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Deliberations around the number of videos to be produced ( both long and shorts)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Deliberations on what budget elements should stay and what’s to be ruled out. Deliberations on changing the workgroup reward system:."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Malik suggested that our reward system be shifted to AGIX and not USD anymore."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Rojo agreed to this adding that our workload could be rewarded hourly in Agix."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Many other concerns were raised concerning the implication of changing the workgroup reward system."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Tuso and a few others opposed the motion of basing the rewarding system on AGIX, stating reasons as to why that should not stand: 1. The fluctuations of AGIX prices 2. ⁠The video WorkGroup might end up outrunning our allocations. 3. ⁠More work, less reward factor and others."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "LordKizzy and Malik stressed that the either way, the allocation wouldn’t be enough to cover the VWG operations."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "Malik opined that we could try rewarding our tasks both in USD and AGIX. LordKizzy commented on the complexities that will follow. He added that it would complicate things to the task manager and the treasury guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[13]",
+      "gitbook": "Although an inconclusive discussion, we resolved at holding a poll on the VWG channel to decide the fate of the house. Clarity on Osmium's ASI video proposal Deliberations on accepting Osmium's Video proposal Kizzy added that due to the budget constraints, it might be an uphill battle at the moment. The house agreed that Osmium's content be shared to the WorkGroup for a review and that will determine his rewards."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Q4 2024 Report and Q1 Budget Proposal",
+      "supabase": "Q4 Report and Q1 Budget Proposal"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Creating a poll to decide how we will base our reward system (AGIX or USD)",
+      "supabase": "Drawing a pull to decide how we'd bas our reward system (AGIX or USD)"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Prepping the Q4 2024 Report",
+      "supabase": "Prepping up the Q4 Report"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Budget fitting, Reward system, rewards in AGIX, rewards in USD, token price fluctuation, Q4 report, budget tier system, budget cap, Mastodon, ASI video proposal,",
+      "supabase": "Budget fitting, Reward system, Q4 report, Tier system"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, informative, Organised, Thoughtful, repetitive",
+      "supabase": "productive, informative, Organised, Thoughtful , repetitive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
