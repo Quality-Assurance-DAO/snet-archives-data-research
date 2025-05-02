@@ -1,0 +1,54 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-10-11",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AshleyDawn, Ayo, Cjfrankie, Eric Davies, Ese Williams, GorgaSiagian, jaymeon, Kareem, kateri, Kenichi, lord kizzy, malik, Mapula, Mikasa, Moitlheki, Photogee, Temioluwa",
+      "supabase": "Advanceameyaw, Ashley, Ayo, Cjfrankie, Eric Davies, Ese Williams, Gorga, jaymeon, Kareem, kateri, Kenichi, lord kizzy, malik, Mapula, Mikasa, Moitlheki, Photogee, Temioluwa"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 4,
+      "supabase": 5
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Podcast Ideation",
+      "supabase": "Meeting Summary - Marketing Guild - 4 October 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1AjFNtgCGXsr1nOS0JNs2lhBf8m5FXvZUgd1NiveSpGQ/edit",
+      "supabase": "https://docs.google.com/document/d/1MvR6HZjpPTWjvdzlgrxHGrwuOGdA7m115r4ql7Tzrak/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "To engage the audience with more dynamic and visual content, which could increase reach and interaction. This decision affects the marketing team, speakers, and production crew, as they will need to adjust their planning and resources to produce video content.",
+      "supabase": "The rationale behind this decision was to engage the audience with more dynamic and visual content, which could increase reach and interaction. This decision affects the marketing team, speakers, and production crew, as they will need to adjust their planning and resources to produce video content."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Lord kizzy is tasked with speaking to the video workgroup today to discuss how we can unify these contents into a single calendar.",
+      "supabase": "Lord kizzy is tasked with speaking to the video workgroup today to discuss on how we can unify these contents into a single calendar."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "planning, review, content calendar, brand guidelines, community initiatives proposals, social media post request, social media, podcast, podcast format, video",
+      "supabase": "planning, review, content calendar, brand guidelines"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Thoughtful, Well-attended, engagement, forward-thinking, engaging new people",
+      "supabase": "Thoughtful , Well-attended, engagement, forward-thinking, engaging new people"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
