@@ -1,0 +1,117 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-11-28",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "martinsoki, CallyFromAuron",
+      "supabase": "martinsoki"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, CallyFromAuron, CollyPride, Effiom, Gorga Siagian, hogantuso, LadyTempestt, LordKizzy, martinsoki, Sucre n Spice, Valola",
+      "supabase": "Ashley, CallyFromAuron, CollyPride, Effiom, Gorga Siagian, hogantuso, LadyTempestt, LordKizzy, martinsoki, Sucre n Spice, Valola"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Fortnightly meeting discussing how to onboard people to the Ambassador program",
+      "supabase": "Weekly meeting discussing how to onboard people to the Ambassador program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Agreed the minutes of the last meeting.",
+      "supabase": "Agreeing to the minutes of the last meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Skillshare matrix: regular reminder to everyone to add their skills to the Skillshare matrix if they haven't done so.",
+      "supabase": "Skillshare matrix: “we reminded others who have not added their skills to the Skillshare matrix document should fill their skills under the document shared in the meeting.”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Onboarding journeys survey.",
+      "supabase": "Onboarding journeys survey"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "GitHub project board: Onboarding WG will be managing itself via a Project Board on the Ambassador Program GitHub Organization as of January. Anyone not yet a member of the Ambassador Program GitHub Organization, please send your GitHub username to Sucre n Spice as soon as possible so that she can add you.",
+      "supabase": "GitHub project board: “If you are not yet a member of the Ambassadors GitHub Organization, please send your GitHub username to SucrenSpice as soon as possible so that she can add you to the Onboarding GitHub project."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Budget consent process - any Onboarding WG member who is also a Core Contributor should please complete a consent form for Onboarding’s budget.",
+      "supabase": "It was discussed in the meeting that Core Contributors should please Consent for Onboarding’s budget ."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Skillshare matrix and collab with R&D: some members of Onboarding had a call with R&D on 22nd Nov; R&D have made some changes to their Collaboration Skills Database based on feedback from Onboarding and once they are done they will present it to the workgroup.",
+      "supabase": "Skillshare matrix and collab with R&D: “LordKizzy said it was a work in progress and changes have been made based on the feedback we got from the call with the Reps of Onboarding Workgroup and once we are done will will present it to the workgroup.”"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "LordKizzy to prepare the Facilitating/Documenting roster for Q1.",
+      "supabase": "It was decided for LordKizzy to prepare the Facilitating/Documenting roster for Q1."
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 6,
+      "supabase": 5
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Cjfrankie to publicize the upcoming skillshare session on “Decentralized Governance.”",
+      "supabase": "Cjfrankie to publicize the upcoming sessions on “Decentralized Governance.”"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "5 December 2024",
+      "supabase": "12 December 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Vani to lead Decentralised Governance session on 5th December.",
+      "supabase": "Vani to lead Decentralised governance on 5th of December."
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "LordKizzy to reach out to CJfrankie to facilitate and Ayo to document for the next meeting.",
+      "supabase": "LordKizzy to reach out to CJfrankie to [Facilitate] and Ayo [Document] for the next meeting."
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Onize to give an update in the next meeting on any interesting replies to the Onboarding Journeys survey",
+      "supabase": "Onize to give an update on any interesting replies to the survey"
+    },
+    {
+      "field": "agendaItems[0].issues.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].issues[0].27",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].issues[1].39",
+      "supabase": "\n"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "skillshare matrix, onboarding journeys, Q1 2025 budget, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skills database, R&D guild, publicity, decentralization research, Decentralization, research project",
+      "supabase": "skillshare matrix, onboarding journeys, Q1 2025 BUDGET, budget caps, skillshare session, monitoring and evaluation, M&E, decentralized governance, collaboration skill database, R&D guild, publicity, decentralization research, Decentralization, skillshare sessions, research project"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "speedy, Friendly, Casual",
+      "supabase": "speedy , Friendly, Casual"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
