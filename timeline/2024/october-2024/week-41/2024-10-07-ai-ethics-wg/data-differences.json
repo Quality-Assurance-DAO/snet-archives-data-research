@@ -1,0 +1,94 @@
+{
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2024-10-07",
+  "differences": [
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "Duke, CallyFromAuron, Onize",
+      "supabase": "Duke"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AdvanceAmeyaw, aetherblade, AshleyDawn, CallyFromAuron, Clement Umoh, Duke, Ese Williams, kateri, Kenichi, LadyTempestt, Onize, Osmium, PG, TheFreysDeFi, valola",
+      "supabase": "Advance Ameyaw, aetherblade, CallyFromAuron, Clement Umoh, Duke, Ese Williams, kateri, Kenichi, LadyTempestt, Onize, PG, valola"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "We began by going over the projects board on GitHub, beginning with the tasks \"in-progress\".\n\n-  Most people still have their Q3 interview tasks in \"to-do\" - they were reminded to move them to \"in progress\" once they start interviewing. We noted that Q3 interviews will be costed under Q3 budget although we are aware that some will not be finished until way into Q4. There’s a soft deadline in place of 14th November; but we’ll set final *final* deadlines with people individually and async. \n- Payment for the work people did at AGI-24: The Foundation has said that people may invoice individually in fiat if they are able to; so we are now waiting for information on exactly what an invoice needs to include and how it should be formatted. However, since not everyone is legally able to invoice, we are still pursuing a solution which will enable payments to be processed via the Ambassador Program's treasury system, although there are obvious difficulties given that the Ambassador Program has no official legal status, so it is difficult for the Foundation to process payment.\n- Documenting GEI sessions: Jenn has not finished these yet, and hasn't responded to messages. We *could* reassign the task if there are Read.ai recordings available; but perhaps not a priority - we discussed whether we could let it go.\n\nTasks \"to do\":\n- Co-chair mentee: Duke and Clement have expressed interest in the role in the past; they have agreed between them that Clement will take it for Q4 2024.\n- Q4 interviewing: Issues have now been created on the board for Q4 interviews, but most people have not begun yet. Questions and updates can be raised in the Interviewers group chat on Discord.\n- Survey-sharing: 6 people indicated interest in survey sharing: PG, Kenichi, Valola, Clement, Onize and Ashley. \n- Survey-sharing payment: The budget for this work is $30 each for 6 people, but how much sharing of the AI Ethics survey should one do for $30? We agreed that payment will be based on evidence that the survey has been shared, rather than on recording how many actual responses are garnered, since it's out of people's control how many replies they get, and because confidentiality and data-protection issues will arise if we try to keep evidence of who the respondents are. So as long as WG members can show they have done the work of sharing the survey and giving the information, that is enough. We also agreed that, for Q4 at least, surveys should be shared online even for personal contacts (so for instance, if you are sharing it to friends and family, you should email it to them rather than just telling them about it, to make it more possible to evidence that you did it).  Several suggestions were made for approaches to sharing - for example, in relevant threads on Reddit; via Twitter; and Kenichi mentioned sharing it at a conference he will be attending  this November in Lagos.",
+      "supabase": "We began by going over the projects board on GitHub. \n\n- Welcomed everyone\n- Began with the tasks in the \"in-progress\" and Colleen was the first to have moved hers to In-progress which means she had begun interviewing people  \n- A lot of people still have the interview tasks on \"to-do\" and gave reasons why they hadn't made progress with it. A final final deadline will be set, however, to put a cap on things\n-The holdup for the pay on the AGI tasks is mostly feedback on how the invoice will be and what format it will take, the back and forth is mostly on the legality of things, but this invoice solution will put a cap to it\n- Updates on where people were in their interview process was taken\n- Q4 interviews and how we can already begin\n- How much sharing of the AIEthics survey should one do for $30? Especially since we already agreed on the budget, $30 for 6 people each, but we have set no target for this task yet. \n- The survey to gather data from people about their concerns on AI ethics and their thoughts on it, we discussed this for a bit on how it should be distributed. \n- 6 people indicated interest in survey sharing: PG, Kenichi, Valola, Clement, Onize and Ashley\n- A suggestion was made for sharing in focus groups on social media like Reddit, another ideated sharing at a conference. \n \n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We agreed that if, by the WG meeting on 4th November, a lot of people have not yet completed their interviews, we will see if there is a need to set up a meeting to figure out the blockers and find a solution to moving forward.",
+      "supabase": "We agreed that if by November a lot of people hadn't done interviews, we should set up a meeting to figure out the blockers and find a solution to moving forward."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "People might be feeling anxious over preparations or might need further support",
+      "supabase": "People might be feeling anxious over preparations and looking at the reasons will help make the experience better for both interviewer and interviewee"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "As soon as Vani gets info on how an invoice to the Foundation needs to look, she will open individual issues on the board to get the AGI-24 conference tasks ready for pay.",
+      "supabase": "As soon as Vani gets feedback on how the invoice looks, she will open individual issues on the board to get the AGI conference tasks ready for pay"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "LadyTempestt, as async work manager, will talk to interviewers individually to set 'final final' deadlines for Q3 interviews",
+      "supabase": "Talking to interviewers individually to set a 'final final' deadline for the end of Q3 interviews"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "Interviewers' individual circumstances might vary, so we need to set individual deadlines",
+      "supabase": "This is crucial to help us move forward in the process especially since we still have interviews for Q4"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "Duke is handing over the co-chair mentee task to Clement",
+      "supabase": "Duke handing over the co-chair mentee task to Clement"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].decision",
+      "gitbook": "Anyone interested in Q4 interviews who has not yet added their name and the details of who they want to interview to the list in the WG Google sheet, should do so as soon as possible.",
+      "supabase": "People interested in Q4 interviews to add names to the group sheet"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[5].decision",
+      "gitbook": "Colleen will document the next meeting on 4th November, and LadyTempestt will take the 2nd of December.",
+      "supabase": "Duke will document the next meeting on the 7th of October, Colleen will take the 4th of November documentation, and LadyTempestt will take the 2nd of December documentation."
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 3,
+      "supabase": 1
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Vani to contact Jenn re: documention of GEI meetings.",
+      "supabase": "Vani to reach out to Esther for the link for the survey sharing"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "CallyFromAuron",
+      "supabase": "Vanessa"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "4 November 2024",
+      "supabase": "7 October 2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Budget, Interviews, deadlines, Documentation, survey-sharing, Q4 2024 budget, budget-fitting, AGI-24, payment processing, sNET Foundation, Q4 admin roles,  data protection,",
+      "supabase": "Budget , Interviews, Documentation, survey "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
