@@ -1,0 +1,75 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-11-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "After the introduction part, everyone's opinion was asked in regards to the proposed budget caps for Q1 2025. There were mixed opinions: some liked it, some didn't, and most had concerns on certain aspects of budget caps.",
+      "supabase": "After the introduction part, everyone's opinion was asked in regards to the proposed budget caps for Q1 2025. There were mixed opinions: some liked it, some didn't, and most had concerns on certain aspects of budget caps"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ai For Beginners - Points to Note:.",
+      "supabase": "Ai For Beginners - Points to Note: - All the scripts were reviewed and feedback was given on each report by Slate, approving the ethics script and leaving suggestions on the rest - Ese also notified that the video production will soon be beginning after the scripts are good to go"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "All the scripts were reviewed and feedback was given on each report by Slate, approving the ethics script and leaving suggestions on the rest.",
+      "supabase": "CCCP (Certification Program) - Points to Note: - There are a total of 15 days left and the certification program will be ending by the end of November - Ese notified that the announcements have been going out regularly and a live demo will also be showcased by her soon - Slate notified that if nobody is able to complete the certification, the top 3 runners up will be rewarded with certifications and rewards."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Ese also notified that the video production will soon be beginning after the scripts are good to go.",
+      "supabase": "Education Guild Website Wiki / CCCP Integration - Points to Note: - Slate had a call with Franklyn and Gorga regarding the website design, and they have finally finalized the design of the website - A brief overview of the website design was given by them, explaining each aspect - Data scraping of data on sNET ecosystem projects has also started"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "CCCP (Certification Program) - Points to Note:."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "There are a total of 15 days left and the certification program will be ending by the end of November."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Ese notified that the announcements have been going out regularly and a live demo will also be showcased by her soon."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Slate notified that if nobody is able to complete the certification, the top 3 runners up will be rewarded with certifications and rewards."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Education Guild Website Wiki / CCCP Integration - Points to Note:."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Slate had a call with Franklyn and Gorga regarding the website design, and they have finally finalized the design of the website."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "A brief overview of the website design was given by them, explaining each aspect."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "Data scraping of data on sNET ecosystem projects has also started."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
