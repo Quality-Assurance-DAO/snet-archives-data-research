@@ -1,0 +1,50 @@
+{
+  "workgroup": "AI Sandbox/Think-tank",
+  "meetingDate": "2024-10-31",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Showcasing the first presentation of the exhibition made by osmium on the HeyGen.ai: he shared the link to the presentation https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted.",
+      "supabase": "Showcasing the first presentation of the exhibition made by osmium on the HeyGen.ai: he shared the link to the presentation https://www.canva.com/design/DAGU_GoaEO4/ki_gr7RNZMpLqEtLLLIA8A/view?utm_content=DAGU_GoaEO4&utm_campaign=designshare&utm_medium=link&utm_source=editor where he highlighted - a) Overview of the toolset (Detailed Description and Use Cases) - b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart) - c) Demonstration (live demo or tutorial/ video walkthrough) - d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "a) Overview of the toolset (Detailed Description and Use Cases).",
+      "supabase": "R&D Guild MeTTa Coder Lab / @SNET_Ambassadors Program Survey: Lordkizzy shared the survey form and the call and asked for more participation from members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "b) Architecture and Technology Stack (Library or repository of the framework of AI model or visual or graphical representation of the architecture through diagrams or flow chart).",
+      "supabase": "AIS [artificial immune system]: Osmium gave a brief introduction to the topic and we decided to have further discussions on it in the next session"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "c) Demonstration (live demo or tutorial/ video walkthrough).",
+      "supabase": "Details of next Think-tank session: Lordkizzy shared a document https://docs.google.com/document/d/18mYSY9PgU5aYiRRKMOLzaflD1r9vJob6SUvO2o4AhJI/edit?tab=t.0 for the theoretical debate in the next think-tank session, to give more context to the contestants For the next Sandbox session: Lots of members expressed interest in hosting our next sessions, including Gorga, Malik, Kateri and Advanceameyaw"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "d) Outcome Report or Results and Impact (illustration through case studies or showcasing measurable results eg. key performance metrics)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "R&D Guild MeTTa Coder Lab / @SNET_Ambassadors Program Survey: Lordkizzy shared the survey form and the call and asked for more participation from members."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "AIS [artificial immune system]: Osmium gave a brief introduction to the topic and we decided to have further discussions on it in the next session."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Details of next Think-tank session: Lordkizzy shared a document https://docs.google.com/document/d/18mYSY9PgU5aYiRRKMOLzaflD1r9vJob6SUvO2o4AhJI/edit?tab=t.0 for the theoretical debate in the next think-tank session, to give more context to the contestants For the next Sandbox session: Lots of members expressed interest in hosting our next sessions, including Gorga, Malik, Kateri and Advanceameyaw."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
