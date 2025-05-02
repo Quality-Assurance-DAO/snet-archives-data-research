@@ -1,0 +1,83 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-11-11",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Low participation at start time of meeting.",
+      "supabase": "Low participation at start time of meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We go over the meeting time and still a lot of agendas unexplored.",
+      "supabase": "We go over the meeting time and still a lot of agendas unexplored"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Assigned Core Activities to do before next meeting.",
+      "supabase": "Assigned Core Activities to do before next meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "There are practically no funds for documentation budgeted in Q4.",
+      "supabase": "There are practically no funds for documentation budgeted in Q4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Q1 2025 Treasury Guild Proposal Draft: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs.",
+      "supabase": "Q1 2025 Treasury Guild Proposal Draft: https://docs.google.com/document/d/1dxcnnRhG_kFBmtvlmuiZ-Ddx_tcCeT9wq0_InuSkeGs"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "The process is transparent and we can get access to see how the process works and what the challenges are.",
+      "supabase": "The process is transparent and we can get access to see how the process works and what the challenges are"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "I like that everybody can have the chance of doing operations.",
+      "supabase": "I like that everybody can have the chance of doing operations"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "New people should NOT take entire meeting time to process contributions.",
+      "supabase": "New people should NOT take entire meeting time to process contributions"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "We should distinguish skilled operators from new operators.",
+      "supabase": "We should distinguish skilled operators from new operators"
+    },
+    {
+      "field": "agendaItems[2].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "Start having again more detailed development updates before meeting starts - Have stricter rules on how long we train new operators to allow enough time to create bundle transactions",
+      "supabase": "Start having again more detailed development updates before meeting starts"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "New policy to help establish categories and budget allocations for each category https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk.",
+      "supabase": "New policy to help establish categories and budget allocations for each category https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "We shared examples of how budget allocations are calculated and how the averages affect results.",
+      "supabase": "We shared examples of how budget allocations are calculated and how the averages affect results"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
