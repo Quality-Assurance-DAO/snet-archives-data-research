@@ -1,0 +1,68 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-11-14",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, AJ, Ayo, CJFrankie, Clement Umoh, Duke, Effiom, Elahvmadi, Eric Davies, esewilliams, hogantuso, martinsoki, Onize, Sucre n Spice, Tee",
+      "supabase": "Advanceameyaw, AJ, Ayo, Cjfrankie, Clement, Daniel Effiom, Duke, Elahvmadi, Eric Davies, Ese Williams, esewilliams, Hogan Robert, Martin Soki, Onize, SucrenSpice, Tee"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Kickoff: The African Guild meeting began with Duke welcoming everyone. He highlighted the fact that we haven't done greetings in different languages for some time now. We glanced over the minutes from the last meeting summary and no comment was raised.\n\nUpdate on Marketing Initiatives: CJ Frankie highlighted that there is no current update for now and they are still on it. Duke said that they need this to be completed before the end of this quarter.\n\nResearch on indigenous tooling: Onize stated that the research began in the last part of Q3 and is tailored to African needs to foster African engagement in the SingularityNet ecosystem and wider AI ecosystem. The research was carried out through a survey that was sent out to people both in and out of the sNET ecosystem to have a broad grasp. The major three issues raised were that 1) people needed more education on what AI was doing to mitigate their fear, 2) people wanted to see how advancing technology makes good health care and 3) people wanted to see how developers will use the tool to make advancing technology. The issue encountered doing the research is that a lot of people don't like to fill long surveys.\nIn conclusion, Onize suggested that we should focus on tools that will educate the public, tools that will help health care professionals and we should create co-pilot assistance that would help developers and the public at large in an African way.\nDuke appreciated the team but noted that the recommendation suggested was good but generic, and that the Guild is looking for recommendations for tools that African Guild can create which will benefit the SingularityNet ecosystem.\n\nTool update by Advanceameyaw: Advanceameyaw explained that tool explores on numbers. He said that math is everything; we know famous AI tools like chatGPT but the other aspect we don't know, like mathematical models involved in it. This tool aims at bringing simplicity to the whole numbers and mathematical concern. He noted how math started from Africa by the Egyptians and we have to get to the core of our foundation. It will help our understanding and without mathematics there is no understanding of the universe.\n\nQ4 A.M.A Session Update: Onize said that they have reached out to the speakers and have sent them their itinerary and the date as being fixed for 29th November, 2024. Duke noted that the A.M.A is for everyone both in and out of the ambassador program and he encouraged us to invite our friends. \n\nWe welcomed new members and introductions were made. \n\nQ1 2025 budget: Duke said that there is a consensus in Governance WG to have a system of tiered budget caps in the new quarter with the intention to help us mitigate the delay usually experienced in the budget consent and budget fitting process. So the African guild was initially given a cap of 8,500 AGIX which is equivalent to 5,270 US dollars at the selected exchange rate of $0.55. Due to the budget allocated we will need to focus more on operational tasks such as our recurring weekly meting tasks; our project and workshop sessions; and others. Duke has requested an additional 1,500 AGIX to increase the total to 10,000 AGIX, but it is still pending. The finalized budget fitting will be presented to the Treasury before the 25th of November.\n\nAOB: Tee inquired about the research document, expressing interest to follow-up in the research. Duke said that the research has been concluded and also noted that we are taking a bit of a slow down on conducting more research because we have already done quite a number of researches in the pipeline. And we are now full blown into our implementation phase. So all of the outputs that we have already gathered from our previous quarter research will now be used in Q1 of 2025 where we are now implementing.",
+      "supabase": "Kickoff: The African guild meeting began with Duke welcoming everyone to the meeting. He highlighted the fact that we haven't done greetings in different languages for some time now. We glanced over the minutes from the last meeting summary and no comment was raised.\n\nUpdate on Marketing Initiatives: CJ Frankie highlighted that there is no current update for now and they are still on it. Duke said that they need this to be completed before the end of this quarter.\n\nResearch on indigenous tooling: Onize stated that the research began in the last part of Q3 and this research is tailored to African needs to foster engagement within Singularity Net ecosystem and AI ecosystem. The research was carried out through a survey and was sent out to people both in and out of the ecosystem to have a broad grasp. It was noted that people highlighted pending issues they had and the major three were that they needed more education on what AI was doing to mitigate their fear, the second was that people wanted to see how advancing technology makes good health care and the last was that they wanted to see how developers will use the tool to make advancing technology. The issue encountered doing the research is that a lot of people don't like to fill long survey \nIn conclusion, she suggested that we should focus on tools that will educate the public, tools that will help health care professionals and we should create co-pilot assistance that would help developers and the public at large in an African way.\nDuke appreciated the team but noted that the recommendation suggested was good but generic that the guild is looking for recommendations of tools that African guild can create and it will benefit the SingularityNet ecosystem.\n\nTool update by Advanceameyaw: Advanceameyaw explained that tool explore on numbers. He said that math is everything, we know famous AI like chatGPT but the other aspect we don't know like mathematical models involved in it. This tool aims at bringing simplicity to the whole numbers and mathematical concern. He noted how math started from Africa by the Egyptians and we have to get to the core of our foundation. It will help our understanding and without mathematics there is no understanding of the universe.\n\nQ4 A.M.A Session Update: Onize said that they have reached out to our speakers and have sent them their itinerary and the date as being fixed for 29th November, 2024. Duke noted that the A.M.A is for everyone both in and out of the ambassador program and he encouraged us to invite our friends. \n\nWe welcomed new members and introductions were made. \n\nQ1 2025 budget: Duke said that there is a consensus in governance to have a tiered system towards the approach of budget in the new quarter with the intention to help us migrate the delay usually experienced within budget consent and everything that has to do with budget. So the African guild was given 8,500 AGIX which is equivalent to 5,270 us dollars. Due to the budget allocated we would only be focusing more on operational tasks that includes our recurring weekly task, our project and workshop session and others. Duke requested an additional 1,500 AGIX to increase the total to 10,000 AGIX, but it is still pending. The finalized budget fitting will be presented to the Treasury before the 25th of November.\n\nAOB: Tee inquired about the research document, expressing interest to follow-up in the research. Duke said that the research has been concluded and also noted that we are taking a bit of a slow down on conducting more research because we have already done quite a number of researches in the pipeline. And we are now full blown into our implementation phase. So all of the outputs that we have already gathered from our previous quarter  research will now be used in Q1 of 2025 where we are now implementing.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "It was decided that if the marketing initiative tasks is not completed before ending of the quarter it may not be useful to engage with again",
+      "supabase": "It was decided that if the market initiative tasks is not completed before ending of the quarter it may not be useful to engage with again"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "Sucre n Spice",
+      "supabase": "SucrenSpice"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "Sucre n Spice",
+      "supabase": "Sucren"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "esewilliams, Clement Umoh, Ayo, Onize",
+      "supabase": "Ese Williams, Clement, Ayo, Onize"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Ayo (team rep) to update on the research for developing Indigenous AI tooling.",
+      "supabase": "Ayo (team rep) to update on the research for developing Indigenous AI tooling (it’s on the agenda)."
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "Ayo",
+      "supabase": "esewilliams, Onize, Emmanuel(advanceameyaw), Ayo"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "AMA Session Updates, community engagement, Marketing initiative, indigenous tooling, Tool Development budget caps, Q1 2025 budget, timeliness,",
+      "supabase": "AMA Session Updates, African guild, community engagement, Marketing initiative, indigenous tooling , Tool Development"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "informative, Thoughtful, new people present",
+      "supabase": "informative, Thoughtful "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
