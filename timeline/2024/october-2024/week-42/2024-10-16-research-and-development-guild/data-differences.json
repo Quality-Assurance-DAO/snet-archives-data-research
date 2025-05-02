@@ -1,0 +1,89 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-10-16",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, AshleyDawn, guillermolucero, kelvin, Kenichi, lord kizzy, Mikasa, osmium",
+      "supabase": "Advanceameyaw, AJ, AshleyDawn, Guillermo, kelvin, Kenichi, lord kizzy, Mikasa, osmium"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database follow up: Advanceameyaw highlighted the issues with hosting and integration with the projects (WEB3 CONTRIBUTOR'S DASHBOARD & REPUTATION SYSTEM). The operational team will follow up on this async.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database follow up; ADVANCEAMEYAW highlighted the issues with hosting and integration with the projects (WEB3 CONTRIBUTOR'S DASHBOARD & REPUTATION SYSTEM) and the operational team will follow up on this async"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Code Lab Initiative: Guillermo gave a presentation on the Metta Coder labs initiative: the structure, the benefits through education using use cases, and the way forward. Members shared some questions and the Guild approved the initiative.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo gave a presentation on the Metta Coder labs initiative: the structure, the benefits through education using use cases, and the way forward, the members shared some questions and the Guild approved the initiative"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided to adopt monthly R&D Guild Metta coder lab sessions",
+      "supabase": "We decided to adopt a monthly R&D Guild Metta coder lab sessions"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "It will help keep members of the guild engaged and it also helps as a means for education",
+      "supabase": "It will help keep members of the guild engaged and its also helps as a means for education"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "kenichi to give a 3-minute presentation for the final deliverables on Legacy system at Townhall on the 22nd Oct",
+      "supabase": "kenichi to give a 3 minutes presentation for the final deliverables on Legacy system in the Townhall on the 22nd"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Lordkizzy & Guillermo to schedule a follow-up call with the team for CSDB to discuss the integration and hosting of projects",
+      "supabase": "Lordkizzy & Guillermo to schedule a follow up call with the team for CSDB to discuss the integration and hosting of projects"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "lord kizzy, guillermolucero",
+      "supabase": "lord kizzy, Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "lord kizzy, guillermolucero",
+      "supabase": "lord kizzy, Guillermo"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Metta, contributor dashboard",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, Operations , Metta"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
