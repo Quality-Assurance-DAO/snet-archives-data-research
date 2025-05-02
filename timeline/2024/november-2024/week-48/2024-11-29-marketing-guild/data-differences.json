@@ -1,0 +1,39 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-11-29",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, Aguboss, AshleyDawn, CJFrankie, esewilliams, kareem, kateri, LordKizzy, photogee, SubZero",
+      "supabase": "advanceameyaw, Aguboss, Ashley, CJFrankie, esewilliams, kareem, kateri, lord kizzy, photogee, SubZero"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Marketing Guild Budget: Marketing Guild's budget has been finalized and submitted, moving to the consent round for approval.",
+      "supabase": "Marketing Guild Budget: The Marketing Guild's budget has been finalized and submitted, moving to the consent round for approval."
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Budget, Q1 2025 budget, consent process, Governance, Roles, Zealy, podcast, Graphics initiative, Zealy, meeting facilitation, restructuring",
+      "supabase": "Budget , Governance, Roles, consent"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Thoughtful, warm, Friendly, productive, constructive criticism",
+      "supabase": "Thoughtful , warm, Friendly, productive, contructive criticism"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
