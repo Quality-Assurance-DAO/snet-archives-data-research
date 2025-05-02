@@ -1,0 +1,38 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-11-08",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AshleyDawn, cjfrankie, devon, emmanuelisaac, Evelyn Robert, Gorga Siagian, Kateri Nick, LadyTempestt, Mikasa",
+      "supabase": "Ashley Coventry, cjfrankie, devon, Evelyn Robert, Gorga Siagian, Kateri Nick, LadyTempestt, Mikasa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the writers' workgroup",
+      "supabase": "Weekly meeting of the writer's workgroup "
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Kick-off:  The weekly WWG meeting started at 3:10 PM with a welcome greeting from Cjfrankie. We began by reviewing the action items from the last meeting, including Kenichi's publication of the November 2nd ecosystem digest on Substack (see https://snetambassadorprogram.substack.com/p/singularitynet-ecosystem-digest-november). Cjfrankie encouraged everyone to read, subscribe, and engage with the newsletter if they haven't already. \n\nDework Task Update: At the meeting, members including Lady Tempestt, Gorga, and Cjfrankie had ongoing tasks assigned on Dework. Lady Tempestt delegated her draft, 'Apespaces: What is Twin Protocol AI,' to Mikasa. Cjfrankie and Gorga have pending tasks and will make their submissions soon. Mikasa also added that she’d be expecting the next ecosystem digest draft from Cjfrankie by tomorrow.\n\nExploring Web3 Publishing Platforms:  Following a discussion on Medium page monetization, we decided to explore more Web3 publishing platforms. To this end, we have identified some potential tools, including Mirror, Lens, Paragraph, Arweave, and Warpcast. Cjfrankie highlighted the advantages of monetizing on Web3 platforms, such as decentralized revenue streams through NFT sales, direct ownership and control over content and revenue, community building via tokenization, and enhanced privacy and security. We need to learn more about these platforms, so Cjfrankie assigned some WG members to conduct research and present their findings in the next meeting. This research will cover each tool's functionality, how DAOs can use it, and pricing. Cjfrankie chose Mirror, Mikasa showed interest in Lens, Emmanuel Isaac selected Arweave, Love was assigned Paragraph, and Evelyn took Warpcast.\n\nQ1 Budget and Q4 Report: Lady Tempestt sought clarification on the status of the Q1 2025 budget and Q4 2024 report. Mikasa cleared the air by saying that the Q1 budget is drafted already while the Q4 report is in progress. Lady Tempestt insisted that we share the drafts in the WWG channel so everyone can see it and leave comments. \n\nContent Calendar: As a matter of finality, the meeting featured Kateri, who kicked off a discussion about getting a list of email addresses from WWG members which will be given access to the content calendar so posts across the socials will be unified, time bound, and reach a wider audience. \n\nWe called it a day and we ended the meeting at 3:30 PM.",
+      "supabase": "Kick-off:  The weekly WWG meeting started at 3:10 PM with a welcome greeting from Cjfrankie. We began by reviewing the action items from the last meeting, including Kenichi's publication of the November 2nd ecosystem digest on Substack. Cjfrankie encouraged everyone to read, subscribe, and engage with the newsletter if they haven't already. \n\nDework Task Update: At the meeting, members like Lady Tempestt, Gorga, and Cjfrankie had ongoing tasks assigned on Dework. Lady Tempestt delegated her draft, 'Apespaces 🍌: What is Twin Protocol AI,' to Mikasa. Cjfrankie and Gorga have pending tasks and will make their submissions soon. Mikasa also added that she’d be expecting the ecosystem digest draft from Cjfrankie by tomorrow.\n\nExploring Web3 Publishing Platforms:  Following a discussion on Medium page monetization, we decided to explore more Web3 publishing platforms. To this end, we have identified some potential tools, including Mirror, Lens, Paragraph, Arweave, and Warpcast. Cjfrankie highlighted the advantages of monetizing on Web3 platforms, such as decentralized revenue streams through NFT sales, direct ownership and control over content and revenue, community building via tokenization, and enhanced privacy and security. Additionally, we aim to learn more about these platforms, so Cjfrankie assigned some WG members to conduct research and present their findings in the next meeting. This research will cover each tool's functionality, how DAOs can use it, and pricing. Cjfrankie chose Mirror, Mikasa showed interest in Lens, Emmanuel Isaac selected Arweave, Love was assigned Paragraph, and Evelyn took Warpcast.\n\nQ1 Budget and Q4 Report: Lady Tempestt sought clarification on the Q4 budget and Q4 report preparation status, Mikasa cleared the air by saying that the Q1 is drafted already while the Q4 report is in progress. Lady Tempestt insisted that we share the DRAFTs in the WWG channel just so everyone can see it and leave comments. \n\nContent Calendar: As a matter of finality, the meeting featured Kateri, who kicked off a discussion about getting a list of email addresses from the WWG, these emails will be given access to the content calendar so posts across the social will be unified, time bound, and reach a wider audience. We called it a day and we ended the meeting at 3:30 PM.\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[0].54",
+      "supabase": "\n"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Q1 2025 Budget, Q4 2024 report, Web3 publishing platforms, medium, ecosystem digest, partnership program, Paragraph, Mirror, Lens, Substack, Arweave, Warpcast, monetization, content calendar, revenue, Marketing Guild, NFT sales, tokenization, community, community building",
+      "supabase": "Budget , Q4 report, Web3 publishing platforms, medium, ecosystem digest, partnership program, paragraph, mirror, lens, Substack"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
