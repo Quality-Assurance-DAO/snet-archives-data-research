@@ -1,0 +1,99 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-10-23",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "LordKizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, AshleyDawn, Clement Umoh, guillermolucero, LordKizzy, osmium, PeterE",
+      "supabase": "Advanceameyaw, AJ, AshleyDawn, Clement Umoh, Guillermo, lord kizzy, osmium, Peter"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Review of last meeting's Action Items",
+      "supabase": "Review of last meeting summary Action Items"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "R&D's New Metta Coder lab",
+      "supabase": "R&D New Metta Coder lab \n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction for new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: going forward, updates on development will be given monthly rather than weekly.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: going forward updates on development will be given monthly rather than weekly"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Metta Coder Lab Initiative: Guillermo highlighted that the metta coder lab initiative will be moved to the next quarter. Guillermo also shared the metta coder lab survey form for review before publication.",
+      "supabase": "R&D Guild Metta Code Lab Initiative: Guillermo highlighted that the metta coder lab initiative will be moved to the next quarter. guillermo also shared the metta coder lab survey form for review before publication"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system.",
+      "supabase": "Follow up on the CSDB: lordkizzy and guillermo hosted a call with the team to discuss the challenges and expectations for the project, we also discussed the collaboration of this project with Onboarding WG and also the integration with the WEB3 dashboard and reputation system"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The Metta coder lab initiative has been pushed to the next quarter",
+      "supabase": "The Metta coderlab initiative has been pushed to the next quarter"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "kenichi to give a 3-minute presentation for the final deliverables on his Legacy system in the Townhall on the 22nd Oct",
+      "supabase": "kenichi to give a 3 minutes presentation for the final deliverables on Legacy system in the Townhall on the 22nd"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "LordKizzy, guillermolucero",
+      "supabase": "lord kizzy, Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "LordKizzy, guillermolucero",
+      "supabase": "lord kizzy, Guillermo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Clement to give the guild's monthly townhall update",
+      "supabase": "Clement to give the guild monthly townhall"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, Operations, Metta, Metta Coder Lab, Onboarding WG, Collaboration Skills database, Legacy system, Town Hall updates, Entity connections, survey",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, Operations , Metta"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, Collaborative, productive",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, Collaborative, productive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
