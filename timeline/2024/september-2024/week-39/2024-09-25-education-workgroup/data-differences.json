@@ -1,0 +1,44 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-09-25",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting by greeting everyone.",
+      "supabase": "Slate started the meeting by greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate let everybody know that Education Guild's budget request for Q4 2024 has been submitted for consent and that Education Guild will be requesting only a minimal budget this Quarter, as discussed previously, and working mainly from its reserves.",
+      "supabase": "Slate let everybody know that Education Guild's budget request for Q4 2024 has been submitted for consent and that Education Guild will be requesting only a minimal budget this Quarter, as discussed previously, and working mainly from its reserves"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate notified everybody that the Google Classrooms for the 17 spin-off projects have been created and are ready to be put into action.",
+      "supabase": "Slate notified everybody that the Google Classrooms for the 17 spin-off projects have been created and are ready to be put into action"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate notified everybody that we are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform, so we can start the testing for the automation.",
+      "supabase": "Slate notified everybody that we are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform, so we can start the testing for the automation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "We discussed that Video WG members could be off assistance to Education Guild when we will be putting the \"AI for Beginners\" project to action. Slate reminded Ese to reach out to Video WG regarding and to discuss this potential assistance.",
+      "supabase": "We discussed that Video WG members could be off assistance to Education Guild when we will be putting the \"AI for Beginners\" project to action. Slate reminded Ese to reach out to Video WG regarding and to discuss this potential assistance"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "At the end Osmium showcased his demo video for the AI for Beginners project, which will set the baseline for the quality for the rest of the videos.",
+      "supabase": "At the end Osmium showcased his demo video for the AI for Beginners project, which will set the baseline for the quality for the rest of the videos"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
