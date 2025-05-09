@@ -1,0 +1,49 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-09-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Currently, we have run out of funds.",
+      "supabase": "Currently, we have run out of funds"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We should refocus on planning, reporting and proposals to continue our work effectively.",
+      "supabase": "We should refocus on planning, reporting and proposals to continue our work effectively"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Use LLM first to organize the items before we start with team.",
+      "supabase": "Use LLM first to organize the items before we start with team"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "we have a working ChatGPT Prototype.",
+      "supabase": "we have a working ChatGPT Prototype"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Currently we have ideas to improve it even further.",
+      "supabase": "Currently we have ideas to improve it even further"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Process Guild Q2 Proposal.",
+      "supabase": "Process Guild Q2 Proposal"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[3]",
+      "gitbook": "Process Guild Q3 Proposal.",
+      "supabase": "Process Guild Q3 Proposal"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
