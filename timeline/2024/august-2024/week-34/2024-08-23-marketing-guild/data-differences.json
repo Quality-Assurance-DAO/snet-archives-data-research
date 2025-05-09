@@ -1,0 +1,34 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-08-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Notion payment decision is yet to be reached due to some members’ difference in opinion.",
+      "supabase": "Notion payment decision yet to be reached due to some members’ difference in opinion."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Members should fill out the form for the Notion payment decision.",
+      "supabase": "Membes should fill out the form for the Notion payment decision."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Lord Kizzy to draft the Q3 quarterly report",
+      "supabase": "Lord Kizzy to draft pout the quarterly report"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Tool Development, Rewards, Role Proposal Requirements, workgroup updates, Q3 quarterly report, Notion, task force, proof of work",
+      "supabase": "Tool Development, Rewards, Role Proposal Requirements, workgroup updates"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
