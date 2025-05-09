@@ -1,0 +1,33 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-08-15",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Ayo, Cjfrankie, Clement Umoh, Duke, Eric Davies, Isaac Daniel, kateri, Martin Soki, Photogee, SucrenSpice, Yemi Solves",
+      "supabase": "Advanceameyaw, Ayo, Cjfrankie, Clement, Duke, Eric Davies, Isaac Daniel, kateri, Martin Soki, Photogee, SucrenSpice, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting started with Clement welcoming everyone, and highlighting the meeting agenda. Advance, Kateri, and Yemi extended their greetings in their native languages.\n\nAfter the action items from the last meeting, the meeting started strongly with the Initiative and Contribution Framework document. Ayo stated that the document is ready and that people only need to put in valuable comments and feedback.\n\nGitHub migration: Clement asked whether the old tasks from Dework should be migrated to Github or it should only be the new tasks. Everyone was of the opinion that we should migrate all the old tasks, too, for the sake of accountability. Sucre also added that the entire program hasn't fully recognized GitHub, therefore the GitHub board will showcase the projects that were completed and marked as done. More so, the new tasks will still be created and assigned via Dework for the weekly payouts.\n\nAI Ethics EXPO: Clements shed more light on the forthcoming in-person event in Nigeria. This African Guild and AI Ethics Alliance event will take place in September; however, the date of this event will be announced as we move further along! He added that there would be streaming platforms available to enable community members to catch a glimpse of the event from the comfort of their homes.\n\nClement talked about the Q3 budget reduction and the price of AGIX; momentarily, he cited a discussion from a recent Treasury meeting where workgroups were asked to consider moving minor tasks to Q4 whilst giving more hand to major projects within their workgroup.\n\nKateri raised a question about the African Guild documentation roster, and swiftly, Clement cleared the air by saying that the core team would get it done before the week runs out!",
+      "supabase": "The meeting started with Clement welcoming everyone, and then he highlighted the meeting agenda. Following that, Advance, Kateri, and Yemi extended their greetings in their native languages.\n\nThe meeting started strongly with the Initiative and Contribution Framework document; following a discussion with the action items from the last meeting, Ayo stated that the document itself is ready and that people only need to put in valuable comments and feedback.\n\nThe meeting also featured a discussion centered around the GitHub migration; Clement asked whether the old tasks from dework should be migrated to Github or it should only be the new tasks. Everyone was of the opinion that we should migrate all the old tasks, too! For the sake of accountability. Sucre also added that the entire program hasn't fully recognized GitHub, therefore, the GitHub board will showcase the projects that were completed and marked as done. More so, the new tasks will still be created and assigned via Dework for the weekly payouts.\n\nAI Ethics EXPO: Clements sheds more light on the forthcoming in-person event in Nigeria. He mentioned that the African Guild and AI Ethics Alliance event will take place in September; however, the date of this event will be announced as we move further along! He also added that there would be streaming platforms available to enable community members to catch a glimpse of the event from the comfort of their homes.\n\nAs a matter of finality, Clement talked about the Q3 budget reduction and the price of AGIX; momentarily, he cited a discussion from a recent Treasury meeting where workgroups were asked to consider moving mi or tasks to Q4 whilst giving more hand to major projects within their workgroup.\n"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Sucre to share the recently concluded documentation session slides and the session recordings in the African Guild channel.",
+      "supabase": "Sucre to share the recently concluded documentation session slide and the session recordings in the African Guild channel."
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Kateri raised a question about the African Guild documentation 📝 roster, and swiftly, Clement cleared the air by saying that the core team would get it done before the week runs out!  "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
