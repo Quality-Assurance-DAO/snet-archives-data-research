@@ -1,0 +1,48 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-09-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "UPDATE from the task manager by ZALFRED: he listed the various tasks created during the week: budget fitting discussions, operational calls by MALIK and LORD KIZZY, updating for KPI sheet from LORDKIZZY, two clips from LORD KIZZY, two clips from SUB ZERO, and a clip from ANDREWBEN. He also added MALIK as a co-assignee to work with OSIMUM on the narrow AI video; and created a task for an operational call for LORDKIZZY, MALIK and ZALFRED for a more efffective communication line between the editors, task manager and review team in smoothing the process and navigation around the sheet. Call with ROJO and LORD KIZZY for their concluded operational calls on the monthly analytics on the budget review and Zealy task allocation; and gave updates on the uploaded Town Halls TH 111, 112, 113 as uploaded on the KPI sheet.",
+      "supabase": "UPDATE from the task manager by ZALFRED as he did list the various task created during the week, budget fitting discussions operational calls by MALIK and LORD KIZZY, updating for KPI sheet from LORDKIZZY, two clips form LORD KIZZY, two clip from SUB ZERO, and a clip from ANDREWBEN, he also added MALIK as a co assingne to work with OSIMUM on the narrow AI video. and did create task on operational call for LORDKIZZY, MALIK and ZALFRED for a more efffective communication line between the editors, task manger and the review team in smoothing the process and navigation around the sheet. call with ROJO and LORD KIZZY for their concluded opearional calls on the monthly analytics on the budget review and zealy task allocation and gave updates on the uploaded town halls TH 111, 112, 113 as uploaded on the KPI sheet."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE on Zealy by DEVON: He submitted a total of 10 videos for the monthly Zealy, and gave updates on the issues he was having with the KPI sheet including suggesting ideas in order to make it easy to access with different socials and columns, as there should be a task for every social media post.",
+      "supabase": "UPDATE from the zealy by DEVON as he did submit a total number of 10 video for the monthly zealy and gave update on the issues he was having with the KPI sheet including suggesting ideas in other to make it easy to access with different socials and colunms. as they should be a task for every social media post."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Reviewing the KPI sheet with LORD KIZZY explaining the new sheet and the process of task creation, and giving feedback on the social media role as a permanent role due to the new tool which is yet to be implemented.",
+      "supabase": "Reviewing the KPI sheet with LORD KIZZY explaining the new sheet and the process on task creation and giving feedback on the social media role as a permanent role due to the new tool which is yet to be implemented on."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We are not including the animation in the next quarter, for budget reduction",
+      "supabase": "we are not including the animation into the next quater for budget reduction proposal"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Devon to reach out to Kenichi on the delay in posting from Zealy for the next monthly.",
+      "supabase": "Devon to reach out to kenich on the delay posting from zealy for the next monthly."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Budget fitting, Zealy, Zealy quest, Zealy Updates, Town Hall, Narrow AI, analytics, review, task creation, social media, Collaboration, communication, KPIs, animation",
+      "supabase": "Rewards, Budget fitting, zealy quest, Zealy Updates, Collaboration"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
