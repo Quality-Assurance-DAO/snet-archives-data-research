@@ -1,0 +1,82 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-09-04",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayo, Clement Umoh, DevonHardy, Effiom, esewilliams, GorgaSiagian, osmium, Photogee, sergiobenar, Slate, SubZero, Tevo, WaKa, Zalfred",
+      "supabase": "Ayodele, Clement Umoh, DevonHardy, Effiom, esewilliams, GorgaSeagian, osmium, Photogee, sergiobenar, Slate, SubZero, Tevo, WaKa, Zalfred"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "- Regular meeting of Education Guild. This meeting covered: Education Guild Budget Request Discussion - Dework PBL Budget Request Discussion - Education Quarterly Report Discussion",
+      "supabase": "- Education Guild Budget Request Discussion - Dework PBL Budget Request Discussion - Education Quarterly Report Discussion "
+    },
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "Budget Request Q4 Education Guild",
+      "supabase": "Budget Request Q4"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Q3 - Education Guild - Quarterly Report",
+      "supabase": "Quarterly Report Q4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate greeted everyone, then started off the meeting by discussing the projects that education guild is taking forward to next quarter. These are: CCCP Automation, Ai for Beginners, CCCP Website, Webinar Series.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "After going through each project there was a discussion regarding the webinar series and through multiple suggestions and ideation we were able to set up a proper process to move forward with the project.",
+      "supabase": "Then started off the meeting discussing the projects of education guild taking forward to next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then after finalising the education guild budget request, tevo presented his dework pbl wg budget request.",
+      "supabase": "Projects are : CCCP Automation, Ai for Beginners, CCCP Website , Webinar Series"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "WaKa had some concerns regarding the dework pbl budget request which were discussed and some were also made part of the budget request.",
+      "supabase": "Then after going through each project there was a discussion regarding the webinar series and through multiple suggestions and ideation were able to set up a proper process moving forward with the project"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then at the end of the meeting we took a look at the Q3 quarterly report for the education guild, made by clement and yemi solves; some adjustments were requested and presented by Slate.",
+      "supabase": "Then after finalising the education guild budget request , we went over to the dework pbl budget request and tevo presented his wg budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": "Waka had some concerns regarding the dework pbl budget request which were discussed and some were also made part of the budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "Then at the end of the meeting we took a look at the budget request for the education guild Q3 , made by clement and yemi solves , some adjustments were requested and presented by Slate"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Put the website setup in consideration and go with the figma file first, also look for currently existing apps which can do it",
+      "supabase": "Put the website setup in consideration and go with the figma file first , also look for currently existing apps which can do it"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "audit most of the completed tasks",
+      "supabase": "audit most of the completed task"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Presentation, CCCP, Budget Request, dework pbl request, Quarterly Report, ideation",
+      "supabase": "Presentation, CCCP, Budget Request, deworkpbl request, Quarterly Report, ideation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
