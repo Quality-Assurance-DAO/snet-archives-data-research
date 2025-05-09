@@ -1,0 +1,74 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-09-25",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[5]",
+      "gitbook": "Follow Up > New Operations System Deployment",
+      "supabase": "Follow Up > New Operations System Deployment."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting and we had a brief introduction"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database: AJ and Advanceameyew gave updates on the hosting of the database: the teams have decided to host the database locally and they have made updates to the fields. Now the final testing is ongoing and results will be provide by this Friday, 27th Sept.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database; Aj and Advanceameyew gave the updates on the hosting of the database, the teams have decided to host the database locally and they had made updates to the fields. Now the final testing is ongoing and results would be provide by friday."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussion on Discord marketing bot: Subzero opened discussions on the developments of a Discord bot and channel that will amplify our Tweets on Discord for engagement. Lordkizzy suggested that a proposal could be created for the initiative and it could be presented to marketing guild as a community initiative, since the R&D Application process is temporary closed for now.",
+      "supabase": "Discussion on Discord marketing bot: Subzero opened discussions on the developments of a discord bot and channel that helps amplify our tweets on discord for engagement. Lordkizzy suggested that a proposal could be created for the initiative and it could be presented to marketing guild as a community initiative since the R&D Application is temporary closed for now."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "New Operations System Deployment: Lordkizzy announced that the voting system is live and he invited members to vote on the projects they wish to move forward on in Q4. He also spoke on getting feedback from the community for the system and areas for improvements.",
+      "supabase": "New Operations System Deployment: Lordkizzy announced that the voting system is live and he invited members to vote on the projects they wish to move forward on in Q4, he also spoke on getting feedback from the community for the system and areas of improvements."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on R&D New Operations System Retrospective: Lordkizzy presented the R&D New Operations System Retrospective document that will be used to gather feedback from the community to the group. In the next call, we can have an interactive session where members can provide feedback on the system. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing.",
+      "supabase": "Discussions on R&D New Operations System Retrospective: Lordkizzy presented the R&D New Operations System Retrospective document that will be used to gather feedback from the community to group, and in the next call, we can have an interactive session where members can provide feedback on the system. Here is the Doc: https://docs.google.com/document/d/1UzCa_pVjdCQ2WJkPXfNDa-4ic-YGjJQ-sH45gx4P_xg/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussion on the Collective decision for Guild Members on the Entity connections: Lordkizzy indicated that a call was held to review the milestone deliverables on the project so far and noted that only 15-20% of the entire project deliverable has been submitted in the repository. Further discussions will be made on this going forward.",
+      "supabase": "Discussion on the Collective decision for Guild Members on the Entity connections: Lordkizzy indicated that a call was held to review the milestone deliverables on the project so far and noted that only 15-20% of the entire project deliverable has been submitted in the repository. Further discussions will be made on this going forward"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "We had a small house and we felt it's best to make decisions with a larger house.",
+      "supabase": "We had a small house and we felt its best to make decisions with a larger house."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Duke to give the presentation of the Ideation Project on Impact of Lingual Differences",
+      "supabase": "Duke give the presentation of the Ideation Project on Impact of Lingual Differences"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "AJ, ameyaw, kenichi to give a 3-minute presentation for the final deliverables on CSDB and Legacy system at Townhall",
+      "supabase": "AJ, ameyaw, kenichi to give a 3 minutes presentation for the final deliverables on CSDB and Legacy system in the Townhall"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, Marketing initiative, retrospective",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, voting, Operations , Entity Connections, Marketing initiative"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, lengthy, argumentative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
