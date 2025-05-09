@@ -1,0 +1,42 @@
+{
+  "workgroup": "Archives Workgroup",
+  "meetingDate": "2024-09-04",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 6,
+      "supabase": 7
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "Meeting issue",
+      "supabase": "draft Q4 budget"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/198"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "draft Q3 quarterly report",
+      "supabase": "Meeting issue "
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/document/d/1ZJeuLJ_5GYUjxZiUUEfXHkMfDTJoH11wjLmsTU-K3n0/edit?usp=sharing",
+      "supabase": "https://github.com/SingularityNET-Archive/SingularityNET-Archive/issues/198"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
