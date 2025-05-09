@@ -1,0 +1,89 @@
+{
+  "workgroup": "Treasury Automation WG",
+  "meetingDate": "2024-09-23",
+  "differences": [
+    {
+      "field": "meetingInfo.otherMediaLink",
+      "gitbook": "https://app.read.ai/analytics/meetings/01J8F6PEVJPFZN9812JWPHDHYW?utm_source=Share_CopyLink§ion=transcript",
+      "supabase": "https://app.read.ai/analytics/meetings/01J8F6PEVJPFZN9812JWPHDHYW?utm_source=Share_CopyLink&section=transcript"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "23.09.24 Development Updates: https://www.youtu.be/2xuSGF2KuNg.",
+      "supabase": "23.09.24 Development Updates: https://www.youtu.be/2xuSGF2KuNg"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates are being tracked on Swarm Dework.",
+      "supabase": "Updates are being tracked on Swarm Dework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "No new updates were made to the documentation.",
+      "supabase": "No new updates were made to the documentation"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Next month, include the snapshot of previous month updates that were not shared",
+      "supabase": "Next Month include the snapshot of previous month updates that were not shared"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Backlog Updates.",
+      "supabase": "Backlog Updates"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Participation vs contribution tooling updates.",
+      "supabase": "Participation vs contribution tooling updates"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Treasury Support - Transaction reversal.",
+      "supabase": "Treasury Support - Transaction reversal"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Improvements on handling of Duplicate proof.",
+      "supabase": "Improvements on handling of Duplicate proof"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "The effect of the updates done by Mesh.",
+      "supabase": "The effect of the updates done by Mesh"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Adopting this template for project management: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764598084062992&cot=10.",
+      "supabase": "Adopting this template for project management: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764598084062992&cot=10"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "For now, we will manually create a mechanism to filter based on new metadata standard, because there might be some infrastructure change in the near future",
+      "supabase": "For now, we would manually create a mechanism to filter based on new metadata standard because there might be some infrastructural change in the near future"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].rationale",
+      "gitbook": "There might be infrastructure change",
+      "supabase": "There might be infrastructural change"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "Creation of the JSONs for dashboard updates will be manual because the Treasury incident rarely happens",
+      "supabase": "Creation of the JSONs for dashboard updates would be manually because the Treasury incident rarely happens"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Treasury Automation WG Budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/.",
+      "supabase": "Treasury Automation WG Budget: https://docs.google.com/spreadsheets/d/19q6KtuU8F7PQLW1sTMEDxCYFI3ig1sOeUbdf2Bm5kLY/"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
