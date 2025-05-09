@@ -1,0 +1,59 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-08-28",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, barnabas, Clement Umoh, CollyPride, Ese Williams, guillermolucero, Kenichi, lord kizzy, Nengi, osmium, Yemi Solves",
+      "supabase": "Advanceameyaw, AJ, barnabas, Clement Umoh, CollyPride, Ese Williams, Guillermo, Kenichi, lord kizzy, Nengi, osmium, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Kenichi on NDA for the Legacy project",
+      "supabase": "Kenichi on NDA for the Legacy project."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameyaw gave updates on the Collaboration Skill Database; they presented the work done so far visually, and requested for feedback on whether it would be suitable to add existing data to the database, should individuals be allowed to share re edit their data, also who are the individuals that would be granted the admin access for the projects and so on. Lordkizzy gave some clarity on the scope of the project and suggested that the existing data should be differentiated from the new data, admin access should be granted to the Onboarders, WG leads and the Development team. AJ and Advanceameyaw also requested two more weeks from the initial deadline for development and testing.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the workdone so far visually, and requested for feedback on if it would be suitable to add existing Data to the Database, should individuals be allowed to share re edit their data, also who are the individuals that would be granted the admin access for the projects and so on. Lordkizzy made some clarity on the scope of the project and suggested that the existing data gets differentiated from the new data, admin access should be granted to the Onboarders, WG leads and the Development team, they also requested for more two weeks from the initial deadline for development and testing."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Kenichi gave updates on the Legacy System. He spoke about the necessity of having an NDA for the project; he also mentioned that work is ongoing on the landing page so that WGs can incorporate all the work they have been doing, and a presentation will be done in the next call showing the skeletal system showing the wire frame with some UI on the Legacy System.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Kenichi gave the updates on the Legacy System. he spoke about the necessity of having an NDA for the project, he also mentioned that work is ongoing on the landing page so that WGs can incorporate all the work they have been doing, and a presentation will be done in the next call showing the skeletal system showing the wire frame with some UI on the Legacy System."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process. Kenichi presented some concerns on the clarity of the announcement that was posted on our social media.",
+      "supabase": "New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process, Kenichi presented some concerns on the clarity of the announcement that was posted on our social media"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Lordkizzy to meet up with Duke about the presentation of the Ideation Project on Impact of Lingual Differences",
+      "supabase": "Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Team members to update the Repository with documentation of the progress so far",
+      "supabase": "Team members to update the Repository with a documentation of the progress so far"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, Documentation, voting, skills database, access",
+      "supabase": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, Documentation, voting, skills database"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
