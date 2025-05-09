@@ -1,0 +1,78 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-09-30",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Policy Ratification? The current ratification process is slow as we are not getting a lot of responses.",
+      "supabase": "Policy Ratification? The current ratification process is slow as we are not getting a lot of responses"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Discussions on the expected quorum which is 10% of core contributors (i.e. 5.6 people).",
+      "supabase": "Discussions on the expected quorum which is 10% of core contributors (i.e. 5.6 people)"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Policy did not reach the Threshold.",
+      "supabase": "Policy did not reach the Threshold"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "We weighed the reactions gotten from last time, and figured out if discord reactions count Do we accept Discord Reactions too? First version had 6 reactions.",
+      "supabase": "We weighed the reactions gotten from last time, and figured out if discord reactions count Do we accept Discord Reactions too? First version had 6 reactions"
+    },
+    {
+      "field": "agendaItems[1].decisionItems.length",
+      "gitbook": 2,
+      "supabase": 4
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "We agreed that a reaction has to have a comment when it's an objection and if the consent is yes without any comment, we assume the consenter agrees with the policy hypothesis - If the reaction is Abstain, then they also have to add a comment - When adding a policy to GitBook, we agreed to add link to the Discord thread IF rule is accepted",
+      "supabase": "We agreed that a reaction has to have a comment when it's an objection and if the consent is yes without any comment, we assume the consenter agrees with the policy hypothesis"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Treasury Guild Budget Proposal: https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/.",
+      "supabase": "Treasury Guild Budget Proposal: https://docs.google.com/spreadsheets/d/1PnqBEh4eidAh-MqyfLOorQX4XhA-z4zOlgqxjyJKzh4/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "We implemented changes around budget fitting to take us through Q4.",
+      "supabase": "We implemented changes around budget fitting to take us through Q4"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "What is the engagement number on the bitly links? In Quarter 3 we only had 2 clicks.",
+      "supabase": "What is the engagement number on the bityl links? In Quarter 3 we only 2 had 2 clicks"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Are there additional insights we can get as a Guild from Bitly links activity chart?",
+      "supabase": "Are there additional insights we can get as a Guild from Bityl links activity chart?"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "We updated Proposal Bitly Link on Agenda as we agreed to report the activities on bitly links as a metric in Q4",
+      "supabase": "We updated Proposal Bitly Link on Agenda as we agreed to report the activities on bityl links as metric in Q4"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Miro Board, Policy Submission, Ratification, Budget, consent, feedback, Quarter 4, Budget fitting, voting, bitly links, policies for budget",
+      "supabase": "Miro Board, Policy Submission, Ratification, Budget , consent, feedback, Quarter 4, Budget fitting, voting, bitly links, policies for budget"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
