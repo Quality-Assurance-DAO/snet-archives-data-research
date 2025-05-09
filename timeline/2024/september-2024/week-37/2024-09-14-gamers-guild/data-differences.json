@@ -1,0 +1,58 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-09-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Malik presented his model of the Education Guild workgroup. Malik explained the various sections he had built, including an entry section with an NPC to welcome users, a meeting schedule board, and a digital twin representation based on the Twin Protocol. He also created an ideation room, initially meant for an AI project, but later adjusted to serve as a space for brainstorming and initiatives like the AI for Beginners project. Malik had also included infographics, but ran into some challenges with implementing rotating elements, for which Slate had offered earlier assistance. The Education Guild Building got finalized.",
+      "supabase": "Malik presented his model of the Educational Guild workgroup. Malik explained the various sections he had built, including an entry section with an NPC to welcome users, a meeting schedule board, and a digital twin representation based on the Twin Protocol. He also created an ideation room, initially meant for an AI project, but later adjusted to serve as a space for brainstorming and initiatives like the AI for Beginners project. Malik had also included infographics, but ran into some challenges with implementing rotating elements, for which Slate had offered earlier assistance. The Education Guild Building got finalized."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Colleen joined towards the end of the meeting and provided an update on the R&D Guild workgroup. She mentioned that she had not been able to get a response from her partner OEP, but was willing to continue development. Slate suggested that Gorga (their mentor) could assist Colleen in moving the project forward.",
+      "supabase": "Colleen joined towards the end of the meeting and provided an update on the R&D Guild workgroup. She mentioned that she had not been able to get a response from her partner OEP, but was willing to continue development. Slate suggested that Gorga(their mentor) could assist Colleen in moving the project forward."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate demonstrated another useful plugin called Archimedes. This plugin is used to create circular arrangements of parts, which is typically difficult to achieve in Roblox. Slate walked through how to spawn parts and use the plugin to form perfect circles, which could be useful in a variety of design contexts. He also mentioned another plugin, 3D Text, which could be used to create 3D labels for workgroups, adding a professional touch to virtual environments.",
+      "supabase": "Slate demonstrated another useful plugin called Archimedes. This plugin is used to create circular arrangements of parts, which is typically difficult to achieve in Roblox. Slate walked through how to spawn parts and use the plugin to form perfect circles, which could be useful in a variety of design contexts. He also mentioned another plugin, 3D Text, which could be used to create 3D labels for workgroups, adding a professional touch to virtual environments"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Department Creation - Archives Workgroup",
+      "supabase": "Department Creation - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Rebel"
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
