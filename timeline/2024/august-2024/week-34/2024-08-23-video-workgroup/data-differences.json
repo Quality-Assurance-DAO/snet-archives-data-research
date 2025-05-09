@@ -1,0 +1,59 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-08-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on task management: Zalfred gave the update for task management for the week: he had created two tasks within the week and there was a delay in the editing of the town hall videos since the recording was uploaded late.",
+      "supabase": "Updates on Task management: Zalfred gave the update for Task management for the week, he had created two tasks within the week and there was a delay in the editing of the town hall videos since the recording was uploaded late"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from Social Media Management: OEP gave the updates for the week, he indicated that he received the access to our socials accounts a bit late.",
+      "supabase": "Updates from Social Media Management; OEP gave the updates for the week, he indicated that he received the access to our socials accounts abit late"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates from Lordkizzy: Lordkizzy gave the updates from the governance call. He suggested that the workgroup requests the 10% contingency from Treasury due to the budget deficiencies but some members suggested that we should wait till we really need it. He also spoke on members not doing the task efficiently and requested an improvement going forward.",
+      "supabase": "Updates from Lordkizzy: Lordkizzy gave the updates from the governance call, he suggested that the workgroup requests for the 10% contingency from treasury due to the Budget deficiencies but some members suggested that we should wait till we really need it, he also spoke on members not doing the task efficiently and requested for an improvement going forward"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Updates on Zealy: Devon presented the report on the current sprint and we all ideated on how to improve the engagements going forward. We also set out KPIs for the next sprint (25 quests a month rationally shared across all social media platforms). Lord kizzy also suggested that we increase our focus more on engagements by using a 2-screenshot submission method.",
+      "supabase": "Updates on Zealy: Devon presented the Report on the current sprint and we all ideiated on how to improve the engagements going forward and we also set out KPIs for the next sprint (25 quests a month rationally shared across all social media platforms. Lord kizzy also suggested that we increase our focus more on engagements by using a 2 screenshot submission method"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Updates from the review team: Lordkizzy indicated that 3 short videos are currently being reviewed by the review team, and feedback has been sent to the editors.",
+      "supabase": "Updates from the review team: Lordkizzy indicated that 3 short videos are currently being reviewed by the review team and feedback has been sent to the editors"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "There was a presentation by Gamers Guild on the Video WG Department Creation by Lordkizzy and Gorga, which was approved by the workgroup members and got some positive feedback.",
+      "supabase": "There was a Presentation by Gamers Guild on the Video WG Department Creation by Lordkizzy and Gorga, which was approved by the workgroup members and got some positive feedbacks."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided to close applications for new members joining the WG.",
+      "supabase": "We decided to close the application for new members joining the WG."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, sprint, Rewards, Video production, Town Hall, Town Hall videos, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team, Gamers Guild, Roblox",
+      "supabase": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Tasks format, Zealy KPIs, review team "
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, productive, Organised, Thoughtful, warm, new ideas, decisive, Friendly",
+      "supabase": "Casual, productive, Organised, Thoughtful , warm, new ideas, decisive, Friendly"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
