@@ -1,0 +1,54 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-09-11",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, Apple, Clement Umoh, CollyPride, Duke, guillermolucero, Kareem, Karen, Kenichi, lord kizzy, osmium, PeterE, TheFreysDeFi, WaKa, Yemi Solves",
+      "supabase": "Advanceameyaw, AJ, Apple, Clement Umoh, CollyPride, Duke, Guillermo, Kareem, Karen, Kenichi, lord kizzy, osmium, Peter, TheFreysDeFi, WaKa, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Kenichi on NDA for the Legacy project",
+      "supabase": "Kenichi on NDA for the Legacy project."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussions on Guild Approach and Operating System: Waka presented his concerns on the new operation system and they were addressed by the guild.",
+      "supabase": "Discussions on Guild Approach and Operating System: Waka presented his concerns on the new operation system and they were addressed by the guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "New Operations System Deployment: Guillermo gave an update on the voting process and Rojo is currently drafting out the voting system.",
+      "supabase": "New Operations System Deployment: Guillermo gave an update on the voting process and Rojo is currently drafting out the voting system"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on an NDA for the Legacy project: kenichi presented the NON-DISCLOSURE AGREEMENT doc to the group and he has added the deliverables for Q1 milestone to the project repository. Here is the doc: https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit.",
+      "supabase": "Discussions on an NDA for the Legacy project: kenichi presented the NON-DISCLOSURE AGREEMENT doc to the group and he has added the deliverables for Q1 milestone to the project repository, here is the doc; https://docs.google.com/document/d/1RaCoXN3fhPwDxqhTTuefbOQLegAvQbCbUNE9GTg_NgM/edit"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, NDA, Operations, Contributions Dashboard,  Impact of Lingual Differences, operations system,",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, voting, NDA, Operations "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
