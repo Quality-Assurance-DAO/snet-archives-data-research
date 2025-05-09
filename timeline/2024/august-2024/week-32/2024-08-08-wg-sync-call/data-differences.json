@@ -1,0 +1,39 @@
+{
+  "workgroup": "WG Sync Call",
+  "meetingDate": "2024-08-08",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Andre, Ayo, CallyFromAuron, Clement Umoh, Gorga Siagian, guillermolucero, kateri, LadyTempestt, malik, MartinSoki, Nebula, Onize, Photogee, Slate, Sucre n Spice, Yemi Solves",
+      "supabase": "Andre, Ayo, CallyFromAuron, Clement Umoh, Gorga Siagian, Guillermo, kateri, LadyTempestt, malik, MartinSoki, Nebula, Onize, Photogee, Slate, Sucren, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Budget Deficiencies due to devaluation of AGIX",
+      "supabase": "Budget Deficiencies: Due to Devaluation of AGIX"
+    },
+    {
+      "field": "agendaItems[0].discussion",
+      "gitbook": "-Facilitation and Documentation of WG Syncing call: \nPeter suggested a rotation model for facilitation and documentation. He asked members if they were interested in facilitating this call; Onize offered to facilitate the next one, but nobody present felt ready to do this one, so Peter continued facilitating it.\n\n\n-Budget deficiencies due to devaluation of AGIX: \nSlate highlighted that the budget-fitting cuts (24.8%) and the recent token price devaluation sums up to almost a 50% cut to workgroups' original Q3 budgets, which is not feasible for workgroups to operate. There was a suggestion for some workgroups to shift to bi-weekly sessions rather than weekly, but some members felt that the allocation for meeting facilitation and documentation is a small portion of their budget allocation and reducing meeting sessions doesn’t make significant changes. Peter indicated that there is provision for up to 10% to cover token price depreciation; but for anything more than that, while there is a program-wide reserve obtained from leftover budgets from workgroups, in the current system there is no sustainable way of maintaining the reserves if we are taking from it. Lordkizzy highlighted that workgroups' Quarterly report on deliverables will be hugely affected by the budget deficiencies, as they will be unlikely to be able to deliver all that they planned to do. Vanessa suggested that for Q4, WGs may need to decide whether to prioritise keeping the WG running, or doing project-based work (and that decision will vary from WG to WG). She also suggested WGs could each select 1 item that they really want to do but can no longer afford, and ask for it to be funded from reserves.\n\n\n-Facilitating and documenting next 3 Town Halls after the 13th: \nPeter indicated that he won’t be available for the 3 Town Halls (20th, 27th, 3rd of next month). 3 members volunteered (Onize, Guillermo,, Clement). Peter highlighted that he would create a full open process by posting it on the Ambassadors General Discord channel for everyone to volunteer and then we will decide from there.",
+      "supabase": "-Facilitation and Documentation of WG Syncing call: \nPeter suggested a rotation model for Facilitation and Documentation. Peter asked members if they were interested in facilitating the call but Onize suggested facilitating the next call.\n\n\n-Budget Deficiencies: Due to Devaluation of AGIX: \nSlate highlighted that the addition of the budget cuts (24.8%)  and the token price devaluation sums up to almost a 50% cut which is not feasible for workgroups to operate, there was a suggestion for some workgroups to shift to Bi-weekly sessions rather than weekly sessions but some members felt that the allocation for meeting facilitation and documentation is a small portion of their budget allocation and reducing meeting sessions doesn’t make significant changes. Peter indicated that there is a program wide reserves which was obtained from leftover budgets from workgroups and in the current system there is no sustainable way of maintaining the reserves if we are taking from it. Lordkizzy highlighted that Workgroups Quarterly report on deliverables will be hugely affected due to the budget deficiencies, Vanessa suggested that WGs should decide whether to prioritise keeping the WG running, or doing project-based work (and that decision will vary from WG to WG) she also suggested WGs could each select 1 item that they really want to do but can no longer afford, and ask for it to be funded from reserves.\n\n\n-Facilitating and documenting next 3 Town Halls after the 13th: \nPeter indicated that he won’t be available for the 3 Town Halls (20th, 27th, 3rd of next month). 3 members volunteered (Onize, Guillermo,, Clement),  peter highlighted that he would create a full open process by posting it on the Ambassadors general chat for everyone to volunteer and then we will decide from there\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided that Lordkizzy would document the session and Onize will facilitate the next session.",
+      "supabase": "We decided that Lordkizzy would document the session and Onize to facilitate the next session."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Peter facilitated this call since there wasn't anyone interest in doing so",
+      "supabase": "Peter facilitated the call since there wasn't anyone interest in doing so "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
