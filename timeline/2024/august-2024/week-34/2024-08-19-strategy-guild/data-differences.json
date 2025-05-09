@@ -1,0 +1,59 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-08-19",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayo, Billy, Cjfrankie, Effiom, Gorgasiagian, HoganTuso, Kenichi, LordKizzy, Merryman, Photogee, SubZero, YemiSolves",
+      "supabase": "Ayo, Billy, Cjfrankie, Effiom, Gorga, Kenichi, Merryman, Onyeka, Photogee, SubZero, Tuso, Yemi"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "INTRODUCTION - The purpose of this meeting is on the final session of the Strategy Guild Q3 workshop and will be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt last Meeting Notes - 12.08.2024 [DONE]\n\n6. YemiSolves to create and share a sheet for Guilds/WGs rep to add other contributions to aid the report and analysis of the workshop [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Two intending members (Photogee and Cjfrankie) were encouraged to keep attending meetings as they have met all but one of the requirements to become Core Members of the Strategy Guild\n\nAyo highlighted the importance of active involvement in the Strategy Guild and that people can still show interest in facilitating the working document.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION ADOPTION SESSION - The session focused on discussing how these solutions could be best deployed and adopted by the different WGs, with various representatives providing insights and perspectives on the proposed strategies.\n\nHighlights and takeaways from the Solution Adoption session:\n\n1. In-WG/Guild Solutions discussion: Guilds/WGs representatives were advised to take a few minutes to share the solutions from the workshop at their respective meetings. Also, Adoption should be easier, hence the reason for proper representation of WGs during the 4 days of the workshop\n\n2. Solutions for improving social media engagement and visibility: In a bid to speed up the Substack publication, Writers' WG decided to assign Scribblers to various Guilds/WGs meetings within the program.\n* Premium tool subscription and the importance of keyword research, drawing insights from the “AI Cryptography” article by Mikasa. \n* The social media MIXpost automation solution which is in the testing phase at R&D Guild will be used by Video and Writers WGs.\n* Content Calendar optimization based on the algorithm suggestions on the best time for social media posts.\n\n3. Solutions roles/tasks and budgeting: Guilds/WGs will decide on this and the Strategy Guild would follow up on the feedback.\n\n4. Solutions Feedback System for the Strategy Guild: Feedback Template and Form (Open/Monthly/Quarterly), and Tracking Sheet.\n\n5. Solutions Audit and Improvement Process/Plan for the Strategy Guild\n\n6. Guilds/WGs have autonomy on whether to adopt these solutions. However, a feedback system will be created to assess the impact of the workshop.\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.",
+      "supabase": "INTRODUCTION - The purpose of this meeting is on the final session of the Strategy Guild Q3 workshop and will be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt Last Meeting Notes - 12.08.2024 [DONE]\n\n6. Yemi Solves to create and share a sheet for Gs/WGs rep to add other contributions to aid with the report and analysis of the workshop [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Two intending members (Photogee and Cjfrankie) were encouraged to keep attending meetings as they have met all but one of the requirements to become Core Members of the Strategy Guild\n\nAyo highlighted the importance of active involvement in the Strategy Guild and that people can still show interest in facilitating the working document.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION ADOPTION SESSION - The session focused on discussing how these solutions could be best deployed and adopted by the different WGs, with various representatives providing insights and perspectives on the proposed strategies.\n\nHighlights and takeaways from the Solution Adoption Session\n\n1. In-WG/G Solutions Discussion: Gs/WGs representatives were advised to take a few minutes to share the solutions from the workshop at their respective meetings. Also, Adoption should be easier, hence the reason for proper representation of WGs during the 4 days of the workshop\n\n2. Solutions for improving Social media engagement and visibility: In a bid to speed up the Substack publication, Writers WG decided to assign Scribblers to various Gs/WGs meetings within the program.\n* Premium tool subscription and the importance of keyword research drawing insights from the “AI Cryptography” article by Mikasa. \n* The social media mixed post automation solution which is in the testing phase at R&D Guilid will be utilized by Video and Writers WG.\n* Content Calendar optimization based on the algorithm suggestions on the best time for social media post.\n\n3. Solutions roles/tasks and budgeting: Gs/WGs would decide on this and the Strategy Guild would follow up on the feedback.\n\n4. Solutions Feedback System for the Strategy Guild: Feedback Template and Form (Open/Monthly/Quarterly), and Tracking Sheet.\n\n5. Solutions Audit and Improvement Process/Plan for the Strategy Guild\n\n6. Gs/WGs have autonomy on whether to adopt these solutions. However, a feedback system would be created to assess the impact of the workshop\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "A retrospective look at the outcome of the workshop is important as it would be captured in the Q3 deliverables of the Guild and it would inform on the next steps for Q4",
+      "supabase": "A retrospective look at the outcome of the workshop is important as it would be capture in the Q3 deliverables of the Guild and it would inform on the next steps for Q4"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "The proposed solution for the X channel in the SNET Discord should be discussed in the Marketing Guild",
+      "supabase": "The proposed solution for the X channel within the SNET Discord should be discussed in the Marketing Guild"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "This is part of the feedback that representatives from Marketing Guild are to take back to their meetings",
+      "supabase": "This is part of the feedback representatives from Marketing Guild are to take back to their meetings"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "There is no individual ownership of the solutions proposed and discussed during this workshop",
+      "supabase": "There is no autonomy or individual ownership of the solutions proposed and discussed during this workshop"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Workshop Documenter YemiSolves to prepare the Final Workshop Report",
+      "supabase": "Workshop Documenter Yemi Solves to Prepare the Final Workshop Report"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "YemiSolves",
+      "supabase": "Yemi Solves"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Brainstorm, Collaborative, insightful, funny, planning, new ideas, interesting, interactive",
+      "supabase": "Brainstorm, Collaborative, insightful, funny , planning, new ideas, interesting, interactive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
