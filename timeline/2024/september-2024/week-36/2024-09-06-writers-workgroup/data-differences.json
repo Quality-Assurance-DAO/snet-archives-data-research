@@ -1,0 +1,48 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-09-06",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, cjfrankie, devon, Emmanuel Isaac, Gorga Siagian, Inesgav, Kenichi, King David, LadyTempestt, Mikasa, Nebula, Nengi",
+      "supabase": "Advanceameyaw, cjfrankie, devon, Emmanuel Issac, Gorga Siagian, Ines, Kenichi, King David, LadyTempestt, Mikasa, Nebula, Nengi"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the writers' workgroup, focused on the Q4 budget discussion.",
+      "supabase": "Weekly meeting of the writer's workgroup focused on the Q4 budget discussion."
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting started with Kenichi welcoming everyone, and then he highlighted the meeting agenda; we ticked off the action items for the last meeting, and the meeting kicked off properly.\n\nMomentarily, with screen sharing, we began to tackle the Q4 budget draft. Although there is a significant decrease in the amount, WG members (Lady Tempestt and Devon) shared their concerns and thoughts on some of the deliverables. The meeting featured a discussion on Gorga’s initiative, which aims to expand the reach of SingularityNET in Indonesia through X (formerly Twitter). Many were of the opinion that we should implement the idea in Q1 2025 given the fact that AGIX is dropping and with a concern about the Q4 allocation not being able to sustain the WG. Following that, Lady Tempestt suggested that Kenichi give Gorga a KPI tracking matrix for the proposed initiative. Inés supported Gorga’s idea, and she suggested that the French X page could be suspended to give Gorga a chance. As a matter of finality, Kenichi added that the French page could still be functional regardless; he also said that we could still go forward with the Indonesian page as it might perform better than we expected.\n\nKenichi spoke about the August points system allocation, highlighting that the payout was pretty low due to the AGIX price decline.\n\nKenichi also talked about the “We Are Reading\" Series by Inés. He expresses his love for the previously published series. He added that he’d glance through Inés’s latest submission while having Mikasa make a thread for it.",
+      "supabase": "The meeting started with Kenichi welcoming everyone, and then he highlighted the meeting agenda; we ticked off the action items for the last meeting, and the meeting kicked off properly.\n\nMomentarily, with screen sharing, we began to tackle the Q4 budget draft. Although there is a significant decrease, WG members (Lady Tempestt and Devon) shared their concerns and thoughts on some of the deliverables. The meeting featured a discussion on Gorga’s initiative, which aims to expand the reach of SingularityNET in Indonesia through X (formerly Twitter). Many were of the opinion that we should implement the idea in Q1 2025 given the fact that AGIX is dropping and with a concern about the Q4 allocation not being able to sustain the WG. Following that, Lady Tempestt suggested that Kenichi give Gorga a KPI tracking matrix for the proposed initiative. More so, Ines supported Gorga’s idea, and she suggested that the French page could be suspended to give Gorga a chance. As a matter of finality, Kenichi added that the French page could still be functional regardless; he also said that we could still go forward with the Indonesian page as it might just perform better than we expected.\n\nKenichi also talked about the “We Are Reading Series” by Ines. He expresses his love for the previously published series. He added that he’d glance through Ines’s latest submission while having Makasa make a thread for it.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Following a discussion on AGIX token price, Kenichi decided that the SingularityNET ecosystem page should get more attention moving forward to keep readers engaged. Following that, he also pointed out that some tasks will be uploaded on Dework without any reward until Q4 kicks in.",
+      "supabase": "Following a discussion with AGIX token price, Kenichi decided that the SingularityNET ecosystem page should get more attention moving forward to keep readers engaged. Following that, he also points out that some tasks will be uploaded on Dework without any reward until Q4 kicks in."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Marketing Guild, X/Twitter, Indonesian X page, French X page, podcasts, AGIX, Zealy, LatAm, community page, Twitter threads, WWG Test, social media, Points system, Q3 report, Q4 budget",
+      "supabase": "Marketing Guild, podcasts, AGIX, Zealy, LatAm, community page, Twitter threads, WWG Test, social media, Points system, Q3 report, Q4 budget"
+    },
+    {
+      "field": "tags.other",
+      "gitbook": "**",
+      "supabase": "Kenichi spoke about the August points system allocation, highlighting that the payout was pretty low due to the AGIX price decline. "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
