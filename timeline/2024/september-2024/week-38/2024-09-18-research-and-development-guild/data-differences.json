@@ -1,0 +1,79 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-09-18",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, Clement Umoh, CollyPride, guillermolucero, Kenichi, lord kizzy, Mikasa, osmium",
+      "supabase": "Advanceameyaw, AJ, Clement Umoh, CollyPride, Guillermo, Kenichi, lord kizzy, Mikasa, osmium"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "Follow Up > New Operations System Deployment: Announcements and Follow-up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges",
+      "supabase": "Follow Up > New Operations System Deployment:  Announcements and Follow Up actions, Draft and Set Voting System for Community to select Q4 new proposals, Discuss further upgrades and Challenges"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Kenichi on NDA for the Legacy project",
+      "supabase": "Kenichi on NDA for the Legacy project."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database; AJ and Advanceameyew gave the updates on the hosting of the database. The teams haven't yet had a call with Rojo to further discuss this. Advance suggested a beta test within the week before hosting with rojo. AJ noted that the Google sign-in isn't working for now, but the Discord and GitHub sign-ins are good to go.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Collaboration Skills Database; Aj and Advanceameyew gave the updates on the hosting of the database, the teams haven't had the call with Rojo to have further discussions on this, advance suggested a beta test within the week before hosting with rojo, aj noted that the google sign in isn't working for now but the Discord and GitHub signings are good to go,"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Legacy: Kenichi gave the updates, he noted that the backend is done and once that is done, the database will be hosted. He gave a presentation of the legacy website and its features. The SBD (soul-bound token) documentation is ready and uploaded on the GitHub board.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Legacy; Kenichi gave the updates, he noted that the backend is also done and once that is done, the database will be hosted and he gave a presentation of the legacy website and its features, the SBD documentation is ready and uploaded on the GitHub board."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "New Operations System Deployment: Guillermo announced that the voting system is live and will be up for two weeks. He also spoke on getting feedback from the community for the system and areas of improvements.",
+      "supabase": "New Operations System Deployment: Guillermo announced that the voting system is live and its going to be up for two weeks, he also spoke on getting feedback from the community for the system and areas of improvements."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Duke to give the presentation of the Ideation Project on Impact of Lingual Differences",
+      "supabase": "Duke give the presentation of the Ideation Project on Impact of Lingual Differences"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "AJ and Emmanuel will provide final updates on the skills database proposal",
+      "supabase": "AJ and Emmanuel will provide final updates on the skill database proposal"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "AJ, ameyaw, kenichi to give a 3-minute presentation for the final deliverables on CSDB and Legacy system at Townhall",
+      "supabase": "AJ, ameyaw, kenichi to give a 3 minutes presentation for the final deliverables on CSDB and Legacy system in the Townhall"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, Operations, Deliverables, Presentation, Documentation, voting, Operations, Entity Connections, soulbound token, operations system, collaboration skills database",
+      "supabase": "Guilds , Tool Development, AI tooling, Operations, Deliverbles, Presentation, Documentation, voting, Operations , Entity Connections"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy, Welcoming, Thoughtful, Friendly, lengthy, argumentative",
+      "supabase": "Casual, speedy , Welcoming, Thoughtful , Friendly, lengthy, argumentative"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
