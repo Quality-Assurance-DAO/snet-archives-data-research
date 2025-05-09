@@ -1,0 +1,49 @@
+{
+  "workgroup": "Treasury Automation WG",
+  "meetingDate": "2024-09-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Gave an overview of Excel manager updates and future steps.",
+      "supabase": "Gave an overview of Excel manager updates and future steps"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Gave an overview of serverside json generation updates and future steps.",
+      "supabase": "Gave an overview of serverside json generation updates and future steps"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussed Miro board documentation and future steps.",
+      "supabase": "Discussed miroboard documentation and future steps"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Need to keep track of tasks and task participation/contribution separately",
+      "supabase": "Need to keep track of tasks and task participation/contribution seperately"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Discussed Q3 report and Q4 proposal.",
+      "supabase": "Discussed Q3 report and Q4 proposal"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Discussed how to accomodate other projects needing access to Treasury data.",
+      "supabase": "Discussed how to accomodate other projects needing access to treasury data"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Treasury System, Miro Board, Automation, tooling, participation vs contribution, participation, contribution, process, API, Backend, Documentation, json, projects, Q4 2024 budget, Q3 2024 quarterly report",
+      "supabase": "Treasury System, Miro Board, Automation, tooling, participation vs contribution, process, API, Backend, Documentation, json, projects"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
