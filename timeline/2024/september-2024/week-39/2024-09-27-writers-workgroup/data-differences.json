@@ -1,0 +1,39 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-09-27",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly meeting of the writers' workgroup, centered on the Q4 proposed budget.",
+      "supabase": "Weekly meeting of the writer's workgroup centered on the Q4 proposed budget."
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Kenichi started the meeting as he normally would; he welcomed everyone, and then he highlighted the meeting agenda. \nHe started by asking the scribes if the published drafts on the community page had been edited. Cjfrankie answered that Gorga submitted his draft a few hours before the meeting, so the review will be done over the weekend. Kenichi also urged Ines to submit the Overcoming Nursing Challenge document to the community page. Moving forward, he shed light on the MIX POST social media tool; he hinted that Video WG is already using it and it’s time for the WWG to explore the tool. A lot of conversations happened in the Zoom Chat — Ines Gavina, Lady Tempestt, and Gorga took to the chat to talk about exploring more social platforms like Reddit, Quora, and LinkedIn, to expand our reach as a community. Gorga also showed interest in writing an article about the token event in Singapore featuring Jasmine from Rejuve.\n\nBudget Update: We tackled the budget discussion together. Following a discussion in the OpenGov call on 26th September, it is clear that our budget only needs a slight edit to have it pass. According to the Treasury, we only have to make a 20% cut, and to this effect, we glanced through the budget sheet to see the areas we can adjust. Additionally, Kenichi mentioned that moving forward, we will be focusing more on ecosystem-related articles and Twitter threads while the community page takes a break since we have published quite some articles over the last couple of months. Kenichi talked about reducing Zealy allocation, and how WWG and Video WG are joining forces toward making Zealy a success. To keep Zealy fully functional, Video WG will send some allocation while we keep running Zealy three times in a quarter. Ines suggested that we take our Spanish page management from the WWG budget and have it led by the LatAm guild. Interestingly, we have reallocation funding coming into the WWG account; however, Kenichi is still in close contact with Tevo, and he will share more detailed information as we move further along. Kenichi stated that due to the low token price, Zealy is on hold till further notice and the Friday trivia game will become biweekly.",
+      "supabase": "Kenichi started the meeting as he normally would; he welcomed everyone, and then he highlighted the meeting agenda. He started by asking the scribes if the published drafts on the community page had been edited! Cjfrankie answered by saying that Gorga submitted a few hours before the meeting; however, the review shall be done over the weekend. Kenichi also urges Ines to submit the Overcoming Nursing Challenge document to the community page. Moving forward, he sheds light on the MIX POST social media tool; he hinted that the video WG is already leveraging it and it’s time for the WWG to explore the tool. A lot of conversations happened in the chat — Ines Gavina, Lady Tempestt, and Gorga took to the chat to talk about exploring more social platforms like Reddit, Quora, and LinkedIn. Just some can expand our reach as a community. Gorga also showed interest in writing an article about the token event in Singapore featuring Jasmine from Rejuve.\n\nBudget Update: We tackled the budget discussion together. Following a discussion with the OpenGov call from 26th September, it is clear that our budget only needs a slight edit to have it pass. According to the Treasury, we only have to make a 20% cut, and to this effect, we glanced through the budget sheet to see the areas we could adjust. Additionally, Kenichi mentioned that moving forward, we’d be focusing more on ecosystem-related articles and Twitter threads while the community page takes a break since we have published quite some articles over the last couple of months. More so, Kenichi talked about reducing Zealy allocation and how WWG and the video WG are joining forces toward making Zealy a success. To keep Zealy fully functional, the video WG shall send some allocation while we keep running Zealy three times in a quarter. Ines suggested that we take our Spanish page management from the budget and have it led by the LatAm guild! Interestingly, we have reallocation funding coming into the WWG account; however, Kenichi is still in close contact with Tevo, and he’d share more detailed information as we move further along. Due to the budget rate, he stated that Zealy is on hold till further notice and that the Friday trivia shall become biweekly.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided that the Zealy allocation will come from both the WWG and the Video WG to save cost, and we’re also looking forward to moving it to the marketing guild.",
+      "supabase": "We have decided that the Zealy allocation shall come from both the WWG and the video WG to save cost, and we’re also looking forward to moving it to the marketing guild."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We decided to change the Friday trivia game from weekly to biweekly, due to budget constraints.",
+      "supabase": "We have also decided to reschedule the Friday trivia session to reflect a bi-weekly calendar due to budget constraints."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Gorga to share the Rejuve token 2049 event topic idea in the writers' Discord channel.",
+      "supabase": "Gorga to share the Rejuve token 2049 event topic idea in the writer's channel."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
