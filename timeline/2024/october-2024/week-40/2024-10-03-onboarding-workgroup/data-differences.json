@@ -1,0 +1,124 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-10-03",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 4,
+      "supabase": 5
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Adjusted Q4 budget proposal",
+      "supabase": "Meeting agenda "
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1x9Rwdujw6BnYHtqx5TAeoEo1HK4N2OyJUguDH2hNHwQ/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting: We agreed the minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting: We agreed the minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Skillshare matrix: The regular reminder was given for new people to input their skills into the skillshare matrix document.",
+      "supabase": "Skillshare matrix: A reminder was made for new people to input their skills into the skillshare matrix document."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Facilitation/documentation next meeting: Duke is facilitating with MartinSoki documenting and adding to the summary tool.",
+      "supabase": "Facilitation/documentation next meeting: Duke is facilitating with MartinSoki documenting and add to the summary tool."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Town hall update: Duke will give the townhall update for October.",
+      "supabase": "Town hall update: Duke expressed interest in giving the townhall update for this month."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Onboarding Journey: Onize agreed to lead the Onboarding Journey session alongside Duke.",
+      "supabase": "Onboarding Journey: Onize agreed to lead the onboarding Journey session along side with Duke."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Q4 Budget: The focus group has finalised the budget fitting. Meetings will now take place biweekly; .",
+      "supabase": "Q4 Budget: Focus group has helped with the budget fitting. Currently our meeting facilitation has been changed to biweekly."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Skillshare sessions: We agreed to have 2 sessions this Quarter after all - Understanding decentralised Governance, & Monitoring and Evaluation.",
+      "supabase": "Skillshare session: Understanding decentralization (Decentralized governance) & Monitoring and Evaluation were the sessions aligned for skill share sessions."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Inactive members: We need to look at removing the Onboarding tag from people who are no longer active. Also to note that since the workgroup is closed, it is not possible to get the tag back if taken from. Duke asked \"how large we want the ambassador program to be overall?\" Due to wider issues with budget concerns. A suggestion was made to raise this in the Open Governance meeting because it is a general concern.",
+      "supabase": "Inactive members: We need to look at removing the Onboarding tag from people who are no longer active. Duke asked \"how large we want the ambassador program to be?\" Due to the previous experience with budget concerns. A suggestion was made to push the question further to the governance meeting because it is a general concern. Also to note that since the workgroup is closed, it is not possible to get the tag back if taken from."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Q4 Budget: We decided to move the analysis of the research project on \"onboarding to decentralization\" to Q1.",
+      "supabase": "Q4 Budget: We decided to move the analysis of the research project (on how people feel onboarded to decentralization) to Q1."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Budget fitting",
+      "supabase": "To save cost"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Skillshare session: We decided to have both of the proposed sessions this quarter. Understanding decentralized governance on 5th December 2024, led by Vani, & Monitoring and Evaluation on 21st November 2024, led by Onize.",
+      "supabase": "Skillshare session: We decided to have both sessions this quarter. [Understanding decentralization (Decentralized governance) on 5th December 2024 & Monitoring and Evaluation were of the option on 21st November 2024]."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Inactive members: We agreed that the inactive members' \"Onboarding WG\" tags will be removed, but Martinsoki will retain his even though he has been somewhat inactive, because he has a documentation task assigned to him next meeting.",
+      "supabase": "Inactive members:We agreed that the inactive members tags will be removed but aside Martinsoki reason being that he has a task assigned to him next meeting."
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "LordKizzy to rework the Q4 roster to reflect our decision to meet fortnightly in this quarter.",
+      "supabase": "LordKizzy to rework the Q4 rooster to reflect our decision to meet fortnightly in this quarter."
+    },
+    {
+      "field": "agendaItems[0].actionItems[7].text",
+      "gitbook": "Onize and Duke to share facilitation of the Onboarding Journey session with the community on governance call",
+      "supabase": "Onize and Duke to share the onboarding Journey with the community on governance call"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].text",
+      "gitbook": "Vani to add Onboarding Journeys on the agenda for governance call",
+      "supabase": "Vani to add Onboarding Journey on the agenda for governance call"
+    },
+    {
+      "field": "agendaItems[0].actionItems[12].text",
+      "gitbook": "Members are to go through the Q4 budget proposal to raise any objections or add comments",
+      "supabase": "Members are to go through the Q4 budget proposal to raise objections or add comments"
+    },
+    {
+      "field": "agendaItems[0].learningPoints",
+      "supabase": [
+        "Skillshare session "
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "TH Update, Onboarding Journey Scripts, skills matrix, Q4 2024 budget, Budget fitting, Focus Group, research, Marketing WG, biweekly, fortnightly, meeting dates, Inactive members, Skillshare session, decentralisation, monitoring and evaluation, M&E",
+      "supabase": "TH Update , Onboarding Journey Scripts, skills matrix, Q4 2024 budget, Budget fitting, Focus Group, research, Marketing WG, biweekly, meeting dates, Inactive members , Skillshare session "
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Full house, Collaborative, Casual",
+      "supabase": "Friendly, Full house , Collaborative, Casual"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
