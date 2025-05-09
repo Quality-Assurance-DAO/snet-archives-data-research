@@ -1,0 +1,79 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-08-30",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates from Social Media Management: OEP gave the updates for the week, and indicated that we made three long videos posts: the SNET ECOSYSTEM UPDATE, DWORK PBL and AI QUANTUME and more engagement for the Zealy and letting us know we need more short videos for the YT shorts. He also mentioned plans on how to post during the week and to drop the schedule.",
+      "supabase": "Updates from Social Media Management; OEP gave the updates for the week, as he indicated that we made three long videos post the SNET ECOSYSTEM UPDATE, DWORK PBL and AI QUANTUME and more engagement for the zealy and letting us know we need more short videos for the YT shorts also mentioned plans on how to post during the week and to drop the schedule."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates on Task management: Zalfred gave the update for Task management for the week, as he has created tasks within the week been able to assign tasks to Rojo on the ecosystem update; also training and documentations / operational call between lord kizzy and Rojo; also malik reaching out to him for auditing the task.",
+      "supabase": "Updates on Task management: Zalfred gave the update for Task management for the week, as he has created tasks within the week been able to assign tasks to rojo on the ecosystem update also training and documentations / operational call between lord kizzy and rojo also malik reaching out to him for auditing the task."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates from Lordkizzy: Lordkizzy gave a brief insight on the review team in order to make it easy for posting. He also presented the quarterly report for Q3, and the Q4 Budget proposal, and spoke on the new operations system currently been ideated by Rojo.",
+      "supabase": "Updates from Lordkizzy: Lordkizzy gave a brief insight on the review team in other to make it easy for the posting. he also presented the budget report for Q3 and Q4 Budget proposal to the group and spoke on the new operations system currently been ideated by Rojo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Updates on Zealy: Devon presented the report on the current development from the Zealy and mentioned that he has got the editorial role, We all ideated on how to manage payment for the next sprint.",
+      "supabase": "Updates on Zealy: Devon presented the report on the current development from the zealy and mention that he has gotten the editorial role and we all ideiated on how to payment for the next sprint and"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Updates from the Zealy discussion: Lordkizzy indicated that there might be a need for a second reviewer but we have not yet concluded on that as there's no budget allocation yet for it.",
+      "supabase": "Updates from the zealy discussion: Lordkizzy indicated that there might be a need for a second reviewer but we have not yet concluded in that as there's no allocation yet for that."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussed the review on the KPI sheet on the content.",
+      "supabase": "Discussed on the review on the KPI sheet on the content."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "We also discussed the video animation, and the payment plan for the video work group looking through various video animation platforms as we are all yet to decide on the tool in use.",
+      "supabase": "we also discussed on the video animation and payment plan for the video work group. looking through various video animation platforms as we are all yet to decide on the tool in use."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Devon to receive payment from the video work group, not the writers, for last sprint",
+      "supabase": "Devon to receive payment from the video work group not the writers for last sprint'"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "the payments would come from the writers WG point system",
+      "supabase": "the payments would come from the writer WG point system"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Rojo is drafting out a new operation system in order to get tasks adequately done by members.",
+      "supabase": "rojo is drafting out a new operation system in other to get task adequately done by members."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "members should reach out to our social links and engage with our contents",
+      "supabase": "members should reach out to our social links and engage our contents"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contingency, Tasks format, Zealy KPIs, review team",
+      "supabase": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Tasks format, Zealy KPIs, review team "
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, productive, Organised, Thoughtful, warm, decisive, Friendly, interactive",
+      "supabase": "Casual, productive, Organised, Thoughtful , warm, decisive, Friendly, interactive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
