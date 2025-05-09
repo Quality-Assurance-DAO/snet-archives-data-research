@@ -1,0 +1,74 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-08-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Advanceameyaw gave the updates on Collaboration Skill Database; they are currently preparing a one-pager document highlighting the scope of the project and they are currently focused on the skills form and database.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Advanceameywu gave the updates on Collaboration Skill Database; they are currently preparing a one pager document highlighting the scope of the project and they are currently focused on the skills form and database."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation of MixPost and reference that the presentation wasn't for the premium version, he also highlighted that he will request a release of funding for the licensing and also the maintenance and hosting.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation of MixPost and reference that the presentation was't for the premium version, he also highlighted that he was gonna request a release of funding for the licensing and also the maintenance and hosting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "NEW OPERATIONS SYSTEM GOING FORWARD and VOTING PROCESS; Lordkizzy shared the new operations system and we had open discussion on the voting process. Clement suggested that issue of people having more votes representation for larger proposals should be very stated. For example, How are we defining large proposals? Are we defining in terms of deliverables or in terms of funding ask? Secondly we need to be more definitive of the exact percentage we're talking about. Are we demanding for 60% of entire core contributors' votes?",
+      "supabase": "NEW OPERATIONS SYSTEM GOING FORWARD and VOTING PROCESS; Lordkizzy shared the new operations system going forward and we had open discussion on the voting process and clement suggested that issue of people having more votes representation for larger proposals should be very stated. For example, How are we defining large proposals? Are we defining in terms of deliverables or in terms of funding ask? and secondly we need to be more definitive of the exact percentage we're talking about. Are we demanding for 60% of entire core contributors votes?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Voting pools: we had more discussions on the voting pools, there was a suggestion of having two pools, the Ideation pool and Development pool, also anothere suggestion for a demo pool for now.",
+      "supabase": "Voting pools: we had more discussions on the voting pools, there was a suggestion of having two pool, the Ideation pool and Development pool, also anothere suggestion for a demo pool for now"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Kenichi spoke on rewarding unfinished projects without deliverables and asked some questions on the Collaboration Skills Database and reference that the guild should be strict while distributing funds without proper documentation and reports.",
+      "supabase": "Kenichi spoke on rewarding unfinished projects without deliverbles and asked some questions on the Collaboration Skills Database and reference that the guild should be strict while distributing funds without proper documentation and reports"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Kenichi gave a presentation on the User Flow for Reputation System and Website Integration and lordkizzy gave a suggestion on how the Collaboration Skills Database could be intergrated into the legacy system.",
+      "supabase": "Kenichi gave a presentation on the User Flow for Reputation System and Website Integration and lordkizzy gave a suggestion on how the Collaboration Skills Database could be intergrated into the legacy system"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We have decided to proceed with the transition from the development of the Social Media Automation tool to an Open source platform called MixPost",
+      "supabase": "We have decided to procced with the transisition from the development of the Socioal Media Automation tool to an Open source platform called MixPost"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "the platform has some advanced features that would take months of development to reach that level",
+      "supabase": "the platform has some advance features that would take months of development to reach that level "
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, pools, MixPost, Social Media Automation, skills database, pools, reputation",
+      "supabase": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Core team, Presentation, Voting process, pools, MixPost, Social Media Automation"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, Collaborative, speedy, Welcoming",
+      "supabase": "Casual, Collaborative, speedy , Welcoming"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
