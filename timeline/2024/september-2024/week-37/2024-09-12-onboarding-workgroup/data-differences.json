@@ -1,0 +1,333 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-09-12",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ade-williams, Ayo, CallyFromAuron, Cjfrankie, Colleen, daniel effiom, Eric Davies, Gorga Siagian, guillermolucero, hogantuso, kateri, LadyTempestt, lordkizzy, Mikasa, Mostlfa Lotfy, Onize, PeterE, PG, Sucre n Spice",
+      "supabase": "Ade-williams, Ayo, CallyFromAuron, Cjfrankie, Colleen, daniel effiom, Eric Davies, Gorga Siagian, Guilermo, hogantuso, kateri, LadyTempestt, lordkizzy, Mikasa, Mostlfa Lotfy, Onize, PeterE, PG, Sucre n Spice, Vanessa"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Agreeing the minutes of the last meeting.",
+      "supabase": "Agreeing to the minutes of the last meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Onboarding Journeys.",
+      "supabase": "Onboarding Journey."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Workgroup Closure: We talked about having a threshold or cap for the number of new people we can onboard into the workgroup.",
+      "supabase": "Workgroup Closure: “Momentarily, we talked about having a threshold or cap for the number of new people we can onboard into the workgroup.”"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "WG Closure: We already have enough contributors in the WG, and the proposed budget for Q4 2024 wouldn’t cover more WG activities to give tasks for new people; plus, there is a concern that the total Ambassador program budget for Q4 is high, so significant budget-fitting will be needed. In light of such, we have decided to temporarily close the WG and consider re-opening at the end of Q1.",
+      "supabase": "WG Closure: From a bird’s-eye view, the proposed budget for Q4 2024 wouldn’t cover all the WG activities; we also have quite several contributors in the onboarding WG; plus, there seems to be a concern that the overall Q4 budget submission is high! So basically, there would be a cut. In light of such, we have decided to temporarily close the WG and open it up at the end of Q1."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We agreed that for the budget-line on document editing, two people will be assigned to edit each document we create in Q4. We will aim to select one person who has done similar work before (e.g. report writing), and use the Skillshare Matrix to select another individual who has shown interest in working with the topic of the document.",
+      "supabase": "Following that, the onboarding WG has agreed that two people will be assigned to edit each document we create in Q4; in that regard, we also pointed out that these individuals would include a person who has done a similar work before (e.g., report writing) while we use the Skillshare Matrix to select another individual who has shown interest in working with documents."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "We decided that Colleen will lead the “GitHub Project Management Training\" session on Mon 7th October 2024 by 13:00 UTC.",
+      "supabase": "We have also decided that Colleen will lead the “GitHub Project Management Training,” which will take place on the 7th of October 2024 by 13:00 UTC."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "Following a discussion about Gorga’s allegations against the WG, we have decided to meet on Thurs 19th September 2024 by 11 AM UTC to discuss the issues. Several people (Peter, Tuso, Duke, Kateri, Vani, Onize, Love, LordKizzy and CJFrankie) confirmed their availability.",
+      "supabase": "Following a discussion with Gorga’s allegations against the WG, we have finally reached a conclusion and we have decided to meet on the 19th of September, 2024, by 11 AM UTC to flesh out the issues. Here, a couple of people (Peter, Tuso, Duke, Kateri, Vani, Onize, Love, LordKizzy and CJFrankie) confirmed their availability."
+    },
+    {
+      "field": "agendaItems[0].issues[0].45",
+      "gitbook": "w",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].46",
+      "gitbook": "i",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].47",
+      "gitbook": "l",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].49",
+      "gitbook": " ",
+      "supabase": "l"
+    },
+    {
+      "field": "agendaItems[0].issues[0].50",
+      "gitbook": "l",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].51",
+      "gitbook": "o",
+      "supabase": "l"
+    },
+    {
+      "field": "agendaItems[0].issues[0].53",
+      "gitbook": "k",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].54",
+      "gitbook": " ",
+      "supabase": "k"
+    },
+    {
+      "field": "agendaItems[0].issues[0].55",
+      "gitbook": "d",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].56",
+      "gitbook": "e",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].58",
+      "gitbook": "p",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].59",
+      "gitbook": " ",
+      "supabase": "p"
+    },
+    {
+      "field": "agendaItems[0].issues[0].60",
+      "gitbook": "i",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].61",
+      "gitbook": "n",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].62",
+      "gitbook": "t",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].63",
+      "gitbook": "o",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].64",
+      "gitbook": " ",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].65",
+      "gitbook": "t",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].66",
+      "gitbook": "h",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].67",
+      "gitbook": "e",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].68",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].69",
+      "gitbook": "b",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].70",
+      "gitbook": "u",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[0].71",
+      "gitbook": "d",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[0].72",
+      "gitbook": "g",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].73",
+      "gitbook": "e",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[0].74",
+      "gitbook": "t",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].75",
+      "gitbook": " ",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].76",
+      "gitbook": "t",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].77",
+      "gitbook": "o",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].78",
+      "gitbook": " ",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].79",
+      "gitbook": "s",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].80",
+      "gitbook": "e",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[0].82",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].83",
+      "gitbook": "h",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].84",
+      "gitbook": "o",
+      "supabase": "h"
+    },
+    {
+      "field": "agendaItems[0].issues[0].85",
+      "gitbook": "w",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[0].86",
+      "gitbook": " ",
+      "supabase": "w"
+    },
+    {
+      "field": "agendaItems[0].issues[0].87",
+      "gitbook": "i",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].88",
+      "gitbook": "t",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].89",
+      "gitbook": " ",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].90",
+      "gitbook": "c",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].91",
+      "gitbook": "a",
+      "supabase": "c"
+    },
+    {
+      "field": "agendaItems[0].issues[0].92",
+      "gitbook": "n",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[0].93",
+      "gitbook": " ",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[0].94",
+      "gitbook": "b",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].95",
+      "gitbook": "e",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[0].96",
+      "gitbook": " ",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].97",
+      "gitbook": "f",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[0].98",
+      "gitbook": "i",
+      "supabase": "f"
+    },
+    {
+      "field": "agendaItems[0].issues[0].99",
+      "gitbook": "t",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[0].101",
+      "gitbook": "e",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[0].102",
+      "gitbook": "d",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[0].103",
+      "gitbook": ".",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[0].104",
+      "supabase": "."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Skillshare Matrix, onboarding journeys, Q4 2024 budget, q3 2024 budget fitting, budget fitting, Workgroup closure, Contributors to edit docs, Gorga’s allegations",
+      "supabase": "Skillshare Matrix, onboarding journeys, Q4 budget, Workgroup closure, Contributors to edit docs, Gorga’s allegations"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
