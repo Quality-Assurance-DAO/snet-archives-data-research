@@ -1,0 +1,49 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-08-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Ese and Osmium, presentation on \"Ai for Beginners",
+      "supabase": "Ese and Osmium, presentation on \"Ai for Beginners\" "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate discussed the shortcoming from the reviews regarding the quizzes and updated Osmium regarding it.",
+      "supabase": "Slate discussed the shortcoming from the reviews regarding the quizzes and updated Osmium regarding it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "An update regarding the leftover budget was given to the group, that only approx $2,100 is left for education guild for this quarter.",
+      "supabase": "An update regarding the leftover budget was given to the group, that only approx $2,100 is left for education guild for this quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then the room was given to osmium and Ese to present the Notion page they set up for \"Ai for Beginners\".",
+      "supabase": "Then the room was given to osmium and Ese to present the Notion page they set up for \"Ai for Beginners\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "There was discussion regarding course structure, teams, and video structure.",
+      "supabase": "There was discussion regarding course structure, teams, and video structure"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "osmium and Ese will make adjustments to the Notion page and present it in the next meeting.",
+      "supabase": "osmium and Ese will make adjustments to the Notion page and present it in the next meeting"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
