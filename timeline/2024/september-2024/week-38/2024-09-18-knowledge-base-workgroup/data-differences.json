@@ -1,0 +1,97 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-09-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, Effiom, Eric Davies, LadyTempestt, lord_kizzy, Tevo",
+      "supabase": "advanceameyaw, Effiom, Eric, Lady, lord_kizzy, Tevo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Response Link: https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/.",
+      "supabase": "Response Link: https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "2 new responses were submitted.",
+      "supabase": "2 new responses were submitted"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "One member learned about us from WIMS.",
+      "supabase": "One member learned about us from WIMS"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "In general, our score is improving on the WG purpose.",
+      "supabase": "In general, our score is improving on the WG purpose"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "How we used Participation Reward Tooling today: https://www.youtube.com/watch?v=C4a2ndoAuGc.",
+      "supabase": "How we used Participation Reward Tooling today: https://www.youtube.com/watch?v=C4a2ndoAuGc"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Context what is the Participation Tool: https://youtu.be/VMSKB79fkbg.",
+      "supabase": "Context what is the Participation Tool: https://youtu.be/VMSKB79fkbg"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Check if the fitted reward amount in the prior meeting is fair.",
+      "supabase": "Check if the fitted reward amount in the prior meeting is fair"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Reward Modeler can use already collected data and analytics to define contribution type for their WG and Guild based on the label names.",
+      "supabase": "Reward Modeler can use already collected data and analytics to define contribution type for their WG and Guild based on the label names"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "Explaining some of the parameters used in the Tool.",
+      "supabase": "Explaining some of the parameters used in the Tool"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[10]",
+      "gitbook": "We have been rewarding facilitation with Dework Tasks until now.",
+      "supabase": "We have been rewarding facilitation with Dework Tasks until now"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Q4 consent responses: https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/.",
+      "supabase": "Q4 consent responses: https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Review the 2 concerns raised by objectors in Iteration 2.",
+      "supabase": "Review the 2 concerns raised by objectors in Iteration 2"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "The best way to capture our impact in reports.",
+      "supabase": "The best way to capture our impact in reports"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "educational, funny, interactive, interesting, bit quiet, insightful",
+      "supabase": "educational, funny , interactive, interesting, bit quiet, insightful"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
