@@ -1,0 +1,22 @@
+{
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2024-09-30",
+  "differences": [
+    {
+      "field": "meetingInfo.meetingVideoLink",
+      "supabase": "No video"
+    },
+    {
+      "field": "meetingInfo.transcriptLink",
+      "supabase": "No transcript"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
