@@ -1,0 +1,47 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-10-04",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of the Video WG. This meeting focused on task updates, automation tool, and budget cuts.",
+      "supabase": "The meeting focused on task updates, automation tool, and budget cuts."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Rojo provided updates on our social media role: the usual schedule is being followed, i.e. short videos are posted every Tuesday and Saturday at 11:00 UTC, while long videos are shared on Monday or Friday at 17:00 UTC. He confirmed that all videos from last month have been uploaded. Rojo also hosted an X space with the Ocean Protocol ambassador program, which received positive feedback. He is currently fine-tuning the automation tool, which is experiencing backend issues with long video posts being done manually. Rojo acknowledged that he forgot to grant senior members access to the automation tool; senior members should ask him for a login. Additionally, he is engaging with commenters. He mentioned that he is manually posting on Instagram due to API issues, as Meta isn't providing access.",
+      "supabase": "Rojo provided updates on our social media role: the usual schedule is being followed that is short videos are posted every Tuesday and Saturday at 11:00 UTC, while long videos are shared on Monday or Friday at 17:00 UTC. He confirmed that all videos from last month have been uploaded. Rojo also hosted an X space with the Ocean Protocol ambassador program, which received positive feedback. He is currently fine-tuning the automation tool, which is experiencing backend issues with long video posts being done manually. Rojo acknowledged that he forgot to grant senior members access to the automation tool; senior members should ask him for a login. Additionally, he is engaging with commenters. He mentioned that he is manually posting on Instagram due to API issues, as Meta isn't providing access."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Rojo mentioned that he is developing a feature called \"mixpost\" for the automation tool, which allows creators to post directly without sharing a drive link. Kizzy inquired how voting for videos would work; Rojo explained that users can comment on the video on mixpost before it is uploaded to social platforms. He also noted that he is encountering some issues with this feature, which he hopes to resolve soon.",
+      "supabase": "Rojo mentioned that he is developing a feature called \"mix post\" for the automation tool, which allows creators to post directly without sharing a drive link. Kizzy inquired how voting for videos would work, to which Rojo explained that users can comment on the video on mix post before it is uploaded to social platforms. He also noted that he is encountering some issues with this feature, which he hopes to resolve soon."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Lord_Kizzy explained that Zealy's structure is changing, with the next sprint focusing on outreach rather than videos and articles, as having two Zealys within one community indicates a lack of communication. They will experiment with a tiered structure and compare its effectiveness to the previous approach. Rojo noted that while Zealy is improving metrics, it serves more for itself than for the video workgroup. He suggested hosting live streams, like X spaces, to increase participation, potentially featuring a meme or video creation competition with rewards for the top three using the Zealy platform. Kizzy affirmed that this new Zealy approach aims to achieve similar goals.",
+      "supabase": "Kizzy explained on Zealy that its structure is changing, with the next sprint focusing on outreach rather than videos and articles, as having two Zealys within one community indicates a lack of communication. They will experiment with a tiered structure and compare its effectiveness to the previous approach. Rojo noted that while Zealy is improving metrics, it serves more for itself than for the video workgroup. He suggested hosting live streams, like X spaces, to increase participation, potentially featuring a meme or video creation competition with rewards for the top three using the Zealy platform. Kizzy affirmed that this new Zealy approach aims to achieve similar goals."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Rojo suggested that since Zealy is ending, we should allocate those funds to live X spaces and giveaways for meme or video competitions. Kizzy countered that we still owe $225 to Writers WG, and that the previous sprint should be covered by the video workgroup. The remaining budget could then help offset cuts instead of being used for giveaways and X spaces.",
+      "supabase": "Rojo suggested that, since Zealy is ending, we should allocate those funds to live X spaces and giveaways for meme or video competitions. Kizzy countered that we still owe $225 to Writer WG, and that the previous sprint should be covered by the video workgroup. The remaining budget could then help offset cuts instead of being used for giveaways and X spaces."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
