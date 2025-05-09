@@ -1,0 +1,134 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-08-28",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Celiwe, effiom, Ekom, eric davies, Gorga Siagian, lord_kizzy, malik, Mapula, Prefina, Slate, SubZero, tevo",
+      "supabase": "Celiwe, effiom, Ekom, erics, gorga1103, lord_kizzy, malik434, Mapula, Prefina, Slate, SUB ZERO, tevo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Introduction and overview of Dework PBL course.",
+      "supabase": "Introduction and overview of Dework PBL course"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "2 new members (Ekom and SubZero) introduce themselves.",
+      "supabase": "2 new members (Ekom and Sub Zero) introduce themselves"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Importance of Dework in task management within the Ambassador program.",
+      "supabase": "Importance of Dework in Task management within the Ambassador program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Treasury operators are required to take the course.",
+      "supabase": "Treasury operators are required to take the course"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "The future of Dework PBL WG.",
+      "supabase": "The future of Dework PBL WG"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/.",
+      "supabase": "Q2 Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM/"
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].text",
+      "gitbook": "Q2 Report to be submitted with Q3 report",
+      "supabase": "Q2 Report would to be submitted with Q3 report"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Process Guild Q3 Report: https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/.",
+      "supabase": "Process Guild Q3 Report: https://docs.google.com/document/d/1tGaPbBiID3Rf10pGD2J_AjfKDXwupVBRhRwx9seSF7A/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Explanation of the Guild's view in Treasury Guild Dashboard.",
+      "supabase": "Explanation of the Guild's view in Treasury Guild Dashboard"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "How can other Gs/WGs opt in to use the Zoom import feature?",
+      "supabase": "How can other Gs/WGs opt-in to use the Zoom import feature?"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Concerns with adding Miro links in report; people can delete information.",
+      "supabase": "Concerns with adding Miro links in report; people can delete information"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "Before submitting a report, we will get feedback from WGs currently using Zoom export feature",
+      "supabase": "Before submitting a report, we get feedback from WGs currently using Zoom export feature"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].decision",
+      "gitbook": "Mention the availability of this feature during Governance call to get other WGs/Gs to participate",
+      "supabase": "Mention the availability of this feature during GOV call to get other WGs/Gs to participate"
+    },
+    {
+      "field": "agendaItems[2].actionItems[0].text",
+      "gitbook": "At the end of Q3, update the dashboard to capture the reallocation of funds from Process Guild to Dework PBL and Knowledge Base WG (KBWG)",
+      "supabase": "At the end of Q3, update the dashboard to capture the reallocation of funds from Process Guild to Dework PBL and KBWG"
+    },
+    {
+      "field": "agendaItems[2].actionItems[1].text",
+      "gitbook": "Add metrics on how many Zoom imports were done",
+      "supabase": "Add metrics on how many Zoom import was done"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Suggestions on Q4 deliverables.",
+      "supabase": "Suggestions on Q4 deliverables"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "How do we select Q4 deliverables from the suggestions?",
+      "supabase": "How do we select Q4 deliverables from the suggestions"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[5]",
+      "gitbook": "More information about ACP (Ambassador Certification Program).",
+      "supabase": "More information about ACP (Ambassador Certification Project)"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[6]",
+      "gitbook": "Exploring LMS platforms other than Andamio to develop PBL course content.",
+      "supabase": "Exploring LMS platforms other than Andamio to develop PBL course content"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[2].decision",
+      "gitbook": "Create poll in Dework PBL channel about proposals we are willing to do, and invite Core contributors to choose which idea they prefer",
+      "supabase": "Create poll about proposal we are willing to do in Dework PBL channel, and invite Core contributors to choose which idea they prefer"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[3].decision",
+      "gitbook": "We will wait for community feedback before we start drafting proposal to help us choose a focus direction",
+      "supabase": "We wait for community feedback before we start drafting proposal to help us choose a focus direction"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[5].decision",
+      "gitbook": "On 05.09.2024 we will finalize Process Guild Q3 Report and Q4 proposal",
+      "supabase": "On 05.09.2024 we finalize on Process Guild Q3 Report and Q4 proposal"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Dework, dework PBL, Miro Board, Lessons, Andamio, feedback, poll, zoom import, Q3 2024 Quarterly Report, Q4 2024 budget proposal, Q2 2024 quarterly report",
+      "supabase": "Dework, dework PBL, Miro Board, Lessons, Andamio, feedback, poll, zoom import, Quarterly Report, Q4 proposal, Q3 report"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
