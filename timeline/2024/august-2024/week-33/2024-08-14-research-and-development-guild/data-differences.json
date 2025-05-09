@@ -1,0 +1,59 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-08-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the one-pager document highlighting the scope of the project and they are currently focused on the skills form and database. Rojo suggested that the database could be in the same place as the exsisting database because it would be great if the databases are interconnected, he also suggested an initial design on an Excel sheet showing the relationship of form with the database.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the one pager document highlighting the scope of the project and they are currently focused on the skills form and database. Rojo suggested that the database could be in the same place as the exsisting database because it would be great if the database are interconnected, he also suggested for an initial design on an excel sheet showing the relationship of form with the database"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation on the Web3 CONTRIBUTIONS Dashboard, and we had discussions on how it could be intergrated with Legacy and Collaboration Skills Database.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation of the Web3 CONTRIBUTIONS Dashboard, and we had discussions on how it could be intergrated with Legacy and Collaboration Skills Database"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation on the initial report for the Social Media Automation and he explained the Fund Request. The discussions was centered around where this tool could be used and if we plan to monetize it to other projects.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Rojo gave a presentation of the Initial Report for the Social Media Automation and he explained the Fund Request, the discussions was centered around where this tool could be used and if we plan to monetize it to other projects."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We have decided to procced with the transition from the development of the Social Media Automation tool to an Open source platform called MixPost",
+      "supabase": "We have decided to procced with the transisition from the development of the Socioal Media Automation tool to an Open source platform called MixPost"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "a poll was conducted to approve this decision, and a final report will be presented at the end of the Quarter.",
+      "supabase": "a poll was conducted to approve this decision and a Fianal report will be presented at the end of the Quarter."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Guillermo to disburse funds to Duke (The final part of project's allocation) and Rojo (for licenscing and hosting)",
+      "supabase": "Guillermo to dispurse funds to Duke (The final part of project's allocation) and ROJO (For Licenscing and hosting)"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, pools, MixPost, Social Media Automation, Rewards, skills database",
+      "supabase": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Core team, Presentation, pools, MixPost, Social Media Automation, Rewards, skills database"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
