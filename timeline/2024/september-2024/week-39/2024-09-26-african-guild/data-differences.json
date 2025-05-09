@@ -1,0 +1,28 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-09-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "A little while ago, our weekly meetings turned into a biweekly routine due to the fall of AGIX price and/or there weren’t enough funds in the Treasury; we have agreed to reinstate the African guild weekly meetings since Q4 is already looking promising and we have a lot to catch up on. - Due to the fact the members weren’t contributing to documents as they normally would, we have decided to take out the compensation for commenting on documents from the Q4 budget.",
+      "supabase": "A little while ago, our weekly meetings turned into a biweekly routine due to the fall of AGIX price and/or there weren’t enough funds in the Treasury; we have agreed to reinstate the African guild weekly meetings since Q4 is already looking promising and we have a lot to catch up on."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
