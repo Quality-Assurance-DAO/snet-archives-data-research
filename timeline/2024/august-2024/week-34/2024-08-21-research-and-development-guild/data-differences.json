@@ -1,0 +1,54 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-08-21",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameyaw gave the updates on the Collaboration Skill Database; they presented the work done so far visually, and requested feedback on whether it would be suitable to add existing data to the database. Lordkizzy made some clarity on the scope of the project and suggested that the existing data gets differentiated from the new data. AJ and Advanceameyaw requested two more weeks from the inital deadline for development and testing.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database; they presented the workdone so far visually, and requested for feedback on if it would be suitable to add existing Data to the Database, Lordkizzy made some clarity on the scope of the project and suggested that the exisiting data gets differentiated from the new data, they also requested for more two weeks from the inital deadline for development and testing."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D Guild Proposal Template: Lord kizzy presented the final draft of the proposal template to the group for feedback. Here is the document: https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit He also highlighted the timeline for this process: New proposal submission applications, August 27th - September 3rd. Review process, September 4th - 10th. Community voting, September 11th - 18th.",
+      "supabase": "R&D Guild Proposal Template: Lord kizzy presented the final draft of the proposal template the group for feedback, here is the document: https://docs.google.com/document/d/14cl-X09nWY2RIDKcPWZv14-JbQqohovggJ0HOp6DKXk/edit , he also highlighted the timeline for this process; New Proposal Submission Applications: August 27th - September 3rd Review process: September 4th - 10th Community voting: September 11th - 18th"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We have decided to proceed with the transition from the development of the Social Media Automation tool to an Open Source platform called MixPost",
+      "supabase": "We have decided to procced with the transisition from the development of the Socioal Media Automation tool to an Open source platform called MixPost"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "a poll was conducted to approve this decision and a final report will be presented at the end of the Quarter.",
+      "supabase": "a poll was conducted to approve this decision and a Fianal report will be presented at the end of the Quarter."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Guillermo to disburse funds to Duke (the final part of his project's allocation) and Rojo (for Licenscing and hosting)",
+      "supabase": "Guillermo to dispurse funds to Duke (The final part of project's allocation) and ROJO (For Licenscing and hosting)"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Presentation, skills database, Database, lingual differences, language, MixPost, timeline, proposal, proposal template, voting, community voting, social media automation,",
+      "supabase": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Presentation, skills database, Database"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, Collaborative, speedy , Welcoming, Thoughtful, Organised",
+      "supabase": "Casual, Collaborative, speedy , Welcoming, Thoughtful , Organised"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
