@@ -1,0 +1,190 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-08-14",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Bernard, Celiwe Ngwenya, effiom, Eric Davies, Gorga Siagian, Jason Kaleb, lord_kizzy, malik434, Onize",
+      "supabase": "Bernard, Celiwe Ngwenya, effiom, Eric Davies, gorga, Jason Kaleb, lord_kizzy, malik434, Onize"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Overview of the Dework PBL WG.",
+      "supabase": "Overview of the Dework PBL WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Welcoming the 3 new students that joined the call.",
+      "supabase": "Welcoming the 3 new students that joined the call"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Introductions from new students.",
+      "supabase": "Introductions made by new students"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "How to get started with the Dework PBL course.",
+      "supabase": "How to get started with the Dework PBL course"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Agenda for today's meeting.",
+      "supabase": "Discuss on the agenda for today's meeting"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Course content: https://instance-dework-pbl.vercel.app/course/module/101/overview.",
+      "supabase": "Course content: https://instance-dework-pbl.vercel.app/course/module/101/overview"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Treasury Operators faced challenges in taking the course - e.g. Onize reported confusion about signing in, and whether it was a requirement to take the course.",
+      "supabase": "Treasury Operators had challenges for taking the course"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Understanding action items was a challenge - action items were unclear in some course modules.",
+      "supabase": "Onize reported confusion about signing in, if it was a requirement to take course. Also, the challenge of understanding action items"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Discussion of the course outline.",
+      "supabase": "Discuss on the course outline"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "We noted the effectiveness of the async support provided by Tevo.",
+      "supabase": "Action items were unclear in some course modules"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "supabase": "The effectiveness of the async support provided by Tevo"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "Based on feedback, there is still a need to give ongoing support to Dework PBL students",
+      "supabase": "There is need to still support Dework PBL students based on feedback"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].rationale",
+      "gitbook": "Dework PBL students still require live and async support",
+      "supabase": "Dework PBL students would still require live and async support"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Explanation of WG's current purpose and repositioning plans.",
+      "supabase": "Explanation of WG current purpose and repositioning plans"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Review of Q2 deliverables and Q3 proposal.",
+      "supabase": "Review of Q2 deliverables and Q3 proposal"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "What should Dework PBL Workgroup be doing in Q4? Suggestions from meeting participants on Q4 Deliverables (see below).",
+      "supabase": "What should Dework PBL Workgroup be doing in Q4"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "supabase": "Suggestion from meeting participants on Q4 Deliverables"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Train SNET ambassador members on how to use Github for project management.",
+      "supabase": "Train SNET ambassador members on how to use Github for project management"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Collaborate with Education Guild on ACP project.",
+      "supabase": "Collaborate with Education Guild on ACP project"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Create PBL course content on Task Management on Github.",
+      "supabase": "Create PBL course content on Task Management on Github"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[3]",
+      "gitbook": "Repurpose WG for tracking in Treasury - Treasury Management PBL.",
+      "supabase": "Repurpose WG for tracking in Treasury - Treasury Management PBL"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[4]",
+      "gitbook": "Repurpose the tool and educate other Gs/WGs on the purpose of the tool.",
+      "supabase": "Repurpose the tool and educate other Gs/WGs on the purpose of the tool"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[5]",
+      "gitbook": "Collaborate with another platform other than Andamio to develop Github PBL course content.",
+      "supabase": "Collaborate with another platform other than Andamio to develop Github PBL course content"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Discussion on exporting participation data from Zoom.",
+      "supabase": "Discussion on exporting participation data from Zoom"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[1]",
+      "gitbook": "Challenges for WGs who are not using Zoom for meetings - should all G/WGs be required to move their meetings to Zoom?",
+      "supabase": "Zoom Challenges for WG not using for meetings"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[2]",
+      "gitbook": "Who has access to open Zoom calls?",
+      "supabase": "Related discussions all G/WGs are required to move the meeting to zoom"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[3]",
+      "gitbook": "Meeting Facilitation on 28.08.2024.",
+      "supabase": "Who has access to open Zoom calls?"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[4]",
+      "supabase": "Meeting Facilitation on 28.08.2024"
+    },
+    {
+      "field": "agendaItems[4].decisionItems[3].decision",
+      "gitbook": "Decided on the facilitator and documenter for next meeting (Makik facilitating; Effiom documenting)",
+      "supabase": "Decided on the facilitator and documenter for next meeting"
+    },
+    {
+      "field": "agendaItems[4].actionItems[0].text",
+      "gitbook": "Malik to facilitate next meeting. Effiom to document",
+      "supabase": "Malik to facilitate next meeting. Effiom to document 28.08.24"
+    },
+    {
+      "field": "agendaItems[4].actionItems[0].dueDate",
+      "gitbook": "28 August 2024"
+    },
+    {
+      "field": "agendaItems[4].actionItems[1].text",
+      "gitbook": "Effiom to coordinate with Tevo or Andre to open the Zoom call for the next meeting",
+      "supabase": "Coordinate with Tevo or Andre to open the Zoom call for the next meeting - Effiom"
+    },
+    {
+      "field": "agendaItems[4].actionItems[2].text",
+      "gitbook": "Gorga will try to draft meeting summary for 14.08.2024",
+      "supabase": "Gorga will try draft meeting Summary for 14.08.2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Dework, dework PBL, GitHub, tools, Zoom Calls, Zoom Meeting, deliverables, task assignment, Q4 2024 Deliverables, Suggestions, zoom, participation data, access to open Zoom, collaboration, Treasury Guild, Education Guild",
+      "supabase": "Dework, dework PBL, GitHub, tools, Zoom Calls, Zoom Meeting, Q4 Deliverables, Suggestions"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Fun, interesting, interactive, Collaborative, planning",
+      "supabase": "Fun, interesting, interactive, Collaborative , planning"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
