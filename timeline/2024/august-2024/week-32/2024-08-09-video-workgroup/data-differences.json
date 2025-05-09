@@ -1,0 +1,44 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-08-09",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from Social Media Management: Tuso highlighted that he was able to ensure that the townhall videos were posted earlier and he uploaded a clip and a long video within the week.",
+      "supabase": "Updates from Social Media Management; Tuso highlighted that he was able to ensure that the townhall videos were posted earlier and he uploaded a clip and a long video within the week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates from Lordkizzy: Lordkizzy and slate gave updates from the WG Sync call and Governance call, and pleaded for more participation in these essential calls.",
+      "supabase": "Updates from Lordkizzy: Lordkizzy and slate gave the updates from the WG Syncing call and Governance call and pleaded for more participation in these essential calls"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Social Media Automation: Rojo gave a presentation on mixpost and explained its features to the group.",
+      "supabase": "Social Media Automation- Rojo gave a presentation on mixpost and explained the features to the group"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Quality control process: Lordkizzy presented the Blueprint for Quality Control, and threw some questions to the group.",
+      "supabase": "Quality control process: Lordkizzy presented the Blueprint for the Quality Control, and threw some questions to the group"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided that subzero would be a member of the video WG since the video was approved by the majority",
+      "supabase": "We decided that subzero would be a member of the video WG since the video was approved but the"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "The video had a majority vote in favour of acceptance into the video WG, but a few mistakes were highlighted",
+      "supabase": "The video had a majority vote in favour of acceptance into the video WG but few mistakes were highlighted in the video"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
