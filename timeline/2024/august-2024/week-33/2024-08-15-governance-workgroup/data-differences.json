@@ -1,0 +1,34 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-08-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Why some Core Contributors don't take part in the consent process.",
+      "supabase": "Why some Core Contributors don't take part in the consent process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Token price fluctuation and its effects on WG budgets.",
+      "supabase": "Token price fluctuation and its effects on WG budgets"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Priorities for WGs if low token price continues in Q4.",
+      "supabase": "Priorities for WGs if low token price continues in Q4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Wording and design for infographics about thre Q4 budget decision.",
+      "supabase": "Wording and design for infographics about thre Q4 budget decision"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
