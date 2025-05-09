@@ -1,0 +1,54 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-08-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].learningPoints[0].101",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[0].102",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].learningPoints[1].196",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].learningPoints[1].197",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[2].140",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[3].294",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[4].118",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].learningPoints[5].320",
+      "supabase": "\n"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
