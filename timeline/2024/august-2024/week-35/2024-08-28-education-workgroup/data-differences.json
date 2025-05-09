@@ -1,0 +1,44 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-08-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "The meeting started with discussion of cheat-free quizzes for CCCP.",
+      "supabase": "The meeting started with discussion of cheat-free quizzes for CCCP"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then Slate started off the discussion regarding budget request for Education Guild.",
+      "supabase": "Then Slate started off the discussion regarding budget request for Education Guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "CCCP Automation cost was added to the budget request and explained by Slate.",
+      "supabase": "CCCP Automation cost was added to the budget request and explained by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Outreach task was added for CCCP.",
+      "supabase": "Outreach task was added for CCCP"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Wiki website for Education Guild and CCCP integration was explained by Slate and added to budget request.",
+      "supabase": "Wiki website for Education Guild and CCCP integration was explained by Slate and added to budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Ai For Beginners project budget was added and explained by Ese.",
+      "supabase": "Ai For Beginners project budget was added and explained by Ese"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
