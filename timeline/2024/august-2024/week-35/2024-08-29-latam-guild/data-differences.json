@@ -1,0 +1,33 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-08-29",
+  "differences": [
+    {
+      "field": "agendaItems[1].narrative",
+      "gitbook": "The team finalized plans for the upcoming X-Space on September 4th. Although the initial idea stemmed from discussions with MetaPool, this first space will be developed solely by SingularityNET. X-Spaces will occur monthly, with additional biweekly spaces when relevant news or events arise to update the ecosystem.\nFirst X-Space re schedule on September 12th, 21:00 UTC | 18:00 Arg. Topic: Governance and Global Ethics: \"Governance and decision-making systems in relation to AI developments and advances\".",
+      "supabase": "The team finalized plans for the upcoming X-Space on September 4th. Although the initial idea stemmed from discussions with MetaPool, this first space will be developed solely by SingularityNET. X-Spaces will occur monthly, with additional biweekly spaces when relevant news or events arise to update the ecosystem.\nFirst X-Space re schedule on September 12th, 21:00 UTC | 18:00 Arg. Topic: Governance and Global Ethics: \"Governance and decision-making systems in relation to AI developments and advances\"\n"
+    },
+    {
+      "field": "agendaItems[1].actionItems[3].text",
+      "gitbook": "Develop Program for X space Sept 12 Governance and Global Ethics: \"Governance and decision-making systems in relation to AI developments and advances\"",
+      "supabase": "Develope Program for X space Sept 12 Governance and Global Ethics: \"Governance and decision-making systems in relation to AI developments and advances\""
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Content Calendar, Educational Content, Q4 Roadmap, treasury guild operations, X-Spaces, Token Development, Governance, AI ethics, Live Stream, Team Work, Multi-language Communication, Platform Evaluation",
+      "supabase": "Contente Calendar, Educational Content, Q4 Roadmap, treasury guild operations, X-Spaces, Token Development, Governance, AI ethics"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Live Stream, Team Work, Multi-language Communication, Platform Evaluation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
