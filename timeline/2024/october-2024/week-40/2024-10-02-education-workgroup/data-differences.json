@@ -1,0 +1,85 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-10-02",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Billy, Clement Umoh, esewilliams, GorgaSiagian, Kareem, kateri, lord kizzy, malik, osmium, SubZero",
+      "supabase": "Billy, Clement Umoh, esewilliams, GorgaSeagian, Kareem, kateri, lord kizzy, malik, osmium, SubZero"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: Certification Program Discussions - Ai for Beginners Discussion - Updates from the Website - Webinar Series",
+      "supabase": "Certification Program Discussions -Ai for Beginners Discussion - Updates from the Website - Webinar Series "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then Slate went over the certification program updates. The automation is almost complete and the only thing that's left is a single classroom and dashboard setup. We are going to have one week of testing everything, then we are going to set up a seperate channel for the certification program. Afterwards the announcement for the CCCP will be starting, hopefully from the next week.",
+      "supabase": "Then Slate went over the certification program updates that the automation is almost complete and the only thing that's left is a single classroom and dashboard setup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ai for Beginners project: there is progress going on; video wg was reached out to for this purpose and the transcripts will be reviewed internally by the project lead and one other education guild member. Slate and Billy requested to document the process so it can be made transparent to everybody.",
+      "supabase": "Then Slate mentioned that we are going to have one week of testing everything than we are going to setup a seperate channel for the certification program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Osmium mentioned that he has been in talks with the governance wg for the webinar series and will soon have updates from there as well.",
+      "supabase": "Afterwards the announcement for the CCCP will be starting , hopefully from the next week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Gorga mentioned that the wiki website design is being worked on and will soon be presented to the group.",
+      "supabase": "Then there was a shift of focus towards the Ai for Beginners project , and Slate inquired the progress on it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": "To this question it was mentioned that there is progress going on , in which it was further briefed that video wg was reached out for this purpose and moving further we are going to be reviewing the transcripts internally by the project lead and one other education guild member"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "Slate and Billy requested to document the process so they can be made transparent to everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "supabase": "Osmium mentioned that he has been in talks with the governance wg for the webinar series and will soon have updates from there as well"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "Gorga mentioned that the wiki website design is being worked on and will soon be presented to the group"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Test the CCCP Automation with osmium and Gorga",
+      "supabase": "Test the Automation with osmium and gorga"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "Slate, osmium, GorgaSiagian",
+      "supabase": "Slate, osmium, GorgaSeagian"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Document the changes for Ai for Beginners",
+      "supabase": "Document the changes for the Ai for Beginners"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation, CCCP dashboard, dashboard, testing, Ai for Beginners, documentation, Wiki, Video WG, Governance WG",
+      "supabase": "Presentation, CCCP, Budget Request, Quarterly Report, ideation, Reward automation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
