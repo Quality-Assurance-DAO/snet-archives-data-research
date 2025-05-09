@@ -1,0 +1,14 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-09-20",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
