@@ -1,0 +1,63 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-09-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "UPDATE from the task manager, ZALFRED. He created tasks for the approved topics for video creation for this quarter. He also updated the KPI sheet with the video links ready for uploading, and had an operational call with MALIK and LORD KIZZY on the smooth communication with the review team.",
+      "supabase": "UPDATE from the task manager by ZALFRED as he did create task for the approved topics for vidoe creation for this quater, also updated the KPI sheet with the video links ready for uploaded and had an operational call with MALIK and LORD KIZZY on the smooth communication with the review team."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE from the social media manager, OEP: 4 long videos have been uploaded to all social media platforms and are having a good number of engagements so far. He also mentioned the challenges he's facing due to delay.",
+      "supabase": "UPDATE from the social meadia manager by OEP as 4 long vidoes has been uploaded to all social media platforms and having a good number of engagement so far also mentioned the challengies he's facing due to delay."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE from Zealy by DEVON: he mentioned that he'll be sending out more tasks from Monday as the sprint comes to an end.",
+      "supabase": "UPDATE from the zealy by DEVON as he did mention that he'd be sending out more task from monday as the sprint comes to and end."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Reviewing and discussions on the last Governance workgroup meeting by LORD KIZZY, presenting the questions and challenges discussed about the video workgroup pertaining to the numbers of videos created, budget fitting, and approval for Q4 budject proposal.",
+      "supabase": "Reviewing and discussions on the Governance work group by LORD KIZZY presenting the questions and challengies discussed about the vidoe work group pertaining to the numbers of video creation, budget fitting and approval for Q4 budject proposal."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Presentation on navigating the new tool for social media by ROJO: he gave a comprehensive explanation on how to navigate the tool to post seamlessly on various platforms. He suggested to introduce LINKEDIN AND MASTODON as part of the new social platform added to the role.",
+      "supabase": "Presentation on navigating the new tool for the social media role by ROJO, gave a comprehensive explanation on how seemless to navigate the tool posting through various platforms and suggested to introduce LINKEDIN AND MASTODON as part of the new social platform added to the role."
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We are adopting MASTODON as a new social platform for the video workgroup. - Collective operational call on the challenges that workgroup members are facing in order to perform their tasks properly",
+      "supabase": "We are adopting MASTODON as a new social platform for the video work group."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "ROJO will take up the social media manager role. The allocation hasn't been decided since we said we are going to experiment this month and decide after that.",
+      "supabase": "ROJO taking up the social media manager The allocation hasn't been decided since we said we are going to experiment this month and decide after that."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Budget fitting, Zealy, Zealy quest, Zealy Updates, Collaboration, Roles, mentorship, governance WG, budget fitting, Mastodon, LinkedIn",
+      "supabase": "Rewards, Budget fitting, zealy quest, Zealy Updates, Collaboration, Roles, mentorship"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
