@@ -1,0 +1,178 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-09-02",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 5,
+      "supabase": 6
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Treasury Guild Quarterly Report - Q3 2024",
+      "supabase": "Concerns over permission sharing [GOOGLE FORM]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1acxnPRihpShLFF4visFPrkr32U_Eizge9HBdOon4qiQ/edit#heading=h.1w2fce1nfvp0",
+      "supabase": "https://docs.google.com/forms/d/e/1FAIpQLSezM4WCsidZw_6gLMa7hk17LWkWTj3p47zyHMNVuO0I4ZHpqQ/viewform"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "Treasury Guild Proposal Q4 2024",
+      "supabase": "Treasury Guild Quarterly Report - Q3 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/document/d/169g5QOg0AY1bRQ_28hWrzl5U93Bv_j-_V9ABsc4wFiw/edit#heading=h.9t5jkakh8028",
+      "supabase": "https://docs.google.com/document/d/1acxnPRihpShLFF4visFPrkr32U_Eizge9HBdOon4qiQ/edit#heading=h.1w2fce1nfvp0"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Ambassador Tools: https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/.",
+      "supabase": "Ambassador Tools: https://docs.google.com/spreadsheets/d/1hFAp0dm5Tmoh29EgxC9r5XTey_EWeb9lRdrI0JCpbPk/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Who decides, and how do we decide, account permission changes?",
+      "supabase": "Who and how do we decide account permission changes?"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "This was decided based on the relevant information the person requesting needs to provide, like Discord name, position, tools they use (Zoom, Google Drive etc), comments, is the account accessible etc.",
+      "supabase": "This was decided based on the relevant information the person requesting needs to provide, like Discord name, Position, Tools they use (Zoom, Google Drive etc.), Comments, Is the account accessible etc."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We agreed to keep the process simple, hence no need for quorum",
+      "supabase": "We agreed to keep the process simple, hence, no need for quorum"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "There should be a degree of anonymity in the decision-making process, in case people have reservations about the people requesting access. Hence, the feedback form should be created under Swarm account.",
+      "supabase": "There should be a degree anonymity in the decision-making progress, in case people have reservations about the people requesting for access. Hence, the feedback form should be created under Swarm Account"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Create a form under Swarm account to collect anonymous information",
+      "supabase": "Create Form under Swarm Account to collect anonymous information"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "How best to capture the deliverables of the quarter in the report, since it will be shared before end of Q3?",
+      "supabase": "How best to capture the deliverables of the quarter in the report since it would be shared before end of Q3?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Do we update the report later, at the end of the quarter?",
+      "supabase": "Do we update Report Later by the end of the quarter?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Planning ahead for budget fitting; the preferred approach.",
+      "supabase": "Planning ahead for budget fitting; the preferred approach"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "In quarterly reports we highlight things that are not yet completed",
+      "supabase": "In quarterly report we highlight things that not yet completed"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].rationale",
+      "gitbook": "It would better represent the reporting cycle, as quarterly reports are usually prepared before the end of the quarter",
+      "supabase": "It would better represent the reporting cycle, as quarterly report are usually prepared before the end of the quarter"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].decision",
+      "gitbook": "In Q4 report we have a section to address Q3 proposal deliverables that was not completed in Q3 report",
+      "supabase": "In Q4 report we have section to address Q3 Proposal deliverables that was not completed in Q3 report"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].rationale",
+      "gitbook": "This would allow us to capture all our deliverables accurately",
+      "supabase": "This would allow us capture all our deliverables accurately"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[4].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Policy list link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/.",
+      "supabase": "Policy list link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "The current treasury policy template.",
+      "supabase": "The current treasury policy template"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Bare minimum Recognition Influence.",
+      "supabase": "Bare minimum Recognition Influence"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Is there a need for any additional tokenomics?",
+      "supabase": "Is the need for any additional tokenomics?"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Tokens with tickers (INF).",
+      "supabase": "Tokens with tickers (INF)"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy, Swarm account, privacy, confidentiality, MINS, Slow Start, deliverables, reporting, quorum, access",
+      "supabase": "Miro Board, Q3 Report, Q4 Proposal, Consent Recognition, Ambassador Account, Permissions, Access, Treasury Policy"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
