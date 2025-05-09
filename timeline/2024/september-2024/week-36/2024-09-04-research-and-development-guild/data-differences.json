@@ -1,0 +1,89 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-09-04",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "$rojokaboti, Advanceameyaw, AJ, barnabas, Clement Umoh, CollyPride, guillermolucero, Kenichi, lord kizzy, Nengi, osmium, Yemi Solves",
+      "supabase": "$rojokaboti, Advanceameyaw, AJ, barnabas, Clement Umoh, CollyPride, Guillermo, Kenichi, lord kizzy, Nengi, osmium, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Kenichi on NDA for the Legacy project",
+      "supabase": "Kenichi on NDA for the Legacy project."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting.",
+      "supabase": "Review of last meeting summary Action Items: Lordkizzy went through the action items for the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameyaw gave updates on the Collaboration Skill Database: the fields have been updated, the expectation is to deliver the tool for testing before Friday, the expectation is to host the database with Rojo's project.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: AJ and Advanceameywu gave the updates on Collaboration Skill Database;: the fields has been updated, the expectation is to deliver the tool for testing before Friday, the expectation is to host the database with Rojo's project"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Rojo gave updates on the social media automation tool: he notified that he had struggled to get the license due to card issues and hopefully he will get it done before Friday; more expectation on the reporting and documentation.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Rojo gave the updates on the social media automation tool: he notified that he had struggled to get the license, due to card issues and hopefully he will get it done before Friday, more expectation on the reporting and documentation."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT: Rojo gave updates on Web 3 Contributions Dashboard: he gave a presentation on the project. He highlighted that a change in username caused an error but hopefully that will be fixed, and he highlighted some features of the tool.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT: Rojo gave the updates on Web 3 Contributions Dashboard: he gave a presentation on the project. He highlighted that a change in username caused an error but hopefully that will be fixed, and he highlighted some features of the tool"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process; we went through the eligibility review for new proposals submissions.",
+      "supabase": "New Operations System Deployment: Guillermo gave a brief summary on the new system and some suggestions were made for the voting process, we went through the eligibility review for new proposals submissions."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Presentation on new proposal: Research on Ambassador Participation in AI Discussions and Blockchain Preferences within the SingularityNET Ecosystem. Barnabas gave a presentation on the cross-chain interaction between SingularityNet and Cardano; there were many questions on the scope of the project, and the benefits of the project to the Ambassador program. Barnabas will work on the scope of the project and present it in the next meeting.",
+      "supabase": "Presentation on new proposal: Research on Ambassador Participation in AI Discussions and Blockchain Preferences within the SingularityNET Ecosystem; Barnabas gave a presentation on the Cross chain interaction between SingularityNet and Cardano, there were so many questions on the scope of the project, and the benefits of the project to the ambassador program. Barnabas was to work on the scope of the project and present it in the next meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Presentation on new proposal: Contributors' Portal Integrations. Rojo on the continuation of the Web 3 Contributions Dashboard: the project will be called a Web 3 portal, they plan to add new features like the archives Wg having documentation access to the portal, hosting of web app and so much features. They hope to solve the information retrieval process.",
+      "supabase": "Presentation on new proposal: Contributor's Portal Integrations; Rojo on the continuation of the Web 3 Contributions Dashboard, the project will be called a Web 3 portal, they would love to add new features like the archive Wg having documentation access to the portal, hosting of web app and so much features, they hope to solve the information retrieval process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Presentation on new proposal: Legacy 0.1 Milestone 2; Kenichi on the continuation of the Legacy system. There were questions on why the proposal template wasn't used and why there is a change in the proposal; Kenichi highlighted that he couldn't understand the template and he had to submit due to time constraints, and going forward the focus is the design and architecture of the system.",
+      "supabase": "Presentation on new proposal: Legacy 0.1 Milestone 2; Kenichi on the Continuation of the Legacy system, there were questions on why the proposal template wasn't used and why there is a change in the proposal, kenichi highlighted that he couldn't understand the template and he had to submit due to time constraints, and going forward the focus is the design and architecture of the system"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Presentation on new proposal: Consensus Dashboard for Quarterly Reports and Budgets; Guillermo presented the proposal for Consensus dashboard for Quarterly budget and voting. The scope of the project aims to streamline the process of creating, reviewing, and finalizing quarterly reports and budget proposals for WorkGroups (WGs) and Guilds within the SingularityNET Ambassador Program. This project will span two quarters, with the first focused on research and ideation to define requirements and design, and the second on development and implementation.",
+      "supabase": "Presentation on new proposal: Consensus Dashboard for Quarterly Reports and Budgets; Guillermo presented the Proposal for Consensus dashboard for Quarterly budget and voting, the scope of the project aims to streamline the process of creating, reviewing, and finalizing quarterly reports and budget proposals for Working Groups (WGs) and Guilds within the SingularityNET Ambassador Program. This project will span two quarters, with the first focused on research and ideation to define requirements and design, and the second on development and implementation."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Discussions on an NDA for the Legacy project: kenichi highlighted the need for protecting the code and documentation of the project, and the members agreed to this.",
+      "supabase": "Discussions on an NDA for the Legacy project: kenichi highlighted the need for protecting the codes and documentation of the project and the members agreed to this"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Integration of the ambassador program and deep funding: kenichi presented an initiative on creating a pool in deep funding for ambassador program. Further discussions will be made on this in the next WG syncing call.",
+      "supabase": "Integration of the ambassador program and deep funding: kenichi presented an initiative on getting a pool on deep funding for ambassador program, further discussions will be made on this in the WG syncing call"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Lordkizzy to meet up with Duke on the presentation of the Ideation Project on Impact of Lingual Differences",
+      "supabase": "Lordkizzy to meet up with Duke as regards to the presentation of the Ideation Project on Impact of Lingual Differences"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
