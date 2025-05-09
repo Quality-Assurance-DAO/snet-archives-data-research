@@ -1,0 +1,59 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-08-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "A new member joined the meeting.",
+      "supabase": "A new member joined the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Used the infographic to onboard new member.",
+      "supabase": "Used the infographic to onboard new member"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "There was no new feedback to be reviewed.",
+      "supabase": "There was no new feedback to be reviewed"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Writers WG Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14.",
+      "supabase": "Writers WG Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "11 writers WG items to be selected for Gitbook.",
+      "supabase": "11 writers WG items to be selected for Gitbook"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Asset link: https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform.",
+      "supabase": "Asset link: https://docs.google.com/forms/d/e/1FAIpQLSdiAyiWjXjiUYLd7iGEvaEFqC8KsSVRQR-diZTevVAaoYTZBw/viewform"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Live review of organised Writers' WG asset.",
+      "supabase": "Live review of organised Writers' WG asset"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Next session is on 21.08.24.",
+      "supabase": "Next session is on 21.08.24"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Facilitation and documentation of the next session.",
+      "supabase": "Facilitation and documentation of the next session"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
