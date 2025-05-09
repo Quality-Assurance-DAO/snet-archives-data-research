@@ -1,0 +1,92 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-09-28",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Gamers' Guild. This meeting centered around participants showcasing their progress and discussing improvements for their workgroup models.",
+      "supabase": "The meeting centered around participants showcasing their progress and discussing improvements for their workgroup models."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate began by noting that the Gamers' Guild budget was approved in the initial iterations, highlighting that the quarterly report was well-prepared and met everyone's expectations. He congratulated all the members of the guild.",
+      "supabase": "Slate began by noting that the Gamers Guild budget was approved in the initial iterations, highlighting that the quarterly report was well-prepared and met everyone's expectations. He congratulated all the members of the guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Next, workgroup updates were presented, and Kateri showcased the Archives Workgroup model. It featured an impressive design that conveyed the ambiance of a library. Suggestions included enhancing the detailing and slightly increasing the length of the upper floor.",
+      "supabase": "Next, workgroup updates were presented, and Kateri showcased the Archival Workgroup model. It featured an impressive design that conveyed the ambiance of a library. Suggestions included enhancing the detailing and slightly increasing the length of the upper floor."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "CollyPride presented the R&D Guild model, which required significant revisions as it resembled the Video Workgroup's building. Slate agreed to help help the creators in revamping it.",
+      "supabase": "Colly Pride then presented the R&D Guild model, which required significant revisions as it resembled the Video Workgroup's building. Slate mentioned that he will help the creators in revamping it."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Photogee presented the Dework PBL Workgroup model, which featured an attractive design with a helipad on top. Inside, there were images of Dework displayed on the walls. Slate suggested arranging the pictures more orderly and recommended adding additional elements related to Dework PBL. He noted that the colors and textures should reflect the Dework aesthetic, but overall, it was a commendable model.",
+      "supabase": "Photogee then presented the Dework PBL Workgroup model, which featured an attractive design with a helipad on top. Inside, there were images of Dework displayed on the walls. Slate suggested arranging the pictures more orderly and recommended adding additional elements related to Dework PBL. He noted that the colors and textures should reflect the Dework aesthetic, but overall, it was a commendable model."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Martin presented the Treasury Guild, starting with an exterior view of the building, which featured \"Treasury Guild\" prominently displayed along with a dollar sign above. Inside, there was a depiction of the treasury dashboard and a counter where members were conducting transactions. A vault, guarded by security personnel, was also included, along with a newly added treasury meeting room. Suggestions were made for improvements, indicating that many additional elements could enhance the building.",
+      "supabase": "Martin then presented the Treasury Guild, starting with an exterior view of the building, which featured \"Treasury Guild\" prominently displayed along with a dollar sign above. Inside, there was a depiction of the treasury dashboard and a counter where members were conducting transactions. A vault, guarded by security personnel, was also included, along with a newly added treasury meeting room. Suggestions were made for improvements, indicating that many additional elements could enhance the building."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Finally, Malik showcased the Education Guild building, which featured impressive interior design and a futuristic aesthetic, including a hologram representing a digital twin. The walls displayed infographics and NFTs. The main suggestion was to reduce the building's size, to which Malik responded that the Education Guild has many upcoming projects, and that space could be utilized to represent them.",
+      "supabase": "Finally, Malik showcased the Educational Guild building, which featured impressive interior design and a futuristic aesthetic, including a hologram representing a digital twin. The walls displayed infographics and NFTs. The main suggestion was to reduce the building's size, to which Malik responded that the Educational Guild has many upcoming projects, and that space could be utilized to represent them."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate then announced the workgroup creators who will assist him in developing the VR map. The two modelers are Gorga and Kateri who created the Archives Workgroup. He also mentioned that he will soon select two additional workgroup creators as the quarter begins, noting that everyone now understands how to build on Roblox.",
+      "supabase": "Slate then announced the workgroup creators who will assist him in developing the VR map. The two modelers are Gorga and Kateri who created the Archival Workgroup. He also mentioned that he will soon select two additional workgroup creators as the quarter begins, noting that everyone now understands how to build on Roblox."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "This is due to their good development skills.",
+      "supabase": "This is due to their good developmental skills."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Treasury guild and archives workgroup models were finalized",
+      "supabase": "Treasury guild and archival workgroup models were finalized"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Animation and dialogue - Archives Workgroup",
+      "supabase": "Animation and dialogue - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, mentorship, Animation, Map creation, dialogue, VR map",
+      "supabase": "Roblox, metaverse, department Creation, work updates, mentorship, Animation, Map creation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
