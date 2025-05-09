@@ -1,0 +1,14 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-08-09",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
