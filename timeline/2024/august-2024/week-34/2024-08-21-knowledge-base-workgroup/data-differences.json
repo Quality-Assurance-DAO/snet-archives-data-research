@@ -1,0 +1,59 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-08-21",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Onboarding using infographic.",
+      "supabase": "Onboarding using infographic"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Update on WG activities.",
+      "supabase": "Update on WG activities"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Highlights of 21.08.2024 meeting agenda.",
+      "supabase": "Highlights of 21.08.2024 meeting agenda"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Strategy Guild Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14.",
+      "supabase": "Strategy Guild Items: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764574353771652&cot=14"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "7 Strategy Guild items to be selected for Gitbook.",
+      "supabase": "7 Strategy Guild items to be selected for Gitbook"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "The new vs the old Strategy Guild.",
+      "supabase": "The new vs the old Strategy Guild"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "WG Resource Planning Process.",
+      "supabase": "WG Resource Planning Process"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Overview of Organizing Items Miro Board.",
+      "supabase": "Overview of Organizing Items Miro Board"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "How to become an organizer in Knowledge Base WG.",
+      "supabase": "How to become an organizer in Knowledge Base WG"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
