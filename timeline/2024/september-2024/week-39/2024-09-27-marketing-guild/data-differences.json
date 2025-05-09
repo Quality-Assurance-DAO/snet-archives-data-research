@@ -1,0 +1,39 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-09-27",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Aguda, Ayo, Cjfrankie, Eric Davies, Ese Williams, Kareem, kateri, Kenichi, lord kizzy, Mikasa, Moitlheki, Olokoji, Photogee, TheFreysDeFi",
+      "supabase": "Advanceameyaw, Aguda, Ayo, Cjfrankie, Eric Davies, Ese Williams, Kareem, kateri, Kenichi, kevin, lord kizzy, Mikasa, Moitlheki, Olokoji, Photogee"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "SingularityNET Promotion: Kareem Thomas shared ideas on promoting SingularityNET by organizing a mascot event.",
+      "supabase": "SingularityNET Promotion: Kareem Thomas shared ideas on promoting SingularityNET by organizing a mascot event"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Scheduling tools: kateri recommended Later for social media Automation.",
+      "supabase": "Scheduling tools: kateri recommended Later for Social media Automation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Kenichi mentioned that Singularity new ambassador Mascot initiative was fair enough.",
+      "supabase": "Kenichi mentioned that Singularity new ambassador Mascot initiative was fair enough"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Onboarding, Documentation, Ambassador Program marketing, Zealot, mascot, chatbot, Notion, Q4 2024 budget,",
+      "supabase": "Onboarding, Documentation, Ambassador Program marketing"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
