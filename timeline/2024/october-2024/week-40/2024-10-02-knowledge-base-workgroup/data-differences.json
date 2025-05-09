@@ -1,0 +1,125 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-10-02",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "advanceameyaw, effiom, Evelyn Robert, LadyTempestt, lord_kizzy, osmium, PeterE, tevo",
+      "supabase": "advanceameyaw, effiom, Evelyn, Lady, lord_kizzy, osmium, peter, tevo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Onboarding video: https://www.youtube.com/watch?v=jlHcTBzeJ0Y.",
+      "supabase": "Onboarding video: https://www.youtube.com/watch?v=jlHcTBzeJ0Y"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Walkthrough of the Q4 Proposal.",
+      "supabase": "Walkthrough of the Q4 Proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "KBWG Q4 Proposal: https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/.",
+      "supabase": "KBWG Q4 Proposal: https://docs.google.com/document/d/1XGPADj5Syu4eblKRpyY5I9PKj77uqsiO77s5FZd0oxQ/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "What are the main topics for meetings?",
+      "supabase": "KBWG Schedule: https://miro.com/app/board/uXjVN-9yivE=/?moveToWidget=3458764601683623141&cot=10"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "How do we address Budget Fitting?",
+      "supabase": "What are the main topics for meetings?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "supabase": "How do we address Budget Fitting?"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "KBWG Miro Board and Activities: https://www.youtube.com/watch?v=ml_kDw09omQ.",
+      "supabase": "KBWG Miro Board and Activities: https://www.youtube.com/watch?v=ml_kDw09omQ"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Determining a cut-off date for asset collection for proper tracking.",
+      "supabase": "Determining a cut-off date for asset collection for proper tracking"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Extra Initial Formatting.",
+      "supabase": "Extra Initial Formatting"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "How do we collect items? Process explanation.",
+      "supabase": "How do we collect items? Process explanation"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "The relevance and impact of bitly link.",
+      "supabase": "The relevance and impact of bityl link"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Assigning Deliverables to Schedule.",
+      "supabase": "Assigning Deliverables to Schedule"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].rationale",
+      "gitbook": "We agreed that this would be a metric to look at by the end of the quarter, hence the need to change the link",
+      "supabase": "We agreed that this would be a metrics to look at by the end of the quarter, hence the need to change the link"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Meeting Summaries Guide: https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/.",
+      "supabase": "Meeting Summaries Guide: https://docs.google.com/document/d/1nT2f4Mo5ySK26W6r2zNLMY-uDKiRNdNRXLzykONUIR4/"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[1]",
+      "gitbook": "Selecting process for meeting summarizer and reviewer.",
+      "supabase": "Selecting process for meeting summarizer and reviewer"
+    },
+    {
+      "field": "agendaItems[4].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[4].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
