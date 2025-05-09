@@ -1,0 +1,29 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-08-27",
+  "differences": [
+    {
+      "field": "agendaItems[3].actionItems[0].text",
+      "gitbook": "Operations tasks with regards to live stream plans",
+      "supabase": "Operations tasks on regards of live stream plans"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roles, Content Calendar, Educational Content, Live Stream, Team Work, Multi-language Communication, Event Planning, Decentralization",
+      "supabase": "Roles, Contente Calendar, Educational Content"
+    },
+    {
+      "field": "tags.other",
+      "gitbook": "## Wednesday 28th August 2024",
+      "supabase": "Live Stream, Team Work, Multi-language Communication, Event Planning, Decentralization"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
