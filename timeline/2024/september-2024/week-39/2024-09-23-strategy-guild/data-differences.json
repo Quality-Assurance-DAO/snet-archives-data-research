@@ -1,0 +1,24 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-09-23",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Strategy Guild.",
+      "supabase": "This meeting aims to discuss the Q4 plans and the concerns raised in the 2nd consent iteration."
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "INTRODUCTION - This meeting aims to discuss the Q4 plans and the concerns raised in the 2nd consent iteration.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING -  Ayo led the discussion on the action items from the previous meeting. Items DONE were closed and others were left OPEN:\n\n1. Continue contribution to the Guild’s working document [OPEN]\n\n2. Intending members to update their records in the working document as they meet the Core membership requirements [OPEN]\n\n3. Effiom to draft and share last meeting summary [DONE]\n\n4. Proper documentation of Gorga’s allegation for further discussions [OPEN]\n\n5. Submit the Strategy Guild Q3 Report and Q4 Budget before the deadline [DONE]\n\n6. Adopt Last Meeting Notes - 09.09.2024 [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - As an intended member, Clement was advised to add his name to the working document before it is closed. We have 10 core strategy members and 5 members. Tentatively, the document will be closed by the end of Q3.\n\nAyo advised the 5 who have indicated interest in becoming core members of the Guild but are yet to meet all the requirements, to ensure they update their records as they meet the pending requirements. \n\n\nTHE STRATEGY GUILD Q4 TASKS ROSTER - The Strategy Core members and Members were asked to go through the Guild Budget and indicate what roles they are interested in undertaking in Q4. See the Q4 task roster in the working documents.\n\n\nTRANSPARENCY AND FEEDBACK: Q3 RETROSPECT - Tuso suggested in Discord that a three-person team should investigate Gorga’s claims against Ayo and Effiom. He indicated interest and volunteered to lead the committee. Cjfrankie also showed interest in being a member of this committee.\n\nBilly asked why members needed to indicate interest in the Q4 roster. Ayo and Clement clarified the process.\n\n\nTHE Q4 BUDGET CONCERNS UPDATE - The summarized objections raised in the 2nd iteration are in the Q4 budget objection summaries document.\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions.",
+      "supabase": "INTRODUCTION - This meeting aims to discuss the Q4 plans and the concerns raised in the 2nd consent iteration.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING -  Ayo led the discussion on the action items from the previous meeting. Items DONE were closed and others were left OPEN:\n\n1. Continue contribution to the Guild’s working document [OPEN]\n\n2. Intending members to update their records in the working document as they meet the Core membership requirements [OPEN]\n\n3. Effiom to draft and share last meeting summary [DONE]\n\n4. Proper documentation of Gorga’s allegation for further discussions [OPEN]\n\n5. Submit the Strategy Guild Q3 Report and Q4 Budget before the deadline [DONE]\n\n6. Adopt Last Meeting Notes - 09.09.2024 [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - As an intended member, Clement was advised to add his name to the working document before it is closed. We have 10 core strategy members and 5 members. Tentatively, the document will be closed by the end of Q3.\n\nAyo advised the 5 who have indicated interest in becoming core members of the Guild but are yet to meet all the requirements, to ensure they update their records as they meet the pending requirements. \n\n\nTHE STRATEGY GUILD Q4 TASKS ROSTER - The Strategy Core members and Members were asked to go through the Guild Budget and indicate what roles they are interested in undertaking in Q4. See the Q4 task roster in the working document.\n\n\nTRANSPARENCY AND FEEDBACK: Q3 RETROSPECT - Tuso suggested in Discord that a three-person team should investigate Gorga’s claims against Ayo and Effiom. He indicated interest and volunteered to lead the committee. Cjfrankie also showed interest in being a member of this committee.\n\nBilly asked why members needed to indicate interest in the Q4 roster. Ayo and Clement clarified the process.\n\n\nTHE Q4 BUDGET CONCERNS UPDATE - The summarized objections raised in the 2nd iteration are in the Q4 budget objection summaries document.\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
