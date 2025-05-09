@@ -1,0 +1,43 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-08-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then Slate explained the overall progress with the \"CCCP\" , in which he mentioned that we have complete all the 17 spin off project infographics and their videos.",
+      "supabase": "Then Slate explained the overall progress with the \"CCCP\" , in which he mentioned that we have complete all the 17 spin off project infographics and their videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then he moved over to the quizzes progress in which he showcased that out 17 quizzes, 12 have been reviewed and paid out while 5 are in progress whose completion is necessary for the CCCP to go live.",
+      "supabase": "Then he moved over to the quizzes progress in which he showcased that out 17 quizzes, 12 have been reviewed and paid out while 5 are in progress whose completion is necessary for the CCCP to go live"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then he showcased the automation he set up for the certification program. it was mentioned that since we are going to be having 17 classrooms, one for each spin-off project, each classroom will have three things: an infographic, a video and the quiz for that spin-off project.",
+      "supabase": "Then he showcased the automation he set up for the certification program. it was mentioned that since we are going to be having 17 classrooms, one for each spin-off project, each classroom will have three things: an infographic, a video and the quiz for that spin-off project"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Then Slate distributed some quizzes to the meeting participants.",
+      "supabase": "Then Slate distributed some quizzes to the meeting participants"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
