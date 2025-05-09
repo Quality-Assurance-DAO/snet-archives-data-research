@@ -1,0 +1,72 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-09-26",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.documenter",
+      "gitbook": "SergioBenaR",
+      "supabase": "Sergio"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Andrea Dekovic, Daniela Alves, guillermolucero, Martin Rivero, SergioBenaR",
+      "supabase": "Andrea Dekovic, Daniela Alves, Guillermo, Martin Rivero, Sergio"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "@SNET_LatAm Invitation to contribute with Copa América Solana; next activities for Q4 2024.",
+      "supabase": "@SNET_LatAm Invitation to contribute with Copa América Solana, next activities Q4."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "A team from the SingularityNET LatAm Guild will support the Solana Cup in the activities requested by the organizers, according to the available budget.",
+      "supabase": "A team from the SingularityNET LatAm ambassadors will support the Solana Cup in the activities requested by the organizers, according to the available budget."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "Martin Rivero, SergioBenaR, guillermolucero, inesgav, Andrea Dekovic, Daniela Alves",
+      "supabase": "Martin Rivero, sergiobenar, guillermolucero, ines gavina, Andrea Dekovic, Daniela Alves"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Martín and Sergio will host an X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem",
+      "supabase": "Martín and Sergio will host X Space, alternating their participation and establishing times for news from the ecosystem, the LatAm community, and news from outside the ASI ecosystem"
+    },
+    {
+      "field": "agendaItems[2].narrative",
+      "gitbook": "Ambassadors are constantly invited to different events that will take place in the coming months. There is also the possibility of proposing events to different communities and organizations in various countries, to continue communicating the activities of SingularityNET and ASI, as part of the LatAm community activities for Q4. This week the main event of Nerdearla tiakes place, Martin was invited to participate as a representative of SingularityNET. Sergio presented an initiative to hold an event, taking advantage of contact with Deputy Mariela Baldivieso in Bolivia.",
+      "supabase": "Ambassadors are constantly invited to different events that will take place in the coming months. There is also the possibility of proposing events to different communities and organizations in various countries, to continue communicating the activities of SingularityNET and ASI, as part of the LatAm community activities for Q4. This week the main event of Nerdearla takes place, Martin was invited to participate as a representative of SingularityNET. Sergio presented an initiative to hold an event, taking advantage of contact with Deputy Mariela Baldivieso in Bolivia. "
+    },
+    {
+      "field": "agendaItems[2].actionItems[1].assignee",
+      "gitbook": "SergioBenaR",
+      "supabase": "Sergio"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Strategic, Task-focused, teamwork",
+      "supabase": "Collaborative, Strategic, Task-focused"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Team Work"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
