@@ -1,0 +1,64 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-09-16",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Overview of the meeting agenda.",
+      "supabase": "Overview of the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "The highlight of the last session of Treasury Policy WG.",
+      "supabase": "The highlight of the last session of Treasury Policy WG"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Policy Submission: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/.",
+      "supabase": "Policy Submission: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Policy feedback: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/.",
+      "supabase": "Policy feedback: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Updating the color code in the Policy submission sheet and Policy feedback sheet.",
+      "supabase": "Updating the color code in the Policy submission sheet and Policy feedback sheet"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "2 people submitted consent.",
+      "supabase": "2 people submitted consent"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[5]",
+      "gitbook": "Budgeting based on Categories of activities done within the Ambassador Program.",
+      "supabase": "Budgeting based on Categories of activities done within the Ambassador Program"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[7]",
+      "gitbook": "NEW IDEA - Emergent Categories with Emergent Budget Precents.",
+      "supabase": "NEW IDEA - Emergent Categories with Emergent Budget Precents"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Possible approaches to budget fitting: https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/.",
+      "supabase": "Possible approaches to budget fitting: https://docs.google.com/document/d/1kzJ3tyWfK922Za4RqGu0QOM2aUCZ3dl5AYEpJc_kDtM/"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[2]",
+      "gitbook": "Q4 Consent (Responses): https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/.",
+      "supabase": "Q4 Consent (Responses): https://docs.google.com/spreadsheets/d/1q2-njlAwe6QPJYl78XrpXvhjB0v3sU39jN--LEYMKE4/"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
