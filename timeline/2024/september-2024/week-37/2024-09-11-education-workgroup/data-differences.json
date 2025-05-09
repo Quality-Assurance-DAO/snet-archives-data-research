@@ -1,0 +1,70 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-09-11",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Clement Umoh, DevonHardy, esewilliams, GorgaSiagian, Kenichi, lord kizzy, malik, Merryman, osmium, WaKa",
+      "supabase": "Clement Umoh, DevonHardy, esewilliams, GorgaSeagian, Kenichi, lord kizzy, malik, Merryman, osmium, WaKa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "- Regular meeting of Education Guild. This meeting covered: Quiz Automation Time Addition demo - Presentation Series",
+      "supabase": "-Quiz Automation Time Addition demo - Presentation Series "
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Quarterly Report Q3",
+      "supabase": "Quarterly Report Q4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate greeted everyone, then started off the meeting by discussing the projects that education guild is taking forward to next quarter.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate gave a demo of the time addition to the quizzes. There was also a discussion on how much time should be allotted to each quiz, and multiple suggestions were given by educators.",
+      "supabase": "Then started off the meeting discussing the projects of education guild taking forward to next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Kenichi presented the \"presentation series\" project. Multiple modules were discussed. Slate mentioned that this project was left out of the budget because the budget for it was not presented during the finalizing of the Guild's Q4 budget request.",
+      "supabase": "Then Slate gave a demo of the time addition to the quizzes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "supabase": "Then there was also a discussion on how much time each quiz should be alloted with and multiple suggestions were given by educators"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "supabase": "Then kenichi started with the presentation of the presentation series project"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": "Multiple module were discussed and went over during the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "Slate also mentioned that this project was left out due to not presenting the budget request during the finalizing on the request"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Slate to start the work on Google Classrooms",
+      "supabase": "Slate to start the work on classrooms"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Presentation, CCCP, Q4 2024 Budget Request, Q3 2024 Quarterly Report, ideation",
+      "supabase": "Presentation, CCCP, Budget Request, deworkpbl request, Quarterly Report, ideation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
