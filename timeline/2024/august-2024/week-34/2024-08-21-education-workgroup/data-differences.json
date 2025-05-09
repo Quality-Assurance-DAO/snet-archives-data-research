@@ -1,0 +1,77 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-08-21",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Billy, Clement Umoh, esewilliams, GorgaSiagian, kateri, King David, malik, martinsoki, Merryman, osmium, Slate, WaKa, Yemi Solves",
+      "supabase": "Billy, Clement Umoh, esewilliams, GorgaSeagian, kateri, King David, malik, martinsoki, Merryman, osmium, Slate, WaKa, Yemi Solves"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: CCCP Quizzes Update  - Malik's NFT Presentation for Certification Program - Quarterly Report Assignment - Slate Budget Request Template - Ese's presentation on Ai for beginners",
+      "supabase": "- CCCP Quizzes Update  - Malik's NFT Presentation for Certification Program - Quarterly Report Assignment - Slate Budget Request Template - Ese's presentation on Ai for beginners "
+    },
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "Budget Request for Q4 Education Guild",
+      "supabase": "Budget Request Q 4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then Slate shared that all the quizzes for CCCP have finally been completed and all of the last quizzes are in review.",
+      "supabase": "Then Slate shared that all the quizzes for CCCP have finally been completed and all of the last quizzes are in review"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then Malik shared the NFT he created for the certification program , and everybody really liked it.",
+      "supabase": "Then Malik shared the NFT he created for the certification program , and everybody really liked it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate discussed and shared the budget request template for all projects to add on to their task, so they can be carried out effectively in the next quarter.",
+      "supabase": "Slate discussed and shared the budget request template for all projects to add on to their task, so they can be carried out effectively in the next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Osmium showcased the UI he created for the chatbot he is developing.",
+      "supabase": "Then osmium showcased the UI he created for the chatbot he is developing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Ese presented the updated blueprint for AI for Beginners. There were some discussions regarding the timing of the videos which is going to be around 2-5 min.",
+      "supabase": "Then Ese presented the updated blueprint for AI for beginners"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "WaKa shared some insights from the past to the present of video making and how they improved.",
+      "supabase": "There were some discussions regarding the timing of the videos which is going to be around 2-5 min"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate assigned quarterly report creation to clement and yemisolves, and ended the meeting.",
+      "supabase": "Then waka shared some insights from the past to the present of video making and how they improved"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "supabase": "Then Slate also assigned quarterly report creation to clement and yemi solves and called off the meeting"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
