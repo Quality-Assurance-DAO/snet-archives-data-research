@@ -1,0 +1,219 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-09-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Business:.",
+      "supabase": "Business: - We gave the standard reminder for new people to add their skills to the killshare matrix - We agreed the minutes of the last meeting - Action items from the last meeting - Facilitation and documentation next meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We gave the standard reminder for new people to add their skills to the skillshare matrix.",
+      "supabase": "Town Hall Updates - we confirmed that Tuso delivered them on the 24th as planned"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "We agreed the minutes of the last meeting.",
+      "supabase": "Onboarding Journeys"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "We checked action items from the last meeting.",
+      "supabase": "Q4 Budget"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "We checked facilitation and documentation next meeting.",
+      "supabase": "Github Project Management Training"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Town Hall Updates - we confirmed that Tuso delivered them on the 24th as planned.",
+      "supabase": "Gorga’s apology"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Onboarding Journeys."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Q4 Budget."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Github Project Management Training."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Gorga’s apology."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We approved the graphics for the Onboarding Journeys. We decided we will propose a session to share them with the rest of the community on Thurs Oct 10th, at the Open Gov session. This will be led by Duke and ideally Onize as the writer of the scripts, if she is free; with CJFrankie supporting if he's able to be there.",
+      "supabase": "We approved the graphics for the Onboarding Journeys. We decided we will propose a session to share them with the rest of the community on Thurs Oct 10th, at the Open Gove session. This will be led by Duke and ideally Onize as the writer of the scripts, if she is free; with CJFrankie supporting if he's able to be there."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Budget - we noted that Onboarding WG has passed the consent process, with no objections. However, as budget fitting of around 20% will still be needed, we agreed: 1) we will move to meeting fortnightly (this will save approx $450 in itself, plus another $350-ish on Dework and Miro work) 2) we may move part of the research project on \"onboarding to decentralisation\" to Q1 3) we may decide to lose or reduce the budget line for contribution to documents 4) the Focus Group will meet to finalise these issues and will bring a proposal for a fitted budget to the next meeting on 3rd Oct.",
+      "supabase": "Budget - we noted that Onboarding Wg has passed, with no objections. BUT as there is still budget fitting, we agreed: 1) we will move to meeting fortnightly (will save approx $450 in itself, plus another $350-ish on Dework and Miro work 2) we may move half of the research project (on how people feel onboarded to decentralisation) to Q1 3) we may decide to lose or reduce the budget line for contribution to documents 4) the Focus Group will meet to finalise these issues and will bring a proposal for a fitted budget to the next meeting on 3rd Oct."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "Because the lowering percentage is likely to be around 21%, so we will need to lose around $1,200 from our budget",
+      "supabase": "Because budget fitting lowering percentage is likely to be around 21%, so we will need to lose around $1,200 from our budget"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].opposing",
+      "gitbook": "no objections, but some concerns raised about postponing the research project any further, since it has already been postponed from Q3 to Q4",
+      "supabase": "none, but some concerns raised about postponing the research project any further, since it has already been postponed from Q3 to Q4"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "GitHub Training session was confirmed for Mon 7th Oct, and is on the Calendar already. There have been some small changes made to the publicity for the session; and the title has been changed from \"GitHub Project Management\" to \"Project Board Demo\". Also a Zoom link has been added to the publicity blurb that will be posted.",
+      "supabase": "GitHub Training session was confirmed for Mon 7th Oct, and is on the Calendar already. There have been some small changes made to the publicity for the session; and the title has been changed fro \"GitHub Project Management\" to \"Project Board Demo\". Also a Zoom link has been added to the publicity blurb that will be posted."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 11,
+      "supabase": 12
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Next week's facilitator: LadyTempestt. Documenter: Kateri",
+      "supabase": "Next week facilitator: LadyTempestt. Documenter: Kateri"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Vani to send the documentation session video to Tevo, and Tevo to upload it to YouTube - see https://youtu.be/sTRa37Hslts",
+      "supabase": "Vani send the documentation session video to Tevo, and Tevo to upload it to YouTube - see https://youtu.be/sTRa37Hslts"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Peter to add GitHub Project Management Training to the Ambassador account Zoom calendar",
+      "supabase": "Vani to reach out to Duke and Jenn to see if they would be up for facilitating the next meeting"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "Peter",
+      "supabase": "CallyFromAuron"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].dueDate",
+      "gitbook": "26 September 2024",
+      "supabase": "12 September 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].text",
+      "gitbook": "Lord Kizzy to coordinate with marketing guild team to create graphics and publicize the GitHub training event on 7th Oct",
+      "supabase": "Peter to add GitHub Project Management Training to the Ambassador account Zoom calendar"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].assignee",
+      "gitbook": "lord kizzy",
+      "supabase": "Peter"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].dueDate",
+      "gitbook": "7 October 2024",
+      "supabase": "26 September 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].text",
+      "gitbook": "Photogee to timestamp the recording of the Github Board training session on 7th Oct",
+      "supabase": "Lord Kizzy to coordinate with marketing guild team to create graphics and publicize the GitHub training event on 7th Oct"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].status",
+      "gitbook": "todo",
+      "supabase": "done"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].assignee",
+      "gitbook": "Photogee",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].dueDate",
+      "gitbook": "10 October 2024",
+      "supabase": "7 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[7].text",
+      "gitbook": "Vani to contact Onize to ask if she will help lead the session on the Onboarding Journeys on 10th October",
+      "supabase": "Photogee to timestamp the recording of the Github Board training session on 7th Oct"
+    },
+    {
+      "field": "agendaItems[0].actionItems[7].assignee",
+      "gitbook": "callyfromauron",
+      "supabase": "Photogee"
+    },
+    {
+      "field": "agendaItems[0].actionItems[7].dueDate",
+      "gitbook": "30 September 2024",
+      "supabase": "10 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].text",
+      "gitbook": "Onyeka to rework the Q4 roster to reflect our decision to meet fortnightly in Q4",
+      "supabase": "Vani to contact Onize to ask if she will help lead the session on the Onboarding Journeys on 10th October"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].assignee",
+      "gitbook": "lord kizzy",
+      "supabase": "callyfromauron"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].dueDate",
+      "gitbook": "3 October 2024",
+      "supabase": "30 September 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[9].text",
+      "gitbook": "Colleen to approach Gorga and ask him to post his written apology by the end of the month",
+      "supabase": "Onyeka to rework the Q4 roster to reflect our decision to meet fortnightly in Q4"
+    },
+    {
+      "field": "agendaItems[0].actionItems[9].assignee",
+      "gitbook": "CollyPride",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "agendaItems[0].actionItems[9].dueDate",
+      "gitbook": "30 September 2024",
+      "supabase": "3 October 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[10].text",
+      "gitbook": "Focus Group to do budget-fitting for Q4 budget",
+      "supabase": "Colleen to approach Gorga and ask him to post hos written apology by the end of the month"
+    },
+    {
+      "field": "agendaItems[0].actionItems[10].assignee",
+      "gitbook": "Sucre n Spice, LadyTempestt, CallyFromAuron",
+      "supabase": "CollyPride"
+    },
+    {
+      "field": "agendaItems[0].actionItems[10].dueDate",
+      "gitbook": "3 October 2024",
+      "supabase": "30 September 2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "TH Update, Onboarding Journey Scripts, skills matrix, Onboarding WG Objection Summary, Q4 2024 budget, Q3 2024 quarterly report, GitHub training, GitHub, github board, Budget fitting, apology, allegations, Focus Group, research, Marketing WG, fortnightly, biweekly, meeting dates",
+      "supabase": "TH Update , Onboarding Journey Scripts, skills matrix, Onboarding WG Objection Summary, Q4 2024 budget, Q3 2024 quarterly report, GitHub training, GitHub, github board, Budget fitting, apology, allegations, Focus Group, research, Marketing WG, fortnightly, biweekly, meeting dates"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
