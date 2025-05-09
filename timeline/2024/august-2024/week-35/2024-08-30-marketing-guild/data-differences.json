@@ -1,0 +1,152 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-08-30",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Aguboss, Ayo, Cjfrankie, Eric Davies, esewilliams, gorgasiagian, hamzat, Kareem, kateri, lord kizzy, malik, Olokoji, Photogee, SubZero",
+      "supabase": "Advanceameyaw, Aguboss, Ayo, Cjfrankie, Eric Davies, Ese Williams, Gorga, hamzat, Kareem, Kenichi, lord kizzy, malik, Olokoji, Photogee, SubZero"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 8,
+      "supabase": 11
+    },
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "Meeting Agenda",
+      "supabase": "Marketing Guild 23rd August Meeting Summary"
+    },
+    {
+      "field": "meetingInfo.workingDocs[0].link",
+      "gitbook": "https://docs.google.com/document/d/1_tovnVyLwhwjW_Zvp9Zn0ZqkQ-IUcTymgsZ3D93uEjs/edit#heading=h.shxqnobd9709",
+      "supabase": "https://docs.google.com/document/d/1Muv4yEU0p76C8KieeiHZRvKxEp037tQdGQwWyzzdG28/edit#heading=h.shxqnobd9709"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Marketing Survey",
+      "supabase": "Marketing Guild 30th August Meeting Agenda"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].link",
+      "gitbook": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1GWlvQ9cJKihCD4NYY6GVtuqzqjqigtFzhkoaBtJZwb4/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Roles and responsibility sheet",
+      "supabase": "Marketing Survey on FAQs for SingularityNET, Its Ecosystem, and the Ambassador Program"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1QLRfDP7sO4Tyi1RLryXy4DnVnbdVD41iPzDfvgSEGa0/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Marketing Guild Global Outreach document",
+      "supabase": "Roles and Responsibilities "
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing",
+      "supabase": "https://docs.google.com/spreadsheets/d/1A9iBKh4WfsjFIFBxuN2zW9nDBnE_MFTrIKrzPi0QVRA/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "Q3 Marketing Guild Budget",
+      "supabase": "Marketing Guild: Global Outreach"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1Kv51uAN1Tlvz89IEvOOV295VZxWXo9HRz3tuse92hi8/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "Ambassador Program Budget Planner",
+      "supabase": "Q3 Marketing Guild: Budget "
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469",
+      "supabase": "https://docs.google.com/spreadsheets/d/1KSVH28jxI_CiOIo6nyD-PpdFtO589j8BYtZfIeCUZHM/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Notion Decision",
+      "supabase": "Ambassador Program Budget Planner"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/document/d/1JQ3Rz-UMdYs3R41BgsU92aKo8i9FUJd0ERPLLgZnw0w/edit?usp=sharing",
+      "supabase": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?gid=1136630469#gid=1136630469"
+    },
+    {
+      "field": "meetingInfo.workingDocs[7].title",
+      "gitbook": "Governance Document Ideation",
+      "supabase": "RE-KPIs Version: Roles and Responsibilities "
+    },
+    {
+      "field": "meetingInfo.workingDocs[7].link",
+      "gitbook": "https://docs.google.com/document/d/1lr1uF8xpJSY7tllLnnKt-ZrPF4A4bzeR9z2t2vy0sQ0/edit#heading=h.ybxwlqdy6n1",
+      "supabase": "https://docs.google.com/document/d/1TjsXUp-VYbFSfHjrQELBAdfmoEAoMoqgJcn5KL5fip0/edit#heading=h.qt25uhu2cl6a"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 4,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Lord kizzy to work on Q3 Marketing Guild quarterly report",
+      "supabase": "Lord kizzy to work on Q3 Marketing Guild budget report"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].status",
+      "gitbook": "in progress",
+      "supabase": "done"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].status",
+      "gitbook": "in progress",
+      "supabase": "done"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "esewilliams",
+      "supabase": "Ese Williams"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].status",
+      "gitbook": "in progress",
+      "supabase": "done"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Budget, Q4 budget, Q3 budget, Q3 quarterly report, Roles, survey, Marketing, Marketing Guild, Foundation, SingularityNet Foundation, content engagement, uncompleted tasks, Discord, Contributor Spotlight",
+      "supabase": "Onboarding, Budget , community engagement"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, warm, Thoughtful",
+      "supabase": "engaging, Collaborative, calm"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
