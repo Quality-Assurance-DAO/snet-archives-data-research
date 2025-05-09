@@ -1,0 +1,82 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-09-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Billy, esewilliams, GorgaSiagian, kateri, Kenichi, Malik., osmium, Photogee, SubZero, TheFreysDeFi",
+      "supabase": "Billy, esewilliams, GorgaSeagian, kateri, Kenichi, Malik., osmium, Photogee, SubZero, TheFreysDeFi"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Regular meeting of Education Guild. This meeting covered: Budget Request and leftover budget presentation - Budget request concerns discussion",
+      "supabase": "Budget Request and leftover budget presentation by slate - Budget request concerns discussion "
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Quarterly Report Q3",
+      "supabase": "Quarterly Report Q4"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Classrooms for 17 spin-off projects completed",
+      "supabase": "Classrooms for 17 Spin off Projects Completed "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "AI for Beginners Demo startup video",
+      "supabase": "AI for Beginner Demo Startup Video "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting greeting everyone.",
+      "supabase": "Slate started the meeting greeting everyone"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate let everybody know that education guild's budget request has been submitted for consent and that education guild will be requesting minimal budget as discussed previously.",
+      "supabase": "Slate letted everybody know that education guild budget request has been submitted for consent and that education guild will be requesting minimal budget as discussed in previously"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate notified everybody that the classrooms for the 17 spin-off projects have been created and are ready to be put into action. We are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform so we can start the testing for the automation.",
+      "supabase": "Then Slate notified everybody that the classroom for the 17 Spin off projects have been created and are ready to be putted to action"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then it was discussed that Video WG members can assist the education guild when we put the AI for Beginners project to action. Slate reminded Ese to reach out to the Video WG regarding this, and to discuss this potential assistance.",
+      "supabase": "Then he notified that we are just waiting for the quizzes to be uploaded so they can be integrated to the classroom platform so we can start the testing for the automation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "At the end Osmium showcased his demo video for the AI for Beginners project, which will set up the baseline for the quality for the rest of the videos.",
+      "supabase": "Then it was discussed that the video wg members can be off assist to the education guild when we will be putting the AI for Beginners project to action"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "supabase": "Slate reminded ese to reach out to the video wg regarding and to discuss this potential assistance"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "supabase": "At the end Osmium showcased his video which was the demo video for the AI for Beginners project and would set up the baseline for the quality for the rest of the videos"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Use Video WG members' assistance for the Ai for Beginners project",
+      "supabase": "Use Video WG members assistance for the project"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Presentation, CCCP, q4 2024 Budget, minimal budget, Quarterly Report, ideation, Video WG< Ai for Beginners, spin offs, Google Classroom, quizzes",
+      "supabase": "Presentation, CCCP, Budget Request, Quarterly Report, ideation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
