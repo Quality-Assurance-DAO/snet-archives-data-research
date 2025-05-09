@@ -1,0 +1,78 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-08-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting commenced with Slate extending a warm welcome to all attendees. With everyone settled, Slate introduced an exciting new collaboration with Sophiaverse, where the focus would be on testing an advanced dialogue system within Roblox. The goal was to enhance NPC (non-player character) interactions using cutting-edge AI technology. Slate mentioned that a representative from Sophiaverse, Berick, would soon join the meeting to explain the details of the dialogue system.\n\nThe discussion then shifted to the pressing issue of the ongoing low AGIX token price, which is expected to impact the payment structure. After a brief deliberation, the group decided to halt payments for game preparation tasks and refrain from assigning new mentors. Additionally, payments for asset creation will be delayed until the AGIX token price stabilizes.\n\nFollowing this, Lord Kizzy took the stage to present the completed Video Workgroup building. In his presentation, Lord Kizzy provided a comprehensive overview of the building. Upon entering the video workgroup, players are greeted by Killy, an NPC who welcomes new members and encourages them to have fun. Inside, players can find details about ongoing meetings, which are held every Friday at 16 UTC. Devon, another NPC, operates the display, while Malik and CryptoFly NPCs participate in the meeting, and Slate NPC is seen recording the session. Rojo NPC, as the workgroup lead, is seen facilitating the meetings. Players can interact with him through a proximity prompt to ask questions about joining the video workgroup. Rojo introduces himself and engages players in conversation, providing information on how to join the workgroup. Another NPC, representing Cardano Class, welcomes members and provides information about tasks for senior members, including roles like task manager, social media manager, and meeting facilitator. Judith NPC is seen documenting the session. Players can also visit the workstation area, where they are greeted by LilyCupcake NPC. OEP NPC is busy working on a video, while in the Task Manager's Office, players meet Lord Kizzy's NPC, who is creating tasks for group members. The office also features a mini TV and refreshment center. In the Social Media Manager's office, players can view YouTube awards and meet Osmium NPC, who is editing social media content. The presentation was well received by the members.(Watch the workgroup video via the link in the media section for better understanding.)\n\nSlate then showcased a new feature called the Rolling Camera for Workgroups. This feature automatically directs the camera to the required NPC when a player enters a workgroup building, enhancing the immersive experience.\n\nThe group then moved on to assigning the Q3 quarterly report task, which was given to Lord Kizzy.\n\nWith the formalities out of the way, the meeting transitioned into a gaming session, featuring the game \"Capture the Flag.\" During the game, Berick, the representative from Sophiaverse, joined the session. He encouraged the group to continue enjoying the game while he made preparations for his presentation on the dialogue system. The group had a great time playing the game.\n\nOnce the game concluded, Berick delivered his presentation on the advanced dialogue system. He introduced a system designed to enhance narrative-driven interactions in Roblox by integrating a Large Language Model (LLM) to role-play characters. This system generates automatic prompts based on contextual information, such as available dialogue options and scripted dialogue. It then sends these prompts to the LLM, which processes them and returns responses, allowing characters to engage in unique, dynamic conversations each time, rather than relying solely on pre-scripted dialogue.\n\nBerick highlighted several key features and functions of the system:\n\nDynamic dialogue generation: The system can take scripted lines (e.g., \"Welcome to the Gamers Guild. What would you like to know?\") and enhance them with additional context or flair, making each interaction slightly different and more engaging.\n\nContextual awareness: The system integrates contextual data, like the state of the game or events (e.g., an enemy attacking), into the prompt, ensuring that the character’s responses are relevant to the current situation.\n\nResponse handling: When a player asks a question (e.g., \"I want to make games like this\"), the system fetches the relevant scripted response, processes it through the LLM, and provides a personalized reply. The system is designed to guide conversations back to the game’s narrative if players go off-topic, ensuring a coherent and immersive experience.\n\nDialogue tree integration: While the system is primarily built around a dialogue tree structure, it can also incorporate other types of contextual data, such as ongoing or past discussions, allowing for intelligent off-topic chitchat while eventually steering the conversation back to the main narrative.\n\nCharacter-specific knowledge: Each character in the game can have its own data container, meaning that they are knowledgeable only about specific areas relevant to their role. For example, a treasury manager would refer players to someone else for onboarding information, maintaining a realistic and immersive character interaction.\n\nLooking ahead, Berick emphasized the importance of testing the system to identify and resolve potential issues, such as handling off-topic responses or preventing the LLM from generating irrelevant content. The ultimate goal is to create smarter, context-aware NPCs in Roblox that deliver more engaging and dynamic dialogues while adhering to the game’s narrative structure.\n\nSlate concluded the meeting by thanking all participants for their contributions. Overall, it was a productive and engaging session.",
+      "supabase": "The meeting commenced with Slate extending a warm welcome to all attendees. With everyone settled, Slate introduced an exciting new collaboration with Sophiaverse, where the focus would be on testing an advanced dialogue system within Roblox. The goal was to enhance NPC (non-player character) interactions using cutting-edge AI technology. Slate mentioned that a representative from Sophiaverse, Berick, would soon join the meeting to explain the details of the dialogue system.\n\nThe discussion then shifted to the pressing issue of the ongoing low AGIX token price, which was expected to impact the payment structure. After a brief deliberation, the group decided to halt payments for game preparation tasks and refrain from assigning new mentors. Additionally, payments for asset creation would be delayed until the AGIX token price stabilized.\n\nFollowing this, Lord Kizzy took the stage to present the completed video workgroup building. In his presentation, Lord Kizzy provided a comprehensive overview of the building. Upon entering the video workgroup, players are greeted by Killy, an NPC who welcomes new members and encourages them to have fun. Inside, players can find details about ongoing meetings, which are held every Friday at 16 UTC. Devon, another NPC, operates the display, while Malik and CryptoFly NPCs participate in the meeting, and Slate NPC is seen recording the session. Rojo NPC, as the workgroup lead, is seen facilitating the meetings. Players can interact with him through a proximity prompt to ask questions about joining the video workgroup. Rojo introduces himself and engages players in conversation, providing information on how to join the workgroup. Another NPC, representing Cardano Class, welcomes members and provides information about tasks for senior members, including roles like task manager, social media manager, and meeting facilitator. Judith NPC is seen documenting the session. Players can also visit the workstation area, where they are greeted by Lily Cupcake NPC. OEP NPC is busy working on a video, while in the Task Manager's Office, players meet Lord Kizzy's NPC, who is creating tasks for group members. The office also features a mini TV and refreshment center. In the Social Media Manager's Office, players can view YouTube awards and meet Osmium NPC, who is editing social media content. The presentation was well received by the members.(Watch the workgroup video via the link in the media section for better understanding.)\n\nSlate then showcased a new feature called the Rolling Camera for Workgroups. This feature automatically directs the camera to the required NPC when a player enters a workgroup building, enhancing the immersive experience.\n\nThe group then moved on to assigning the quarterly report task, which was given to Lord Kizzy.\n\nWith the formalities out of the way, the meeting transitioned into a gaming session, featuring the game \"Capture the Flag.\" During the game, Berick, the representative from Sophiaverse, joined the session. He encouraged the group to continue enjoying the game while he made preparations for his presentation on the dialogue system. The group had a great time playing the game.\n\nOnce the game concluded, Berick delivered his presentation on the advanced dialogue system. He introduced a system designed to enhance narrative-driven interactions in Roblox by integrating a Language Model (LLM) to role-play characters. This system generates automatic prompts based on contextual information, such as available dialogue options and scripted dialogue. It then sends these prompts to the LLM, which processes them and returns responses, allowing characters to engage in unique, dynamic conversations each time, rather than relying solely on pre-scripted dialogue.\n\nBerick highlighted several key features and functions of the system:\n\nDynamic Dialogue Generation: The system can take scripted lines (e.g., \"Welcome to the Gamers Guild. What would you like to know?\") and enhance them with additional context or flair, making each interaction slightly different and more engaging.\n\nContextual Awareness: The system integrates contextual data, like the state of the game or events (e.g., an enemy attacking), into the prompt, ensuring that the character’s responses are relevant to the current situation.\n\nResponse Handling: When a player asks a question (e.g., \"I want to make games like this\"), the system fetches the relevant scripted response, processes it through the LLM, and provides a personalized reply. The system is designed to guide conversations back to the game’s narrative if players go off-topic, ensuring a coherent and immersive experience.\n\nDialogue Tree Integration: While the system is primarily built around a dialogue tree structure, it can also incorporate other types of contextual data, such as ongoing or past discussions, allowing for intelligent off-topic chitchat while eventually steering the conversation back to the main narrative.\n\nCharacter-Specific Knowledge: Each character in the game can have its own data container, meaning that they are knowledgeable only about specific areas relevant to their role. For example, a treasury manager would refer players to someone else for onboarding information, maintaining a realistic and immersive character interaction.\n\nLooking ahead, Berick emphasized the importance of testing the system to identify and resolve potential issues, such as handling off-topic responses or preventing the LLM from generating irrelevant content. The ultimate goal is to create smarter, context-aware NPCs in Roblox that deliver more engaging and dynamic dialogues while adhering to the game’s narrative structure.\n\nSlate concluded the meeting by thanking all participants for their contributions. Overall, it was a productive and engaging session.\n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Low AGIX token price was discussed.",
+      "supabase": "Low AGIX token price was discussed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We had a discussion on advance dialogue system presented by sophiaverse representative.",
+      "supabase": "We had a discussion on advance dialogue system presented by sophiaverse representative"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The group decided to suspend payments for game preparation tasks and not assign new mentors. Payments for asset creation will also be postponed until the AGIX token price stabilizes.",
+      "supabase": "The group decided to suspend payments for game preparation tasks and not assign new mentors. Payments for asset creation would also be postponed until the AGIX token price stabilized."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Lord Kizzy will create the Q3 quarterly report.",
+      "supabase": "Lord Kizzy will create the quarterly report."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Department Creation - Archives Workgroup",
+      "supabase": "Department Creation - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].text",
+      "gitbook": "Q3 quarterly report creation",
+      "supabase": "Quarterly Report Creation"
+    },
+    {
+      "field": "agendaItems[0].gameRules",
+      "gitbook": "Capture the Flag: The first team to capture three flags wins.\nRed Team: Devon, Berick, Blesian Rusak, Kateri, Lord kizzy, Zaif Malik\nBlue Team: Hotasiro, Greatnessone4, martinsoki, Merryman, photogee",
+      "supabase": "Capture the Flag: The first team to capture three flags wins.\nRed Team: Devon, Berick, Blesian Rusak, Kahteri, Lord kizzy, Zaif Malik\nBlue Team: Hotasiro, Greatnessone4, martinsoki, Merryman, photogee"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Red Team"
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, sophiaverse, Q3 2024 report, token price, AGIX, LLM",
+      "supabase": "Roblox, metaverse, department Creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, sophiaverse"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
