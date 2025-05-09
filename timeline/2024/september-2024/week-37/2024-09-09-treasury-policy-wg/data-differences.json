@@ -1,0 +1,28 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-09-09",
+  "differences": [
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Understanding the rule activation dependencies.",
+      "supabase": "Understanding the rule activation dependencies"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Implementation End time deliberation.",
+      "supabase": "Implementation End time deliberation"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
