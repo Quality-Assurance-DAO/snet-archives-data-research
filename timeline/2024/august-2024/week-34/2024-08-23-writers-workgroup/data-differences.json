@@ -1,0 +1,34 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-08-23",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, cjfrankie, Emmanuel Isaac, Evelyn Robert, Gorga Siagian, inesgav, Kenichi, King David, LadyTempestt, merryman, Mikasa, Nebula1224, Nengi",
+      "supabase": "Advanceameyaw, AJ, cjfrankie, Emmanuel Issac, Evelyn Robert, Gorga Siagian, ines gavina, Kenichi, King David, LadyTempestt, merryman, Mikasa, Nebula, Nebula1224, Nengi"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting kicked off with Kenichi welcoming everyone to the meeting, which was facilitated by CJ Frankie. We started by checking the action items from the last meeting. Kenichi shared updates on the Zealy sprint: the current sprint has ended and the next one will start by next week. CJ Frankie raised security issues with duplicated and banned accounts on Zealy. \n\nCJ Frankie and Mikasa apologized for the delay in reviewing Zealy quests from the last sprint.\n\nTown Hall Updates on 27th Aug will cover: ✅Scribblers signposting to WGs they are not familiar with to aid monthly substack. ✅ Zealy sprints update.\n\nTest results: Eve passed, and there are no concluded results on other pupils.\n\nSEO and Keyword Research: Should we make use of it to enhance our articles' reach? There are free and paid tools available. CJ Frankie suggested using keyword research on what is currently trending.  MerryMan suggested incorporating words or media people search for into our articles and internal linking. Ines suggested we define what SEO is all about, and try different ways of writing articles such as “how to\" articles or articles with shorter lengths. Gorga said that with trending articles we have to make topics to educate and make people curious, such as education on how AI works in science and math and related to tutorial topics about AI.",
+      "supabase": "The meeting kicked off with Kenichi welcoming everyone to the meeting. Facilitated by CJ Frankie, We started by checking the action items from the last meeting.Kenichi shared updates on the zealy sprint, the current sprint has ended and the next one will start by next week. CJ Frankie raised an issue of security issues with duplicated and banned accounts on zealy. \n\nCJ Frankie and Mikasa apologized for the delay in reviewing zealy quests from the last sprint.\n\nTH Updates: What we would share; ✅Scribblers signposting to WGs they are not familiar with to aid monthly substack. ✅ Zealy sprints update.\n\nTest results: Eve passed and there are no concluded results on other pupils.\n\nSEO and Keyword Research: Should we make use of it to enhance our article's reach? They are free and paid tools available. CJ Frankie suggested using Keyword research on what is currently trending.  MerryMan suggested incorporating words or media people search for into our articles and internal linking. Ines suggested we define what SEO is all about, trying a different way of writing articles such as “how to articles” or articles with shorter lengths . Gorga said that with trending articles we have to make topics to educate and make people curious in the article such as education on how AI works in science and math and related to tutorial topics about AI.\n"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Gorga to give Town Hall updates on 27th August 2024",
+      "supabase": "Gorga to give town hall updates on 27th August, 2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Workshop, TH Update, Zealy, WWG Test, SEO, Keywords research",
+      "supabase": "Workshop, TH Update , Zealy, WWG Test, SEO, Keywords research"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
