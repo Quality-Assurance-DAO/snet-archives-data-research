@@ -1,0 +1,65 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-08-31",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "The budget, including some new tasks (Retrospective Guidance and Support for WG Creators; Collaboration with Sophiaverse Testing; Deep dive into platforms such as Decentraland & Sandbox; Main Game Aspect Development; Map Creation of VR) was then discussed.",
+      "supabase": "The budget, including some new tasks (Retrospective Guidance and Support for WG Creators, Collaboration with Sophiaverse Testing, Deep dive Platforms Decentraland & Sandbox, Main Game Aspect Development, Map Creation of VR) was then discussed."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Retrospective Guidance and Support for WG Creators - Unlike mentoring, which offers one-time guidance, this task focuses on rewarding those who assist workgroup creators in developing specific elements, such as creating a designated room in the building for them.",
+      "supabase": "Retrospective Guidance and Support for WG Creators - Unlike mentoring, which offers one-time guidance, this task focuses on rewarding those who assist workgroup creators in developing specific elements, such as creating a designated room in the building for them.."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Map Creation of VR - Slate introduced a small city VR map which will include the Ambassador program university. The players will spawn in the city and will be guided to the university. To develop this city, two WG creators will be selected based on their performance to aid Slate in modeling this city.",
+      "supabase": "Map Creation of VR - Slate introduced a small city VR map which will include the Ambassador program university, the players will spawn in the city and will be guided to the university. To develop this city, two WG creators will be selected based on their performance to aid Slate in modeling this city."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Slate showcased the quarterly report by Lord Kizzy.",
+      "supabase": "Slate showcased the quarterly report by Lord Kizzy"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Slate explained the dialogue system Doc that Berick shared. The system uses a JSON file structure to manage dialogue layers, reply information, and choices. Slate mentioned that while Roblox lacks certain features like emotion systems available in other game engines (e.g. Unity), the system still supports essential dialogue elements like choices and flowchart design. Slate noted that some advanced features, like history tracking and valence settings, are not supported in Roblox but are available in other engines.",
+      "supabase": "Slate explained the dialogue system Doc that Berick shared. The system uses a JSON file structure to manage dialogue layers, reply information, and choices. Slate mentioned that while Roblox lacks certain features like emotion systems available in other game engines (e.g., Unity), the system still supports essential dialogue elements like choices and flowchart design. Slate noted that some advanced features, like history tracking and valence settings, are not supported in Roblox but are available in other engines."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Slate mentioned the potential benefits, including recognition, financial rewards, and increased budgets for contributors who will test the dialogue system effectively.",
+      "supabase": "Slate concluded by mentioning the potential benefits, including recognition, financial rewards, and increased budgets for contributors who will test the dialogue system effectively."
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Department Creation - Archives Workgroup",
+      "supabase": "Department Creation - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Department Creation - R&D Guild",
+      "supabase": "Department Creation - RnD Guild"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Red Team"
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, Collaboration, mentorship, Dialogue Systems, Animation, sophiaverse, Q4 2024 Budget, Q3 2024 report",
+      "supabase": "Roblox, metaverse, department Creation, work updates, Collaboration, mentorship, Dialogue Systems, Animation, sophiaverse, Budget Request, Q3 report"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
