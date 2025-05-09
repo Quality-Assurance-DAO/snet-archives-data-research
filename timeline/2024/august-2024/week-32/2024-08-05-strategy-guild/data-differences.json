@@ -1,0 +1,119 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-08-05",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 7,
+      "supabase": 8
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Strategy Guild Working Document",
+      "supabase": "Possible Survey Questions [Strategy Guild]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Strategy Guild 5th August Session Agenda",
+      "supabase": "Strategy Guild Working Document"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://docs.google.com/document/d/1vWGBp2qI75-aFT5KTpDh2mcifxjYYcnOwhqSzaMu8m8/edit",
+      "supabase": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Strategy Guild Meeting Notes - 29th July 2024",
+      "supabase": "Strategy Guild 5th August Session Agenda"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1GhsrimDSiQRtmyb_Ije1jWJ6q1GXtJ4ofGDnBQPtpeg/edit#heading=h.6fyp3cl3ve7w",
+      "supabase": "https://docs.google.com/document/d/1vWGBp2qI75-aFT5KTpDh2mcifxjYYcnOwhqSzaMu8m8/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "Strategy Guild Workshop Day Two Solution Framework Session One",
+      "supabase": "Strategy Guild Meeting Notes - 29th July 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/document/d/1TAP-LkM7nxBQPnPwrU3WT_0MXkTouE0ZQ8DwE9pLaGc/edit",
+      "supabase": "https://docs.google.com/document/d/1GhsrimDSiQRtmyb_Ije1jWJ6q1GXtJ4ofGDnBQPtpeg/edit#heading=h.6fyp3cl3ve7w"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One",
+      "supabase": "Strategy Guild Workshop Day Two Solution Framework Session One"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit",
+      "supabase": "https://docs.google.com/document/d/1TAP-LkM7nxBQPnPwrU3WT_0MXkTouE0ZQ8DwE9pLaGc/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Ideation Workshop Session Report",
+      "supabase": "Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1ObqjPMxOiIldhyYtTwZ2XmhiI5PKtxdJ67DWh9rAImU/edit?gid=0#gid=0",
+      "supabase": "https://docs.google.com/document/d/1dYLjGRJOcAT5B0e6aJSgfikuyiysQgj8jhq69QNZeDI/edit"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Everyone to contribute to the Possible Survey Questions [DONE]\n\n3. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n4. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n5. YemiSolves to document and share the Workshop Session [DONE]\n\n6. Onyeka to mentor YemiSolves [DONE]\n\n7. Adopt last Meeting Notes [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - 2 new people (i.e. Yedi and MartinSoki) have indicated an interest in becoming core members of the Strategy Guild since the last meeting; however, they haven’t met the requirements.\n\nAyo explained how everyone can become a member, and also contribute and be a part of what is happening within the guild.\n\n\nSTRATEGY GUILD CORE TAG (VERIFICATION AND ASSIGNING) - There is a need for verification of those who have met the requirements and are eligible for the Strategy Guild core member tag. \nCurrently, 5 people have met the requirement (i.e. Ayo, Gorga, Effiom, Tuso, and Lord Kizzy). Their other Guild and WG tags need to be verified.\n\nAyo highlighted that this is meant to be an async process and should be managed by someone. Effiom was nominated to take up this role and he accepted.\nOther points raised during this discussion:\n* Should there be tags for intending members of the guild who are yet to meet all the requirements to become Core members?\n\n* Which of the requirements should be relaxed for this category?\n\n\nSTRATEGY GUILD Q3 RESEARCH - The document is closed, no more contributions. The next phase is discussions on the execution.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE ONE - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n* Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions",
+      "supabase": "ACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Everyone to contribute to the Possible Survey Questions [DONE]\n\n3. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n4. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n5. YemiSolves to document and share the Workshop Session [DONE]\n\n6. Onyeka to mentor Yemisolves [DONE]\n\n7. Adopt Last Meeting Notes [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - 2 new people (i.e. Yedi and Martin Soki) have indicated an interest in becoming core members of the Strategy Guild since the last meeting, however, they haven’t met the requirements.\n\nAyo explained how everyone can become a member, and also contribute and be a part of what is happening within the guild.\n\n\nSTRATEGY GUILD CORE TAG (VERIFICATION AND ASSIGNING) - There is a need for verification of those who have met the requirements and are eligible for the Strategy Guild core member tag. \nCurrently, 5 people have met the requirement (i.e. Ayo, Gorga, Effiom, Tuso, and Lord Kizzy). Their other Gs and WGs tags need to be verified.\n\nAyo highlighted that this is meant to be an async process and should be managed by someone. Effiom was nominated to take up this role and he accepted.\nOther points raised during this discuss;\n* Should there be tags for intending members of the guild who are yet to meet all the requirements to become Core members?\n\n* Which of the requirements should be relaxed for this category?\n\n\nSTRATEGY GUILD Q3 RESEARCH - The document is closed, no more contributions. The next phase is discussions on the execution.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE ONE - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n* Summary Notes:  Strategy Guild Workshop Day Two Solution Framework Session One docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "There is a need for tag differentiation because some of the requirements to be a Core member of the Strategy Guild don't solely depend on the intending member, for instance the core contributor requirement.",
+      "supabase": "There is a need for tag differentiation because some of the requirements to be a Core member of the Strategy Guild doesn't solely depend on the intending member, for instance the core contributor requirement."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "The survey question for the Research has been closed; from next section we will start talking about execution",
+      "supabase": "The survey question for the Research has been closed, from next section we would start talking about execution"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "The document has been open for over a month, and in the last week no contribution was made. Also, there is need to start the research",
+      "supabase": "The document has been opened for over a month, and in the last week no contribution was made. Also, there is need to start the research"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "The next meeting will be about improvements and execution",
+      "supabase": "The next meeting would be about improvements and execution"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "YemiSolves to document and share notes of the workshop session",
+      "supabase": "Yemi Solves to document and share notes of the Workshop Session"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].assignee",
+      "gitbook": "YemiSolves",
+      "supabase": "Yemi Solves"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guild Membership, Workshop, Ideas and Improvements, ideas, improvements, Core Membership, survey, Research, participation, contribution",
+      "supabase": "Guild Membership, Workshop, Ideas and Improvements, Core Membership, survey , Research, participation, contribution"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
