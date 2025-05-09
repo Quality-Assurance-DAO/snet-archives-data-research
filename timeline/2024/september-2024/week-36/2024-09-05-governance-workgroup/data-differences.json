@@ -1,0 +1,19 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-09-05",
+  "differences": [
+    {
+      "field": "meetingInfo.mediaLink",
+      "gitbook": "https://app.read.ai/analytics/meetings/01J717PBQN3EJFH1APZP1KYT85?utm_source=Share_CopyLink§ion=transcript",
+      "supabase": "https://app.read.ai/analytics/meetings/01J717PBQN3EJFH1APZP1KYT85?utm_source=Share_CopyLink&section=transcript"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
