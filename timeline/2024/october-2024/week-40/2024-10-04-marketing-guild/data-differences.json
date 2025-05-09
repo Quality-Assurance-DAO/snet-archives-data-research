@@ -1,0 +1,32 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-10-04",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AshleyDawn, Ayo, Cjfrankie, Effiom, Eric Davies, Ese Williams, GorgaSiagian, guillermolucero, Kareem, kateri, Kenichi, lord kizzy, Mikasa, Moitlheki, Osmium, PeterE, Photogee",
+      "supabase": "Advanceameyaw, Ashley, Ayo, Cjfrankie, Daniel Effiom, Eric Davies, Ese Williams, Gorga, Guilermo, Kareem, kateri, Kenichi, lord kizzy, Mikasa, Moitlheki, PeterE, Photogee, Vasu"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Budget: No budget fitting was needed from Kizzy's side as all team members are currently underpaid, and we still have reserves, which will hopefully make up for the cuts.",
+      "supabase": "Budget: No budget fitting was needed from Kizzy's side as all team members are currently underpaid, and we still have reserves, which will hopefully make up for the cuts"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
