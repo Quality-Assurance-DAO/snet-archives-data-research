@@ -1,0 +1,68 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-08-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes from the last meeting.",
+      "supabase": "Minutes from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action items from the last meeting.",
+      "supabase": "Action items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Facilitation/Documentation roster.",
+      "supabase": "Facilitation/Documentation roster"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "TownHall Updates.",
+      "supabase": "TownHall Updates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Onboarding Journeys Scripts - no decisions on what to do with them yet as it is budget-dependent.",
+      "supabase": "Onboarding Journeys Scripts - no decisions on what to do with them yet as it is budget-dependent"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "SkillShare Matrix.",
+      "supabase": "SkillShare Matrix"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Temporarily closing the WG.",
+      "supabase": "Temporarily closing the WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Documentation Session on 15th.",
+      "supabase": "Documentation Session on 15th"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "AOB(Gorga’s Allegations).",
+      "supabase": "AOB(Gorga’s Allegations)"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "TH Update , Budget, Session, Onboarding Journey Scripts, Workgroup closure, allegation, Town Hall updates, infographic, budget cuts",
+      "supabase": "TH Update , Budget , Session, Onboarding Journey Scripts, Workgroup closure"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
