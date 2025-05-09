@@ -1,0 +1,79 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-08-12",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AJ, Ayo, Billy, Cjfrankie, Effiom, Ese Williams, Gorgasiagian, Hogantuso, Kateri Nick, King David, LordKizzy, Merryman, Mikasa, PeterE, Photogee, YemiSolves",
+      "supabase": "AJ, Ayo, Billy, Cjfrankie, Effiom, Ese Williams, Gorga, Kateri Nick, King David, Merryman, Mikasa, Onyeka, Peter, Photogee, Tuso, Yemi"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 7,
+      "supabase": 8
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "Strategy Guild Membership",
+      "supabase": "Possible Survey Questions [Strategy Guild]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit",
+      "supabase": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Strategy Guild Working Document",
+      "supabase": "Strategy Guild Membership"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1ym6eVAmf8LY-8TZq-VxONrFUizAaVQmP_V69GASivEQ/edit"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "INTRODUCTION - Ayo delivered a welcome address. He stated that this meeting was the 3rd session of the workshop, being that we already had the Ideation session which was the 1st session, and the last meeting was the 2nd session. He highlighted that the next session would be the close-out session and it would be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt Last Meeting Notes - 05.08.2024 [DONE]\n\n6. Effiom to verify the 5 people who have already met the requirements for the Core member tag [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, 3 new people (i.e. Photogee, Kenichi, and Cjfrankie) have indicated an interest in becoming core members of the Strategy Guild.\n\nHaving met all the requirements, Kenichi was welcomed as a core member of the Strategy Guild. The document on how to become a core member of this guild is the Strategy Guild Membership docx\n\n\nSTRATEGY GUILD Q3 RESEARCH - Effiom shared updates on the Strategy Guild research and the positive collaborative nature of this survey.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE TWO - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n* Notes: Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions",
+      "supabase": "INTRODUCTION - Ayo delivered a welcome address, he stated that this meeting was the 3rd session of the Workshop being that we already had the Ideation session which was the 1st session, and the last meeting was the 2nd session. He highlighted that the next session would be the close-out session and it would be focused on report analysis, adoption, and adaptation.\n\n\nACTION ITEMS CHECKBOXES FROM THE LAST MEETING - This was led by Ayo, items DONE were closed and others were left OPEN:\n\n1. Everyone to contribute to the Strategy Guild Working Document [OPEN]\n\n2. Core members should indicate interest in facilitating the new sheet in the working doc [OPEN]\n\n3. Effiom to share previous meeting summaries and this meeting summary [DONE]\n\n4. YemiSolves to document and share the Workshop Session [DONE]\n\n5. Adopt Last Meeting Notes - 05.08.2024 [DONE]\n\n6. Effiom to verify the 5 people who have already met the requirements for the Core member tag [DONE]\n\n\nONBOARD NEW MEMBERS/CORE MEMBER ROLL CALL - Since the last meeting, 3 new people (i.e. Photogee, Kenichi, and Cjfrankie) have indicated an interest in becoming core members of the Strategy Guild.\n\nHaving met all the requirements, Kenichi was welcomed as a core member of the Strategy Guild. The document on how to become a core member of this guild is the Strategy Guild Membership docx\n\n\nSTRATEGY GUILD Q3 RESEARCH - Effiom shared updates on the Strategy Guild research and the positive collaborative nature of this survey.\n\n\nTHE OUTBOUND WGs/Gs WORKSHOP SOLUTION SESSION PHASE TWO - The Workshop documenter will share the notes for this session. See reference to notes below:\n\n* Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n* Notes: Strategy Guild Workshop Day Three Solution Framework Session Two docx\n\n\nA.O.B - Ayo expressed gratitude to the participants and provided an overview of the plan for the next sessions"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The next meeting will be focused on report analysis, adoption, and adaptation.",
+      "supabase": "The next meeting would be focused on report analysis, adoption, and adaptation."
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "YemiSolves to document and share notes of the Workshop Session",
+      "supabase": "Yemi Solves to document and share notes of the Workshop Session"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "YemiSolves",
+      "supabase": "Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "YemiSolves to create and share a sheet for Guilds/WGs rep to add other contributions to aid the report and analysis of the workshop",
+      "supabase": "Yemi Solves to create and share a sheet for Gs/WGs rep to add other contributions to aid with the report and analysis of the workshop"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].assignee",
+      "gitbook": "YemiSolves",
+      "supabase": "Yemi Solves"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guild Membership, Workshop Ideation, Core Membership, Research, survey, participation, contribution, Video WG, Marketing Guild, Writers WG",
+      "supabase": "Guild Membership, Workshop Ideation, Core Membership, Research, survey , participation, contribution"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
