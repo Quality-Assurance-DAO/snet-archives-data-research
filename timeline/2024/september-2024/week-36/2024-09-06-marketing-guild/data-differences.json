@@ -1,0 +1,73 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-09-06",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Ayo, Cjfrankie, Eric Davies, esewilliams, GorgaSiagian, hamzat, inesgav, Kareem, kateri, Kenichi, lord kizzy, malik, Mikasa, Photogee",
+      "supabase": "Advanceameyaw, Ayo, Cjfrankie, Eric Davies, esewilliams, Gorga, hamzat, ines gavina, Kareem, kateri, Kenichi, lord kizzy, malik, Mikasa, Photogee"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Q3 report: Lord Kizzy reported that the Q3 quarterly report is still in progress, awaiting input from team members. They have been discussing this for about two weeks, with an initial draft ready but incomplete.",
+      "supabase": "Q3 report: Lord Kizzy reported that the Q3 report is still in progress, awaiting input from team members. They have been discussing this for about two weeks, with an initial draft ready but incomplete."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Documentation: Lord Kizzy reminded documenters to add meeting summaries to the meeting summary tool, and export it to a google doc for comments.",
+      "supabase": "Documentation: Lord Kizzy reminded documenters to document information on the tool being used and export it, and create a google doc for comments."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Q4 budget proposal: Lord Kizzy reviewed the Q4 budget proposal in detail, with Ayo raising concerns about the AGIX downprice situation and its impact on the Marketing Guild.",
+      "supabase": "Q4 budget proposal: Lord Kizzy reviewed the Q4 budget proposal in detail, with Ayo O raising concerns about the AGIX downprice situation and its impact on the Marketing Guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Mikasa made mention of the issue of not having access to the SNET ambassadors' Twitter to facilitate community engagement.",
+      "supabase": "Q4 budget proposal: Lord Kizzy reviewed the Q4 budget proposal in detail, with Ayo O raising concerns about the AGIX downprice situation and its impact on the Marketing Guild."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Gorga reported completing his weekly design schedule.",
+      "supabase": "Mikasa made mention of the issue of not having access to the SNET ambassadors' Twitter to facilitate community engagement."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Task force members: Malik asked how the new set of task force members could be added to the comms channel.",
+      "supabase": "Gorga reported completing his weekly design schedule."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Mikasa announced that the second community spotlight would be going out.",
+      "supabase": "Task force members: Malik inquired about how the new set of task force members could be added to the comms channel."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Podcast Episodes: Kenichi proposed four new podcast episode ideas.",
+      "supabase": "Mikasa announced that the second community spotlight would be going out."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "We discussed the Zealot initiative by Ese.",
+      "supabase": "Podcast Episodes: Kenichi proposed four new podcast episode ideas"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "supabase": "We discussed the Zealot initiative by Ese"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Marketing, community engagement, Archiving, Zealy, Q4 2024 Budget, Q3 2024 quarterly report, Notion, Documentation, Onboarding",
+      "supabase": "Marketing, community engagement, Archiving, Zealy, Budget , Q3 report, Notion, Documentation, Onboarding"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
