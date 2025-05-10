@@ -1,0 +1,89 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-07-29",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 7,
+      "supabase": 8
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Strategy Guild Working Document",
+      "supabase": "Possible Survey Questions [Strategy Guild]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Strategy Guild 29th July Meeting Agenda",
+      "supabase": "Strategy Guild Working Document"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://docs.google.com/document/d/1Cdgp9cEge1VzBsSXQ7sP-Bi7n0XRvc1qr0hxqXQYfbE/edit?pli=1#heading=h.shxqnobd9709",
+      "supabase": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "The Strategy Guild Workshop Documenter Role",
+      "supabase": "Strategy Guild 29th July Meeting Agenda"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/1zipayvQp21VAt58sjJAjjJqYTdFlwI15Dq03UgPzapQ/edit",
+      "supabase": "https://docs.google.com/document/d/1Cdgp9cEge1VzBsSXQ7sP-Bi7n0XRvc1qr0hxqXQYfbE/edit?pli=1#heading=h.shxqnobd9709"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "Strategy Guild Meeting Notes - 22nd July 2024",
+      "supabase": "The Strategy Guild Workshop Documenter Role"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/document/d/15OjzqUjRpBrvK6g19tMwW6Pp9S7iz5gkFmjxDDV61Qc/edit#heading=h.6fyp3cl3ve7w",
+      "supabase": "https://docs.google.com/document/d/1zipayvQp21VAt58sjJAjjJqYTdFlwI15Dq03UgPzapQ/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].title",
+      "gitbook": "Strategy Guild  Workshop Ideation Session Questions Framework",
+      "supabase": "Strategy Guild Meeting Notes - 22nd July 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[5].link",
+      "gitbook": "https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit",
+      "supabase": "https://docs.google.com/document/d/15OjzqUjRpBrvK6g19tMwW6Pp9S7iz5gkFmjxDDV61Qc/edit#heading=h.6fyp3cl3ve7w"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].title",
+      "gitbook": "Workshop Ideation Session Notes: Strategy Guild 29th July 2024",
+      "supabase": "Strategy Guild  Workshop Ideation Session Questions Framework"
+    },
+    {
+      "field": "meetingInfo.workingDocs[6].link",
+      "gitbook": "https://docs.google.com/document/d/1Qz2WiEmTZYOEPhOVdYl_VY_U_YmdHXap_AehXLqycko/edit#heading=h.6fyp3cl3ve7w",
+      "supabase": "https://docs.google.com/document/d/1SeyaZ_yKFK34KRkQ78jkLqHsZXFL3-b_mSgGRqWy62Y/edit"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The next meeting will be about improvements and execution",
+      "supabase": "The next meeting would be about improvements and execution"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guild Membership, Workshop Ideation, Core Membership, survey, participation, contribution",
+      "supabase": "Guild Membership, Workshop Ideation, Core Membership, survey , participation, contribution"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
