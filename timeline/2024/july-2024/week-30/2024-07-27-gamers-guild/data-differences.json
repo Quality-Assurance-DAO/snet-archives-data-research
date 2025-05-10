@@ -1,0 +1,73 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-07-27",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Malik updated us on the education guild department, highlighting the welcoming reception area and the questions that can be asked to the NPC in the reception, which is slate. He also presented a hologram themed around twin protocol and a hall displaying infographics about spin-offs. (Watch the education guild video in the drive folder link under the media section).",
+      "supabase": "Malik updated us on the education guild department, highlighting the welcoming reception area and the questions that can be asked to the NPC in the reception, which is slate. He also presented a hologram themed around twin protocol and a hall displaying infographics about spin-offs. (Watch the education guild video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Martinsoki updated on the Treasury guild's progress, showcasing the guild building and its outdoor swimming pool, as well as the NPCs. He mentioned facing challenges in editing the department due to communication issues with his partner and are still in progress. (Watch the Treasury guild video in the drive folder link under the media section).",
+      "supabase": "Martinsoki updated on the Treasury guild's progress, showcasing the guild building and its outdoor swimming pool, as well as the NPCs. He mentioned facing challenges in editing the department due to communication issues with his partner and are still in progress. (Watch the Treasury guild video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Gorga updated on the archives workgroup's formation, showcasing the NPCs and noting that the building's interior is still under construction. Members noted similarities to the video workgroup building, but Gorga asserted it was different, and Slate remarked that the building shouldn’t be too tall, as VR requires specific height constraints. (Watch the Archives Workgroup video in the drive folder link under the media section).",
+      "supabase": "Gorga updated on the archival workgroup's formation, showcasing the NPCs and noting that the building's interior is still under construction. Members noted similarities to the video workgroup building, but Gorga asserted it was different, and Slate remarked that the building shouldn’t be too tall, as VR requires specific height constraints. (Watch the Archival Workgroup video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Photogee updated us on the Dework PBL creation. They've replaced the anime NPCs with standard ones but didn't provide names, as the information document from Slate only listed one member, Tevo. They haven't started animating the characters due to health issues. He showcased the building and the playground behind it, demonstrated a device for teleporting to the upper floor, and expressed his desire to create a workstation. Malik thought the chairs were floating because the second floor was transparent. (Watch the DeworkPBL video in the drive folder link under the media section).",
+      "supabase": "Photogee updated us on the Dework PBL creation. They've replaced the anime NPCs with standard ones but didn't provide names, as the information document from Slate only listed one member, Tevo. They haven't started animating the characters due to health issues. He showcased the building and the playground behind it, demonstrated a device for teleporting to the upper floor, and expressed his desire to create a workstation. Malik thought the chairs were floating because the second floor was transparent. (Watch the DeworkPBL video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Gorga showcased his segment of the video WG creation, highlighting NPC animations and dialogues. One NPC was turned to face the wall, but Slate suggested turning him around to face the entering players, which was implemented. Slate also recommended that dialogue pop-ups should only appear during interactions and proposed adding more animations for the NPCs.",
+      "supabase": "Gorga showcased his segment of the video WG creation , highlighting NPC animations and dialogues. One NPC was turned to face the wall, but Slate suggested turning him around to face the entering players, which was implemented. Slate also recommended that dialogue pop-ups should only appear during interactions and proposed adding more animations for the NPCs."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "OEP and CollyPride did not demonstrate their progress in department creation.",
+      "supabase": "OEP and Colly pride did not demonstrate their progress in department creation."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Department Creation - Archives Workgroup",
+      "supabase": "Department Creation - Archival Workgroup"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Devon"
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Roblox, metaverse, department creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation, holiday",
+      "supabase": "Roblox, metaverse, department Creation, work updates, Collaboration, Game Development, mentorship, Dialogue Systems, Animation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
