@@ -1,0 +1,82 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-07-10",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Should the new feedback be rewarded? https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey=&gid=1012113575#gid=1012113575.",
+      "supabase": "Should the new feedback be rewarded? https://docs.google.com/spreadsheets/d/1aepifawXPW_zG5Gd1jt1tveenZorS23mnhFrmuPbtJc/edit?resourcekey=&gid=1012113575#gid=1012113575"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Google Doc: https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.1qoyee83j7c0.",
+      "supabase": "Google Doc: https://docs.google.com/document/d/1nhK0TK1pRYlHwzOI-nUe9olyGRWXZcTMuiRqtzfWrSw/edit#heading=h.1qoyee83j7c0"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "The strategy we use to Organise.",
+      "supabase": "The strategy we use to Organise"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Steps to Async Process.",
+      "supabase": "Steps to Async Process"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Live Review Process.",
+      "supabase": "Live Review Process"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Rewards.",
+      "supabase": "Rewards"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "Limits.",
+      "supabase": "Limits"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Asset link: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14.",
+      "supabase": "Asset link: https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&cot=14"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[2]",
+      "gitbook": "More tags strengthen what has been organized or reviewed.",
+      "supabase": "More tags strengthen what has been organized or reviewed"
+    },
+    {
+      "field": "agendaItems[5].discussionPoints[1]",
+      "gitbook": "Activities of the WG going forward.",
+      "supabase": "Activities of the WG going forward"
+    },
+    {
+      "field": "agendaItems[5].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[5].decisionItems[0].decision",
+      "gitbook": "Ayo can help facilitate August Calls - Tevo takes break on 21.08",
+      "supabase": "Ayo can help facilitate August Calls"
+    },
+    {
+      "field": "agendaItems[5].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
