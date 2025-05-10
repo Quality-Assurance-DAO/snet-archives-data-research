@@ -1,0 +1,73 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-06-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "slate, as our social media manager, gave weekly updates on our socials.",
+      "supabase": "slate,as our social media manager gave weekly updates on our social."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "More weekly news updates from the Town Hall meeting.",
+      "supabase": "More weekly news updates from the town hall meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "supabase": "We had a diccussion on the suggestion osmium brought on how to improve our engagement"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Creation of a group for test and training for our two candidates to serve as our reveiwer and communicator for the zealy progeam",
+      "supabase": "creation of our Q3 Budget proposal report"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].status",
+      "gitbook": "in progress",
+      "supabase": "todo"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "lord kizzy, devon",
+      "supabase": "hogantuso, lordkizzy"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "28 June 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "creation of our Budget proposal",
+      "supabase": "Lordkizzy to reach out to Rojo on the initiatives shared during the meeting as regards to our content engagement."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "hogantuso, lord kizzy",
+      "supabase": "lord kizzy"
+    },
+    {
+      "field": "agendaItems[0].decisionItems",
+      "supabase": [
+        {
+          "decision": "we decided to stick to the videowork group task point system"
+        },
+        {
+          "decision": "We decided to make the Liaison role a permanent role"
+        }
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, Videomaking, Task Assignment, Zealy, budget, Q3 budget, town hall, training, test",
+      "supabase": "social media management, Task Assignment, Budget "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
