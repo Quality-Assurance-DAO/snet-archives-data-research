@@ -1,0 +1,98 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-04-10",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Completion of videos and infographics for Ambassador Certification Program (ACP). Reviewing Team For ACP quizzes Set up and processes finalized. Budget request presentation (module-based approach). Platform for ACP teams: Google Classroom or Mentimeter? Assignment of the quizzes to all the present participants",
+      "supabase": "Completion of Videos and Infographic for Ambassador Certification Program (ACP) Reviewing Team For ACP Quizzes Set up and Processes Finalized Budget Request Presentation (Module Based Approach) Platform for ACP Teams, Google Classroom or Mentimeter? Assignment of the Quizzes to all the present participants"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Completion of videos and infographics for Ambassador Certification Program (ACP",
+      "supabase": "Completion of Videos and Infographic for Ambassador Certification Program (ACP)"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Reviewing team For ACP quizzes set-up and processes",
+      "supabase": "Reviewing Team For ACP Quizzes Set up and Processes"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Finalized budget request presentation (module-based approach",
+      "supabase": "Finalized Budget Request Presentation (Module Based Approach)"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "Platform for ACP teams: Google Classroom or Mentimeter",
+      "supabase": "Platform for ACP Teams, Google Classroom or Mentimeter?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting started with Slate welcoming everyone to the meeting.",
+      "supabase": "Meeting started with Slate welcoming everyone to the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate shared the infos and videos sheet and went over some uncompleted task and got updates from them.",
+      "supabase": "Slate shared the infos and videos sheet and went over some uncompleted task and got updates from them"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then he mentioned that we have completed all the tasks regarding infos and video except for one which is also underwork.",
+      "supabase": "Then He mentioned that we have completed all the tasks regarding infos and video except for one which is also underwork"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate then shared the reviewing team which has been set up for ACP quizzes and will be reviewing the quizzes and also the process of how they are going to be doing it.",
+      "supabase": "Slate then shared the reviewing team which was setted up for ACP quizzes and will be reviewing the quizzes and also the process of how they are going to be doing it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Current reviewing team has two members: Osmium and Vanessa.",
+      "supabase": "Current reviewing team has two members osmium and vanessa"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then Slate shared the finalized budget that he reworked according to the remarks from the previous meeting.",
+      "supabase": "Then Slate shared the finalized budget that he reworked according to the remarks from the previous meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Peter said that the budget request looks solid.",
+      "supabase": "Peter said that the budget request looks solid"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Most of the participants agreed with the budget request.",
+      "supabase": "Most of the participants agreed with the budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Then Slate assigned some of the quizzes which were open to the present people.",
+      "supabase": "Then Slate Assigned some of the quizzes which were open to the present people"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Then open discussion was held regarding which learning platform to be used. Peter suggested Andamio, and Slate suggested that we create a presentation on each of the main sugested platforms.",
+      "supabase": "Then open discussion was held regarding which platform to be used Peter suggested Andamio Platform and Slate suggested that we create a presentation on each of the main sugested platform"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "So for the next meeting most of the presentations would be held regarding Google Classroom, Teams, Andamio and Mentimeter.",
+      "supabase": "So for the next meeting most of the presentations would be held regarding Google Classroom, Teams, Andamio and Mentimeter"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
