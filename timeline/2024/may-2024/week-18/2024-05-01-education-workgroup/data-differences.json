@@ -1,0 +1,132 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-05-01",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Billy, Clement Umoh, GorgaSeagian, osmium, Photogee, Slate, SoundWaves, WaKa",
+      "supabase": "Billy, Clement Umoh, DS9, Duke, esewilliams, GorgaSeagian, osmium, Photogee, Slate, SoundWaves, WaKa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Review Team updates, Clement's infographic, Ese's presentation on Microsoft Teams, Google Classroom update",
+      "supabase": "Review Team Updates, Osmium Metaverse Build for Education ,Gorga's proposal for education and onboarding , Google Classroom Update, Waka' Teach with AI and About AI "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics.length",
+      "gitbook": 4,
+      "supabase": 5
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Clement's infographic",
+      "supabase": "Osmium Metaverse Build for Education"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Ese's presentation on Teams application",
+      "supabase": "Gorga's proposal for education and onboarding"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "supabase": "Waka' Teach with AI and About AI "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he highlighted the agenda for today's meeting.",
+      "supabase": "Then he highlighted the agenda for today's meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "First agenda item: updates from the review team regarding quizzes.",
+      "supabase": "Osmium shared his metaverse experience build on Universe for educational purposes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Osmium is doing final checks.",
+      "supabase": "Everybody really liked the useful tool"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Slate provided updates from Vanessa's side.",
+      "supabase": "Slate provided updates from vanessa's side regarding quizzes update and guided everyone for the required adjustments"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then Slate shared Clement's infographic for the Ambassador program.",
+      "supabase": "Then Gorga presented his proposal for collaboration"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "There were a few pointers which Slate pointed out.",
+      "supabase": "Slate guided that the proposal would be best fitting the writer's workgroup as they can help in getting out quality articles"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Then Ese presented on Microsoft Teams application and its usages for ACP.",
+      "supabase": "Then Slate gave a update regarding google classroom that the quiz timer can be implemented and will be most probably completed by next week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Slate mentioned that there is only one problem with Google Classroom: that is no timer for google forms.",
+      "supabase": "Slate than gave the floor to Waka so that he can give a overview of the his proposal regarding \"Teach with AI and About AI\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Then WaKa shared his insights regarding teaching with AI and about AI."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Ese to present visually regarding Teams application",
+      "supabase": "Slate to add timer to quizzes"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "esewilliams",
+      "supabase": "Slate"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "8 May 2024",
+      "supabase": "15 May 2024"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "fix issues with Google Classroom",
+      "supabase": "Ese to give visual presentation of Teams"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].assignee",
+      "gitbook": "Slate",
+      "supabase": "esewilliams"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].dueDate",
+      "gitbook": "8 May 2024",
+      "supabase": "15 May 2024"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, platform, quizzes, Fetch, Ocean, outreach, Google Classroom, Teams, Teach with AI",
+      "supabase": "ACP, review, platform, Google Classroom, Teach with AI , metaverse, gorga proposal"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, Collaborative, Businesslike, speedy",
+      "supabase": "productive,  Collaborative, Businesslike., speedy "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
