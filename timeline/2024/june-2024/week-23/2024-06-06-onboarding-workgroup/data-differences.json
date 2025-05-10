@@ -1,0 +1,59 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-06-06",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes from the last meeting and action items.",
+      "supabase": "Minutes from the last meeting and action items"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Onboarding Journeys update.",
+      "supabase": "Onboarding Journeys update"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "\"Suggestions towards better onboarding processes\" document.",
+      "supabase": "\"Suggestions towards better onboarding processes\" document"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Onboarding session survey results.",
+      "supabase": "Onboarding session survey results"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Getting started doc/channel.",
+      "supabase": "Getting started doc/channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Skills audit document.",
+      "supabase": "Skills audit document"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Quarterly report.",
+      "supabase": "Quarterly report"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Q3 budget.",
+      "supabase": "Q3 budget"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Analysis of how Q2 Buddy system went.",
+      "supabase": "Analysis of how Q2 Buddy system went"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
