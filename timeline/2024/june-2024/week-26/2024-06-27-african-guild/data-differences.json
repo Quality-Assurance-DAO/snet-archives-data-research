@@ -1,0 +1,14 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-06-27",
+  "differences": [
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
