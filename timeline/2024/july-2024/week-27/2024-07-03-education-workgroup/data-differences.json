@@ -1,0 +1,44 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-07-03",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "we had a discussion on how to fit our budget with all the projects.",
+      "supabase": "we had a discussion on how to fit our budget with all the projects"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Ese to take up blueprint of Ai for beginners to highlight its objectives and tasks related to it.",
+      "supabase": "Ese to take up blueprint of Ai for beginners to highlight its objectives and tasks related to it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Commenting of ACP blueprint will last till friday.",
+      "supabase": "Commenting of ACP blueprint will last till friday"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Task redistribution was done to active members for delayed tasks.",
+      "supabase": "Task redistribution was done to active members for delayed tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Clement said that he is sick and will soon be deleivering his info as he gets better.",
+      "supabase": "Clement said that he is sick and will soon be deleivering his info as he gets better"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
