@@ -1,0 +1,33 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-08-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Our first meeting in August started strong with a warm welcome greeting from Kenichi, and momentarily, he surfed the WG’s Dework board to cite the tasks in progress — Gorga, Inés, and Devon gave us an update on their tasks. Following that, Kenichi emphasized that scribblers should always keep prior bars in mind. Then Cjfrankie shared insights into his journey by providing Gorga with assistance as a new scribbler!\n\n\nMeeting Agenda: Having ticked off the action items from the last meeting, the meeting officially started with a discussion on July’s points system. Kenichi said that the disbursement didn't happen last Tuesday because there were still many tasks left undone and we needed to clear that off. \n\n\nAgenda item number three featured a discussion about September projections! Kenichi said that we might be a mile away from launching the long-anticipated podcast. He also hinted that the marketing guild and video workgroup will play a role in making the podcast come to life. Lastly, he mentioned that anyone interested can start a conversation or a thread in the writers' Discord channel.\n\n\nFollowing that, we talked about the Q2 SNET ambassador program's monthly recap and the future recaps for Substack. Since the recaps are usually lengthy, Kenichi said that there's a need to split the recap into workgroups and guild updates separately. \n\n\nOnboarding: From a bird's-eye view, there is a massive surge of interest in the WWG. Kenichi pointed out that we have almost reached our KPI for Q3, and at the moment there are only three spots left for scribblers this quarter, so the onboarding window for Q3 2024 will be closed after we have onboarded five scribblers in Q3.\n\nFrom the Zealy side of things, Cjfrankie talked about spotting a user who has multiple accounts. Gorga, LordKizzy, and several other people present gave their opinions on how we can mitigate the issue. Kenichi added that we can't prevent users from having multiple accounts, and the best approach would be to do a check after the sprint. Whenever we cite multiple accounts by a user, we can check the proof of humanity by tracking how old their Twitter account is or by using the sprinter tag to track how old the account is, and finally, any rewards will only go to one account. \n\n\nFollowing that, Devon shared updates from the video reviews on Zealy. As a matter of finality, LordKizzy suggested that we have a channel where we can discuss Zealy-related topics.",
+      "supabase": "Our first meeting in August started strong with a warm welcome greeting from Kenichi, and momentarily, he surfed the WG’s dework board to cite the tasks in progress — Gorga, Ines, and Devon gave us an update on their tasks. Following that, Kenichi emphasized that scribblers should always keep prior bars in mind. Then Cjfrankie shared insights into his journey by providing Gorga with assistance as a new scribbler!\n\n\nMeeting Agenda: Having ticked off the action items from the last meeting, the meeting officially started with a discussion on July’s points system. Kenichi says that the disbursement didn't happen last Tuesday because there were still many tasks left undone and we needed to clear that off. \n\n\nAgenda item number three features a discussion about September projections! Kenichi says that we might be a mile away from launching the long-anticipated podcast. He also hinted that the marketing guild and video workgroup will play a role in making the podcast come to life. Lastly, he mentioned that anyone interested can start a conversation in the writer's channel, plus we can also start a thread, too.\n\n\nFollowing that, we talked about the Q2 SNET ambassador programs’ monthly recap and the future recaps for substack; since the recaps are usually lengthy, Kenichi says that there's a need to split the recap into workgroups and guild updates separately. \n\n\nOnboarding: From a bird's-eye view, there is a massive surge of interest in the WWG. Kenichi pointed out that we have almost reached our KPI for Q3, and at the moment there are only three spots left for scribblers this quarter, so the onboarding window for Q3 2024 will be closed after we have onboarded five scribblers in Q3.\n\nFrom the Zealy side of things, Cjfrankie talks about spotting a user who has multiple accounts — Gorga, LordKizzy, and several other people present gave their opinions on how we can mitigate the issue. Kenichi added that we can't prevent users from having multiple accounts, and the best approach would be to do a check after the sprint. Whenever we cite multiple accounts by a user, we can check the proof of humanity by tracking how old their Twitter account is or by using the sprinter tag to track how old the account is, and finally, the reward will only go to one account. \n\n\nFollowing that, Devon shared updates from the video reviews on Zealy. As a matter of finality, LordKizzy suggested that we have a channel where we can discuss zealy-related topics.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We have agreed to split the monthly SNET ambassador program recap on Substack into workgroups and guild updates.",
+      "supabase": "We have agreed to split the monthly SNET ambassador programs’ recap on Substack into workgroups and guild updates."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Zealy, Points system, Q2 updates, Substack newsletter, podcasts, Task updates, Onboarding, WWG Test, Twitter, sprinters, rewards, multiple accounts, targets, Q3 target, scribbler",
+      "supabase": "Zealy, Points system, Q2 updates, Substack newsletter, podcasts, Task updates , Onboarding, WWG Test, Twitter, sprinters"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
