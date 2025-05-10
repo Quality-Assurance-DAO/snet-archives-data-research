@@ -1,0 +1,64 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-07-19",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on task management: Slate shared some discussions he had with Vanessa on a wrongly uploaded Town Hall video that needed to be posted for archiving purposes; slate suggested that it should be posted as an unlisted video for archiving purposes rather than as a public video because the video is way back (2 years ago), majority of members felt the same way and also the created two tasks the usual Town Hall videos.",
+      "supabase": "Updates on Task management: Slate shared some discussions he had with Vanessa on a wrongly uploaded Town Hall video that needed to be posted for archiving purposes, slate suggested that it should be posted as an unlisted video for archiving purposes rather than as a public video because the video is way back ( 2 year ago), majority of members felt the same way and also the created two tasks the usual Town Hall videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates on social media management: Malik mentioned that he conducted some research on a content planner to see how frequently our videos should be posted and he gave us an hypothesis of 2 shorts videos and 1 long video, during the week he had uploaded 2 shorts and 2 long videos including the Town Hall videos.",
+      "supabase": "Updates on Social media management: Malik mentioned that he conducted a research on a content planner to see how frequent our videos should be posted and he gave us an hypothesis of 2 shorts videos and 1 long video, during the week he had uploaded 2 shorts and 2 long videos including the Town Hall videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates on Zealy: Lordkizzy had a question for Devon on the updates so far on the previous Zealy sprint but Devon wasn't present in the meeting.",
+      "supabase": "Updates on Zealy: Lordkizzy had a question for Devon on the updates so far on the previous zealy sprint but he wasn't present in the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on updates from Rojo: Lordkizzy presented to the group the updates from Rojo. Rojo suggested the Quality Control Review team should be a random team of two members selected each week to review all the contents that go out within that week and provide a report by the end of the week; some members felt it was a good idea but would rather see it being implemented in the next quarter. There will be a poll to decide this.",
+      "supabase": "Discussion on Updates from Rojo: Lordkizzy presented to the group the updates from Rojo. Rojo suggested for the Quality Control Review team should be a random team of two members selected each week to review all the contents that go out within that week and provide a report by the end of the week; some members felt it was a good idea but would rather see it being implemented in the next quarter, they will be a poll to decide this."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on Budget: Lordkizzy presented the restructured budget as to the budget fitting, and explained the process going forward. There was a discussion on the workgroup keeping the some of the contingency budget for the review team initiatives for Quality Control, and we decided that we are going to have a poll in the video workgroup to have a decision going forward.",
+      "supabase": "Discussion on Budget: Lordkizzy presented the restructured budget as to the budget fitting, and explain the process going forward, there was a discussion on the workgroup keeping the some of the contingency budget for the review team initiatives for Quality Control and we decided that we were going to have a poll in the video workgroup to have a decision going forward."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussion on Vacation: most of the Video WG members are not going for vacations.",
+      "supabase": "Discussion on Vacation: most of the Video WG members are not going for vacations"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "we decided that we are going to have a poll in the video workgroup to have a decision on the budget going forward",
+      "supabase": "we decided that we were going to have a poll in the video workgroup to have a decision going forward"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "We decided on a criterion for task assignments, which is for members to attend at least two meetings in a month to be eligible for task assignments",
+      "supabase": "We decided on a criteria for task assignments which is for members to attend at least two meetings in a month to be eligible for task assignments"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, meeting venue, old video, Archives",
+      "supabase": "Weekly updates, Budget Reduction, Budget , Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, meeting venue"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly",
+      "supabase": "Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
