@@ -1,0 +1,14 @@
+{
+  "workgroup": "WG Sync Call",
+  "meetingDate": "2024-06-27",
+  "differences": [
+    {
+      "field": "meetingInfo.name",
+      "supabase": "Weekly"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
