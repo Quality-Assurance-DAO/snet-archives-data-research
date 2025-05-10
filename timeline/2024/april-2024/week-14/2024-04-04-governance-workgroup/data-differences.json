@@ -1,0 +1,48 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-04-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Ambassadors Naming - how do we name ambassadors/contributors? Should we keep the name \"Core Contributor\" or revert to \"Ambassador\"? Should the name of the program itself be changed? blocker: time & people to solve it.",
+      "supabase": "Ambassadors Naming - how do we name ambassadors/contributors? Should we keep the name \"Core Contributor\" or revert to \"Ambassador\"? Should the name of the program itself be changed? blocker: time & people to solve it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Q2 budget - what should be the process on WG budgets for Q2 2024? blocker: time & people to solve it.",
+      "supabase": "Q2 budget - what should be the process on WG budgets for Q2 2024? blocker: time & people to solve it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Governance tools & know-how. What are good use cases for tools? blocker: clear use cases to test use of tools.",
+      "supabase": "Governance tools & know-how. What are good use cases for tools? blocker: clear use cases to test use of tools"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "uniFires (a Catalyst funded project to support connections between Polkadot and Cardano) & SNET - how to connect them or make links between them on governance issues? particularly on the issue of 1p1v Blocker: available time & people.",
+      "supabase": "uniFires (a Catalyst funded project to support connections between Polkadot and Cardano) & SNET - how to connect them or make links between them on governance issues? particularly on the issue of 1p1v Blocker: available time & people"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Peter mentioned the forthcoming token merger of SNET, Fetch & Ocean, which will enable collaborations with their respective Ambassdor programs, something to look and think about.",
+      "supabase": "Peter mentioned the forthcoming token merger of SNET, Fetch & Ocean, which will enable collaborations with their respective Ambassdor programs, something to look and think about"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Peter mentioned the idea to set up a Moderators WG, enable resources for folks like Demonix (server admin).",
+      "supabase": "Peter mentioned the idea to set up a Moderators WG, enable resources for folks like Demonix (server admin)"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
