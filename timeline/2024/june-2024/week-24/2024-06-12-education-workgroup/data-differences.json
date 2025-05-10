@@ -1,0 +1,54 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-06-12",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then Slate went over to the education guild ACP blueprint document and defined the structure of it so that everyone gets an idea of how to write the blueprint.",
+      "supabase": "Then At first Slate went over to the education guild ACP blueprint document and defined the structure of it so that everyone gets an idea of how to write the blueprint"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Osmium gave updates from the review team.",
+      "supabase": "Osmium gave updates from the review team"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate mentioned that he will be assigning Clement soon for ambassadors info.",
+      "supabase": "Slate mentioned that he will be assigning clement soon for ambassadors info"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then there was an agreement of putting education guild projects for ideation phase in the next quarter.",
+      "supabase": "Then there was an agreement of putting education guild projects for ideation phase in the next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Kenichi explained his proposal for education guild.",
+      "supabase": "Kenichi explained his proposed proposal for education guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "A Deepfunding participant came and showcased his proposal for which he wants to collaborate with education guild.",
+      "supabase": "Deepfunding participant came and showcased his proposal for which he wants to collaborate with education guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Osmium wants to build a LLM project of AI chatbot for education guild.",
+      "supabase": "Osmium wants to build a LLM project of AI chatbot for education guild"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
