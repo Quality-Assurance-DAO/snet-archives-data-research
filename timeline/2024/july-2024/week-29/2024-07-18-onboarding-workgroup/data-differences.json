@@ -1,0 +1,59 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-07-18",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes from the last meeting 11th July.",
+      "supabase": "Minutes from the last meeting 11th July"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from last meeting, 11th July.",
+      "supabase": "Action Items from last meeting, 11th July"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Onboarders team.",
+      "supabase": "Onboarders team"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Q3 budget update: We took out some items to make it fit into the budget fitting for this quarter.",
+      "supabase": "Q3 budget update: We took out some items to make it fit into the budget fitting for this quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Facilitating and documenting next week.",
+      "supabase": "Facilitating and documenting next week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Town Hall updates.",
+      "supabase": "Town Hall updates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Onboarding journeys Scripts; We will be taking out money for it from Q3 budget item \"Async onboarding resources\".",
+      "supabase": "Onboarding journeys Scripts; We will be taking out money for it from Q3 budget item \"Async onboarding resources\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Holidays: Are we going on holiday next month or not? We will!😀.",
+      "supabase": "Holidays: Are we going on holiday next month or not? We will!😀"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Skillsshare matrix; LadyTempestt will run the first session, on documentation next month (15th August).",
+      "supabase": "Skillsshare matrix; LadyTempestt will run the first session, on documentation next month (15th August)"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
