@@ -1,0 +1,58 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-05-10",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "More updates on the Zealy tasks.",
+      "supabase": "More Updates on the zealy tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We discussed on more engagement for our socials.",
+      "supabase": "We discussed on more engagement for our socials"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on updates of the proposal sheet.",
+      "supabase": "Discussion on updates of the proposal sheet"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "There was a discussion on creating a video workgroup Zealy sprint.",
+      "supabase": "There was a discussion on creating a videowork group zealy sprint"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "There was more discussion on tournament for the Gamers Guild.",
+      "supabase": "There was more discussion on tournament for the gamers guild"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "It would be unwise to have two zealy sprints from the Ambassador program",
+      "supabase": "It would be unwise to have two zealy sprint from the ambassador program"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "social manager, task manager and town hall editor to reach out to peter to get admin access to the zealy sprint",
+      "supabase": "social manager ,task manager and town hall editor to reach out to peter to get admin access to the zealy sprint"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, new people, Videomaking, Zealy, gamers' guild, vote pool, assignments",
+      "supabase": "social media management, new people, Videomaking"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
