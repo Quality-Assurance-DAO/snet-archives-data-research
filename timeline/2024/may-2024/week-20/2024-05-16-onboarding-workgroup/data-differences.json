@@ -1,0 +1,44 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-05-16",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Tuso and Gorga suggested the creation of bots to welcome new members into program and guide them to e.g. the Getting Started channel.",
+      "supabase": "Tuso and Gorga suggested the creation of bots to welcome new members into program and guide them to e.g. the Getting Started channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "LadyTempestt suggested that onboarding WG members could attend different Workgroups' meetings to invite members to our onboarding sessions.",
+      "supabase": "LadyTempestt suggested that onboarding WG members could attend different Workgroups' meetings to invite members to our onboarding sessions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Vani suggested that we could post in the introductions channel to encourage people that are interested in the ambassador program.",
+      "supabase": "Vani suggested that we could post in the introductions channel to encourage people that are interested in the ambassador program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "We discussed idea of colour-coding people's names on Discord to show their roles: but we noted that most people are part of many groups and have many roles , so it wouldn't really work, and our current WG tags already serve this function.",
+      "supabase": "We discussed idea of colour-coding people's names on Discord to show their roles: but we noted that most people are part of many groups and have many roles , so it wouldn't really work, and our current WG tags already serve this function"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "A hierarchy or system of levels in Discord was suggested, but several people questioned how this would be valid given our non-hierarchical ecosystem. Also questioned how someone's \"level\" would be determined (manually, and if so, by whom? or automated?) and on what basis (Time? Number of posts? A combination?).",
+      "supabase": "A hierarchy or system of levels in Discord was suggested, but several people questioned how this would be valid given our non-hierarchical ecosystem. Also questioned how someone's \"level\" would be determined (manually, and if so, by whom? or automated?) and on what basis (Time? Number of posts? A combination?)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "We also noted that if a new person posts to say hi, we welcome them - but if they don't - perhaps by being too shy - we can easily miss them.",
+      "supabase": "We also noted that if a new person posts to say hi, we welcome them - but if they don't - perhaps by being too shy - we can easily miss them"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
