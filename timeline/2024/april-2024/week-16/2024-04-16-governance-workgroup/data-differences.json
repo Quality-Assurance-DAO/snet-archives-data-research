@@ -1,0 +1,34 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-04-16",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Naming decision.",
+      "supabase": "Naming decision"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Q2 budget decision.",
+      "supabase": "Q2 budget decision"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Testing decision making tooling.",
+      "supabase": "Testing decision making tooling"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Whether budget approval should depend on submission of a quarterly report for the previous quarter.",
+      "supabase": "Whether budget approval should depend on submission of a quarterly report for the previous quarter"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
