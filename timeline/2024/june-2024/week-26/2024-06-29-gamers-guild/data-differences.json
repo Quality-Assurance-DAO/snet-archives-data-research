@@ -1,0 +1,38 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-06-29",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "CollyPride, devon, flyn, Gorga Siagian, kateri, lord kizzy, martinsoki, oep, Photogee, rebel, Slate",
+      "supabase": "CollyPride, flyn, Gorga Siagian, kateri, lord kizzy, martinosoki, oep, Photogee, rebel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "team 2"
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
