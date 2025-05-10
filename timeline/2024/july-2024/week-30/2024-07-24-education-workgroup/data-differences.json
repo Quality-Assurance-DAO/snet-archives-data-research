@@ -1,0 +1,99 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-07-24",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AndrewBen, Ayo, Clement Umoh, esewilliams, GorgaSeagian, kateri, Kenichi, malik, osmium, Photogee, Slate, Yemi Solves",
+      "supabase": "AndrewBen, Ayodele, Clement Umoh, esewilliams, GorgaSeagian, kateri, Kenichi, malik, osmium, Photogee, Slate, Yemi Solves"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "- Dework Go through tasks - Clement's Video - Ai for beginners comments discussion by Ese - Gorga and Malik presentation on OCEAN infographic",
+      "supabase": "- Dework Go through task - Clement Video - Ai for beginners comments discussion by ese - Gorga and Malik presentation on OCEAN infographic "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Dework Go through tasks",
+      "supabase": "Dework Go through task"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Clement's Video",
+      "supabase": " Clement Video"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "Gorga and Malik's presentation on OCEAN infographic",
+      "supabase": "Gorga and Malik presentation on OCEAN infographic "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Notified and discussed tasks assigned and the updates on the tasks on Dework.",
+      "supabase": "Notified and discussed task assigned and the updates on the task on dework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "We went through the \"Ai for beginners\" document and discusssed its comments.",
+      "supabase": "We went through Ai for beginners document and discusssed its comments"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Had a discussion on what type of video format should be used.",
+      "supabase": "Had a discussion on what type of video format should be used"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Videos script should be there or not discussion.",
+      "supabase": "Videos script should be there or no discussion"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "SEO discussion.",
+      "supabase": "SEO discussion"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "At the end Ese said to set up a Notion page for starting things off and for setting up a proper background.",
+      "supabase": "At then end Ese said to set up a Notion page for starting things off and for setting up a proper background"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Then we went over Gorga and Malik's infographic on OCEAN Protocol; some minor adjustments were suggested by Osmium.",
+      "supabase": "Then we went over Gorga and Malik Infographic on OCEAN Protocol , some minor adjustments were suggested by Osmium"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Then we went over Clement's video; suggestion were given on video improvement.",
+      "supabase": "Then we went over Clement Video , suggestion were given on video improvement"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Ese to set up a Notion page with Osmium",
+      "supabase": "Ese to setup a Notion page with Osmium"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Best suited for the job, Ese having experience with Notion",
+      "supabase": "Best suited for the job , ese having experience with notion "
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments",
+      "supabase": "review team , Dework Go through, Initial docs, Notion, Ai for beginners, video adjustments "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
