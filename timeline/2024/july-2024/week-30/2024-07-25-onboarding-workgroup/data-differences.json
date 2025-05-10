@@ -1,0 +1,79 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-07-25",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayo, CallyFromAuron, Cjfrankie, Clement Umoh, daniel effiom, Duke, Gorga Siagian, LadyTempestt, lord kizzy, MartinSoki, Merryman, PeterE, Samson Freeman, Slate, Sucre n Spice, ToneTech, Tuso., Yemi Solves",
+      "supabase": "Ayo, Cjfrankie, Clement Umoh, daniel effiom, Duke, Gorga Siagian, LadyTempestt, lord kizzy, MartinSoki, Merryman, Peter, Samson Freeman, Slate, SucrenSpice, ToneTech, Tuso., Vanessa, Yemi Solves"
+    },
+    {
+      "field": "agendaItems[0].townHallUpdates",
+      "gitbook": "- Mention that we have selected a set of Onboarders\n- Skillssharing - We are having a session on documentation on 15th Aug, led by LadyTempestt\n- Budget fitting? How we did the fitting (the amount we lost and what we are left with)?\n- New onboarding process. Channels are live",
+      "supabase": "- Mention Selected A set of Onboarders\n- Budget fitting? How we did the fitting (the amount we lost and what we are left with)\n- New onboarding process. Channels are live\n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes from the last meeting, 18th July.",
+      "supabase": "Minutes from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from 18th July meeting.",
+      "supabase": "Action Items from 18th July meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Q3 budget update: We took a look at BUDGET-FITTED Onboarding WG budget Q3 2024, https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?usp=drivesdk.",
+      "supabase": "Q3 budget update: We took a look at BUDGET-FITTED Onboarding WG budget Q3 2024, https://docs.google.com/spreadsheets/d/1SCBv9Fi8MZLefKSs-ezzfVnIpDJfu6BqcT2uVU6glmk/edit?usp=drivesdk"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Town Hall updates: Clement is to schedule a call with Gorga after the meeting to mentor him. There were suggestions on what could be added to the town hall updates: - Skillsshare update; We are having a session on 15th by LadyTempestt - Mention that we have selected a set of onboarders - Budget fitting, How we did the fitting (the amount we lost and what we are left with)? maybe not - New onboarding process. Channels are live.",
+      "supabase": "Town Hall updates: Clement is to schedule a call with Gorga after the meeting to mentor him. There were suggestions on what could be added to the town hall updates: - Skills share update; We are having a session on 15th by LadyTempestt - Mention that we have selected a set of onboarders - Budget fitting, How we did the fitting (the amount we lost and what we are left with) - New onboarding process. Channels are live"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Skillshare matrix; -Session on “Documentation” on the 15th August - Tuso was assigned to timestamp and post the recording (budget is $30). Session on GitHub for project management - Vani suggested that we ask Colleen if she would be available to do it before we assign it to her or even set a date for the session. -We decided to extend the conversation on \"What would be the 3rd training for this Quarter\" to the next meeting since we weren't getting enough responses from the members in the call.",
+      "supabase": "Skills share matrix; -Session on “Documentation” on the 15th August - Tuso was assigned to timestamp and post the recording (budget is $30) -Vani suggested that we get a feedback from Colleen to see if she would be available to do it before we assign it to her or even set a date for the session. -We decided to extend this conversation on \"What would be the extra training for this Quarter \"to the next meeting since we weren't getting enough responses from the members in the call"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Assigning other work we budgeted for: We decided via an in-meeting vote that Ayo and Kateri will work on the research interview design. Research analysis will be done in Q4; Vani will either join the team or replace one of them, depending on budget.",
+      "supabase": "Assigning other work we budgeted for: We decided that Ayo and Kateri are going to work on the research interview design while Vani helps with the analysis of the survey responses."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided via an in-meeting vote that Ayo and Kateri will work on the research design in Q3, and then, when we get to writing the Q4 budget, we'll decide what we want to allocate to the execution and analysis of the research, which will determine how many people work on those.",
+      "supabase": "We decided that Ayo and Kateri are going to work on the research interview design in Q3 and then, when we get to writing the Q4 budget, we'll decide what we want to allocate to the execution and analysis of the research, which will determine how many people work on those."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "Sucre n Spice",
+      "supabase": "SucrenSpice"
+    },
+    {
+      "field": "agendaItems[0].actionItems[6].text",
+      "gitbook": "Tuso to timestamp and post the recording for the forthcoming training session on “Documentation”",
+      "supabase": "Tuso was assigned to timestamp and post the recording for the Session on “Documentation”"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Budget, skills matrix, Research Work, Town Hall updates, assigning tasks",
+      "supabase": "Budget , skills matrix, Research Work, Town Hall update"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "argumentative, long, Collaborative, Well-attended, interesting",
+      "supabase": "argumentative, long, Collaborative , Well-attended, interesting"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
