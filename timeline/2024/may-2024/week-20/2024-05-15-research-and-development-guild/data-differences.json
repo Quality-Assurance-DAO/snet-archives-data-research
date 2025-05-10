@@ -1,0 +1,34 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-05-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on R&D Guild Budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): this wont be included in our Q2 budget, due to an increase in proposals from workgroups and intergration of new workgroups.",
+      "supabase": "Discussions on R&D Guild Budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): this wont be included in our Q2 budget, due to an increase in proposals from workgroups and intergration of new workgroups"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on an introductory task for new members, Lordkizzy came up with a suggestion on creating a Debugging task for new members but some members didnt like the idea of an introductory task and the feeling that an AI can assist in passing those tasks.",
+      "supabase": "Discussions on an introductory task for new members, Lordkizzy came up with a suggestion on creating a Debugging task for new members but some members didnt like the idea of an introductory task and the feeling that an AI can assist in passing those tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussions on budget for R&D Workshops.",
+      "supabase": "Discussions on budget for R&D Workshops"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussions on project management on Github, CURTIS & WAKA expressed interest in helping on Github management.",
+      "supabase": "Discussions on project management on Github, CURTIS & WAKA expressed interest in helping on Github management"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
