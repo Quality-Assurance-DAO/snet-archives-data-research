@@ -1,0 +1,44 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-05-01",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on Project updates from Rojo & Curtis.",
+      "supabase": "Discussions on Project updates from Rojo & Curtis"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on R&D GitHub Project Management.",
+      "supabase": "Discussions on R&D GitHub Project Management"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Final discussions on implementation of the use of meeting summaries for meeting agenda preparations.",
+      "supabase": "Final discussions on implementation of the use of meeting summaries for meeting agenda preparations"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Kenichi Discussions on the Ambassador's program website and reputations system.",
+      "supabase": "Kenichi Discussions on the Ambassador's program website and reputations system"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on Q2 Objectives and an Onboarding Evaluation process into the R&D Guild by Guillermo.",
+      "supabase": "Discussions on Q2 Objectives and an Onboarding Evaluation process into the R&D Guild by Guillermo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussions on Decision making tool and processes.",
+      "supabase": "Discussions on Decision making tool and processes"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
