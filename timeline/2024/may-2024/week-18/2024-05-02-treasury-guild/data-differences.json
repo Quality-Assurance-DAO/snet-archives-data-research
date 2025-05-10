@@ -1,0 +1,34 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-05-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Contributor list is updated and will be used to verify members in consents forms https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h.",
+      "supabase": "Contributor list is updated and will be used to verify members in consents forms https://docs.google.com/document/d/13uPKVnooFowpoxRBZJH71iIbHUyoOokdn_RCDvp_RHI/edit#heading=h.ij3cuj7d158h"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Facilitation Procedures for Consent Review Sessions.",
+      "supabase": "Facilitation Procedures for Consent Review Sessions"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Going through different concerns that were raised via the consent forms.",
+      "supabase": "Going through different concerns that were raised via the consent forms"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Presented Robolox metaverse that has dialog interactions with characters named after active members.",
+      "supabase": "Presented Robolox metaverse that has dialog interactions with characters named after active members"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
