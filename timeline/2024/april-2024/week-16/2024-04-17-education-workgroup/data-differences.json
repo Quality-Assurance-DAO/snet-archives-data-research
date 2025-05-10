@@ -1,0 +1,103 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-04-17",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "ACP Quizzes Review Team update , Andamio platform introduction by Malik, Google Classroom introduction by Slate, Pricing discussion about both the platforms",
+      "supabase": "ACP Quizzes Review Team Update , Andamio Platform introduction by Malik, Google Classroom Introuction by Slate , Pricing Discussion about both the platforms"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting started with Slate welcoming everyone to the meeting.",
+      "supabase": "Meeting started with Slate welcoming everyone to the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Osmium shared some concerns of Duke regarding his quiz review.",
+      "supabase": "Osmium shared some concerns of Duke regarding his quiz review"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Osmium than gave some updates regarding quizzes review.",
+      "supabase": "Osmium than gave some updae regarding Quizzes Review"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate than moved on the topic of introduction of ACP platforms.",
+      "supabase": "Slate than moved on the topic of introduction of ACP PLatforms"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then Malik showcased his presentation regarding the Andamio platform.",
+      "supabase": "Then Malik Showcased his presentation regarding Andamio Platform"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Everyone was concerned with the pricing of Andamio platform.",
+      "supabase": "Everyone was concerned with the pricing of Andamio platform"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "and also the complexity of understanding the platform as a whole by the participants.",
+      "supabase": "and also the complexity of understanding the platform as a whole by the participants"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Then there was a proposal to invite Tevo to once of the education guild meetings to introduce Andamio.",
+      "supabase": "Then there was a proposal to invite tevo to once of the education guild meeting for its introduction"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Then Waka mentioned that we should be adding Fetch and Ocean to the ACP as projects.",
+      "supabase": "Then Waka Mentioned that we should be adding Fetch and Ocean to the ACP as projects"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "On this Peter said that it would be best if we let them create these resources for us and for that we could reach out to them.",
+      "supabase": "On this Peter said that it would be best if we let them create these resources for us and for that we could reach out to them"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Waka said that he would be interested in doing that.",
+      "supabase": "Waka said that he would be interested in doing that"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Then Slate shared the Google Classroom platform presentation.",
+      "supabase": "Then Slate shared the Google Classroom platform presentation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "Everybody liked the platform as a whole and its easiness to interact with.",
+      "supabase": "Everybody liked the platform as a whole and its easiness to interact with"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[13]",
+      "gitbook": "There were positive insights for the platform by the group.",
+      "supabase": "There were positive insights for the platform by the group"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, platform, quizzes, Fetch, Ocean",
+      "supabase": "ACP, review, platform, quizzes, fetch and ocean"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, Collaborative, Businesslike, speedy",
+      "supabase": "productive,  Collaborative, Businesslike., speedy "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
