@@ -1,0 +1,98 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-04-03",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Clement Umoh, duke peter, esewilliams, GorgaSiagian, Kenichi, Photogee, Slate, WaKa",
+      "supabase": "Clement Umoh, duke peter, esewilliams, GorgaSeagian, Kenichi, Photogee, Slate, WaKa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Videos, Quizzes, Q2 Budget request, Module-based budgets, Participation-rewarding",
+      "supabase": "Videos, Quizzes, Budget Request, Module Based Budgets , Participation Rewarding "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Q2 budget Request",
+      "supabase": "Budget Request "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting started with Slate welcoming everyone to the meeting.",
+      "supabase": "Meeting started with Slate welcoming everyone to the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Duke mentioned that his video on Cogito is completed and he would like to showcase it.",
+      "supabase": "Duke mentioned that his video on cogito is completed and he would like to shocase it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate then shared Duke's video on Cogito.",
+      "supabase": "Slate then shared duke video on cogito"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "After watching the video the floor was opened for comments on the video.",
+      "supabase": "After watching the video the floor was opened for comments on the video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Most of the people had comments of adding names of the main team members.",
+      "supabase": "Most of the people had comments of adding names of the main team members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Duke said that he will be making the small adjustments and then uploading the video.",
+      "supabase": "Duke said that he will be making the small adjustments and then uploading the video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Then Slate showcased the budget request he ideated for Education Guild.",
+      "supabase": "Then Slate showcased the budget request he ideated for education guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Some comments were made on the budget request like removing the participation rewards,.",
+      "supabase": "Some comments were made on the budget request like removing the participation rewards ,"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Proposed a module based budget request.",
+      "supabase": "Proposed module based budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Then at the end Slate assigned some quizzes to some of the participants.",
+      "supabase": "Then At the end Slate assigned some quizzes to some of the participants"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Next quarter budget discussion in the next meeting.",
+      "supabase": "Next quarter budget discussion in the upcoming meeting."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, Budget, Q2 2024 budget, Proposals, platform, quizzes, Video Script",
+      "supabase": "ACP, review, Budget , Proposals, platform, quizzes, Video Script"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive,  Collaborative, Businesslike, speedy",
+      "supabase": "productive,  Collaborative, Businesslike., speedy "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
