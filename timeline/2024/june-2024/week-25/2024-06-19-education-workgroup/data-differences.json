@@ -1,0 +1,44 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-06-19",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Clement Umoh, esewilliams, GorgaSeagian, kateri, Kenichi, martinsoki, Peter, Photogee, shuga, WaKa",
+      "supabase": "Clement Umoh, esewilliams, GorgaSeagian, kateri, Kenichi, martinsoki, Peter, Photogee, shuga, WaKa, WaKa"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then we went over the education guild budget request with Slate explaining each module and how its going to be carried out in the next quarter.",
+      "supabase": "Then we went over the education guild budget request with Slate explaining each module and how its going to be carried out in the next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "There was quite some interesting conversation on AI for beginner and its relation to Learn with Ai.",
+      "supabase": "There was quite some interesting conversation on AI for beginner and its relation to Learn with Ai"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "osmium AI chatbot LLM and Waka's learn with AI to be included in the budget request.",
+      "supabase": "osmium AI chatbot LLM and Waka's learn with AI to be included in the budget request"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then at the end Slate went through the education guild blueprint once again explaining all the points.",
+      "supabase": "Then at the end Slate went through the education guild blueprint once again explaining all the points"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
