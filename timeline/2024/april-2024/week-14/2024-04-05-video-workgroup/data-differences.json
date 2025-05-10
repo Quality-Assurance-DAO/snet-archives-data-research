@@ -1,0 +1,78 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-04-05",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Slate.",
+      "supabase": "Weekly meeting agenda outlined by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Malik, the social media manager, gave a rundown on the weekly updates.",
+      "supabase": "Malik the social media manager gave run down on the weekly updates."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Hogantuso, the task manager, gave updates on the weekly management tasks.",
+      "supabase": "Hogantuso the task manager gave updates on the weekly management tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "lord kizzy, the town hall editor, gave more updates on the Zealy task discussed with kenichi as the previous Social Media Manager.",
+      "supabase": "lord kizzy the town hall editor gave more updates on the zealy task discussed with kenichi as the previous SMM."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Acquaintance and introduction of new members.",
+      "supabase": "Acquintance and introduction of new members"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Updates and improvements on the video application was discussed.",
+      "supabase": "Updates and Improvements on the video application was discussed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Voting on the creation of ASI merger video by Rojo.",
+      "supabase": "Voting on the creation of ASI merger by Rojo."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Voting on the creation of voting procedure tutorials on ASI alliance.",
+      "supabase": "Voting on the creation of voting procedure tutotials on ASI alliance"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Slate, the facilitator, updated the new members on how to apply to become a member of the workgroup.",
+      "supabase": "Slate the facilitaor Updated the new members on how to apply in becoming a members of the work group"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "voting procedure tutorials on ASI alliance",
+      "supabase": "voting procedure tutotials on ASI alliance"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Zealy, ASI toekn merger, Town Hall, workgroup membership",
+      "supabase": "social media management, workgroup updates, new people, Task Assignment, BGI 2024 summit, Zealy"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, Thoughtful, speedy, Casual, productive, Organised, engaging new people, positive, productive",
+      "supabase": "Friendly, Thoughtful , speedy , Casual, productive, Organised, engaging new people, positive, productive "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
