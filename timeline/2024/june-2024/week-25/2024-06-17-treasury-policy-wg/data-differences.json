@@ -1,0 +1,19 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-06-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Introduce limit for policies submitted monthly per person.",
+      "supabase": "Introduce limit for policies submitted monthly per person"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
