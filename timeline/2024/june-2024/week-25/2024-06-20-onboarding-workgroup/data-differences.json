@@ -1,0 +1,43 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-06-20",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Getting Started channel.",
+      "supabase": "Getting Started channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Onboarding session survey results.",
+      "supabase": "Onboarding session survey results"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Q2 Quarterly report & Q3 Budget Proposal Doc.",
+      "supabase": "Q2 Quarterly report & Q3 Budget Proposal Doc"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Q2 Buddy System survey.",
+      "supabase": "Q2 Buddy System survey"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Town Hall Updates: There were suggestions to include an overview onboarding survey analysis and also share the Q2 Budget link, there was also a suggestion to share the some insights on the Onboarder,s plan for Q3. There was also a suggestion to highlight that we have done skills analysis and we are currently planning on doing a peer education on core skills.",
+      "supabase": "Town Hall Updates: There were suggestions to include an overview onboarding survey analysis and also share the Q2 Budget link, there was also a suggestion to share the some insights on the Onboarder,s plan for Q3. There was also a suggestion to highlight that we have done skills analysis and we are currently planning on doing a peer education on core skills"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
