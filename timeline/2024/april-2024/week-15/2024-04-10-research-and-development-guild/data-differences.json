@@ -1,0 +1,62 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-04-10",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "5oundwave5, Curtis, Guillermo, Onyeka, Photogee, Tevo, Ubiodee, William",
+      "supabase": "5oundwave5, Photogee, Tevo, Ubiodee, William"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "R&D discussions on Q1 quarterly report",
+      "supabase": "R&D Discussions on Q1 quarterly report."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on project deliverables.",
+      "supabase": "Discussions on Projects deliverables"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "There were some introductions from new members.",
+      "supabase": "There were some Introduction from new members"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Rojo to continue building the backend and conduct the backend testing with members of the project who manage the social media account; once that is done, then build the front end",
+      "supabase": "Rojo to continue building the backend and conduct the Backend testing with members of the project who manage the social media account, once that is done, then build the Front end"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Curtis and Guillermo to have a call to see where we are as a Guild, how we integrate with Treasury and Archives workgroup works",
+      "supabase": "Curtis and Guillermo to have a call to see where we are as a Guild, how we integrate with treasury and archival workgroup works"
+    },
+    {
+      "field": "agendaItems[0].actionItems[8].text",
+      "gitbook": "Onyeka to message Rojo on how he could contribute to the automated social media project.",
+      "supabase": "Lord kizzy to message Rojo on how he could contribute to the Automated Social media project."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Budget, Q2, Tool Development, Proposal, AI tooling, API, deliverables, incentives",
+      "supabase": "Guilds , Budget , Tool Development, Proposal, AI tooling, API, deliverables, incentives"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "We had a massive number of 20 participants in the multilingual survey conducted by Ubio "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
