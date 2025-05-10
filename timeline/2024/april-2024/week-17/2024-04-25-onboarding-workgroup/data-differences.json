@@ -1,0 +1,44 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-04-25",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from the last meeting.",
+      "supabase": "Action Items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Recap of Treasury session last week.",
+      "supabase": "Recap of Treasury session last week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Update on creation iof Onboarding Journeys.",
+      "supabase": "Update on creation iof Onboarding Journeys"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Context setting doc for Q2 budgets.",
+      "supabase": "Context setting doc for Q2 budgets"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Onboarding session on 16th May.",
+      "supabase": "Onboarding session on 16th May"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
