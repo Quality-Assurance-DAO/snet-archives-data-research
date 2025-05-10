@@ -1,0 +1,43 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-05-24",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate as our social media manager gave weekly updates on our socials.",
+      "supabase": "slate as our social media manager gave weekly updates on our social."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on two members from our workgroup, one as a reveiwer and the other as a communicator for the Zealy program.",
+      "supabase": "Discussion on two members from our workgroup one as a reveiwer and the other as a communicator for the zealy program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on our budget for the Zealy program.",
+      "supabase": "Discussion on our budget for the zealy program"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Task Management/ tag the task payment, either it is a monthly or weekly payment",
+      "supabase": "Task Management/ tag the task payment either it is a monthly or weekly payment"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, new people, Videomaking, Task Assignment, rewards",
+      "supabase": "social media management, new people, Videomaking, Task Assignment"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
