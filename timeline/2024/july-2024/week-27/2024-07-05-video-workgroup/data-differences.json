@@ -1,0 +1,74 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-07-05",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates from the Task manager: we had multiple submissions by zalfred, OEP, killy, Lord kizzy (2 long videos and 2clips) which have been posted in the Video WG channel and reviewed by the group. Slate also asked if he could create a new task for Clips since the previous BGI clips task is outdated.",
+      "supabase": "Updates from the Task manager: we had multiple submissions by zalfred, OEP, killy, Lord kizzy (2 long videos and 2clips) which has been posted in the Video WG channel and reviewed by the group, Slate also asked if he could create a new task for Clips since the previous BGI clips task is outdated."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from the Social Media manager: Malik highlighted that he had been granted access to our socials and he stated that 2 long videos (including the Town Hall video) and 3 shorts videos (including the Town Hall Summary).",
+      "supabase": "Updates from the Social media manager: Malik highlighted that he had been granted access to our socials and he stated that 2 long videos (including the Town Hall video) and 3 shorts videos (Including the Town Hall Summary)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Zealy updates: In the previous sprint, 3 videos were posted and new videos were prepared for the next sprint which is starting in 9 days. As regards the claims, Devon is yet to discuss with Kenichi. Devon suggested the Zealy payment could come from the Video WG rather than from the points system of the Writers' WG. Slate asked if there were two allocations for Zealy in the Video WG Budget and Lordkizzy stated that it was just one allocation and it was for the reward distribution for Zealy participation; the payment for the liaison was going to come from the Writers' WG.",
+      "supabase": "Zealy updates: In the previous sprint, 3 videos were posted and new videos were prepared for the next sprint which is starting in 9 days. As regards to the claims Devon is yet to discuss with kenichi on that, Devon suggested if the zealy payment could come from the Video WG rather than point system of the Writer's WG. Slate asked if there were two allocation for zealy in the Video WG Budget and Lord kizzy stated that it was just one allocation and it was for the reward distribution for zealy participation and the payment for the liaison was going to come from the Writer's WG."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on Operations going forward: Lordkizzy laid out some essentials that needed to be implemented going forward. He highlighted the roles and responsibilities of each member and encouraged better submissions for tasks and video contents submissions. He also stated that links to posted videos on our socials should be provided in our content sheet.",
+      "supabase": "Discussion on Operations going forward: Lordkizzy laid out some essentials that needed to be implemented going forward, he highlighted the roles and responsibilities of each member and encouraged better submissions for tasks and video contents submissions and he also stated that links to posted videos on our socials should be provided in our content sheet."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on Q3 budget and Q2 community concerns: The major discussion was regarding the budget cuts to get our budget fitted. We all had discussions around how we could get the budget fitted; Slate suggested we reduce the amount per video, Malik suggested we take one video person rather than 2 people working on a video.",
+      "supabase": "Discussion on Q3 budget and Q2 community concerns: The major discussion is as regards to the Budget cuts to get our Budget fitted. We all had discussions around how we could get the Budget fitted, slate suggested we reduce the amount per video, Malik suggested we take one video person rather than 2 people working on a video"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decide to take a pause on video productions and task allocations till we have the exact figure for the cuts, and restructure our Budget based fitted amount",
+      "supabase": "We decide to take a pause on video productions and task allocations till we have the exact figure for the cuts and restructure our Budget based fitted amount"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "Members felt we had a lot of videos that are yet to be uploaded (a total of 13 videos and 4 shorts) so we could keep uploading them while we wait",
+      "supabase": "Members felt we had a lot of videos that are yet to be uploaded (a total of 13 videos and 4videos) so we could keep uploading them while we wait "
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We decided to have a frequency on how many videos are to be posted per week: the cap was 3 long videos and 2 shorts (including the weekly Town Hall videos)",
+      "supabase": "We decided to have a frequency on how many videos are to be posted per week, the cap was 3 long video and 2 shorts (including the weekly Town Hall videos)"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "This decision was made to have a structured process on how frequently we upload videos on our socials",
+      "supabase": "This decision was made to have a structured process on how frequent we upload videos on our socials "
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Lord_Kizzy to reach out to Rojo about the Q3 Budget reduction and try to see if he could make the next Treasury call",
+      "supabase": "Lord_Kizzy to reach out to Rojo as regards to the Q3 Budget reduction and try to see if he could make the next treasury call"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production",
+      "supabase": "Weekly updates, Budget Reduction, Budget , Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, speedy , productive, Organised, Thoughtful, warm",
+      "supabase": "Casual, speedy , productive, Organised, Thoughtful , warm"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
