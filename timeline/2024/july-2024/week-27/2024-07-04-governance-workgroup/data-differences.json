@@ -1,0 +1,29 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-07-04",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "The Effects of Budget Cuts.",
+      "supabase": "The Effects of Budget Cuts"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Workgroup Budgets Pending Approval.",
+      "supabase": "Workgroup Budgets Pending Approval"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "A new round of consent on adjusted budgets.",
+      "supabase": "A new round of consent on adjusted budgets"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
