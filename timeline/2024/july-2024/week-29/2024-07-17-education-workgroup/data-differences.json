@@ -1,0 +1,74 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-07-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Osmium video on Nunet (Rework",
+      "supabase": "Osmium video on Nunet (Rework)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Notified and discussed tasks assigned and the updates on the tasks on Dework.",
+      "supabase": "Notified and discussed task assigned and the updates on the task on dework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "We then went through Osmium's video on Nunet - Everybody liked the video and approved.",
+      "supabase": "We then went through Osmium video on Nunet - Everybody liked the video and approved"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then Ese gave presentation of the project \"Ai for Beginners\" and took feedback from everybody.",
+      "supabase": "Then ese gave presentation of the project \"Ai for Beginners\" and took feedback from everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then there was a discussion on rework of \"Awakening Health Video\".",
+      "supabase": "Then there was a discussion on Rework of \"Awakening Health Video\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Slate mentioned that we need to organize the current delieverables we have into a more specific style.",
+      "supabase": "Slate mentioned that we need to organize the current delieverables we have into a more specific style"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Malik agreed to do so as he is the current SMM of video wg and can carry out putting unlisted videos there.",
+      "supabase": "Malik agreed to do so as he is the current SMM of video wg and can carry out putting unlisted videos there"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Regarding the website building Slate said that he will be taking sample websites from those who are interested in building of websites.",
+      "supabase": "Regarding the website building Slate said that he will be taking sample website from the ones that were interested in building of websites"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Osmium mention we can use Notion for implementing demos.",
+      "supabase": "Osmium mention we can use notion for implementing demos"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Slate to take website samples from those interested in creating website for CCCP",
+      "supabase": "Slate to take website samples from the ones interested in creating website for CCCP"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion, projects merger, Dework Go through, Initial docs, Quiz deadlines, Resource sheet revamp, Ai for Beginners",
+      "supabase": "task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion , projects merger, Dework Go through, Initial docs, Quiz deadlines, Resource sheet revamp"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
