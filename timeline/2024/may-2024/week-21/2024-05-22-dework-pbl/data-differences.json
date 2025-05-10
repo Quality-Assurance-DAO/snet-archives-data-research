@@ -1,0 +1,39 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-05-22",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Looked at the table of aggregated values for task labels.",
+      "supabase": "Looked at the table of aggregated values for task labels"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Looked at the dashboard to understand the difference between USD and hours spent.",
+      "supabase": "Looked at the dashboard to understand the difference between USD and hours spent"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Looked at the dashboard2 to understand the scale of cost between different labels.",
+      "supabase": "Looked at the dashboard2 to understand the scale of cost between different labels"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Creating our first space and managing filters https://youtu.be/8xx_qa2eKvU.",
+      "supabase": "Creating our first space and managing filters https://youtu.be/8xx_qa2eKvU"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Suggesting improvements as we go through content.",
+      "supabase": "Suggesting improvements as we go through content"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
