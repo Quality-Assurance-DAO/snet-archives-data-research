@@ -1,0 +1,39 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-07-03",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Going over general changes.",
+      "supabase": "Going over general changes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Skimming through all BBK activities for reviewing.",
+      "supabase": "Skimming through all BBK activities for reviewing"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Reviewed dashboard designs for reviewing labels, members and time allocated to contribution type.",
+      "supabase": "Reviewed dashboard designs for reviewing labels, members and time allocated to contribution type"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "We made different scenarios and raised thoughts on how different reward weights can affect participation reward.",
+      "supabase": "We made different scenarios and raised thoughts on how different reward weights can affect participation reward"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "PBL, Dework, Miro Board, Lessons, Google Form, Andamio, Q3 quarterly report, contribution, reward weights, rewards, contribution type, Treasury Manager, reward calculation",
+      "supabase": "PBL, Dework, Miro Board, Lessons, Google Form, Andamio"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
