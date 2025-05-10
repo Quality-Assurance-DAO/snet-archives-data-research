@@ -1,0 +1,74 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-05-29",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayo, Billy, Clement Umoh, esewilliams, kateri, malik, Onize, osmium, Photogee, Slate, WaKa",
+      "supabase": "Ayodele, Billy, Clement Umoh, esewilliams, kateri, malik, Onize, osmium, Photogee, Slate, WaKa"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "- Onboarding WG mentorship  discussion - blueprints for ACP and Education Guild  - process for ACP implementation  - process for saving artifacts such as infos, vids and quizzes - resolve nunet",
+      "supabase": "- Onboarding WG mentorship  discussion - blueprints for ACP and Education Guild  - process for ACP implementation  - process for saving artifacts basically the infos,vids and quizzes- resolve nunet "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Onboarding WG mentorship discussion by Billy",
+      "supabase": "Onboarding WG mentorship  discussion by Bily"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he highlighted the agenda for today's meeting.",
+      "supabase": "Then he highlighted the agenda for today's meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Billy discussed his concerns regarding onboarding wg mentorship.",
+      "supabase": "Billy discussed his concerns regarding onboarding wg mentorship"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate highlighted that we would be needing a process for creation of blueprints for ACP and Education Guild, which at the end was agreed to be group creation and opening the doc for comments.",
+      "supabase": "Slate highlighted that we would be needing a process for creation of blueprints for ACP and Education Guild, which at the end was agreed to be group creation and opening the doc for comments"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "osmium gave updates from the review team side.",
+      "supabase": "osmium gave updates from the review team side"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Slate also mentioned that we would be needing a way to secure these artificats that we have created for ACP most importantly the videos to a safe and permanent place.",
+      "supabase": "Slate also mentioned that we would be needing a way to secure these artificats that we have created for ACP most importantly the videos to a safe and permanent place"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "In that there was a suggestion of posting the videos on youtube as a unlisted playlist.",
+      "supabase": "In that there was a suggestion of posting the videos on youtube as a unlisted playlist"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate notified Waka regarding his missing video on Nunet.",
+      "supabase": "Slate notified Waka regarding his missing video on Nunet"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Then Slate discussed that we would also be needing a process for the implementation of ACP on Google Classroom which was initially meant to be a job for two people with a assigned activity list.",
+      "supabase": "Then Slate discussed that we would also be needing a process for the implementation of ACP on Google Classroom which was initially meant to be a job for two people with a assigned activity list"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
