@@ -1,0 +1,53 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-07-18",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "AdvanceAmeyaw, Clement Umoh, esewilliams, LadyTempestt, Udonma Obu",
+      "supabase": "Clement, Clement Umoh, Emmanuel Ameyaw, Ese Williams, LadyTempest, Udonma Obu"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Research Strategy and Regulatory Environments\nThe meeting began with Clement discussing the research strategy for the African guild propagation, focusing on regulatory environments in Nigeria, Cameroon, and Rwanda. He emphasized the need for contributions and partnerships, highlighted the challenges and opportunities in each country's regulatory landscape, and shared personal experiences with regulatory challenges in Nigeria. He outlined potential engagement strategies and partnerships with tech companies and academic institutions in the target countries.\n\nMarketing Initiatives and Onboarding Process\nThe team discussed modifying strategies for the marketing section, and LadyTempestt raised concerns about the marketing initiative channel and meeting scheduling. Ese Williams explained the process of scheduling and justified the approach taken. The marketing section focused on the initial formation of a four-person group and the potential expansion of the team.  Udoma Obu expressed interest in the marketing initiative.\nClement and Ese addressed the onboarding process, noting that many new members are unfamiliar with the platform and have not completed the necessary steps. Ese outlined a plan for a marketing initiative to collaborate with new members from other parts of Africa and expand efforts in various locations, including translating materials into native languages.\n\nAI Ethics Expo\nClement led a detailed discussion on the AI Ethics Expo, covering the event's physical location in Nigeria, the roles of participants in content creation, documentation, media, and monitoring & evaluation, and the idea of project pitching as part of the event's content. Clement addressed the need to subsidize transportation for physical meeting attendees. The team also discussed the need for concrete updates on progress in the next meeting and the potential for wider participation in the event.\n\nBudget\nClement confirmed the budget lowering percentage at 23% and expressed hope for no further reductions in the future.\n\nTime change and Zoom access\nEse Williams took responsibility for reminding Peter about the time change updates and making a general announcement. There was a discussion about access issues with Zoom, and tasks were assigned for onboarding new members onto the platform; LadyTempestt was tasked to help with onboarding and reaching out to new members.",
+      "supabase": "Summary:\n\nThe meeting began with Clement discussing the research strategy for the African guilt propagation, focusing on regulatory environments in Nigeria, Cameroon, and Rwanda. He emphasized the need for contributions and partnerships and highlighted the challenges and opportunities in each country's regulatory landscape. The team also discussed modifying strategies for the marketing section, and Love Owokere raised concerns about the marketing initiative channel and meeting scheduling with Ese Williams. Ese explained the process of scheduling and clarified the approach taken.\n\nThe meeting section focused on the initial formation of a four-man group and the potential expansion of the team. Clement led a detailed discussion on the AI Ethics Expo, covering the event's physical location in Nigeria, the roles of participants in content creation, documentation, media, and monitoring, and evaluation, and the idea of project pitching as part of the event's content. The team also discussed the need for concrete updates on progress in the next meeting and the potential for wider participation in the event.\n\nFinally, the team discussed the need to remind Peter about updates for a time change and make a general announcement. They also addressed access issues with Zoom and assigned tasks for onboarding new members onto the platform.\n\nChapters & Topics:\n\n Research Strategy and Regulatory Environments\n\n Clement presents the research strategy for African guilt propagation, detailing the regulatory environments in Nigeria, Cameroon, and Rwanda. He stresses the importance of contributions and partnerships and shares personal experiences with regulatory challenges in Nigeria. \n\nAdditionally, he outlines potential engagement strategies and partnerships with tech companies and academic institutions in the target countries.\n\n* Stakeholders and partnerships in Nigeria, Cameroon, and Rwanda\n* Research on regulatory environments in Nigeria, Cameroon, and Rwanda\n\n Discussion on Marketing Initiatives and Onboarding Process\n Clement and Ese Williams address the onboarding process, noting that many new members are unfamiliar with the platform and have not completed the necessary steps. Ese then outlines a plan for a marketing initiative to collaborate with new members from other parts of Africa and expand efforts in various locations, including translating materials into native languages.\n\n Discussion on Marketing Initiative Channel and Meeting Scheduling\n Clement initiates a discussion on modifying strategies for the marketing section, and Love Owokere addresses concerns about the marketing initiative channel and meeting scheduling with Ese Williams. Ese explains the process of scheduling and justifies the approach taken, while Udoma Obu expresses interest in the marketing initiative.\n\n Planning for African Guild initiatives and AI Ethics Expo\n\n Ese Williams and others discussed the formation of a four-man group and the possibility of expanding it in the future. Clement led a discussion on the upcoming AI Ethics Expo, including the event's location, content creation, and the idea of project pitching. The team also considered the roles and responsibilities of participants in the event.\n* SNET African Guild and AI Ethics Expo update\n\n Budgets Subsidies\n Clement addressed the need to subsidize transportation for physical meeting attendees due to budget reasons and the ongoing discussion on this matter. He also confirmed the budget percentage at 23% and expressed hope for no further reductions in the future. Love Owokere also briefly participated in the discussion.\n\n* Budget and dates for upcoming events\n\n AOB and Action Items\n Ese Williams took responsibility for reminding Peter about the time change updates and making a general announcement. There was a discussion about access issues with Zoom, and tasks were assigned to onboard new members onto the platform, with Love being tasked to help with onboarding and reaching out to new members.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "What are the updates on the SNET African Guild and AI Ethics Expo? - What is the budget and the proposed dates for upcoming events?",
+      "supabase": "What are the updates on the SNET African Guild and AI Ethics Expo?"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "LadyTempestt will onboard new members from different parts of Africa into Discord and assist with their wallets and work integration.",
+      "supabase": "Love Owokere will onboard new members from different parts of Africa into Discord and assist with their wallets and work integration."
+    },
+    {
+      "field": "agendaItems[0].actionItems[5].text",
+      "gitbook": "Clement will share contacts of new members with LadyTempestt for onboarding",
+      "supabase": "Clement will share contacts of new members with Love for onboarding"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Meeting, Guilds, Blockchain, Research, Event, Initiatives, Marketing, AI ethics, community engagement, Zoom, meeting time, budget, Q3 budget, AI Ethics Expo, Nigeria, Rwanda, Cameroon, onboarding, languages, regulations, regulatory environment, Partnership, scheduling",
+      "supabase": "Meeting, Guilds , Blockchain, Research, Event, Initiatives, Marketing, AI ethics, community engagement"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
