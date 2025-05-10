@@ -1,0 +1,49 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-05-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "What is ACP (Kenichi’s questions",
+      "supabase": "What is ACP (Kenichi’s questions)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he highlighted the agenda for today’s meeting.",
+      "supabase": "Then he highlighted the agenda for today’s meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "WaKa mentioned his doc in which he is collecting information regarding the people who have submitted a proposal in deepfunding round 4.",
+      "supabase": "WaKa mentioned his doc in which he is collecting information regarding the people who have submitted a proposal in deepfunding round 4"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Osmium said that he is iterating/ creating a blueprint regarding Education Guild and also reworking the ACP old blueprint doc.",
+      "supabase": "Osmium said that he is iterating/ creating a blueprint regarding Education Guild and also reworking the ACP old blueprint doc"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Kenichi had multiple queries regarding ACP as he was not able to attend meetings for education guild for quite some time - those queries were answered by Slate and Osmium respectively.",
+      "supabase": "Kenichi had multiple queries regarding ACP as he was not able to attend meetings for education guild for quite some time - those queries were answered by Slate and Osmium respectively"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Slate mentioned that we will be needing a process for implementing ACP on Google Classroom, which will most probably be discussed next week.",
+      "supabase": "Slate mentioned that we will be needing a process for implementing ACP on Google Classroom, which will most probably be discussed next week"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
