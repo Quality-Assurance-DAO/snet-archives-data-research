@@ -1,0 +1,54 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-06-12",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "Guillermo",
+      "supabase": "Guilermo"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Welcoming new members and Introduction",
+      "supabase": "Welcoming new members and Introduction."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Discussions on Colleen's proposal, “Ethics Quest Game",
+      "supabase": "Discussions on Colleen's proposal, “Ethics Quest Game”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates status on Development to fill Repo: Duke gave updates on the Inclusivity Research.Sso far there are 3 people scheduled for interviews; once that is done, it can added to the repository. Ubio gave updates on his reasearch; he said: “What we did was simply to convert responses we got from Q1 into Figma on Q2. We converted the responses and the things we could derive from those responses into a prototype design. So that’s what we did for Q2. Q3 for us is about now taking that design back to the community to engage and see what comes out of that.”.",
+      "supabase": "Updates status on Development to fill Repo; Duke gave updates on the Inclusivity Research so far there were 3 people scheduled for interviews and once that is done it could added to the repository. Ubio gave updates on his reasearch; “what we did was simply to convert responses we got from Q1 into Figma on Q2, right? We, we, we are taking that, uh, converting the, we converted the responses and, and the, um, the things we could derive from those response into a, into a design. Yeah. Prototype design. Uh, so now, um, so that’s what we did for Q2. Uh, Q3 for us is about now taking that design to back to the community to engage and see what comes out of that.”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Ayo: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft, ayo shared a draft on this, https://docs.google.com/document/d/1ughN1IkBwgbrBch-3hsimoxacPSNrF6Z8C1OCTQQX8I/edit.",
+      "supabase": "AYO: What to improve about the R&D Guild of the SNET Ambassador Program Document Draft, ayo shared a draft on this, https://docs.google.com/document/d/1ughN1IkBwgbrBch-3hsimoxacPSNrF6Z8C1OCTQQX8I/edit"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Colly gave a presentation on her “Ethics Quest Game”.",
+      "supabase": "Colly give a presentation on her “Ethics Quest Game”"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on Q3 Budget proposal: we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget (19th June). WaKa suggested an extension on the deadline for Q3 proposal planning and Guillermo made more emphasis presenting deliverables for this Quarter.",
+      "supabase": "Discussion on Q3 Budget proposal, we had a brief discussion on this and informed guild members of the deadline for submission of Q3 budget proposal, Walter suggested an extension on the deadline for Q3 proposal planning and Guillermo made more emphasis presenting Deliverables for this Quarter"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, productive, Thoughtful, speedy, Welcoming, Friendly, straightforward",
+      "supabase": "Collaborative, productive, Thoughtful , speedy , Welcoming, Friendly, straightforward"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
