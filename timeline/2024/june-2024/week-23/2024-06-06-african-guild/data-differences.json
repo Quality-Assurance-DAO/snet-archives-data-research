@@ -1,0 +1,48 @@
+{
+  "workgroup": "African Guild",
+  "meetingDate": "2024-06-06",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayodele, Billy, Clement Umoh, daniel effiom, esewilliams, Gorga Siagian, Hamzat_iii, kateri, Kenichi, love, martinsoki, oep, Oluwaseun Gbiri, Onize, Peter, Sucren",
+      "supabase": "Ayodele, Clement Umoh, daniel effiom, esewilliams, Gorga Siagian, Hamzat_iii, kateri, Kenichi, love, martinsoki, oep, Oluwaseun Gbiri, Onize, Peter, Sucren, William"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting began with a welcome session from Ese Williams, \n\nhad an interactive session with all the members present in the meeting and we got to know their skills, occupation, their visions for Africa, nationality and also their expectation for the Guild. \n\nAfterward we ran through the discussion items: the First was on \"How to get more African countries to join the guild and participate in the program; Billy suggested an outreach to major African Universities in sister countries, Onize suggested a social media outreach to neighboring countries, Kenichi suggested a clearer reason for Onboarding of new members.\n\nThen Duke ran through the Guild ethics for members, there were also discussions on the guild's Q3 Budget and Duke noted that there will be an AMA session on the 28th of June and the topic will be AI and its Effect in Africa and also a community bounty by the end of the quarter. \n\nDuke gave updates on the previous action item. \n\nClement spoke on the updates on \"Research and partnerships with other AI and web 3D communities across Africa\". \n\nFinally AOB and conclusions",
+      "supabase": "The meetings began with a welcome session from Ese Williams, had an interactive session with all the members present in the meeting and we got to know their skills, occupation, their visions for Africa, nationality and also their expectation for the Guild. Afterward we ran through the discussion items: the  First was on \"How to get more African countries to join the guild and participate in the program; William suggested an outreach to major African Universities in sister countries, Rejoice suggested a social media outreach to neighboring countries, Kenichi suggested a clearer reason for Onboarding of new members. Then Duke ran through the Guild ethics for members, there were also discussions on the guild's Q3 Budget and Duke noted that there will be an AMA session on the 28th of JUNE and the topic will be as AI and its Effect in Africa and also a community bounty by the end of the quarter. Duke gave updates on the previous action item. Clement spoke on the updates on \"Research and partnerships with other AI and web 3D communities across Africa\". Finally AOB and conclusions"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Creation of Guild's official channels [Telegram, Zoom and Email].",
+      "supabase": "Creation of Guilds official channels [Telegram, Zoom and Email]."
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Sucren and LadyTempestt to structure an Onboarding process for the guild",
+      "supabase": "Sucren and lady Tempestt to structure an Onboarding process for the guild"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "African, Onboarding, Telegram, Ambassador guild, Artificial General Intelligence, AGI, BGI, Decentralization, Task Assignment, skills, skills database, outreach, universities, African universities, partnerships, web3 communities, AMA session, move from biweekly to weekly, meeting frequency, biweekly, weekly, ethics, Guild ethics, Q3 budget, social media, social media outreach",
+      "supabase": "African, Onboarding, Telegram, Ambassador guild, Artificial  General Intelligence, BGI, Decentralization, Task Assignment"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Friendly, funny, engaging new people",
+      "supabase": "Friendly, funny , engaging new people"
+    },
+    {
+      "field": "tags.other",
+      "supabase": "Suren is working on creating an Onboarding structure for the African Ambassador Guild"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
