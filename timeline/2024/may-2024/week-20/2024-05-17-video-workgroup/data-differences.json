@@ -1,0 +1,44 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-05-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate as our social mdeia manager gave weekly updates on our socials.",
+      "supabase": "slate as our social mdeia manager gave weekly updates on our social."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on lord kizzy's opinion on devising a means to allocate funds for these people.",
+      "supabase": "Discussion on lord kizzy opinion on divicing a means to allocate funds for these people."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "DS9's idea should be processed to avoid complication with other workgroups",
+      "supabase": "DS9 idea should be processed to avoid complication with other workgroups"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Task Management/ tag the task payments, either it is a monthly or weekly payment",
+      "supabase": "Task Management/ tag the task payment either it is a monthly or weekly payment"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "social manager, task manager and town hall editor to reach out to Peter to get admin access to the Zealy sprint",
+      "supabase": "social manager ,task manager and town hall editor to reach out to peter to get admin access to the zealy sprint"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, new people, videomaking, engagement, models, fund allocation",
+      "supabase": "social media management, new people, Videomaking"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
