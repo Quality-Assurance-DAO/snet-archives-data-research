@@ -1,0 +1,14 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-06-14",
+  "differences": [
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
