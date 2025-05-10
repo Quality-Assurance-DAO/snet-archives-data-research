@@ -1,0 +1,44 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-06-18",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Governance WG Budget/Report.",
+      "supabase": "Governance WG Budget/Report"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Additional Governance Sessions.",
+      "supabase": "Additional Governance Sessions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Next decision-making processes.",
+      "supabase": "Next decision-making processes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Multi WG/Guilds Leads.",
+      "supabase": "Multi WG/Guilds Leads"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Upcoming Town Hall Presentation.",
+      "supabase": "Upcoming Town Hall Presentation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Lumio Video Update.",
+      "supabase": "Lumio Video Update"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
