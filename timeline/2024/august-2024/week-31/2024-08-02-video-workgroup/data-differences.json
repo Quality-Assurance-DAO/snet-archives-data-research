@@ -1,0 +1,59 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-08-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on task management: Malik indicated that he had created the monthly recurrent tasks on Dework and there were 3 new applications which were all rejected after the review process. There was a short clip submitted by Rojo and Lily and it's an animated clip and they requested for $50 per person. The whole group took a look at the video and commended the work but the major concern was the compensation for the work. Lordkizzy made emphasis on the tight budget the video WG are currently working with for Q3 and said it will be outrageous to pay $50 per person ($100) for a clip when we have a budget of $20 each for 12 clips. Lily dropped in and mentioned that the entire video was created from scratch and we should consider it as a long video rather than a clip. Slate said that once we pay this out, someone can perform a similar task and be expecting the same pay which is not feasible for us, so Lordkizzy suggested we compensate Rojo and Lily's efforts with $30 each. We decided to put it to a poll since the conversation was taking a while. Malik also indicated that he had a discussion with Lordkizzy on the quality of our Town Hall videos.",
+      "supabase": "Updates on Task management: Malik indicated that he had created the monthly recurrent tasks on Dework and there were 3 new applications which were all rejected after the review process, there was a short clip submitted by Rojo and Lily and it's an animated clip and they requested for $50 per person. The whole group took alook at the video and commended the work but the major concern was the compensation for the work, Lordkizzy made emphasis on the tight budget the video WG are currently working with for Q3 and says it will be outrageous to pay $50 per person ($100) for a clip when we have a budget of $20 each for 12 clips, Lily dropped in an mentioned that the entire video was created from scratch and we should conside it as a long video rather than a clip, slate also indicated that once we pay this out someone can perform similar task and be expecting the same pay which is not feasible for us, so Lordkizzy suggested we compensate their efforts with $30 each and we decided to put it to a poll since the conversation was taking a while. Malik also indicated that he had a discussion with Lordkizzy on the Quality of our Town Hall videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates from Social Media Management: Tuso highlighted that he was able to ensure that the townhall videos were posted earlier and he would upload two more clips before the week runs out.",
+      "supabase": "Updates from Social Media Management; Tuso highlighted that he was able to ensure that the townhall videos were posted earlier and he would upload two more clips before the week runs out"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Zealy updates: Devon highlighted that there has been one quest and it's doing well but we should be expecting more quests by Sunday.",
+      "supabase": "Zealy Updates: Devon highlighted that there have been one quest and it's doing well but we should be expecting more quests by Sunday"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Updates from Lordkizzy: Lordkizzy highlighted that he had a call with Devon on the Zealy program to see the progress so far and discuss the challenges regarding our contents; he also mentioned that he had a call during the week with Rojo to discuss the types of videos that should be created by the Video Workgroup like: Ecosystem updates videos, Announcement videos, and not just educational videos.",
+      "supabase": "Updates from Lordkizzy: Lordkizzy highlighted that he had a call with Devon on the zealy program to see the progress so far and discuss the challenges regarding to our contents, he also mentioned that he had a call within the week with Rojo to discuss on the types of videos that should be created by the video Workgroup like: Ecosystem updates videos, Announcement videos and not just educational videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Social Media Automation: Rojo indicated that he was previously working on Buffer but he has come across a more suitable open source platform for social media automation which is called MIXpost. There was a question from Zalfred to Rojo on \"if the platform would lead to a reduction of video quality of the content\", and Rojo said there would be more testing of the tool to ensure this doesn't occur. Lordkizzy asked how we could know the most suitable time for posting contents; Rojo answered that the platform is currently working to develop this feature but should be expecting that feature soon.",
+      "supabase": "Social Media Automation- Rojo indicated that he was previously working on Buffer but he has come across a more suitable open source platform for social media automation which is called MIXpost, there was a question from zalfred to Rojo on \"if the platform would lead to a reduction of video quality of the content and Rojo said there would be more testing of the tool to ensure this doesn't occur, Lordkizzy asked how we could know the most suitable time for posting contents, Rojo answer that the platform is currently working to develop this feature but should be expecting that feature soon."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Introduction of new members: Bazoo and King David introduced themselves.",
+      "supabase": "Introduction of new members: Bazoo and King David gave some introductions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Animation discussion: We discussed on some animation platforms and their payment plans and how feasible they would be for the entire workgroup. So far, we have Whiteboard Animation Maker, Videoscribe, Animated and Canva. Malik also suggested Synthesia, a platform that makes characters talk.",
+      "supabase": "Animation discussion: We discussed on some animation platforms and the payment plan and feasible it would be to the entire workgroup, and so far, we have white board animation, video scribe, animated and canva, Malik also suggested a platform that makes character talk and the name is Synthesia"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Quality control process: Lordkizzy had some questions for the group on the anonymity of the reviewers, the selected timeline, and so on, we had so many suggestions but we couldn't make any decisions due to the low numbers in participation from members.",
+      "supabase": "Quality control process: Lordkizzy had some questions for the group on the anonymity of the reviewers, the selected timeline, and so on, we had so many suggestions but we couldn't make any decisions due to the low numbers in participation from members"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format, animation, animation platforms, MIXpost, video quality, social media, social media automation",
+      "supabase": "Weekly updates, Budget Reduction, Budget fitting, Zealy Updates, Rewards, Video production, Task Assignment, Contigency, Vacation, Quality Control, Tasks format"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
