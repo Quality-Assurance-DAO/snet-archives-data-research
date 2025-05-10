@@ -1,0 +1,24 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-07-26",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, Ayo, cjfrankie, devon, Eveline Trinité, Gorga Siagian, Inés, Kenichi, LadyTempestt, Merryman, Mikasa, Nebula",
+      "supabase": "Advanceameyaw, Ayo, cjfrankie, devon, Eveline Trinite, Gorga Siagian, Ines, Kenichi, LadyTempestt, Merryman, Mikasa, Nebula"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "KENICHI INTRO: Before the meeting commenced, Kenichi announced that the WWG had selected two new Scribblers and then the Scribes to chase them to get involved; he also mentioned that the Zealy sprint is up and running and the points system for July will be distributed next Tuesday.\n \nThe meeting kicked off with Cjfrankie welcoming everyone, and then he welcomed and introduced Gorga as one of the newest Scribblers in the WG. Momentarily, Gorga unmutes his mic, and he appreciates everyone for their support and love.\n\nFollowing that, Mikasa expresses her concerns about the unpublished meeting summaries! July is wrapping up, and the Scribes need to deliver the “SNET Ambassador Program Recap.” Cjfrankie suggests we can get some of the summaries from the meeting tool by navigating down the site to download the PDF version.\n\nToday's meeting marked the presence of Eveline Trinité, who introduced herself and showcased her keen interest in the WG. After the introduction, Mikasa said that she would reach out to her to help her get involved in the WG. In a flash, Merryman also introduced himself, and he expressed interest in contributing to the WG.\n\nCjfrankie also put AdvanceAmeyaw in the spotlight by asking him how he felt while taking the WG’s test, and he also hinted that the test was quite hard for him! Moved with enthusiasm, Advance asked a question “How does the WWG operate?” And if they also collaborate with the spinoffs. Cjfrankie cleared the air by highlighting the WWG's goals and mission. He also pointed out that the WG has worked with other spin-offs like “Cogito.” We have also written a couple of drafts for Cogito, and we have close contact with Sandra.\n\nMEETING AGENDA: Lady Tempestt emphasized the need for having a structured agenda for our weekly meeting to help us stay organized.\n\nAyo, from the Strategy Guild, talked about the forthcoming workshop scheduled for the 29th. According to Ayo, the workshop needs 2-3 persons who would represent the WWG in the workshop, and then Mikasa, Cjfrankie, and Gorga expressed their interests.",
+      "supabase": "KENICHI INTRO: Before the meeting commenced, Kenichi announced that the WWG had selected two new Scribblers and then the Scribes to chase them to get involved; he also mentioned that the Zealy sprint is up and running and the points system for July will be distributed next Tuesday.\n \nThe meeting kicked off with Cjfrankie welcoming everyone, and then he welcomed and introduced Gorga as one of the newest Scribblers in the WG. Momentarily, Gorga unmutes his mic, and he appreciates everyone for their support and love.\n\nFollowing that, Mikasa expresses her concerns about the unpublished meeting summaries! July is wrapping up, and the Scribes need to deliver the “SNET Ambassador Program Recap.” Cjfrankie suggests we can get some of the summaries from the meeting tool by navigating down the site to download the PDF version.\n\nToday's meeting marked the presence of Eveline Trinite, who introduced herself and showcased her keen interest in the WG. After the introduction, Mikasa said that she would reach out to her to help her get involved in the WG. In a flash, Merryman also introduced him, and he expressed interest in contributing to the WG.\n\nCjfrankie also put Advanced Ameyaw in the spotlight by asking him how he felt while taking the WG’s TEST, and he also hinted that the TEST was quite hard for him! Moved with enthusiasm, Advance asked a question “How do the WWGs operate?.” And if they also collaborate with the spinoffs, Cjfrankie cleared the air by highlighting the WWG goals and mission. He also pointed out that the WG has worked with other spin-offs like “Cogito.” We have also written a couple of drafts for Cogito, and we have close contact with Sandra.\n\nMEETING AGENDA: Lady Tempestt emphasized the need for having a structured agenda for our weekly meeting to help us stay organized.\n\nAyo, from the Strategy Guild, talked about the forthcoming workshop scheduled for the 29th of May, 2024. According to Ayo, the workshop needs 2-3 persons who would represent the WWG in the workshop, and then Mikasa, Cjfrankie, and Gorga expressed their interests.\n"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
