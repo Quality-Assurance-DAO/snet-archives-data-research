@@ -1,0 +1,64 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-07-22",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 5,
+      "supabase": 6
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "Strategy Guild Working Document",
+      "supabase": "Possible Survey Questions [Strategy Guild]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].title",
+      "gitbook": "Strategy Guild Meeting Notes - 15th July",
+      "supabase": "Strategy Guild Working Document"
+    },
+    {
+      "field": "meetingInfo.workingDocs[3].link",
+      "gitbook": "https://docs.google.com/document/d/15ZYkqE-PiO1K_psqpf0DDvO_QagiZWz53gUV8NjmVzw/edit#heading=h.6fyp3cl3ve7w",
+      "supabase": "https://docs.google.com/spreadsheets/d/1hfAXNfkdS9avyAZSH0oG9CJj7bQQEd1qfvedyaNeH5U/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].title",
+      "gitbook": "STRATEGY GUILD - FINAL BUDGET - Open Access",
+      "supabase": "Strategy Guild Meeting Notes - 15th July"
+    },
+    {
+      "field": "meetingInfo.workingDocs[4].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1OsZMSEsrU4kKCQYu3OHvQJAhL79y9ReLe0dV6QLGRQM/edit?gid=0#gid=0",
+      "supabase": "https://docs.google.com/document/d/15ZYkqE-PiO1K_psqpf0DDvO_QagiZWz53gUV8NjmVzw/edit#heading=h.6fyp3cl3ve7w"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Action Items Checkboxes from the last meeting\nAyo led the discussion on the action items from the previous meeting.\nThe focus was on the completion of the Guild working documents and the development of survey questions. \nOnly 3 people had filled out the working document at the time of the meeting.\n\nOnboard New Members/Core Member Roll Call\nThis is a new segment introduced to acknowledge new core members, onboard first-timers, and explain how everyone can contribute and be a part of what is happening within the Guild. \n\nQ3 for the Guild in Perspective\nThe importance of the research and workshop for Q3 was highlighted.\nResearch - Contributing to the survey questions is the first step in expressing interest in joining the research team.\nWorkshop - Getting two or three representatives from each guild (Marketing, Video, and Writers WG) is the first action item.\nAyo reinforced the Guild’s inclusive principle.\n\nAdoption of Tools\nThe use of GitHub in the Guild will be explored and members should share their email addresses or reach out to Ayo in DM to be added to the group.\n\nGuild Leadership\nLeadership structure was discussed, with emphasis on decentralized leadership structure, and active member participation.\n\nBudget Update\nOur Q3 budget has been approved. A subsequent conversation on budget fitting will take place.",
+      "supabase": "Action Items Checkboxes from the last meeting\nAyo led the discussion on the action items from the previous meeting.\nThe focus was on the completion of the Guild working documents and the development of survey questions. \nOnly 3 people had filled out the working document at the time of the meeting\n\nOnboard New Members/Core Member Roll Call\nThis is a new segment introduced to acknowledge new core members, onboard first-timers, and explain how everyone can contribute and be a part of what is happening within the guild. \n\nQ3 for the Guild in Perspective\nThe importance of the research and workshop for Q3 was highlighted.\nResearch - Contributing to the survey questions is the first step in expressing interest in joining the research team\nWorkshop - Getting two or three representatives from each guild (Marketing, Video, and Writers WG) is the first action item\nAyo reinforced the guild’s inclusive principle.\n\nAdoption of Tools\nThe use of GitHub in the guild will be explored and members should share their email addresses or reach out to Ayo in dm to be added to the group.\n\nGuild Leadership\nLeadership structure was discussed, with emphasis on decentralized leadership structure, and active member participation.\n\nBudget Update\nOur has been approved. A subsequent conversation on budget fitting would take place."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Volunteers (i.e. Ayo, Tuso and Onyeka) will engage Writers WG, Video WG, and Marketing Guild respectively to ensure they have representation at the next meeting",
+      "supabase": "Volunteers (i.e. Ayo, Tuso and Onyeka) will engage Writers, Video, and Marketing WG respectively to ensure they have representation at the next meeting"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Q3 Objectives, Q3 budget, budget fitting, Core member, Guild Membership, survey, research, Q3 Report, tools, meeting time, participation, contribution, facilitation, leadership, decentralization, Video WG, Writers WG, Marketing Guild",
+      "supabase": "Q3 Objectives, Core member, Guild Membership, survey , Q3 Report, tools, meeting time, participation, contribution"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
