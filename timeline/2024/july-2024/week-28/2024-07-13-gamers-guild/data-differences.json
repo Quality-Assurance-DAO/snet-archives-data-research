@@ -1,0 +1,82 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-07-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Malik presented the Education Guild department, suggesting the building should resemble a school or college. Each classroom would represent a spin-off project with corresponding infographics on the board. (Watch the education guild video in the drive folder link under the media section).",
+      "supabase": "Malik presented the education guild department, suggesting the building should resemble a school or college. Each classroom would represent a spin-off project with corresponding infographics on the board. (Watch the education guild video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Scarecrow provided the Treasury Guild creation update. They have created 6 NPCs representing guild members, who were well-received. Creation of the building is ongoing. (Watch the Treasury guild video in the drive folder link under the media section).",
+      "supabase": "Scare-crow provided the Treasury guild creation update, They have created 6 NPCs representing guild members, who were well-received. Creation of the building is ongoing. (Watch the Treasury guild video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Gorga provided an update on the creation of the Archives workgroup, stating that it is in the initial stages and will demonstrate progress at the upcoming meeting.",
+      "supabase": "Gorga provided update on the creation of the archival working group, stating that it is in the initial stages and will demonstrate progress at the upcoming meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Rebel updated that the Dework PBL workgroup creation is in its initial phase. He showed NPCs representing guild members as anime characters. Members proposed they be depicted as humans for a more professional look. (Watch the Dework PBL video in the drive folder link under the media section).",
+      "supabase": "Rebel updated that the Dework PBL working group creation is in its initial phase. He showed NPCs representing guild members as anime characters. Members proposed they be depicted as humans for a more professional look. (Watch the Dework PBL video in the drive folder link under the media section)."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "OEP announced that the progress of creating the R&D Guild department will be shown at the next meeting.",
+      "supabase": "OEP announced that the progress of creating the R&D guild department will be shown at the upcoming meeting."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate inquired about the mentors' progress and found that Lord Kizzy, Gorga, and Slate have finished mentoring their assigned students, but Malik was unable to do so. (see the mentor sheet doc under the working docs section).",
+      "supabase": "Slate inquired about the mentors' progress and found that Lord Kizzy, Gorga, and Slate have finished mentoring their assigned students, but Malik was unable to do so. (see the mentor sheet doc under the working docs section)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Lord Kizzy updated on video workgroup creation progress, showcasing NPCs animations and mentioning upcoming character and animation additions. (Watch the video workgroup video in the drive folder link under the media section).",
+      "supabase": "Lord Kizzy updated on video workgroup creation progress, showcasing NPCs animations and mentioning upcoming character and animation additions. (Watch the video workgroup video in the drive folder link under the media section)"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "All the destined departments to be created in this quarter",
+      "supabase": "All the destined departments to be created in the quarter"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].gameRules",
+      "gitbook": "Last Man Standing - Battle Royale game - final survivor wins the game. \nPlayers: Devon, Martinsoki, lord kizzy, photogee, hotasiro, rebel, hufiumer, flyn, scare crow, Gorga.",
+      "supabase": "Last Man Standing - Battle Royale game - final survivor wins the game. \nPlayers: Devon, Martin, lord kizzy, photogee, hotasiro, rebel, hufiumer, flyn, scare crow, Gorga.\n"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Hufiumer"
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
