@@ -1,0 +1,44 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-05-31",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Zealy update, community page, WWG Twitter page manager.",
+      "supabase": "Zealy update, community page, and WWG Twitter page manager."
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting started with Kenichi welcoming everyone to the meeting. \n\nKenichi announced that the WWG Q2 budget increase proposal has been approved.\n\nKenichi shared a quick rundown of the Medium article performances. Clearly, our article from last year, “AI Cryptography,” is still gaining ground.\n\nThen Kenichi shared his screen as we explored the readers' interest in AI Cryptography. Kenichi suggested that we write articles based on readers' interest, to enable the WG to reach more people via Medium.\n\nKenichi shared updates from the Zealy side of things. Currently, we have 65 Zealy participants, and the sprint is ending in a few days!\n\nDiscussion on finding someone to manage the WWG Spanish X page\nInés said she would take the responsibility.\n\nDiscussion on Kenichi’s vision for the WWG community page: this community page will enable Scribblers to share more diverse articles outside of the SNET Ambassador Program niche.\n\nCjfrankie shared some article topics for the Scribblers.",
+      "supabase": "The meeting started with Kenichi welcoming everyone to the meeting. \n\nKenichi announced that the WWG Q2 budget increase proposal has been approved.\n\nKenichi shared a quick rundown of the Medium article performances: Clearly, our article from last year, “AI Cryptography,” is still gaining ground.\n\nThen Kenichi shared his screen as we explored the reader's interest in AI Cryptography. Kenichi suggested that we write articles based on the reader’s interest to enable the WG to reach more people via Medium.\n\nKenichi shared updates from the Zealy side of things. Currently, we have 65 Zealy participants, and the sprint is ending in a few days!\n\nDiscussion on finding someone who would manage the WWG Spanish X page\nThen Ines said she would take the responsibility.\n\nDiscussion on Kenichi’s vision for the WWG community page: this community page will enable Scribblers to share more diverse articles outside of the SNET ambassadors program niche.\n\nCjfrankie shared some article topics for the Scribblers.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "We decided that Inés would be the WWG Spanish page manager.",
+      "supabase": "We decided that Ines would be the WWG Spanish page manager."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].rationale",
+      "gitbook": "To make it more inclusive for everyone who has an idea to share.",
+      "supabase": "To make it more inclusive for everyone who have any idea to share."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Inés to chase Mikasa to get insider tips on managing the Spanish X page.",
+      "supabase": "Ines to chase Mikasa to get insider tips on managing the Spanish X page."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Scribe channel, Q2 KPI, Q3 budget, Twitter management, Onboarding, Zealy, Medium, Native speakers, Spanish",
+      "supabase": "Scribe channel, Q2KPI, Q3 budget, Twitter management, Onboarding, Zealy, medium, Native speakers"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
