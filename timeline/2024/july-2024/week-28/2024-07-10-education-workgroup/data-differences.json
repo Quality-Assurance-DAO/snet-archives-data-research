@@ -1,0 +1,79 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-07-10",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Ai for beginners and Learn about Decentralized AI merge",
+      "supabase": "Ai for beginners and Learn about Decentralized AI merge ? "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Notified and discussed tasks assigned and the updates on the tasks on Dework.",
+      "supabase": "Notified and discussed task assigned and the updates on the task on dework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate mentioned that it was decided in the previous meeting that Ese will be taking up the intiial document for Ai for Beginners.",
+      "supabase": "Slate mentioned that it was decided in the previous meeting that Ese will be taking up the intiial document for Ai for beginners"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "There was a discussion regarding merging of \"AI for Beginners\" and \"Understanding Decentralized Ai\" into one single project as \"Ai for beginners\".",
+      "supabase": "There was a discussion regarding merging of AI for beginner and Understanding Decentralized Ai into one single project as \"Ai for beginners\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "SNET reworked infographic was discussed.",
+      "supabase": "SNET reworked infographic was discussed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Kenichi was advised to bring up the initial document for his project \"webinar series\".",
+      "supabase": "Kenichi was advised to bring up the initial document for his project \"webinar series\""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Osmium said that we dont currently need any rework for Awakening Health video.",
+      "supabase": "Osmium said that we dont currently need any rework for Awakening Health video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Osmium and Photogee will be discussing whether a rework of that video is needed or not.",
+      "supabase": "Osmium and Photogee will be discussing that whether a rework of that video is needed or not"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Gorga shared his proposal of making a website wiki for SNET and Ambassador Program and everybody liked the idea.",
+      "supabase": "Gorga shared his proposal of making a website wiki for SNET and Ambassador Program and everybody liked the idea"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Fetch and Ocean infographics are assigned and the work on it had started concluding from the discussion on it in todays meeting.",
+      "supabase": "Fetch and Ocean infographics are assigned and the work on it had started concluding from the discussion on it in todays meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "There was also a discussion for a landing page for ACP/ CCCP.",
+      "supabase": "There was also a discussion for a landing page for ACP/ CCCP"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "fetch and ocean, task rework assignment, review team, Blueprint documents, Rework discussions, budget discussion, projects merger, Ai for Beginners, infographics, ACP, landing page, Wiki",
+      "supabase": "fetch and ocean, task rework assignment , review team , Blueprint documents, Rework discussions, budget discussion , projects merger"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
