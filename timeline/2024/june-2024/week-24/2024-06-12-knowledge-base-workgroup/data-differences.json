@@ -1,0 +1,48 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-06-12",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "What do new people notice about Knowledge Base WG?",
+      "supabase": "What new people notice about Knowledge Base WG?"
+    },
+    {
+      "field": "agendaItems[1].decisionItems.length",
+      "gitbook": 4,
+      "supabase": 5
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "Introducing a limit on how many items per week (currently 2) a person can organize and review. - There will be no changes in reward size; it continues to be 10$ per item (review + organizing)",
+      "supabase": "Introducing a limit on how many items per week (currently 2) a person can organize and review."
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].decision",
+      "gitbook": "After 4 different items are reviewed by the QA Team, they can decide to give an Organizer role to the member.",
+      "supabase": "There will be no changes in reward size; it continues to be 10$ per item (review + organizing)"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[3].decision",
+      "gitbook": "Along with the Organizer role will also come the Process Guild member role.",
+      "supabase": "After 4 different items are reviewed by the QA Team, they can decide to add an Organizer Role to member."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Feedback Form, organizing, process, Administration, Roles, Rewards, Coordination, Miro Board, async, async working practices",
+      "supabase": "Feedback Form, organizing, process, Administration, Roles, Rewards, Coordination, Miro Board"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
