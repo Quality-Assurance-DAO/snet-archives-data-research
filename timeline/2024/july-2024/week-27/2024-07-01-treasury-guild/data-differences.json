@@ -1,0 +1,49 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-07-01",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "The need to inform Guild/WG whose budget have been approved of a tentative lowering percent figure before budget-fitting is finalised.",
+      "supabase": "The need to inform Guild/WG whose budget have been approved of a tentative lowering percent figure before budget-fitting is finalised"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Possibilities of increasing the budget of the entire Ambassador Program.",
+      "supabase": "Possibilities of increasing the budget of the entire Ambassador Program"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Discuss on the new timelines for the final phase of Q3 proposals.",
+      "supabase": "Discuss on the new timelines for the final phase of Q3 proposals"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Proposed dates for the final iteration.",
+      "supabase": "Proposed dates for the final iteration"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Potential retrospective look at Q3 budget process during Gov WG on 16th July.",
+      "supabase": "Potential retrospective look at Q3 budget process during Gov WG on 16th July"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Outlook of program activities during summer break.",
+      "supabase": "Outlook of program activities during summer break"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Summer break might aid WG in managing their budget for Q3.",
+      "supabase": "Summer break might aid WG in managing their budget for Q3"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
