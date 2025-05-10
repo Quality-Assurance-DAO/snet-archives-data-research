@@ -1,0 +1,24 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-06-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "More Updates on the zealy platform. Lordkizzy indicated that he forgot to add Devon to the Zealy discussion group, so as regards to that no updates was given.",
+      "supabase": "More Updates on the zealy platform. Lordkizzy indicated that he forgot to add Devon to the Zealy discussion group, so as regards to that no updates was given"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Malik as the task manager gave updates from last week.",
+      "supabase": "Malik as the task manager gave updates from last week"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
