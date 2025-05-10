@@ -1,0 +1,79 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-06-05",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Budget",
+      "supabase": "Budget Discussion"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "What has been achieved so far by Education in Q2",
+      "supabase": "What have been achieved so far by Education in Q2?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he shared the Projects document that he has come up with, highlighting two to three projects which education guild can undertake going forward.",
+      "supabase": "Then he shared the Projects document that he has come up with highlighting two to three projects which education guild can undertake going forward"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "He also mentioned that the purpose of proposing these is because all of the processes of the ACP have been defined and ACP will be put live once we have all the completed resources thus we can look forward for new projects.",
+      "supabase": "He also mentioned that the purpose of proposing these is because all of the processes of the ACP have been defined and ACP will be put live once we have all the completed resources thus we can look forward for new projects"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then Slate shared what education guild has achieved in Q2 so far.",
+      "supabase": "Then Slate shared what education guild have achieved in Q2 so far"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then he shared the Q2 budget, highlighting which allocation has been used and which is still left.",
+      "supabase": "Then he shared the Q2 budget highlighting which allocation has been used and which is still left"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then there was a mention that whoever is interested in creation of education guild blueprints can showcase their interest and will be added to the group by the weekend.",
+      "supabase": "Then there was a mention that whomever is interested in creation of education guild blueprints can showcase there interest and will be added to the group by the weekend"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Osmium mentioned that Ambassadors Info and video needs rework.",
+      "supabase": "Osmium mentioned that Ambassadors Info and video needs rework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Which is going to be done by Clement.",
+      "supabase": "Which is going to be done by clement"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Assign Clement to Info and Vid for Ambassadors",
+      "supabase": "Assign Clement Info and Vid for Ambassadors"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "Clement Umoh",
+      "supabase": "Slate"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, processes, Blueprints, implementation, Group creation, Info and vid rework, Budget, Objectives, objactives achieved so far, achievement",
+      "supabase": "ACP, processes, Blueprints , implementation, Groupcreation, Info and vid rework , Budget , Objectives achieved so far "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
