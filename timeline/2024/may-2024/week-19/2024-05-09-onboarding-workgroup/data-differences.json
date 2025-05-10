@@ -1,0 +1,44 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-05-09",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from the last meeting.",
+      "supabase": "Action Items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updating the Getting-Started Discord channel.",
+      "supabase": "Updating the Getting-Started Discord channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Onboarding Sessions survey.",
+      "supabase": "Onboarding Sessions survey"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "The Facilitators' Collective training course https://thefacilitatorscollective.wordpress.com/project-type/facilitation-course/.",
+      "supabase": "The Facilitators' Collective training course https://thefacilitatorscollective.wordpress.com/project-type/facilitation-course/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Gamers' Guild's Roblox game of the Ambassador Program - a presentation of how they have representaed Onboarding WG.",
+      "supabase": "Gamers' Guild's Roblox game of the Ambassador Program - a presentation of how they have representaed Onboarding WG"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
