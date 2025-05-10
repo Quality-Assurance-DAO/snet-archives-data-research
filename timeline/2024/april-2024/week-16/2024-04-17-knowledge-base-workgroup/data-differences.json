@@ -1,0 +1,43 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-04-17",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Our approach to organizing (5min video): https://www.youtube.com/watch?v=lJ8FYsFb0TQ.",
+      "supabase": "Our approach to organizing (5min video): https://www.youtube.com/watch?v=lJ8FYsFb0TQ"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "How much budget we have left? ~2k AGIX Left.",
+      "supabase": "How much budget we have left? ~2k AGIX Left"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Organizer and Organizer Reviewer Roles.",
+      "supabase": "Organizer and Organizer Reviewer Roles"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "Role activities and process.",
+      "supabase": "Role activities and process"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[4]",
+      "gitbook": "Role Rewards.",
+      "supabase": "Role Rewards"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
