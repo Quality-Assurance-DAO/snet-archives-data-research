@@ -1,0 +1,47 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-04-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate showcased the workgroup and the upgrades made to the workgroup.",
+      "supabase": "Slate showcased the workgroup and the upgrades made to the workgroup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate also showcased the NPC dialogue system and the questions added to the workgroup lead NPC.",
+      "supabase": "Slate also showcased the NPC dialogue system and the questions added to the workgroup lead NPC"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "discussion on other platforms for game creation.",
+      "supabase": "discussion on other platforms for game creation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Quarterly budget was discussed.",
+      "supabase": "Quarterly budget was discussed"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
