@@ -1,0 +1,87 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-05-03",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "cardano_class, Clement Umoh, D.S.9, devon, hogantuso, lord kizzy, Mikasa, Olokoji, Photogee, Slate, tevosak",
+      "supabase": "AndrewBen, DS9, hogantuso, lord kizzy, martinsoki, oep, Photogee, Sound Wave"
+    },
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Weekly updates/deliberation of Q2 budget",
+      "supabase": "Weekly updates/improvement on engagment"
+    },
+    {
+      "field": "meetingInfo.workingDocs",
+      "gitbook": [
+        {
+          "title": "Quarterly workgroup budget",
+          "link": "https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit#gid=2094170945"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on the Zealy campaign.",
+      "supabase": "more Updates on the zealy tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate, as the social media manager, provided this week's update about our social media platform.",
+      "supabase": "we discussed on more engagement for our socials"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "We are to vote on how tasks will be distributed, either quarterly or monthly.",
+      "supabase": "discussion on updates of the proposal sheet"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "There was a discussion on been more descriptive on the Zealy tasks.",
+      "supabase": "There was a discussion on creating a videowork group zealy sprint"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "There was a discussion about the Q2 budget.",
+      "supabase": "There was more discussion on tournament for q gamers guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "There was a discussion on Gamers' Guild."
+    },
+    {
+      "field": "agendaItems[0].decisionItems",
+      "gitbook": [
+        {
+          "decision": "Slate and malik to work on the Zealy engagement",
+          "rationale": "Slate is the current social media manager, while malik is the pervious manager so they are to work together and update more content",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "We decided to tag some tasks to know what type of payment is being made, either it is weekly or monthly",
+          "rationale": "To be descriptive on the type of payment being paid out from the work group",
+          "effect": "affectsOnlyThisWorkgroup"
+        },
+        {
+          "decision": "We decided to do a Discord vote to decide if the task assignments will be distributed either quaterly or monthly",
+          "rationale": "We decided to make it a Discord vote because we need all video workgroup members' participation",
+          "effect": "affectsOnlyThisWorkgroup"
+        }
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, new people, Videomaking, task assignment, Zealy, payments, quarterly or monthly, Discord, voting, governance, decisionmaking",
+      "supabase": "social media management, new people, Videomaking"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
