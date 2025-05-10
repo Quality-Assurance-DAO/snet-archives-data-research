@@ -1,0 +1,64 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-07-24",
+  "differences": [
+    {
+      "field": "meetingInfo.host",
+      "gitbook": "guillermolucero",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Advanceameyaw, AJ, Clement Umoh, CollyPride, Kenichi, Mikasa, osmium, PeterE",
+      "supabase": "Advanceameyaw, AJ, Clement Umoh, CollyPride, Kenichi, Mikasa, osmium, Peter"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "SHOWCASE FINISHED PROPOSAL: We are trying to present deliverables on completed projects to the community. We weren't able to further discuss this because core members of respective projects weren't in attendance.",
+      "supabase": "SHOWCASE FINISHED PROPOSAL: We are trying to present deliverables on completed projects to the community. We weren't able to further discuss this because core members of respective projects weren't in attendance"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "LAST MEETING FOLLOW UP: FOLLOW UP DISCUSSIONS ON NEW OPERATIONS OBJECTIVES, DESIGN NEW OPERATIONS SYSTEM / R&D Guild Going Forward: Guillermo highlighted the need for proper reporting and documentation and also the need for only core contributors to be able to present proposals; if an existing member that isn't yet a core contributor wants to present a proposal, they must have a core contributor on their team. We also believe that community voting gives us a precise scope on what the community needs and how it gets implemented, also it helps to avoid overlapping between proposals with other Guilds.",
+      "supabase": "LAST MEETING FOLLOW UP: FOLLOW UP DISCUSSIONS ON NEW OPERATIONS OBJECTIVES, DESIGN NEW OPERATIONS SYSTEM / R&D Guild Going Forward: Guillermo highlighted the need of proper Reporting and Documentation and also the need for only core contributors to be able to present proposals and if an existing members that isn't yet a core contributor wants to present a proposal he/she must have a core contributor on his team and we also believe that community voting gives us a precise scope on what the community needs and how it's gets implemented, also it helps to avoid Overlapping between proposals with other Guilds"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussions on the voting system for proposals: we highlighted that Core Contributors will be allowed to VOTE due to their extensive knowledge of the ecosystem and its gonna be 1 person one vote, and a percentage quorum for proposals.",
+      "supabase": "Discussions on the voting system for proposals: so we highlighted that Core Contributors will be allowed to VOTE due to their extensive knowledge of the ecosystem and its gonna be 1 person one vote, and a percentage quorum for proposals"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on provision of incentives for contributions: Kenichi suggested an incentive for the first 3 members that participate in the Research survey form for Guilds and workgroups, and asked if they could be rewarded by the end of the month rather than quarterly. Lord kizzy requested for more time to discuss this internally and get Kenichi a feed back.",
+      "supabase": "Discussions on provision of incentives for contributions: Kenichi suggested an incentive for the first 3 members that Participate in the Research survey form for Guilds and workgroups and if they could be rewarded by the end of the month rather than Quarterly, Lord kizzy requested for more time to discuss this internally and get Kenichi a feed back"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Voting Pools: Kenichi highlighted the need for this, so that proposals might align with a precise scope.",
+      "supabase": "Voting Pools: kenichi highlighted the need of this, so that proposals might align with a precise scope"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Vasu presented a project on \"SingularityNet's ChatGPT \" to the guild for testing and reviews.",
+      "supabase": "Vasu presented a project on \"SingularityNet's ChatGPT \" to the guild for testing and reviews"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Tool Development, AI tooling, contributors, Operations, Deliverables, Core team, Presentation, Voting process, skills database, skills, reporting, documentation, core contributors, overlapping, incentives, voting pools",
+      "supabase": "Guilds , Tool Development, AI tooling, contributors, Operations, Deliverbles, Core team, Presentation, Voting process"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
