@@ -1,0 +1,34 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-05-15",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Reviewing: SingularityNET - Blog Website https://medium.com/@singularitynetambassadors.",
+      "supabase": "Reviewing: SingularityNET - Blog Website https://medium.com/@singularitynetambassadors"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Reviewing: SingularityNET Ambassadors - Medium Page https://medium.com/singularitynet.",
+      "supabase": "Reviewing: SingularityNET Ambassadors - Medium Page https://medium.com/singularitynet"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "It is easy to fall into the trap of using articles as content that we organize instead of the purpose of the platform.",
+      "supabase": "It is easy to fall into the trap of using articles as content that we organize instead of the purpose of the platform"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Often times, these 2 items we reviewed overlapped with their reasons of relations to category questions.",
+      "supabase": "Often times, these 2 items we reviewed overlapped with their reasons of relations to category questions"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
