@@ -1,0 +1,34 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-04-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Next steps on Contributors' decision-making tools. Blocker: suggested tools (e.g. CitizenOS) may not fit greatly, particularly as they support voting rather than consent decision making. Suggestion to look at https://colony.io/.",
+      "supabase": "Next steps on Contributors' decision-making tools. Blocker: suggested tools (e.g. CitizenOS) may not fit greatly, particularly as they support voting rather than consent decision making. Suggestion to look at https://colony.io/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Next steps on Q2 2024 Budget decision process.",
+      "supabase": "Next steps on Q2 2024 Budget decision process"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Kickstart new Moderators' Workgroup. Blocker: uncertainty on how to currently start a new WG.",
+      "supabase": "Kickstart new Moderators' Workgroup. Blocker: uncertainty on how to currently start a new WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Q2 2024 budget for this Workgroup (see https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing).",
+      "supabase": "Q2 2024 budget for this Workgroup (see https://docs.google.com/spreadsheets/d/1DeUB6ytoOeG6SOHwhJxe-vII_mXmkjdxG1iD-f5B2Sc/edit?usp=sharing)"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
