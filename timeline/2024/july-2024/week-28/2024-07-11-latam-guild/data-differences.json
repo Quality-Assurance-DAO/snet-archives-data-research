@@ -1,0 +1,28 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-07-11",
+  "differences": [
+    {
+      "field": "agendaItems[2].decisionItems",
+      "supabase": [
+        {
+          "decision": "ADN Event Actions",
+          "effect": "affectsOnlyThisWorkgroup"
+        }
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Governance, Meeting Summaries, Onboarding, Budget, Roles, Collaboration, Translation, GitHub, governance design, inclusive, assigning tasks, merit, Google Drive",
+      "supabase": "Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
