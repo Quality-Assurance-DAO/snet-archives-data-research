@@ -1,0 +1,29 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-05-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Participation vs Contribution.",
+      "supabase": "Participation vs Contribution"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Taking a look into new fresh onboarding, Dework PBL Course changes https://youtu.be/WW9YZRhM_no.",
+      "supabase": "Taking a look into new fresh onboarding, Dework PBL Course changes https://youtu.be/WW9YZRhM_no"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Suggesting improvements as we go through content.",
+      "supabase": "Suggesting improvements as we go through content"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
