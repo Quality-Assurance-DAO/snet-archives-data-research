@@ -1,0 +1,29 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-06-03",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Treasury Guild can provide reports.",
+      "supabase": "Treasury Guild can provide reports"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Missing specific ppl who help welcome new people and connect them with the social infrastructure based on their skills and interest.",
+      "supabase": "Missing specific ppl who help welcome new people and connect them with the social infrastructure based on their skills and interest"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "We seem to have gaps because we bring this up quite often.",
+      "supabase": "We seem to have gaps because we bring this up quite often"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
