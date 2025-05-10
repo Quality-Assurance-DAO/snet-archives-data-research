@@ -1,0 +1,96 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-06-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Treasury Guild transaction process https://docs.google.com/document/d/1sbZPqeS3-omflKMAg1SiYhG7hZG7Xqg34U-4SgUBd48/edit?usp=sharing.",
+      "supabase": "Treasury Guild transaction process https://docs.google.com/document/d/1sbZPqeS3-omflKMAg1SiYhG7hZG7Xqg34U-4SgUBd48/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Exploring new ways of learning treasury operations and more guideline focused.",
+      "supabase": "Exploring new ways of learning treasury operations and more guideline focused"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Treasury Policy Template https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit?usp=sharing.",
+      "supabase": "Treasury Policy Template https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "More information can be found on 17.06 Policy WG Meeting Summary https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764592310197174&cot=10.",
+      "supabase": "More information can be found on 17.06 Policy WG Meeting Summary https://miro.com/app/board/uXjVKL5-fNY=/?moveToWidget=3458764592310197174&cot=10"
+    },
+    {
+      "field": "agendaItems[1].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[2].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Guidelines document https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/edit.",
+      "supabase": "Guidelines document https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/edit"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[6]",
+      "gitbook": "Proposals approved by the 2nd iteration share the leftover budget from the previous iteration.",
+      "supabase": "Proposals approved by the 2nd iteration share the leftover budget from the previous iteration"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Treasury Guild Q2 Report https://docs.google.com/document/d/1gUfkeZCwtw28gmpRShStBgRsOBaj6kRnxaJ7Ih2zZag/edit#heading=h.1w2fce1nfvp0.",
+      "supabase": "Treasury Guild Q2 Report https://docs.google.com/document/d/1gUfkeZCwtw28gmpRShStBgRsOBaj6kRnxaJ7Ih2zZag/edit#heading=h.1w2fce1nfvp0"
+    },
+    {
+      "field": "agendaItems[5].discussionPoints[0]",
+      "gitbook": "Treasury Guild Q3 Proposal https://docs.google.com/document/d/16EmdnI9KXEF0iTfzdtSamRupuM3PITxlcfxqo4JT1o0/edit?usp=sharing.",
+      "supabase": "Treasury Guild Q3 Proposal https://docs.google.com/document/d/16EmdnI9KXEF0iTfzdtSamRupuM3PITxlcfxqo4JT1o0/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[5].discussionPoints[1]",
+      "gitbook": "We create a new Treasury Automation Workgroup to build tools to speed up Transaction Creation processes. https://docs.google.com/document/d/18vPr6WIDKLNyFX1bGhIfvJjmU9mHe3C3Y1KtOjRFF9c/edit#heading=h.95bjzxymc8bt.",
+      "supabase": "We create a new Treasury Automation Workgroup to build tools to speed up Transaction Creation processes. https://docs.google.com/document/d/18vPr6WIDKLNyFX1bGhIfvJjmU9mHe3C3Y1KtOjRFF9c/edit#heading=h.95bjzxymc8bt"
+    },
+    {
+      "field": "agendaItems[5].discussionPoints[2]",
+      "gitbook": "We have removed Treasury Policy Workgroup information from Quarter 3 proposal currently no funding needed for this, but we will report on the results in Q3.",
+      "supabase": "We have removed Treasury Policy Workgroup information from Quarter 3 proposal currently no funding needed for this, but we will report on the results in Q3"
+    },
+    {
+      "field": "agendaItems[5].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
