@@ -1,0 +1,49 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-07-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g.",
+      "supabase": "Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Policy Submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk.",
+      "supabase": "Policy Submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "There is a new New Policy submitted - Slow Start.",
+      "supabase": "There is a new New Policy Submitted - Slow Start"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Has policy Workgroup and its new policies had any impact?",
+      "supabase": "Has policy Workgroup and its new policies have any impact?"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Thoughts on the effect minimum policy requirements and incentives rules.",
+      "supabase": "Thoughts on the effect minimum policy requirements and incentives rules"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "nsights are listed under Treasury Policy Template: https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M.",
+      "supabase": "nsights are listed under Treasury Policy Template: https://docs.google.com/document/d/1g-INSEasp4TsEWgGQSoTIxe-KLX79tXqzF3rhWbSI3M"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "4 Insights were shared by people present in the meeting from Core Contributor, Strategy Guild and New member perspectives.",
+      "supabase": "4 Insights were shared by people present in the meeting from Core Contributor, Strategy Guild and New member perspectives"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
