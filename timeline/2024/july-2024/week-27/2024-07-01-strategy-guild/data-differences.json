@@ -1,0 +1,14 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-07-01",
+  "differences": [
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
