@@ -1,0 +1,29 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-04-24",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Differences between Andamio Version 1 and 2.",
+      "supabase": "Differences between Andamio Version 1 and 2"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Current problems to be solved in Version 1 and 2.",
+      "supabase": "Current problems to be solved in Version 1 and 2"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Ideated on lessons we could make in the session.",
+      "supabase": "Ideated on lessons we could make in the session"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
