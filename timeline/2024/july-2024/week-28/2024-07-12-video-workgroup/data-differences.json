@@ -1,0 +1,64 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-07-12",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on task management: Slate shared some issues with the Town Hall editing task and also the Town Hall Summary video: assignees didn't follow the guidelines and tasks were late. Slate had a call with the Social Media manager (Malik) on how to streamline the process for these tasks, and now all issues have been resolved and the video links have been added to the content sheet.",
+      "supabase": "Updates on Task management: Slate shared some issues with the Town Hall editing task and also the Town Hall Summary video, assignees didn't follow the guidelines and task were late, Slate had a call with the Social media manager (Malik) on how to streamline the process for these task and now all issues had been resolved and the video links has been added to the content sheet."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates on Zealy: Lordkizzy highlighted that he had separate calls with Kenichi and Devon within the week and reached an agreement with the Writers' WG in regard to the payment for the liaison role: Devon will be paid from the Writers' WG points system in Q3 but in Q4 there will be an allocation for the liaison role in the Video WG budget. Kenichi is going to study the next two sprints to get the exact figure for the payment, so that we won't be over-paying or under-paying anyone. Secondly, Lordkizzy indicated that Devon sent out 5 long videos and 5 shorts in the previous sprint to Kenichi but only 3 long videos were created as quests, so going forward Lordkizzy has made emphasis on Devon completing the training and getting editorial access to the Zealy platform.",
+      "supabase": "Updates on Zealy: Lordkizzy highlighted that he had separate calls with kenichi and Devon with the week and reached an agreement with the Writers WG as regards to the payment for the liaison role, Devon will be paid from the Writer's WG point system in Q3 but in Q4 there will be an allocation for the liaison role in the Video WG Budget. Kenichi is going to study the next two sprints to get the exact figure for the payment, so that we won't be over paying or under paying anyone. Second Lordkizzy indicated that Devon sent out 5 long videos and 5 shorts in the previous sprint to kenichi but only 3 long videos were created as quests, so going forward Lordkizzy has made emphasis on Devon completing the training and getting the editorial access to the Zealy platform."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on Operations going forward: Lord kizzy suggested that we include new columns in our content sheet for Tiktok and Instagram links and Zealy Quest creation. Lordkizzy highlighted that there is a need for more participation in meetings since that is the environment where most decisions are made, and going forward he will try to see if the Video WG could adopt the Treasury system for task assignments rather than assigning members that are not up to speed on the conversation and decisions made by the Video WG.",
+      "supabase": "Discussion on Operations going forward: Lord kizzy suggested that we include new columns in our content sheet for Tiktok and Instagram links and Zealy Quest Creation. Lordkizzy highlighted that there is a need for more participation in meetings since that is the environment where most decisions are made, and going forward he would try to see if the Video WG could adopt the Treasury system for task assignments rather than assigning members that are not up to speed on the conversation and decisions made by the video WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on Budget: Lordkizzy and slate indicated that some other work groups are yet to get consent and that we should wait for one more week before making decisions.",
+      "supabase": "Discussion on Budget: Lordkizzy and slate indicated that some other work groups are yet to get consent and that we should wait for one more week before making decisions"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussion on Quality Control: Malik suggested that we audit scripts before the video creation, zalfred suggested that we should rather make it a priority for members to give meaningful feedback while giving consent to videos. Malik also highlighted that the majority of members rarely consent to videos and asked how that can be improved. Lordkizzy suggested providing incentives ($5) to members for meaningful feedback on scripts and videos, that way we would get enough feedback on videos and ensure that the quality of videos is controlled. This will be implemented in Q4.",
+      "supabase": "Discussion on Quality Control: Malik suggested that we audit scripts before the video creation, zalfred suggested that we should rather make this a priority for members to give meaningful feedback while giving consent to videos. Malik also highlighted that the majority of members rarely consent to videos and asked how that can be improved. Lordkizzy suggested provisions of incentives($5) for meaningful feedback to members on scripts and videos, that way we would get enough feedback on video and ensure that the Quality of videos are controlled. This will be implemented in Q4."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Discussion on Vacation: the Video WG is going to have further discussions on this in the next meeting.",
+      "supabase": "Discussion on Vacation: the Video WG is going to have further discussions on this in the next meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Migration of Video WG calls to Zoom rather than Discord: Tuso was of the opinion that we should migrate to Zoom since majority of the Workgroups and Guilds are currently using Discord, some members still preferred Discord but we decided to continue the conversation in the next meeting.",
+      "supabase": "Migration of Videos WG calls to zoom rather than Discord: Tuso was of the opinion that we should migrate to zoom since majority of the Work groups and Guilds are currently using discord, some members still preferred discord but we decided to continue the conversation in the next meeting"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Lord_Kizzy to reach out to Rojo in regard to the Q3 Budget reduction and try to see if he could make the next Treasury call",
+      "supabase": "Lord_Kizzy to reach out to Rojo as regards to the Q3 Budget reduction and try to see if he could make the next treasury call"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Weekly updates, Budget Reduction, Budget, Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production, Zoom, Discord, feedback, consent, incentives quality, quality control",
+      "supabase": "Weekly updates, Budget Reduction, Budget , Budget fitting, Treasury Guild meeting, social media, Zealy Updates, Rewards, Video production"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy",
+      "supabase": "Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
