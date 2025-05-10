@@ -1,0 +1,39 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-05-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Status of Writer’s WG budget proposal.",
+      "supabase": "Status of Writer’s WG budget proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Marketing Guild Lead.",
+      "supabase": "Marketing Guild Lead"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Retrospective across the Quarter.",
+      "supabase": "Retrospective across the Quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Loomio Test Run.",
+      "supabase": "Loomio Test Run"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "WG Documentation.",
+      "supabase": "WG Documentation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
