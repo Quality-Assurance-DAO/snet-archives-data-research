@@ -1,0 +1,33 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-07-11",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Skills Matrix: Vani wanted to know what are two skills we will to select to organize mentorship for Q3 in the group.",
+      "supabase": "Skills Matrix: Vani wanted to know what are two skills we will to select to organize mentorship for Q3 in the group"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Onboarders Team: Sucre explained the entire process (There is going be a new Discord channel and also note that new people get a Discord tag which will be removed once they become a Core contributor. Also the FAQ will be updated once the ASI migration is completed. See ONBOARDING document.",
+      "supabase": "Onboarders Team: Sucre explained the entire process (There is going be a new Discord channel and also note that new people get a Discord tag which will be removed once they become a Core contributor. Also the FAQ will be updated once the ASI migration is completed. See ONBOARDING document"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Gorga alleged that he had been passed over in the assignment of tasks such as documenting due to xenophobia, prejudice and favouritism, and that the workgroup's practices were untransparent. People in the meeting addressed and refuted these allegations in the Zoom chat - see doc \"Onboarding meeting Chat, 27th June 2024 - Gorga\".",
+      "supabase": "Gorga alleged that he had been passed over in the assignment of tasks such as documenting due to xenophobia, prejudice and favouritism, and that the workgroup's practices were untransparent. People in the meeting addressed and refuted these allegations in the Zoom chat - see doc \"Onboarding meeting Chat, 27th June 2024 - Gorga\""
+    },
+    {
+      "field": "agendaItems[0].issues[5].8",
+      "supabase": " "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
