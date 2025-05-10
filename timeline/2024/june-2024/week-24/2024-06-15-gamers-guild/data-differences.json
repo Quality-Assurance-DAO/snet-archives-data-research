@@ -1,0 +1,60 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-06-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined the meeting agenda.",
+      "supabase": "Slate outlined the meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates on the creation of workgroups.",
+      "supabase": "Updates on the creation of workgroups"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Game presentation by Colly Pride.",
+      "supabase": "Game presentation by Colly Pride"
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Each member can submit up to 5 assets. - The data gathering task for upcoming Working Groups and Guilds will start in next quarter.",
+      "supabase": "Each member can submit up to 5 assets."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "We already possess information on the 3 departments to be established this quarter, and the new guilds and workgroups will be well-established by the following quarter."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Starting next quarter, the task of summarizing meetings will be rotated among members.",
+      "supabase": "The data gathering task for upcoming Working Groups and Guilds will start in next quarter."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "supabase": "We already possess information on the 3 departments to be established this quarter, and the new guilds and workgroups will be well-established by the following quarter."
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
