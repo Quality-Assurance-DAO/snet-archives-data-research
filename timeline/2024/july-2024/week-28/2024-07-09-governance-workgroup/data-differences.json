@@ -1,0 +1,29 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-07-09",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Set-up of consent forms.",
+      "supabase": "Set-up of consent forms"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Workgroup budgets that are still pending approval (Marketing, Writers, Strategy).",
+      "supabase": "Workgroup budgets that are still pending approval (Marketing, Writers, Strategy)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Low participation in consent rounds, the need for better awareness/publicity, possibility of a quorum.",
+      "supabase": "Low participation in consent rounds, the need for better awareness/publicity, possibility of a quorum"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
