@@ -1,0 +1,94 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-07-29",
+  "differences": [
+    {
+      "field": "agendaItems[0].agenda",
+      "gitbook": "Reviewing responses on policies submitted, and its next steps",
+      "supabase": "Reviewing responses of Policies submitted and its next steps"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g.",
+      "supabase": "Response link: https://docs.google.com/spreadsheets/d/1Tlq_125RZp3C_uESRUy7mhYP1q7nbf7jdSE3b3iU46g"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Check and review policy responses.",
+      "supabase": "Check and review Policy Responses"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "What is the proper way to publish submitted policies?",
+      "supabase": "What is proper way to publish submitted policies?"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "The quorum is made of the people who share their review on policy",
+      "supabase": "The quorum is made of the people who are share their review on policy"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "The policy is ratified if more than 50% of core contributors who take part in deciding on the policy consent to the policy.",
+      "supabase": "The policy is ratified if more than 50% of core contributors who take part of deciding on policy consent to the policy."
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "WG intends to develop a critical function for the entire program.",
+      "supabase": "WG intends to develop a critical function for the entire program"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "WG meetings have been constructive and progresses very quickly.",
+      "supabase": "WG meetings have been constructive and progresses very quickly"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "We don't have clarity on why other Core Contributors don't join these sessions or take part in policy creation.",
+      "supabase": "We don't have clarity why other Core Contributors don't join these sessions or take part of policy creation"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Unclear if lack of attention to policy development is a good thing (no changes needed) or a bad thing (we are improvement suggestions poorly).",
+      "supabase": "Unclear if lack of attention to policy development is good thing (no changes needed) or a bad thing (we are improvement suggestions poorly)"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "Submitting policies is a direct result of observing, and requires listening skills.",
+      "supabase": "Submitting policies are a direct result of observing and require listening skills"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[8]",
+      "gitbook": "Feel like we have extensive and clear guidelines to make policy creation simpler.",
+      "supabase": "feel like we have extensive and clear guidelines to make policy creation simpler"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[10]",
+      "gitbook": "Currently not enough data, but with current responses its been useful for submitter.",
+      "supabase": "Currently not enough data, but with current responses its been useful for submitter"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[12]",
+      "gitbook": "Currently no impact, but its great to increase awareness.",
+      "supabase": "Currently no impact, but its great to increase awareness"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Policy submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/.",
+      "supabase": "Policy submission link: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "No new policy was submitted.",
+      "supabase": "No new policy was submitted"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
