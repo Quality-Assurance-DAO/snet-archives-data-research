@@ -1,0 +1,59 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-06-26",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Clement Umoh, esewilliams, GorgaSeagian, Kenichi, malik, Peter, shuga, Slate, WaKa",
+      "supabase": "Clement Umoh, esewilliams, GorgaSeagian, Kenichi, malik, Peter, shuga, Slate, WaKa, WaKa"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "we discussed on budget request concerns and answered them one by one.",
+      "supabase": "we discussed on budget request concerns and answered them one by one"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "then we took answers from everybody regarding those concerns.",
+      "supabase": "then we took answers from everybody regarding those concerns"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Osmium shared insights from the LLM that he is building.",
+      "supabase": "Osmium shared insights from the LLM that he is building"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then Slate requested Osmium and Kenichi to highlight admin related tasks and Guild members related task for the project that they proposed in education guild.",
+      "supabase": "Then Slate requested Osmium and Kenichi to highlight admin related tasks and Guild members related task for the project that they proposed in education guild"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "while answering the concerns we also went over all the resources that education guild has made up in quarter # 2.",
+      "supabase": "while answering the concerns we also went over all the resources that education guild has made up in quarter # 2"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "During concerns answering there was a concern of no onchain so - we also discussed on adding attendance task for tracking onchain contribution.",
+      "supabase": "During concerns answering there was a concern of no onchain so - we also discussed on adding attendance task for tracking onchain contribution"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "There was also a discussion on Clement's Infographic regarding SNET.",
+      "supabase": "There was also a discussion on Clement's Infographic regarding SNET"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
