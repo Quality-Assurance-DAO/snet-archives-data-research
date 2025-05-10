@@ -1,0 +1,19 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-05-24",
+  "differences": [
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The meeting started with Kenichi welcoming everyone to the meeting.\n\nKenichi shared insider tips on the Writers' WorkGroup role document v1, which he shared during the meeting.\n\nInés asked questions about how the articles written by the SNET Scribblers are published on Medium, when articles go out, and what’s next after the publication. Kenichi gave more thoughts on her questions.\n\nOnize, who is just attending our meeting for the first time, was curious to know how she could contribute; Kenichi explained the whole WG process to her.\n\nDiscussion on working on the Notion page to foster collaboration and automation.\n\nUpdates on the rejected Q2 budget were discussed.\n\nAyo suggested that the writer's WG make a proper agenda for their weekly meetings, and he also stated the need for creating a getting-started doc for people who are interested in writing for the ambassador program.",
+      "supabase": "The meeting started with Kenichi welcoming everyone to the meeting.\n\nKenichi shares insider tips on the WWG role documents v1, which he shared during the meeting.\n\nInes asked questions about how the articles written by the SNET Scribblers are published on Medium, when articles go out, and what’s next after the publication. Then Kenichi gave more thoughts on her questions.\n\nOn the other hand, Onize, who is just attending our meeting for the first time, was curious to know how she could contribute; then Kenichi explained the whole WG process to her.\n\nDiscussion on working on the Notion page to foster collaboration and automation.\n\nUpdates on the rejected Q2 budget were discussed.\n\nAyoola suggested that the writer's WG make a proper agenda for their weekly meetings, and he also stated the need for creating a getting-started doc for people who are interested in writing for the ambassador program.\n"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
