@@ -1,0 +1,44 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-06-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT TO FILL REPOS! "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on COMMUNITY CONCERNS in Q3 BUDGET: Lordkizzy went through the concerns raised by the community to Guild members as regards to our Q3 Budget.",
+      "supabase": "Discussions on COMMUNITY CONCERNS in Q3 BUDGET: Lordkizzy went through the concerns raised by the community to Guiild members as regards to our Q3 Budget."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "UPDATE STATUS ON DEVELOPMENT OF ONGOING PROJECTS: Curtis gave updates on the Collaboration Skills Database project; he highlighted that he was facing personal issues and proposed for a more collaborative approach on initiatives to help give further progress on projects. Rojo wasn't present to give the status update on the projects he is currently working on. WaKa gave status update on the Entity Connections projects: he highlighted that the lack of budget was a factor that is hindering progress, and also indicated that he would be creating additional documents to highlight the current approach to developments and open source. Ubio gave updates on the ideation project on Impact of Lingual Differences; he highlighted that he has completed the projects and has filled the repo. Duke gave updates on Research-on-Inclusivity-for-Individuals-with-Disabilities; he highlighted the progress so far is about 45%; they have completed the literature review but are also facing difficulties in getting responses from the community; they are preparing to conduct interviews with interested community members, then will conduct data analysis; he also indicated that all updates will be added to the repo before the next call. Guillermo indicated that 4 (Social Media Dashboard, Web3 Contributions Dashboard, Collaborative Skills Database, Entity Connections) of the 5 ongoing projects are yet to provide deliverables; he praised Ubio for delivering on the Ideation Project on Impact of Lingual Differences and highlighted that Duke should add the updates on the research to the already created Repo.",
+      "supabase": "UPDATE STATUS ON DEVELOPMENT OF ONGOING PROJECTS: CURTIS gave updates on the Collaboration Skills Database project; he highlighted that he was facing personal issues and proposed for a more collaborative approach on initiatives to help give further progress on projects, Rojo wasn't present to give the status update on the projects he is currently working on, Waka gave the status updates on the Entity Connections projects: he highlighted that the lack of budget was a factor that hinder this progress and also indicated that he would be creating addition documents which highlights the current approach to current developments and open source, Ubio gave updates on the Ideation Project on Impact of Lingual Differences; Ubio highlighted that he has completed the projects and has filled the Repo, Duke gave updates on Research-on-Inclusivity-for-Individuals-with-Disabilities; Duke highlighted the progress so far is about 45% and that they have completed the Literature review but are also facing difficulties in getting responses form the community and prepares for conducting interviews with interested community members, then conduct Data Analysis and also indicated that all updates will be added to the repo before the next call. Guillermo indicated that 4 (Social Media Dashboard, Web3 Contributions Dashboard, Collaborative Skills Database, Entity Connections) of the 5 ongoing projects are yet to provide Deliverables and praised Ubio for delivering on the Ideation Project on Impact of Lingual Differences and highlighted that Duke should add the updates on the research to the already created Repo."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "R&D GUILD Q3 QUARTERLY REPORT / UPDATE PROPOSAL: Guillermo said he was going to work on the budget and exclude completed projects from the budget.",
+      "supabase": "R&D GUILD Q3 QUARTERLY REPORT / UPDATE PROPOSAL: Guillermo said he was going to work on the budget and exclude completed projects from the budget"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Budget, Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, GitHub, Budget preparation, contributors, Filling repo, Rewards",
+      "supabase": "Guilds , Budget , Tool Development, Proposal, AI tooling, deliverables, Budget Request, Q2 budget, GitHub, Budget preparation, contributors, Filling REPO, Rewards"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, Thoughtful, straightforward, questioning, lengthy, Discursive",
+      "supabase": "productive, Thoughtful , straightforward, questioning, lengthy, Discursive"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
