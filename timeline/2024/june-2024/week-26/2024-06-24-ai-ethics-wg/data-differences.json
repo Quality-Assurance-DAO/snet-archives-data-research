@@ -1,0 +1,19 @@
+{
+  "workgroup": "AI Ethics WG",
+  "meetingDate": "2024-06-24",
+  "differences": [
+    {
+      "field": "meetingInfo.transcriptLink",
+      "gitbook": "https://app.read.ai/analytics/meetings/01J15C2RV7JF1SDYTA7VKF91H1?utm_source=Share_CopyLink§ion=notes",
+      "supabase": "https://app.read.ai/analytics/meetings/01J15C2RV7JF1SDYTA7VKF91H1?utm_source=Share_CopyLink&section=notes"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
