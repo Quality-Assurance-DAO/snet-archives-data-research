@@ -1,0 +1,53 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-04-04",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Treasury Quarterly Budget Calculator",
+      "supabase": "Treasury Quaterly Budget Calculator"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Create a separate channel for all contributors where proposals requiring consent are dropped into",
+      "supabase": "Create a separate channel for all contributors where consent required proposals are dropped into"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Should Treasury rules that affect proposal acceptance criteria be changeable and implementable in Quarter 2?",
+      "supabase": "Should Treasury Rules that affect proposal accepting criteria be changeable and implementable in Quarter 2?"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Proposal feedback.",
+      "supabase": "Proposal feedback"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Do we want to make a clear distinction between Guilds and Workgroups?",
+      "supabase": "Do we want to make a clear distinction between Guild and Workgroup?"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "Brainstormed different common ideas and our questions on the Miro Board.",
+      "supabase": "Brainstormed different common and our questions on the Miro Board"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[1]",
+      "gitbook": "Answered a few questions at the meeting.",
+      "supabase": "Answered a few questions at the meeting"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
