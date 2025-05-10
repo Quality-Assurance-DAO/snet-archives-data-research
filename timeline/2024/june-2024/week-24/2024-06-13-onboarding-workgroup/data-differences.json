@@ -1,0 +1,39 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-06-13",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Business: We agreed the minutes of the last meeting, and went through Action items from the last meeting.",
+      "supabase": "Business: We agreed the minutes of the last meeting Action items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Research project for Q3.",
+      "supabase": "Research project for Q3"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Revamping the Getting Started channel in Discord.",
+      "supabase": "Revamping the Getting Started channel in Discord"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Q2 Quarterly report update from Clement.",
+      "supabase": "Q2 Quarterly report update from Clement"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "The onboarding focus group.",
+      "supabase": "The onboarding focus group"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
