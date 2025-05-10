@@ -1,0 +1,107 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-07-31",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "- Dework Go through tasks - Deepfunding infographic - Clement's video after adjustments - OCEAN infographic after adjustments - Projects alignment with Google Classroom -  Next meeting for Notion Setup -  Meeting time increase poll - Rework task on SIngularityDAO",
+      "supabase": "- Dework Go through task - Deepfunding infographic - Clement Video after Adjustments - OCEAN infographic after adjustments - Projects alignment with Google Classroom -  Next Meeting for Notion Setup -  Meeting time increase poll - Rework task on SIngularityDAO "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Dework Go-through tasks",
+      "supabase": " Dework Go through task "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Quizzes Review sheet go-through",
+      "supabase": "Quizzes Review sheet go through "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Clement's video after adjustments",
+      "supabase": "Clement Video after Adjustments "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "discussed tasks assigned and the updates on the tasks on Dework.",
+      "supabase": "discussed task assigned and the updates on the task on dework"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Osmium gave updates regarding tasks reviews for quizzes and informed about reviews of some tasks.",
+      "supabase": "Osmium gave updates regarding tasks reviews for quizzes and informed about reviews of some tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "There was a discussion on deepfunding infographic and its quiz, as most sources should be from the infographic and the video.",
+      "supabase": "There was a discussion on deepfunding infographic , and its quiz as most sources should be from the infographic and the video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then we discussed about CCCP, and everybody agreed that the completed projects should be put on the google classroom platform.",
+      "supabase": "Then we discussed about CCCP , and everybody agreed that the completed projects should be put on the google classroom platform"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Gorga and Osmium as uploaders and Slate as coordinator for that task was decided.",
+      "supabase": "Gorga , Osmium as uploaders and Slate as coordinator for that task was decided"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "There was also a discussion that the next meeting should be on \"Notion page overview for 'Ai for beginners' project\".",
+      "supabase": "There was also a discussion that the next meeting should be on \"Notion page overview for \"Ai for beginners\" project \""
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Osmium suggested that the next meeting time should be increased by about 30 minutes to cover all projects; everybody agreed to have a poll on that specific thing.",
+      "supabase": "Osmium suggested that the next meeting time should be increased to about 30 minutes to cover all projects , everybody agreed to have a poll on that specific thing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Reworking the task on SingularityDAO was assigned to Clement, because the current one is outdated.",
+      "supabase": "Rework task on SingularityDAO to be assigned to Clement , because the current one is out- dated"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Ese and Osmium to present in next meeting on \"Ai for beginners\"",
+      "supabase": "Ese and Osmium to present in next meeting for \"Ai for beginners\""
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Assign google classroom setup to Gorga, Osmium and Slate as coordinator",
+      "supabase": "Assign google classroom setup to Gorga , Osmium and Slate as coordinator"
+    },
+    {
+      "field": "agendaItems[0].actionItems[3].text",
+      "gitbook": "Kenichi to present his \"presentation series\" project in next meeting",
+      "supabase": "Kenichi to present his \"presentation series \" project in next meeting"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "review team, Dework Go through, Dework, Initial docs, Notion, Ai for beginners, video adjustments , representation, meeting time, task presentation, Google Classroom, SingularityDAO, Deep Funding",
+      "supabase": "review team , Dework Go through, Initial docs, Notion, Ai for beginners, video adjustments , representation, meeting time, task presentation "
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
