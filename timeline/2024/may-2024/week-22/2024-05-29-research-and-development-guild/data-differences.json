@@ -1,0 +1,53 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-05-29",
+  "differences": [
+    {
+      "field": "meetingInfo.peoplePresent",
+      "gitbook": "Ayodele, Curtis, kateri, malik, Onize, Onyeka, Vasu, WaKa",
+      "supabase": "Ayodele, kateri, malik, Onize, Vasu, WaKa"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Welcoming new members and Introduction",
+      "supabase": "Welcoming new Mmembers and Introduction"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem",
+      "supabase": "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on R&D Guild budget and Duke's proposal (Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem): there are still ongoing discussions on the approval of the budget, but the guild has given Duke a go-ahead on working on the proposal.",
+      "supabase": "Discussions on R&D Guild budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): there are still ongoing discussions on the apporoval of the budget, but the guild has given Duke a go-ahead on working on the proposal."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on Colleen's game proposal.",
+      "supabase": "Discussions on Colleen's game proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussions on decision-making tool and processes.",
+      "supabase": "Discussions on decision-making tool and processes"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Guillermo suggested that all core members of the Guild should be available for a discussion on tool development",
+      "supabase": "Guillermo suggested that all core members of the Guild should be available for a discussion on Deliverables"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "supabase": "The Guild has to present artifacts to build trust with the community"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
