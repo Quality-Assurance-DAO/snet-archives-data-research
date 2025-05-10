@@ -1,0 +1,59 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-05-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from the last meeting.",
+      "supabase": "Action Items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Document on ideas for our Q2 survey https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing.",
+      "supabase": "Document on ideas for our Q2 survey https://docs.google.com/document/d/1RZ0vhz7brsaOYrTeXe2jVqOsIGilIxnM0KsJ2NZmu_o/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Onboarding journey scripts.",
+      "supabase": "Onboarding journey scripts"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Context-Setting docs.",
+      "supabase": "Context-Setting docs"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Next Town Hall update.",
+      "supabase": "Next Town Hall update"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Facilitation and Documentation next time.",
+      "supabase": "Facilitation and Documentation next time"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Gamers' Guild Roblox presentation was postponed due to technical issues.",
+      "supabase": "Gamers' Guild Roblox presentation was postponed due to technical issues"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Impromptu discussion of an idea from Kenichi to help track contribution.",
+      "supabase": "Impromptu discussion of an idea from Kenichi to help track contribution"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
