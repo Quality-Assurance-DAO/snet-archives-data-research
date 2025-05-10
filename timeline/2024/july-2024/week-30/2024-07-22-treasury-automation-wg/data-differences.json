@@ -1,0 +1,39 @@
+{
+  "workgroup": "Treasury Automation WG",
+  "meetingDate": "2024-07-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "introduction video: https://youtu.be/RENONEarwWM.",
+      "supabase": "introduction video: https://youtu.be/RENONEarwWM"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Participation vs Contribution Tooling: The Recent update can be found in Dework PBL Summary https://www.youtube.com/watch?v=VMSKB79fkbg\\.",
+      "supabase": "Participation vs Contribution Tooling: The Recent update can be found in Dework PBL Summary https://www.youtube.com/watch?v=VMSKB79fkbg\\"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Treasury Manager can now be used to register new contacts and accounts by Zoom Export.",
+      "supabase": "Treasury Manager can now be used to register new contacts and accounts by Zoom Export"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Treasury Manager can now be used to assign participants to pre-configured meetings.",
+      "supabase": "Treasury Manager can now be used to assign participants to pre-configured meetings"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "The dashboard is updated with Q3 budgets.",
+      "supabase": "The dashboard is updated with Q3 budgets"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
