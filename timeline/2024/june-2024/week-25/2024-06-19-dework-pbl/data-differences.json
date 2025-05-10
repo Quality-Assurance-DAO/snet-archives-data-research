@@ -1,0 +1,59 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-06-19",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Looked at the list of values for Task labels on excel.",
+      "supabase": "Looked at the list of values for Task labels on excel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Categorised task labels associated with participation.",
+      "supabase": "Categorised task labels associated with participation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Categorised task labels associated with contribution.",
+      "supabase": "Categorised task labels associated with contribution"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Calculated the difference between AGIX and hours spent in respect to participation and contribution.",
+      "supabase": "Calculated the difference between AGIX and hours spent in respect to participation and contribution"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Practicalised the reward sharing ratio among 3 WG members as an example.",
+      "supabase": "Practicalised the reward sharing ratio among 3 WG members as an example"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Creating our first task template.",
+      "supabase": "Creating our first task template"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Creation of task using the template and addition of task tag.",
+      "supabase": "Creation of task using the template and addition of task tag"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Changing task status and adding task points.",
+      "supabase": "Changing task status and adding task points"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "When you click SUBMIT WORK, then it asks for approval and moves task to done.",
+      "supabase": "When you click SUBMIT WORK, then it asks for approval and moves task to done"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
