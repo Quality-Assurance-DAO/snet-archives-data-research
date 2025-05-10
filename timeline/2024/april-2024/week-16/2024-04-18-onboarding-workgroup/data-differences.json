@@ -1,0 +1,27 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-04-18",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Onboarding Workgroup's regular meeting was replaced this week by a session led by André Diamond from Treasury Guild, giving information on how payments are processed in the Snet Ambassador Program, how to identify your rewards and other treasury topics. The session was aimed at new people, to help them onboard by improving their understanding of how the Treasury system works. See https://youtu.be/Um7Zv5F9TyA?feature=shared.",
+      "supabase": "Onboarding Workgroup's regular meeting was replaced this week by a session led by André Diamond from Treasury Guild, giving information on how payments are processed in the Snet Ambassador Program, how to identify your rewards and other treasury topics. The session was aimed at new people, to help them onboard by improving their understanding of how the Treasury system works. See https://youtu.be/Um7Zv5F9TyA?feature=shared"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
