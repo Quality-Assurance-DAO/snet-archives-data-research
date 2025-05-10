@@ -1,0 +1,34 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-05-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Final Q1 Report: Deliverables Status update",
+      "supabase": "Final Q1 Report: Deliverables Status update."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on R&D Guild Budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): this wont be included in our Q2 budget, due to an increase in proposals from workgroups and intergration of new workgroups.",
+      "supabase": "Discussions on R&D Guild Budget and Duke's proposal ( Research on Inclusivity for Individuals with Disabilities in SingularityNET Ecosystem.): this wont be included in our Q2 budget, due to an increase in proposals from workgroups and intergration of new workgroups"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussions on Decision making tool and processes.",
+      "supabase": "Discussions on Decision making tool and processes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on R&D workshops.",
+      "supabase": "Discussions on R&D workshops"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
