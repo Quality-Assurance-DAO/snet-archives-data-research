@@ -1,0 +1,73 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-04-24",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Google Classroom showcasing by Slate, VR model showcasing by Gamers' Guild",
+      "supabase": "Google Classroom Showcasing by Slate, VR model showcasing by Gamers Guild "
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Google Classroom test run , Gamers' Guild presentation by Gorga and Malik",
+      "supabase": "Google Classroom Test run , Gamers Guild Presentation by Gorga and Malik "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate apologised for being late.",
+      "supabase": "Slate apologised for being late"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he showcased working of ACP in terms of Google Classroom and how we can integrate it in it.",
+      "supabase": "Then he showcased working of ACP in terms of google classroom and how we can integrate it in it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Then he invited everybody to take the assigned quiz and check the resources.",
+      "supabase": "Then he invited everybody to take the assigned quiz and check the resources"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "So far Google Classroom seems to be the best option for introducing ACP.",
+      "supabase": "So far google classroom seemed to be the best option for introducing ACP"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then Osmium shared some insights from Tevo regarding Andamio.",
+      "supabase": "Then Osmium shared some insights from tevo regarding Andamio"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then at the end Gamers' Guild showcased their work and collected information regarding Education Guild which will be integrated inside Ambassador Program VR.",
+      "supabase": "Then at the end gamers guild showcased their work and collected information regarding education guild which will be integrated inside Ambassador Program VR"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Everybody really liked the initiative and the presentation.",
+      "supabase": "Everybody really liked the initiative and the presentation"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, platform, Fetch, Ocean, Google Classroom, gamersguild, representation, Roblox, Andamio,",
+      "supabase": "ACP, review, platform, fetch and ocean, Google Classroom, gamersguild, representation"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, Collaborative, Businesslike, speedy",
+      "supabase": "productive,  Collaborative, Businesslike., speedy "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
