@@ -1,0 +1,143 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-07-29",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "undefined"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "How did we progress from Quarter 2 to Quarter 3?",
+      "supabase": "How did we progress from Quarter 2 to Quarter 3"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Mitigating the instance of duplicate submissions by people.",
+      "supabase": "Mitigating the instance of duplicate submissions by people"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Did the Quarter 3 budget proposal timeline and consent rounds duration have any impact on participation?",
+      "supabase": "Did the Quarter 3 budget proposal timeline and consent rounds duration impact participation?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Participation of core contributors in consenting rounds.",
+      "supabase": "Participation of core contributors in consenting rounds"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Allow editing responses, but enable only 1 submission per person",
+      "supabase": "Allow editing responses but enable only 1 submission per person"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Move all consent decision making into a single form",
+      "supabase": "Move all consent decision making into Single Form"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Publicize the concerns about any proposals that do not pass iteration",
+      "supabase": "Publicize concerns of the proposal that did not pass iteration"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[3].decision",
+      "gitbook": "There are no concerns with core contributors consenting to only their WG's proposal",
+      "supabase": "There are no concerns with core contributors only consenting to only their WGs proposal"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[4].decision",
+      "gitbook": "We maintain the consent rounds and dashboard but add comparative analysis across quarters",
+      "supabase": "We maintain the consent rounds and dashboard but add comparative analysis across quarter"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Do we know where the funds are coming from?",
+      "supabase": "Do we know where the funds coming from?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "How do we know how much reserves we have left?",
+      "supabase": "How do we know how much reserve we have left?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "How does the token merger affect reserves?",
+      "supabase": "How does a merger affect reserves?"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "The process from SC Wallet to intermediary SC wallet to Treasury for distribution.",
+      "supabase": "The process from SC Wallet to intermediary SC wallet to Treasury for distribution"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "Ambassador Program gets to request a % from the 1.5% in SC Wallet.",
+      "supabase": "Ambassador Program gets to request a % from the 1.5% in SC Wallet"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "The 10% price change buffer from reserves.",
+      "supabase": "The 10% price change buffer from reserves"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[8]",
+      "gitbook": "Currently, there is no deadline for when WGs' carried-over budgets should be used.",
+      "supabase": "Currently, there is no deadline for when carried over budgets should be used"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[9]",
+      "gitbook": "A percentage to allow go over budget, overspending and use of reserves.",
+      "supabase": "A percentage to allow go over budget, overspending and use of reserves"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "Related to token merger, ASI tokens are already pre-minted but locked",
+      "supabase": "Related to Merger, ASI tokens are already pre-minted but locked"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[2].decision",
+      "gitbook": "It was agreed previously to roll over unused WG budgets for each quarter",
+      "supabase": "It was agreed previously to roll over unused budget for each quarter"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Influence Tokens with ticker [INF].",
+      "supabase": "Influence Tokens with ticker [INF]"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "There was no feedback or interest about token thinking outside this call idea.",
+      "supabase": "There was no feedback or interest about token thinking outside this call idea"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Next steps for Treasury Guild.",
+      "supabase": "Next steps for Treasury Guild"
+    },
+    {
+      "field": "agendaItems[3].actionItems[0].text",
+      "gitbook": "Start drafting Treasury Guild Q4 proposal after break",
+      "supabase": "Start drafting of Treasury Guild Q4 proposal after break"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "How do we reconstruct history, if at all?",
+      "supabase": "How do we reconstruct history if at all?"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "dashboard, forms, insights, consent, reserve, Budget, wallet, reallocation, reserves, token merger, ASI, MINS, Influence tokens, Q4 budget, consent process, consent dashboard, buffer, 10% buffer",
+      "supabase": "dashboard, forms, insights, consent, reserve, Budget , wallet, reallocation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
