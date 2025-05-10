@@ -1,0 +1,19 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-06-26",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "The onboarding for Async organizing and reviewing activities in WG.",
+      "supabase": "The onboarding for Async organizing and reviewing activities in WG"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
