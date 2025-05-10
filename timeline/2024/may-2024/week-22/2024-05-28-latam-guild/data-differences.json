@@ -1,0 +1,119 @@
+{
+  "workgroup": "LatAm Guild",
+  "meetingDate": "2024-05-28",
+  "differences": [
+    {
+      "field": "meetingInfo.translator",
+      "gitbook": "Ines",
+      "supabase": "Ines, Caue"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "The first meeting for the regional expansion of the Ambassador program for the LATAM region was a small success, with 11 participants and a strong sense of community.\nAfter a short introduction and a small personal presentation of those present we start with the meeting agenda.\n\nIn this introductory meeting, we share with the community the proposal voted and approved by the global community of ambassadors. We went through the objectives and strategy for this starting phase.\n\n\nThe tools used by the community were presented, Discors, Dework and the Oracle archive",
+      "supabase": "The first meeting for the regional expansion of the Ambassador program for the LATAM region was a small success, with 11 participants and a strong sense of community. After a short introduction and a small personal presentation of those present we start with the meeting agenda. In this introductory meeting, we share with the community the proposal voted and approved by the global community of ambassadors. We went through the objectives and strategy for this starting phase.\n"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Beginning Onboarding evaluation and selection of members",
+      "supabase": "Onboarding evaluation and selection of members"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Evaluate the execution of workshops on the tools used by the community",
+      "supabase": "Q2 Report deliverables on deadline for treasury. Q3 budget proposal / Revision 1"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].status",
+      "gitbook": "todo",
+      "supabase": "in progress"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].assignee",
+      "gitbook": "Guillermo",
+      "supabase": "Guillermo, Ines"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].dueDate",
+      "gitbook": "21 June 2024",
+      "supabase": "23 June 2024"
+    },
+    {
+      "field": "agendaItems[1].narrative",
+      "gitbook": "The onboarding strategy was communicated to those present and the next steps to follow in the formation of the core contributors team for this initial stage were proposed, onboarding evaluation and selection.\n\n\nAt the end of the meeting, the onboarding form for the LATAM regional expansion program was shared.",
+      "supabase": "The onboarding strategy was communicated to those present and the next steps to follow in the formation of the core contributors team for this initial stage were proposed, onboarding procedure evaluation and selection."
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].text",
+      "gitbook": "Edit Onboarding form and perform an update on two languages, Spanish and Portuguese",
+      "supabase": "Update Onboarding Form in three languages, Spanish, Portuguese and English"
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].assignee",
+      "gitbook": "Guillermo",
+      "supabase": "Guillermo, Ines, Caue"
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].dueDate",
+      "gitbook": "23 June 2024",
+      "supabase": "19 June 2024"
+    },
+    {
+      "field": "agendaItems[2].narrative",
+      "gitbook": "Marketing efforts at the moment are based on generating documentation for meetings and calls, as the sub WG and assigned tasks are formed, the efforts will address other needs.",
+      "supabase": "In this initial phase allmarketing efforts at the moment are based on generating documentation for meetings and call to actito encourage participation and onboarding, as the sub WG and assigned tasks are\nformed, the efforts will address other needs."
+    },
+    {
+      "field": "agendaItems[2].actionItems",
+      "supabase": [
+        {
+          "status": "todo",
+          "text": "Communication and Call 2 action for next Biweekly TH",
+          "assignee": "Guillermo, Ines",
+          "dueDate": "22 June 2024"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[3].narrative",
+      "gitbook": "The need was established for Initial documentation translated into Spanish to begin educating members on the forms and methodologies of the program.",
+      "supabase": "Initial documentation translated into Spanish was shared to begin educating members on the forms and methodologies of the program. We went back to review the tools used by the community, Discors, Dework and the Oracle archive and we reviewed the main bases of their use.\n"
+    },
+    {
+      "field": "agendaItems[3].actionItems[0].text",
+      "gitbook": "Selection of documents and translation",
+      "supabase": "elect and translate initial documentation"
+    },
+    {
+      "field": "agendaItems[3].actionItems[0].assignee",
+      "gitbook": "Guilermo, Ines",
+      "supabase": "Guillermo"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration",
+      "supabase": "Rewards, Governance, Meeting Summaries, Onboarding, Budget , Roles, Collaboration, Translation"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Friendly, Thoughtful , funny , entertaining",
+      "supabase": "Collaborative, Friendly, Thoughtful , funny , entertaining, challenging"
+    },
+    {
+      "field": "tags.other",
+      "gitbook": "All beginnings are challenging and full of responsibility, we hope to achieve the objectives",
+      "supabase": "Step by Step"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
