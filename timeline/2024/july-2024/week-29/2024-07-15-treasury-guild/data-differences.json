@@ -1,0 +1,53 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-07-15",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "undefined"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "WWG Q3 Proposal: https://docs.google.com/document/d/1KjAjQlW5xl5m4Sq30yb4p1epW0O_2y2gljBL_QKSYrE/.",
+      "supabase": "WWG Q3 Proposal: https://docs.google.com/document/d/1KjAjQlW5xl5m4Sq30yb4p1epW0O_2y2gljBL_QKSYrE/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Reviewing of concerns raised in WWG consent form.",
+      "supabase": "Reviewing of concerns raised in WWG consent form"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussion on the lack of effective reporting by the WG in capturing deliverables.",
+      "supabase": "Discussion on the lack of effective reporting by the WG in capturing deliverables"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Report Template: https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/.",
+      "supabase": "Report Template: https://docs.google.com/document/d/1OkteXe_-UvvYuXh4hxrR4iRtOBHDKS_7ft8Yhn0EZpE/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Review Template: https://docs.google.com/document/d/1zuE49nwVETFL7LbB7Q0uKkbMLCjzuKsmIYeneD0vHVk/.",
+      "supabase": "Review Template: https://docs.google.com/document/d/1zuE49nwVETFL7LbB7Q0uKkbMLCjzuKsmIYeneD0vHVk/"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Proposal reporting and consent templates for the program.",
+      "supabase": "Proposal reporting and consent templates for the program"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[8]",
+      "gitbook": "Uncertain if people understand the value of iteration rounds.",
+      "supabase": "Uncertain if people understand the value of iteration rounds"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
