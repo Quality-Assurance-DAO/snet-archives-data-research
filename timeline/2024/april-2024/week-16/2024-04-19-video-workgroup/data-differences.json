@@ -1,0 +1,43 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-04-19",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Slate.",
+      "supabase": "Weekly meeting agenda outlined by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on the process of Zealy.",
+      "supabase": "Discussion on the process of zealy"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Improving community engagement.",
+      "supabase": "Improving community engagement"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "A representative from Gamers' Guild explained their Roblox game and asked some questions about the video workgroup for inclusion in the game.",
+      "supabase": "The representative from Gamers Guild explained their vision and asked some questions about the video workgroup."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, workgroup updates, new people, Zealy, videomaking, Roblox, Gamers' Guild, community engagement",
+      "supabase": "social media management, workgroup updates, new people, Zealy, Videomaking"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
