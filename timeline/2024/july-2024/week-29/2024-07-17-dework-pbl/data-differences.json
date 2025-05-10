@@ -1,0 +1,52 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-07-17",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Current Status video: https://www.youtube.com/watch?v=VMSKB79fkbg.",
+      "supabase": "Current Status video: https://www.youtube.com/watch?v=VMSKB79fkbg"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM.",
+      "supabase": "Report: https://docs.google.com/document/d/1cgDDAvaKOKf6oqIOGDu1pRW0yIP3XFQxJ_3UFmNhTQM"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Review of Dework PBL WG Report Draft.",
+      "supabase": "Review of Dework PBL WG Report Draft"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Budgeting for Dework PBL course support and meeting facilitation.",
+      "supabase": "Budgeting for Dework PBL course support and meeting facilitation"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "Maintain biweekly space to make sure everyone who needs help with Dework PBL Course can get live support",
+      "supabase": "Maintain biweekly space to make sure everyone who need help with Dework PBL Course can get live support"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[3].agenda",
+      "gitbook": "Student-named spaces causing clutter in Treasury Operation Export table",
+      "supabase": "Student named spaces causing clutter in Treasury Operation Export table"
+    },
+    {
+      "field": "agendaItems[3].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
