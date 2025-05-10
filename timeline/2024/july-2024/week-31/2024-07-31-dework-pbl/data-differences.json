@@ -1,0 +1,59 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-07-31",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Now you can make select members to create the group of people who are in meeting.",
+      "supabase": "Now you can make select members to create the group of people who are in meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "New parameter columns created for total AGIX contribution amount and selected contribution percent.",
+      "supabase": "New parameter columns created for Total AGIX Contribution amount and Selected contribution percent"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Finished Source Data table which can now show all different contribution types.",
+      "supabase": "Finished Source Data table which can now shows all different contribution types"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "We used Knowledge Base WG to demonstrate updates.",
+      "supabase": "We used Knowledge Base WG to demonstrate updates"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Future session facilitation.",
+      "supabase": "Future Session Facilitation"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].rationale",
+      "gitbook": "Based on previously cancelled meeting, summary was done where applicable",
+      "supabase": "Based on previously cancelled meeting, summary was done were applicable"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].decision",
+      "gitbook": "Ensure to open call for at least 15mins before closing call if no one attends",
+      "supabase": "Ensure to open call for atleast 15mins before closing call if no one attends"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[1].rationale",
+      "gitbook": "Some Treasury Operators taking call might join call for assistance and 15mins is enough time to accomodate latecomers",
+      "supabase": "Some Treasury Operators taking call might join call for assistance and 15mins is enough time to accomodate late comers"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Dework, Miro Board, tooling, implementation, Facilitation, holidays",
+      "supabase": "Dework, Miro Board, tooling, implementation, Facilitation"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
