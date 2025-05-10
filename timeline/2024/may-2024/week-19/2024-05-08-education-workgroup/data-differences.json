@@ -1,0 +1,99 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-05-08",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "Review Team Updates, Osmium Metaverse Build for Education, Gorga’s proposal for education and onboarding, Google Classroom update, Waka's \"Teach with AI and About AI\"",
+      "supabase": "Review Team Updates, Osmium Metaverse Build for Education ,Gorga’s proposal for education and onboarding , Google Classroom Update, Waka’ Teach with AI and About AI"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Osmium Metaverse Build for Education",
+      "supabase": "Osmium Metaverse Build for Education ,"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Gorga’s proposal for education and onboarding",
+      "supabase": ",Gorga’s proposal for education and onboarding"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "Google Classroom update",
+      "supabase": "Google Classroom Update,"
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Waka’s proposal, \"Teach with AI and About AI",
+      "supabase": "Waka’ Teach with AI and About AI"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate started the meeting welcoming everybody.",
+      "supabase": "Slate started the meeting welcoming everybody"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Then he highlighted the agenda for today’s meeting.",
+      "supabase": "Then he highlighted the agenda for today’s meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Osmium shared his metaverse experience build on Universe for educational purposes.",
+      "supabase": "Osmium shared his metaverse experience build on Universe for educational purposes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Everybody really liked the useful tool.",
+      "supabase": "Everybody really liked the useful tool"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Slate provided updates from vanessa’s side regarding quizzes update and guided everyone for the required adjustments.",
+      "supabase": "Slate provided updates from vanessa’s side regarding quizzes update and guided everyone for the required adjustments"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then Gorga presented his proposal for collaboration.",
+      "supabase": "Then Gorga presented his proposal for collaboration"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Slate guided that the proposal would be best fitting the writer’s workgroup as they can help in getting out quality articles.",
+      "supabase": "Slate guided that the proposal would be best fitting the writer’s workgroup as they can help in getting out quality articles"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Then Slate gave a update regarding Google Classroom, that the quiz timer can be implemented and will be most probably completed by next week.",
+      "supabase": "Then Slate gave a update regarding google classroom that the quiz timer can be implemented and will be most probably completed by next week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Slate than gave the floor to Waka so that he can give a overview of the his proposal regarding “Teach with AI and About AI”.",
+      "supabase": "Slate than gave the floor to Waka so that he can give a overview of the his proposal regarding “Teach with AI and About AI”"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Slate to add timer to quizzes",
+      "supabase": "Slate to add timer to quizze"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Ese to give visual presentation of Microsoft Teams",
+      "supabase": "Ese to give visual presentation of Teams"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, platform, Google Classroom, timer, quizzes, Universe, metaverse, Teach with AI , metaverse, Gorga's proposal",
+      "supabase": "ACP, review, platform, Google Classroom, Teach with AI , metaverse, gorga proposal"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
