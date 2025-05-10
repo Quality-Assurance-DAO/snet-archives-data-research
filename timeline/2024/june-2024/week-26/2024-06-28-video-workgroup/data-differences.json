@@ -1,0 +1,29 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-06-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on TASK MANAGEMENT: Slate indicated that the Town Hall Edit hasn't been uploaded but the Town Hall Summary has been uploaded in our Socials.",
+      "supabase": "Updates on TASK MANAGEMENT: Slate indicated that the Town Hall Edit hasn't been uploaded but the Town Hall Summary has been uploaded in our Socials"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates on Social Media Management: Malik indicated that he hasn't been granted access to our socials, so NO updates as regards to that.",
+      "supabase": "Updates on Social Media Management: Malik indicated that he hasn't been granted access to our socials, so NO updates as regards to that"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussions on concerns raised as regards to our Q2 Budget report and Q3 Budget: Lord_Kizzy went through the concerns raised by the community and highlighted the solutions given by him in the previous governance call.",
+      "supabase": "Discussions on concerns raised as regards to our Q2 Budget report and Q3 Budget: Lord_Kizzy went through the concerns raised by the community and highlighted the solutions given by him in the previous governance call"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
