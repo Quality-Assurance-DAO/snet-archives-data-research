@@ -1,0 +1,54 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-05-29",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Reviewing SNET Ambassador Program - Webpage https://singularitynet.io/ambassador-program/.",
+      "supabase": "Reviewing SNET Ambassador Program - Webpage https://singularitynet.io/ambassador-program/"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Mostly everyone agreed to reasons and locations for this item.",
+      "supabase": "Mostly everyone agreed to reasons and locations for this item"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We added an Item under the Agent Model under the guiding questions of \"what services we offer\" and \"what are our limitations\"",
+      "supabase": "We added an Item under the Agent Model under guiding questions of What services we offer and what are our limitations"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[1].decision",
+      "gitbook": "Conflicting Reviews are decided by simple majority.",
+      "supabase": "Conflicting Reviews are decided by Simple Majority"
+    },
+    {
+      "field": "agendaItems[1].actionItems[0].text",
+      "gitbook": "Review only conflicting items in future collective review sessions",
+      "supabase": "Review only conflicting items in the future Collective review sessions"
+    },
+    {
+      "field": "agendaItems[1].actionItems[2].text",
+      "gitbook": "Next session, continue discussions on documenting the process and making it easier to follow",
+      "supabase": "Next Session, continue discussions on documenting the process and making easier to follow"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Initiate one of the previous next steps to try use LLM to sort our items.",
+      "supabase": "Initiate one of the previous next steps to try use LLM to sort our items"
+    },
+    {
+      "field": "agendaItems[2].actionItems[0].text",
+      "gitbook": "Let's prompt engineer ourselves a result next session, where input is the item, and output is the the list and rationale where item belongs",
+      "supabase": "Let's prompt engineer ourselves a result next session. Where input is the item and output is the the list and rationale where item belongs"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
