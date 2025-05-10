@@ -1,0 +1,43 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-04-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate outlined weekly meeting agenda.",
+      "supabase": "Slate outlined weekly meeting agenda"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Malik, as the social media manager, provided updates about social media.",
+      "supabase": "Malik, as the social media manager, provided updates about social media"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on eligibility criteria for different tasks.",
+      "supabase": "Discussion on eligibility criteria for different task"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on the seniority of members.",
+      "supabase": "Discussion on the seniority of members"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "social media management, new people, Videomaking, Task Assignment, task eligibility, seniority",
+      "supabase": "social media management, new people, Videomaking, Task Assignment"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
