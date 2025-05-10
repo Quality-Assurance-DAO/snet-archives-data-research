@@ -1,0 +1,39 @@
+{
+  "workgroup": "Strategy Guild",
+  "meetingDate": "2024-07-15",
+  "differences": [
+    {
+      "field": "meetingInfo.otherMediaLink",
+      "gitbook": "https://app.read.ai/analytics/meetings/01J2VJ1YM0KP6JSH8PQ5RBT2YK?utm_source=Share_CopyLink§ion=notes",
+      "supabase": "https://app.read.ai/analytics/meetings/01J2VJ1YM0KP6JSH8PQ5RBT2YK?utm_source=Share_CopyLink&section=notes"
+    },
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 3,
+      "supabase": 4
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "STRATEGY GUILD - FINAL BUDGET - Open Access",
+      "supabase": "Possible Survey Questions [Strategy Guild]"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://docs.google.com/spreadsheets/d/1OsZMSEsrU4kKCQYu3OHvQJAhL79y9ReLe0dV6QLGRQM/edit?gid=0#gid=0",
+      "supabase": "https://docs.google.com/document/d/1vCw-uSNJ8X18Cq3QtdGGF18xn-Rq2n9wE3DnnvDs__w/edit#heading=h.shxqnobd9709"
+    },
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Becoming a Strategy Guild Core Member\nAyo explained why the guild has a set of unique core member requirements as represented in the Strategy Guild Membership document\n\nBudget Proposal Update\nThe Guild budget was already technically approved based on the open treasury session but concerns on the Guild’s budget needed to be documented in the next governance meeting. Ayo encouraged all core contributors to attend to their consenting responsibilities.\n\nQ3 in Perspective \nAyo explained that there are only two objectives for the Guild in Q3: 1) to understand the needs of the program and how contributors in the program expect the Guild to function; 2) to facilitate a workshop in partnership with Writers and Video Workgroups and Marketing Guild. Ayo shared that the Q3 report will be based on the outcome of these two objectives.\n\nDiscussion on Survey Ideas and Participation\nThere are two open documents to which people are expected to contribute. The Possible Survey Questions [Strategy Guild] and the Strategy Guild Working Document.\n\nDiscussion on Tools and Meeting Time\nAfter contributions from Ayo and Clement, consensus was that the Guild will be open to exploring whatever tools can best serve the interest and uniqueness of the Guild. The meeting will remain at 4pm UTC weekly on Mondays.\n\n\nDiscussion on Guild Leadership and Rotating Facilitation\nPeter broached the discussion of Guild Lead and Facilitation rotation, Ayo acknowledged the vote of confidence from Gorga, who suggested that Ayo should be the Guild Lead. It was decided that because of time it should be put into the 22nd July Guild meeting agenda so it can be properly discussed.",
+      "supabase": "Becoming a Strategy Guild Core Member\nAyo explains why the guild has a set of unique core member requirements as represented in the Strategy Guild Membership document\n\nBudget Proposal Update\nThe Guild budget was already technically approved based on the open treasury session but concerns on the Guild’s budget needed to be documented in the next governance meeting. Ayo encouraged all core contributors to attend their consent-ing responsibilities.\n\nQ3 in Perspective \nAyo explained that there are only two objectives for the Guild in Q3, one to understand the need of the program and the perspective in which contributors in the program expects the Guild to function, two is to facilitate a workshop in partnership with the Writer and Video Workgroups and Marketing Guild. Ayo shared that the Q3 report is based on the outcome  of two objectives of the Guild.\n\nDiscussion on Survey Ideas and Participation\nThere are two open documents to which people are expected to contribute. The Possible Survey Questions [Strategy Guild] and the Strategy Guild Working Document.\n\nDiscussion on Tools and Meeting Time\nAfter contributions from Ayo and Clement, consensus was that the Guild will be open to exploring whatever tools can best serve the interest and uniqueness of the Guild. The meeting will also remain at 4pm UTC weekly Mondays.\n\n\nDiscussion on Guild Leadership and Rotating Facilitation\nPeter broached the discussion of Guild Lead and Facilitation rotation, Ayo acknowledged the vote of confidence from Gorga, who suggested that Ayo should be the Guild Lead, it was decided that because of time it should be put into the 22nd July Guild meeting agenda so it can be properly discussed.\n"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
