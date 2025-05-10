@@ -1,0 +1,62 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-04-10",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Shared Dework PBL WG's quarterly report for Q1 2024 https://docs.google.com/document/d/1s09ifUK8J921X-oJRJzVAyPQKWO0FCKGEoYPDXyi66M/edit#heading=h.ftfioj9c9q2h.",
+      "supabase": "Shared Dework PBL WG Quarterly Report https://docs.google.com/document/d/1s09ifUK8J921X-oJRJzVAyPQKWO0FCKGEoYPDXyi66M/edit#heading=h.ftfioj9c9q2h"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Described new lesson to take position of lesson 101.2 - introduce Action Paragraphs and the first action is to ask for a Dework role.",
+      "supabase": "Described new lesson to take position of lesson 101.2 - introduce Action Paragraphs and the first action is to ask for a Dework Role"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "Merged Dework requirements (101.2) into About Dework (101.1). Both content now in a single lesson.",
+      "supabase": "Merged Dework Requirements (101.2) into About Dework (101.1). Both content now in a single lesson"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].actionItems[4].text",
+      "gitbook": "Update Dework PBL Onboarding structure into 3 different headers related to: Dework lesson, this course specific lesson, and blockchain tooling requirements that Ambassador program members use",
+      "supabase": "Update Dework PBL Onboarding structure into 3 different headers related to: Dework lesson, this course specific lesson and blockchain tooling requirements that ambassador program members use"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Shared new Andamio instance design, look and capability.",
+      "supabase": "Shared new Andamio instance Design Look and Capability"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "How to be prepared for scaling?",
+      "supabase": "How to be prepared for scale?"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "Support makes it easier to integrate with other Ambassador Workgroup work.",
+      "supabase": "Support makes it easier to integrate with other Ambassador Workgroup work"
+    },
+    {
+      "field": "agendaItems[4].discussionPoints[0]",
+      "gitbook": "What would we like to do in the next session?",
+      "supabase": "What we would like to do in the next session?"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
