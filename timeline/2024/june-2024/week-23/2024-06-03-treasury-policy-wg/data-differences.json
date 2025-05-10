@@ -1,0 +1,78 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-06-03",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "References to resources that are made available for this workgroup.",
+      "supabase": "References to resources that are made available for this workgroup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Planned roadmap for the workgroup.",
+      "supabase": "Planned roadmap for the workgroup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Roles and Deliverables.",
+      "supabase": "Roles and Deliverables"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Presentation Video: https://youtu.be/HP8hkC0OMno.",
+      "supabase": "Presentation Video: https://youtu.be/HP8hkC0OMno"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "What are the minimum requirements for providing Policy Template - Google Doc.",
+      "supabase": "What are the minimum requirements for providing Policy Template - Google Doc"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "How policies will be ratified and moved into effect.",
+      "supabase": "How policies will be ratified and moved into effect"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "2 examples for policies will give a better view into the range of different ways to introduce a policy.",
+      "supabase": "2 examples for policies will give a better view into the range of different ways to introduce a policy"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "It might be difficult to distinguish the difference between clear rules vs guidelines.",
+      "supabase": "It might be difficult to distinguish the difference between clear rules vs guidelines"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "This document will most likely turn into a living document and get updated more often as new processes emerge.",
+      "supabase": "This document will most likely turn into a living document and get updated more often as new processes emerge"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "How often should we update the Ambassador GitBook? https://snet-ambassadors.gitbook.io/home.",
+      "supabase": "How often should we update the Ambassador GitBook? https://snet-ambassadors.gitbook.io/home"
+    },
+    {
+      "field": "agendaItems[2].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 5
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].decision",
+      "gitbook": "We will use Google Forms to capture policies within data structures - We will use Google Sheets to aggregate policies and feedback for Policy Selectors - We will use Google Docs for drafting documentation and to play around with more complex policies - We will use the Ambassador GitBook to present Treasury rules and policies that affect the Ambassador Program financially - We will use Miro Board for referencing all possible links to different source materials related this workgroup assets",
+      "supabase": "We will use Google Forms to capture policies within data structures"
+    },
+    {
+      "field": "agendaItems[2].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
