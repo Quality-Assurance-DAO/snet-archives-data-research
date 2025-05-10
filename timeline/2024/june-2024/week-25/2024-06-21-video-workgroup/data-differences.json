@@ -1,0 +1,43 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-06-21",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "More Updates on the zealy platform. We discussed on how the zealy task claim will be allocated and how the claim will be shared between the writers and video workgroup.",
+      "supabase": "More Updates on the zealy platform. We discussed on how the zealy task claim will be allocated and how the claim will be shared between the writers and video workgroup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "slate,as our social media manager gave weekly updates on our social. He uploaded 2 long videos and 3 short videos and we have good engagement.",
+      "supabase": "slate,as our social media manager gave weekly updates on our social. He uploaded 2 long videos and 3 short videos and we have good engagement"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "we discussed on proposing 2000 points for the zealy platform.",
+      "supabase": "we discussed on proposing 2000 points for the zealy platform"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "mallik as the task manager gave updates from last week and this week.",
+      "supabase": "mallik as the task manager gave updates from last week and this week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "we discussed on how frequent should our videos be uploaded.",
+      "supabase": "we discussed on how frequent should our videos be uploaded"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
