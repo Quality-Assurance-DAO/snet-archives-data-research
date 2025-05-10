@@ -1,0 +1,39 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-05-30",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes from the last meeting and action items.",
+      "supabase": "Minutes from the last meeting and action items"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Onboarding Journeys update.",
+      "supabase": "Onboarding Journeys update"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Getting started doc/channel.",
+      "supabase": "Getting started doc/channel"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Skills audit.",
+      "supabase": "Skills audit"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Video and text documentation of onboarding processes.",
+      "supabase": "Video and text documentation of onboarding processes"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
