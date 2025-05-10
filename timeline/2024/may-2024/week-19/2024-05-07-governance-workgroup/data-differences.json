@@ -1,0 +1,19 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-05-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Q2 Budget decision where are we, what next: Core contributors completed first.",
+      "supabase": "Q2 Budget decision where are we, what next: Core contributors completed first"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
