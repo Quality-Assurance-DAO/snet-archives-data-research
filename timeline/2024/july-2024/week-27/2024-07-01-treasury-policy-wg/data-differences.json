@@ -1,0 +1,39 @@
+{
+  "workgroup": "Treasury Policy WG",
+  "meetingDate": "2024-07-01",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussion on the proposed budget-fitting policy.",
+      "supabase": "Discussion on the proposed budget-fitting policy"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "List of policies: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?usp=sharing.",
+      "supabase": "List of policies: https://docs.google.com/spreadsheets/d/1-tAwCD3vrXNSbUdQApljTVMfFGVDJo6PBdM39CO73Uk/edit?usp=sharing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "The impact of budget-fitting on the activities of guilds/WGs in the program.",
+      "supabase": "The impact of budget-fitting on the activities of guilds/WGs in the program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Incentivise lowering budget for guilds and WG.",
+      "supabase": "Incentivise lowering budget for guilds and WG"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "How relevant is asking if policy is within scope? It seems obvious.",
+      "supabase": "How relevant is asking if policy is within scope? It seems obvious"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
