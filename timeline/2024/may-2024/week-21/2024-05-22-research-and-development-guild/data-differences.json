@@ -1,0 +1,29 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-05-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem",
+      "supabase": "Discussions on the research proposal on inclusivity for individuals with disabilities in SingularityNET ecosystem."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on Colleen's game proposal.",
+      "supabase": "Discussions on Colleen's game proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussions on decision-making tool and processes.",
+      "supabase": "Discussions on decision-making tool and processes"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
