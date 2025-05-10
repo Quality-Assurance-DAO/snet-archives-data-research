@@ -1,0 +1,68 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-04-24",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Budget Request presentation for R&D Guild Quarter 2",
+      "supabase": "Budget Request presentation for R&D Guild Quarter 2."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Operations: Update. Improving R&D Manager tools. Introducing R&D GitHub Projects",
+      "supabase": "Operations: Update. Improving R&D Manager tools. Introducing R&D GitHub Projects."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[6]",
+      "gitbook": "Conclusions Q1: what we can improve",
+      "supabase": "Conclusions Q1: what we can improve?"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on Q2 budget proposal.",
+      "supabase": "Discussions on Q2 budget proposal"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on adding Contingency to the budget.",
+      "supabase": "Discussions on adding Contingency to the budget"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Final discussions on Q1 report and deliverable.",
+      "supabase": "Final discussions on Q1 report and deliverable"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Updates on development from Rojo & Guillermo.",
+      "supabase": "Updates on development from Rojo & Guillermo"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on Helping on the MeTTa documentation and playground page Q2 R&D Guild Objectives.",
+      "supabase": "Discussions on Helping on the MeTTa documentation and playground page Q2 R&D Guild Objectives"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "There was a suggestion to use the meeting summary tool to prepare agendas for meetings.",
+      "supabase": "There was a suggestion to use the meeting summary tool to prepare agendas for meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "The social media dashboard will be ready for testing at the end of Q2.",
+      "supabase": "The social media dashboard will be ready for testing at the end of Q2"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
