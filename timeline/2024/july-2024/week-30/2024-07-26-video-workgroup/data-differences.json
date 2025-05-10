@@ -1,0 +1,54 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-07-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates on task management: Malik indicated that he had created the monthly recurrent tasks on Dework and there were 3 new applications which were all rejected after the review process. There was a short clip submitted by Rojo and Lily and it's an animated clip and they requested for $50 per person. The whole group took a look at the video and commended the work but the major concern was the compensation for the work. Lordkizzy made emphasis on the tight budget the video WG are currently working with for Q3 and says it will be outrageous to pay $50 per person ($100) for a clip when we have a budget of $20 each for 12 clips. Lily dropped in and mentioned that the entire video was created from scratch and we should consider it as a long video rather than a clip. Slate indicated that once we pay this out someone can perform similar task and be expecting the same pay which is not feasible for us, so Lordkizzy suggested we compensate their efforts with $30 each and we decided to put it to a poll since the conversation was taking a while. Malik also indicated that he had a discussion with Lordkizzy on the quality of our Town Hall videos.",
+      "supabase": "Updates on Task management: Malik indicated that he had created the monthly recurrent tasks on Dework and there were 3 new applications which were all rejected after the review process, there was a short clip submitted by Rojo and Lily and it's an animated clip and they requested for $50 per person. The whole group took alook at the video and commended the work but the major concern was the compensation for the work, Lordkizzy made emphasis on the tight budget the video WG are currently working with for Q3 and says it will be outrageous to pay $50 per person ($100) for a clip when we have a budget of $20 each for 12 clips, Lily dropped in an mentioned that the entire video was created from scratch and we should conside it as a long video rather than a clip, slate also indicated that once we pay this out someone can perform similar task and be expecting the same pay which is not feasible for us, so Lordkizzy suggested we compensate their efforts with $30 each and we decided to put it to a poll since the conversation was taking a while. Malik also indicated that he had a discussion with Lordkizzy on the Quality of our Town Hall videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Updates on social media management: Tuso indicated that there hasn't been activity from his side, and he had posted the Town Hall videos and two other videos would be posted before the end of the week.",
+      "supabase": "Updates on Social media management: Tuso indicated that there hasn't been activity from his side, and he had posted the Town Hall videos and two other videos would be posted before the end of the week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates on Zealy: Devon indicated that he had a conversation with Kenichi earlier in the week to present Videos to be created as quests on the Zealy platform which would be commencing next week. Lord kizzy indicated that he also had a conversation with Kenichi to see how Devon could get the editorial access to the Zealy platform but Kenichi highlighted in the discussion that Devon hasn't been active in the Zealy program so it's difficult to grant him the editorial access.",
+      "supabase": "Updates on Zealy: Devon indicated that he had a conversation with kenichi earlier within the week to present Videos to be created as quests on the Zealy platform which would be commencing next week, Lord kizzy also indicated that he also had a conversation with Kenichi to see how Devon could get the editorial access to the Zealy platform but kenichi highlighted in the discussion that Devon hasn't been active in the Zealy program so it's difficult to grant him the editorial access."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussion on Updates from Lordkizzy and Quality Control Blueprint: Lordkizzy indicated that the current format for our Town Hall Recording is wrong and should be corrected going forward, and he has sent out the correct format to Malik (Task Manager). He also spoke on the Quality Control discussion from the previous meeting and how this could be implemented, group members shared their thoughts and opinions which will be reflected in the Quality Control Blueprint.",
+      "supabase": "Discussion on Updates from Lordkizzy and Quality Control Blueprint: Lordkizzy indicated that the current format for our Town Hall Recording is wrong and should be corrected going forward, he had sent out the correct format to Malik ( Task Manager), the also spoke on the Quality Control discussion from the previous meeting and how this could be implemented, groups members shared their thought and opinions which would be reflected in the Quality Control Blueprint"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Strategy Guild Workshop: Ayo suggested that three members should represent the Video WG in this workshop session on Mondays 17:00 UTC.",
+      "supabase": "Strategy Guild Workshop: Ayo suggested that three members should represent the Video WG in this workshop session on Mondays 17:00 UTC"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "We decided to reward Rojo and Lilycupcake $30 each for their amazing video",
+      "supabase": "We decided to reward Rojo and Lily cupcake $30 each for their amazing video"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "We do not have the buget for $50 per person for a 60 secs video",
+      "supabase": "We do not have the buget for $50 per person for a 60secs video"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, productive, Organised, Thoughtful, warm, new ideas, lengthy, decisive, Friendly",
+      "supabase": "Casual, productive, Organised, Thoughtful , warm, new ideas, lengthy, decisive, Friendly"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
