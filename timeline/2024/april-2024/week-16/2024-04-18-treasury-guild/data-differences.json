@@ -1,0 +1,49 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-04-18",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Writers WG.",
+      "supabase": "Writers WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Treasury Guild Documentations (decisions, meeting summary).",
+      "supabase": "Treasury Guild Documentations (decisions, meeting summary)"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "incentives.",
+      "supabase": "incentives"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Ambassador Program Consent Process.",
+      "supabase": "Ambassador Program Consent Process"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[3]",
+      "gitbook": "S3 guide for potential objection solving https://patterns.sociocracy30.org/principle-consent.html.",
+      "supabase": "S3 guide for potential objection solving https://patterns.sociocracy30.org/principle-consent.html"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[5]",
+      "gitbook": "After funding measures.",
+      "supabase": "After funding measures"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[6]",
+      "gitbook": "Proposal Request Cap.",
+      "supabase": "Proposal Request Cap"
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
