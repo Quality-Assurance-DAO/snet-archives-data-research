@@ -1,0 +1,124 @@
+{
+  "workgroup": "Gamers Guild",
+  "meetingDate": "2024-03-30",
+  "differences": [
+    {
+      "field": "agendaItems[0].narrative",
+      "gitbook": "Discussion on topics including: Workgroup iterations Animation / Scripting Questions inside of Onboarding WG on Roblox Budget Request for Q2",
+      "supabase": "Discussion on various topics like:\nWorkgroup ITerations\nAnimation / Scripting \nQuestions inside of Onbaording WG \nBudget Request for Q2\n\n"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Slate welcomed everyone in the meeting.",
+      "supabase": "Slate welcomed everyone in the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate then showcased the workgroup and the upgrades made to the workgroup.",
+      "supabase": "Slate then Showcased the workgroup and the upgrades made to the workgroup"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Slate also showcased the NPC (non-player character) dialgue system and the questions added to the workgroup lead NPC.",
+      "supabase": "Slate also showcased the NPC dialgue system and the questions added to the workgroup lead NPC"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Then animations of NPC were shown.",
+      "supabase": "Then moving forward animation of NPC were showed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Lord Kizzy really liked his NPC.",
+      "supabase": "Lord Kizzy really liked his NPC"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "The NPCs included waving, researching, documenting, and moving around.",
+      "supabase": "The NPC's included waving , researching , documenting , and moving around"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Lord Kizzy also mentioned that we can add more questions to the NPCs and said that he will get to back to us about this after the meeting.",
+      "supabase": "Kizzy also mentioned that we can add more questions to the NPC and said that he will get to back to him after the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Slate then discussed the quarterly budget and told that in the next quarter we are going to be working on at least 6-7 workgroups.",
+      "supabase": "Slate then discussed the quarterly budget and told that moving to the next quarter we are going to be working on the atleast 6-7 workgroups next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "And also mentioned that the budget would be increased from 1_200 = 200$ for 1 Workgroup so for 7_200 = 1400$ for 7 Workgroups for next quarter.",
+      "supabase": "And also mentioned that the budget would be increase from 1*200 = 200$ for 1 Workgroup so for 7*200 = 1400$ for 7 Workgroups for next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "On that Lord Kizzy mentioned that we should make a schedule for the collecting of information from different workgroups.",
+      "supabase": "On that Kizzy mentioned that we should make a schedule for the collecting of information from different workgroups"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "Everybody really liked the idea and to discuss it by next meeting.",
+      "supabase": "Everybody really liked the idea and to discuss it by next meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Slate then handed over the gaming session to Malik.",
+      "supabase": "Slate then handed over the gaming session to Malik"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "For today the game was a racing game.",
+      "supabase": "For today the game was a racing game"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[13]",
+      "gitbook": "And everybody enjoyed the gaming session.",
+      "supabase": "And everybody enjoyed the gaming session"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[14]",
+      "gitbook": "Slate said farewell to everyone until next meeting.",
+      "supabase": "Slate said farewell to everyone until next meeting"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Adding more questions to NPCs",
+      "supabase": "Adding more questions to NPC's"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Add more questions to the NPCs",
+      "supabase": "Add more questions to the NPC"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Document the questions",
+      "supabase": "Document the questiosn"
+    },
+    {
+      "field": "agendaItems[0].leaderboard",
+      "supabase": [
+        "Devon"
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Rewards, Budget, Q2 2024 budget, Roblox, participation, Onboarding WG, NPC, Budget request",
+      "supabase": "Rewards, Budget , Roblox, participation, Onboarding WG, NPC, Budget Request"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
