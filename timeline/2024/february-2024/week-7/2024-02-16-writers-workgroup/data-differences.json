@@ -1,0 +1,43 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-02-16",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs.length",
+      "gitbook": 3,
+      "supabase": 4
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].title",
+      "gitbook": "Writers' WG budget proposal for Q1 2024",
+      "supabase": "Customer-centric AI Solutions: article for Cogito by LadyTempestt"
+    },
+    {
+      "field": "meetingInfo.workingDocs[1].link",
+      "gitbook": "https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing",
+      "supabase": "https://docs.google.com/document/d/1HjtlQRklpjbCB2qzVyENQ-mbZ9weZy862bBTlxxOnps/edit?usp=sharing"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].title",
+      "gitbook": "SingularityNET Ambassadors on Medium",
+      "supabase": "Writers' WG budget proposal for Q1 2024"
+    },
+    {
+      "field": "meetingInfo.workingDocs[2].link",
+      "gitbook": "https://medium.com/@singularitynetambassadors",
+      "supabase": "https://docs.google.com/document/d/1jvQ4DfJd6WYsYdZORg8t4g3Dsft88guYno7bxWIMsVQ/edit?usp=sharing"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
