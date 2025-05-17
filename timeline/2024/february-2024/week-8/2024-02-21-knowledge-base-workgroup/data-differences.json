@@ -1,0 +1,72 @@
+{
+  "workgroup": "Knowledge Base Workgroup",
+  "meetingDate": "2024-02-21",
+  "differences": [
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "Workgroups purpose.",
+      "supabase": "Workgroups purpose"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[1]",
+      "gitbook": "Went over the Resource planning process.",
+      "supabase": "Went over the Resource planning process"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[2]",
+      "gitbook": "Shared Workgroup Proposal.",
+      "supabase": "Shared Workgroup Proposal"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[3]",
+      "gitbook": "Share examples of the task outputs.",
+      "supabase": "Share examples of the task outputs"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[4]",
+      "gitbook": "Explained Item Color Codes.",
+      "supabase": "Explained Item Color Codes"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[5]",
+      "gitbook": "Different ways of managing a knowledge base.",
+      "supabase": "Different ways of managing a knowledge base"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[6]",
+      "gitbook": "importance of version management.",
+      "supabase": "importance of version management"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[7]",
+      "gitbook": "How to improve contribution to open source projects.",
+      "supabase": "How to improve contribution to open source projects"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "reviewing reasoning why an item was moved under a specific question.",
+      "supabase": "reviewing reasoning why an item was moved under a specific question"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Ambassador GitBook, Miro Board, management, process, Marketing, forum, website, open source, GitHub, medium, organizing, purpose",
+      "supabase": "Ambassador GitBook, Miro Board, management, process, Marketing, forum, website, medium, organizing, purpose"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
