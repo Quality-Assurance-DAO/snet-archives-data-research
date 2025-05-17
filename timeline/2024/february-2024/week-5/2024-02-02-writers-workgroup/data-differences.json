@@ -1,0 +1,22 @@
+{
+  "workgroup": "Writers Workgroup",
+  "meetingDate": "2024-02-02",
+  "differences": [
+    {
+      "field": "agendaItems[0].decisionItems[3].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
