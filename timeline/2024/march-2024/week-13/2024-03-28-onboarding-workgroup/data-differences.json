@@ -1,0 +1,271 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-03-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from the last meeting.",
+      "supabase": "Action Items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Draft doc on how to become a WG.",
+      "supabase": "Draft doc on how to become a WG"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Money and Payments Session with André.",
+      "supabase": "Money and Payments Session with André"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Publicising our research reports.",
+      "supabase": "Publicising our research reports"
+    },
+    {
+      "field": "agendaItems[0].issues[0].19",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].11",
+      "gitbook": "O",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].12",
+      "gitbook": "n",
+      "supabase": "O"
+    },
+    {
+      "field": "agendaItems[0].issues[2].13",
+      "gitbook": "b",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[2].14",
+      "gitbook": "o",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[2].15",
+      "gitbook": "a",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[2].16",
+      "gitbook": "r",
+      "supabase": "a"
+    },
+    {
+      "field": "agendaItems[0].issues[2].17",
+      "gitbook": "d",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[2].18",
+      "gitbook": "i",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[2].19",
+      "gitbook": "n",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[2].20",
+      "gitbook": "g",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[2].21",
+      "gitbook": " ",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[2].22",
+      "gitbook": "W",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].23",
+      "gitbook": "G",
+      "supabase": "W"
+    },
+    {
+      "field": "agendaItems[0].issues[2].24",
+      "gitbook": " ",
+      "supabase": "G"
+    },
+    {
+      "field": "agendaItems[0].issues[2].25",
+      "gitbook": "b",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].26",
+      "gitbook": "u",
+      "supabase": "b"
+    },
+    {
+      "field": "agendaItems[0].issues[2].27",
+      "gitbook": "d",
+      "supabase": "u"
+    },
+    {
+      "field": "agendaItems[0].issues[2].28",
+      "gitbook": "g",
+      "supabase": "d"
+    },
+    {
+      "field": "agendaItems[0].issues[2].29",
+      "gitbook": "e",
+      "supabase": "g"
+    },
+    {
+      "field": "agendaItems[0].issues[2].30",
+      "gitbook": "t",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[2].31",
+      "gitbook": " ",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[2].32",
+      "gitbook": "p",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].33",
+      "gitbook": "r",
+      "supabase": "p"
+    },
+    {
+      "field": "agendaItems[0].issues[2].34",
+      "gitbook": "o",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[2].35",
+      "gitbook": "j",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[2].36",
+      "gitbook": "e",
+      "supabase": "j"
+    },
+    {
+      "field": "agendaItems[0].issues[2].37",
+      "gitbook": "c",
+      "supabase": "e"
+    },
+    {
+      "field": "agendaItems[0].issues[2].38",
+      "gitbook": "t",
+      "supabase": "c"
+    },
+    {
+      "field": "agendaItems[0].issues[2].39",
+      "gitbook": "i",
+      "supabase": "t"
+    },
+    {
+      "field": "agendaItems[0].issues[2].40",
+      "gitbook": "o",
+      "supabase": "i"
+    },
+    {
+      "field": "agendaItems[0].issues[2].41",
+      "gitbook": "n",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[2].42",
+      "gitbook": "s",
+      "supabase": "n"
+    },
+    {
+      "field": "agendaItems[0].issues[2].43",
+      "gitbook": " ",
+      "supabase": "s"
+    },
+    {
+      "field": "agendaItems[0].issues[2].44",
+      "gitbook": "f",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].45",
+      "gitbook": "o",
+      "supabase": "f"
+    },
+    {
+      "field": "agendaItems[0].issues[2].46",
+      "gitbook": "r",
+      "supabase": "o"
+    },
+    {
+      "field": "agendaItems[0].issues[2].47",
+      "gitbook": " ",
+      "supabase": "r"
+    },
+    {
+      "field": "agendaItems[0].issues[2].48",
+      "gitbook": "Q",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].49",
+      "gitbook": "2",
+      "supabase": "Q"
+    },
+    {
+      "field": "agendaItems[0].issues[2].50",
+      "gitbook": " ",
+      "supabase": "2"
+    },
+    {
+      "field": "agendaItems[0].issues[2].51",
+      "gitbook": "2",
+      "supabase": " "
+    },
+    {
+      "field": "agendaItems[0].issues[2].52",
+      "gitbook": "0",
+      "supabase": "2"
+    },
+    {
+      "field": "agendaItems[0].issues[2].53",
+      "gitbook": "2",
+      "supabase": "0"
+    },
+    {
+      "field": "agendaItems[0].issues[2].54",
+      "gitbook": "4",
+      "supabase": "2"
+    },
+    {
+      "field": "agendaItems[0].issues[2].55",
+      "supabase": "4"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
