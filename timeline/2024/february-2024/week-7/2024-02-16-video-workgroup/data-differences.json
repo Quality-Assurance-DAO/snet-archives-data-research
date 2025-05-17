@@ -1,0 +1,27 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-02-16",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Concerns were raised about the need for approval and potential edits to the videos before posting.",
+      "supabase": "Concerns were raised about the need for approval and potential edits to the videos before posting"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
