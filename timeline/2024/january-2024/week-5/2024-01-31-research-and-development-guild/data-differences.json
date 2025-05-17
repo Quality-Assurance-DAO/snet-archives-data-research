@@ -1,0 +1,42 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-01-31",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "The overall purpose of the meeting was to go over the new R&D Guild proposal, the new workgroup operations strategy final edits including guilds members contribiutons on the document. Next following guilds inputs and team decision and agreements, team members in charge of operations followed to update the budget including all members proposed ideas agreed and submitted at yesterday 's meeting. Details can be found on the budget sheet",
+      "supabase": "The overall purpose of the meeting was to go over the new R&D Guild proposal, the new workgroup operations strategy final edits including guilds members contribiutons on the document. Next following guilds inputs and team decision and agreements, team members in charge of operations followed to update the budget including all members proposed ideas agreed and submitted at yesterday 's meeting. Details can be found on the budget sheet. "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "We discussed and agreed on guilds operational files sharing protocol and permissions strategy.",
+      "supabase": "We discussed and agreed on guilds operational files sharing protocol and permissions strategy"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "We discussed and the members have reached an agreement to reduce the budget allocated to operations, meeting schedules and other operational matters. Agreed on reduce the budget to the minimum for this first phase and learn from experience to save budget for development.",
+      "supabase": "We discussed and the members have reached an agreement to reduce the budget allocated to operations, meeting schedules and other operational matters. Agreed on reduce the budget to the minimum for this first phase and learn from experience to save budget for development"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037.",
+      "supabase": "AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
