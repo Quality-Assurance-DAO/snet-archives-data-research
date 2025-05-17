@@ -1,0 +1,67 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-02-01",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "The new Welcome Video that needs to be made is not ready yet.",
+      "supabase": "The new Welcome Video that needs to be made is not ready yet"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Next Onboarding open session.",
+      "supabase": "Next Onboarding open session"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "How a workgroup becomes official.",
+      "supabase": "How a workgroup becomes official"
+    },
+    {
+      "field": "agendaItems[0].decisionItems.length",
+      "gitbook": 3,
+      "supabase": 4
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].decision",
+      "gitbook": "Given the current AGIX price rise, we don't need to adjust budget to account for the bits of new work we are doing - what we already have will cover it - Gamers Guild shouldn’t be added to the list of WGs in the Getting Started channel until there’s an agreed process for how a WG becomes official.",
+      "supabase": "Given the current AGIX price rise, we don't need to adjust budget to account for the bits of new work we are doing - what we already have will cover it"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "mayAffectOtherPeople"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "Guillermo and the R&D Guild are working on a skills database - this may cross over with Onboarding's ideas, so we will keep aware of each other's work and look for ways to collaborate",
+      "supabase": "Gamers Guild shouldn’t be added to the list of WGs in the Getting Started channel until there’s an agreed process for how a WG becomes official."
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].assignee",
+      "gitbook": "Guillermo",
+      "supabase": "Guilermo"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Collaborative, Deliberative, insightful",
+      "supabase": "Deliberative, insightful, Collaborative"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
