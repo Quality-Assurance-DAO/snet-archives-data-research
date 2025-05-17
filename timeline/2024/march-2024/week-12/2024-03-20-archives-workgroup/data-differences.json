@@ -1,0 +1,18 @@
+{
+  "workgroup": "Archives Workgroup",
+  "meetingDate": "2024-03-20",
+  "differences": [
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
