@@ -1,0 +1,53 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-03-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Slate.",
+      "supabase": "Weekly meeting agenda outlined by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Discussions on ways to suggest topics for videos and review of the video created by Osmium.",
+      "supabase": "Discussions on ways to suggest topics for videos and review of the video created by Osmium"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Zealy platform updates.",
+      "supabase": "Zealy platform updates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Video update from OEP.",
+      "supabase": "Video update from OEP"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "There was a decision to introduce topics in the meetings, and votes should be in the video workgroup channel",
+      "supabase": "There was a decision to introduce topics in the meetings and votes should be in the video workgroup channel"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "this was done due to the fact that some members aren't usually in the meetings, so it's better the votes are done in the video workgroup channel",
+      "supabase": "this was done due to the fact that some members arent usually in the meetings, so its better the votes are done in the video workgroup channel "
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].decision",
+      "gitbook": "The task manager for the month is to reach out to members once their video gets accepted",
+      "supabase": "The task manager for the month, is to reach out to members once their video gets accepted"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
