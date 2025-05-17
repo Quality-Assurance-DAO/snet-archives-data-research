@@ -1,0 +1,78 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-03-27",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Meeting started with Slate welcoming everyone to the meeting.",
+      "supabase": "Meeting started with Slate welcoming everyone to the meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate mentioned that he and Headelf are having discussions regarding the setting up of budget request for Q2 off meeting schedule.",
+      "supabase": "Slate mentioned that him and Headelf are having discussions regarding the setting up of budget request for Q2 off meeting schedule"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Everybody really liked the video and approved it.",
+      "supabase": "Everybody really liked the video and approved it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Then Ese showcased her video on Awakening Health.",
+      "supabase": "Then Ese Showcased her video on Awakening Health"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Everybody liked her video as well but Slate pointed out the showing of branding of stock images inside of the video.",
+      "supabase": "Everybody liked her video as well but Slate pointed out the showing of branding of stock images inside of the video"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "To that Headelf said that it might be because of the invideo problem as it generates watermarked videos.",
+      "supabase": "To that Headelf said that it might be because of the invideo problem as it generates watermarked videos"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Headelf also proposed that we will be needing a software that does not have this problem or has a enterprise version that can be shared with the group so everyone can use it.",
+      "supabase": "he also proposed that we will be needing a software that does not have this problem or have a enterprise version that can be shared with the group so everyone can use it"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "After that Slate showcased the completed videos and infographics and assigned some of the quizzes to the volunteering participants.",
+      "supabase": "After that Slate showcased the completed videos and infographics and assigned some of the quizzes to the volunteering participants"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "As the meeting ran short on time then Slate mentioned that the budget discussion will be delayed to the next meeting and also the discussion on the setting up of platform for ACP.",
+      "supabase": "As the meeting ran short on time than Slate mentioned that the budget discussion will be delayed to the next meeting and also the discussion on the setting up of platform for ACP."
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Next quarter budget discussion will be in the next meeting.",
+      "supabase": "Next quarter budget discussion in the upcoming meeting."
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, review, Budget, Q2 2024 budget, Proposals, platform, software, quizzes",
+      "supabase": "ACP, review, Budget , Proposals, platform, quizzes"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "productive, Collaborative, Businesslike, speedy",
+      "supabase": "productive,  Collaborative, Businesslike., speedy "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
