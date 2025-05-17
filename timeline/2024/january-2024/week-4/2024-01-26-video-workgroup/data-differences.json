@@ -1,0 +1,67 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-01-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Updates from Task Manager Devon on everybody's outstanding tasks.",
+      "supabase": "Updates from Task Manager Devon on everybody's outstanding tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate got welcomed as new video WG member.",
+      "supabase": "Slate got welcomed as new video WG member"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Updates from Lord Kizzy and Judith on Q4 report and Q1 projections.",
+      "supabase": "Updates from Lord Kizzy and Judith on Q4 report and Q1 projections"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Updates from Malik (Social Media Management) on social media numbers and that analytics are difficult to get.",
+      "supabase": "Updates from Malik (Social Media Management) on social media numbers and that analytics are difficult to get"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Anwering questions from Zalfred who introduced himself.",
+      "supabase": "Anwering Questions for Zalfred who introduced himself"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "BGI - people can still apply to go.",
+      "supabase": "BGI - people can still apply to go"
+    },
+    {
+      "field": "agendaItems[0].actionItems.length",
+      "gitbook": 2,
+      "supabase": 3
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Malik to do research on best social media metrics to track (others can help too)",
+      "supabase": "Malik to do research on best social media metricts to track (others can help too)"
+    },
+    {
+      "field": "agendaItems[0].actionItems[1].text",
+      "gitbook": "Check at Ambassadors' TH if we should start pushing the program",
+      "supabase": "Check at Ambassador's TH if we should start pushing the program"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
