@@ -1,0 +1,63 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-02-28",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Duke's infographic on Cogito was reviewed.",
+      "supabase": "Duke's infographic on Cogito was reviewed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "It didn't have any sort of major corrections to be made and Kenichi said that the information is correct as well.",
+      "supabase": "It didn't have any sort of major corrections to be made and Kenichi said that the information is correct as well"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Kenichi raised a point for the introduction of slide decks to improve the readers' engagement when this ACP will be out to public and that we should maybe put a break to the videos and start focusing on the slide decks.",
+      "supabase": "Kenichi raised a point for the introduction of slide decks to improve the readers' engagement when this ACP will be out to public and that we should maybe put a break to the videos and start focusing on the slide decks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Slate also agreed with the introduction of Slide deck for the ACP in Google Classroom.",
+      "supabase": "Slate also agreed with the introduction of Slide deck for the ACP in Google Classroom"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "then Osmium's video was discussed.",
+      "supabase": "then Osmium's video was discussed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Everybody really liked the video and the overall quality.",
+      "supabase": "Everybody really liked the video and the overall quality"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Kenichi pointed out that some visuals might be hard for people to understand who are not that much involved in tech or SingularityNET. He also mentioned that slowing down the slides a bit will help as well.",
+      "supabase": "Kenichi pointed out that some visuals might be hard for people to understand who are not that much involved in tech or SingularityNET. He also mentioned that slowing down the slides a bit will help as well"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Osmium has reached Dubai and might be discussing for the certification soon.",
+      "supabase": "Osmium has reached Dubai and might be discussing for the certification soon"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Duke is now going to be working on \"Cogito Info and Vids\".",
+      "supabase": "Duke is now going to be working on \"Cogito Info and Vids\""
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
