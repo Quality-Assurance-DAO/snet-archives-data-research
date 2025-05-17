@@ -1,0 +1,37 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-02-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "The overall purpose of the meeting was to go over the new R&D Guild final fitted budgetl, the workgroup operations strategy and roadmap for development. Final Guilds fitted budget discussion, rational and retrospective",
+      "supabase": "The overall purpose of the meeting was to go over the new R&D Guild final fitted budgetl, the workgroup operations strategy and roadmap for development. Final Guilds fitted budget discussion, rational and retrospective."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "R&D Guild Requested $8100 > AGIX 28929 Final Fitted > AGIX 23288 Research & Development Guild Proposal _ 100124 $7763 08.02.24.",
+      "supabase": "R&D Guild Requested $8100 > AGIX 28929 Final Fitted > AGIX 23288 Research & Development Guild Proposal _ 100124 $7763 08.02.24"
+    },
+    {
+      "field": "agendaItems[0].actionItems[2].text",
+      "gitbook": "Curtis & Guillermo , they have been participating in parallel meetings and created a document on the proposal COLLABORATION SKILLS DATABASE and generated the following document with the aim of polishing the proposal, / Feedback Request WANTS/NEEDS / WaKa has intervened and created a substantial contribution to the document, promoting the action. Once feedback finished the team in charge of the development started building with the help and participation of other members of the guild.",
+      "supabase": "Curtis & Guillermo , they have been participating in parallel meetings and created a document on the proposal COLLABORATION SKILLS DATABASE and generated the following document with the aim of polishing the proposal, / Feedback Request WANTS/NEEDS / Walter has intervened and created a substantial contribution to the document, promoting the action. Once feedback finished the team in charge of the development started building with the help and participation of other members of the guild."
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
