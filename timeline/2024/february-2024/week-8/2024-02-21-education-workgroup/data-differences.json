@@ -1,0 +1,87 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-02-21",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Initiating the process to upload Education Guild videos to the Ambassador YouTube channel",
+      "supabase": "Initiating the process to upload Education Guild videos to the Ambassador YouTube channel."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Contacting the video workgroup for collaboration on the YouTube upload initiative",
+      "supabase": "Contacting the video workgroup for collaboration on the YouTube upload initiative."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[2]",
+      "gitbook": "Seeking approval from spin-off projects of SingularityNET for the distribution of infographics and videos, emphasizing the importance of quality control",
+      "supabase": "Seeking approval from spin-off projects of SingularityNET for the distribution of infographics and videos, emphasizing the importance of quality control."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[3]",
+      "gitbook": "Planning for potential rework if spin-off project reviews lead to rejection",
+      "supabase": "Planning for potential rework if spin-off project reviews lead to rejection."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[4]",
+      "gitbook": "Discussion on the proposal to turn on cameras during recorded meetings to enhance viewer engagement and interest",
+      "supabase": "Discussion on the proposal to turn on cameras during recorded meetings to enhance viewer engagement and interest."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "HeadElf Will be flying to Panama and he will not be hosting the next week meeting and if Slate wants to host next week feel free to.",
+      "supabase": "HeadElf Will be flying to Panama and he will not be hosting the next week meeting and if Slate wants to host next week feel free to"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Slate to manage and audit each completed task by next week -HeadElf.",
+      "supabase": "Slate to manage and audit each completed task by next week -HeadElf"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "If anybody needs assistant in anything he/she can contact Slate.",
+      "supabase": "If anybody needs assistant in anything he/she can contact Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Rojo and Headelf are looking for Dubai or Israel To get credited for the ACP(Ambassador Certification Program).",
+      "supabase": "Rojo and Headelf are looking for Dubai or Israel To get credited for the ACP(Ambassador Certification Program)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "- Osmium is going to be visiting Dubai and he might also be looking to get the ACP Credited.",
+      "supabase": "- Osmium is going to be visiting Dubai and he might also be looking to get the ACP Credited"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Skillshare was a platform suggested by Duke.",
+      "supabase": "Skillshare was a platform suggested by Duke"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "- Pathform infographic for duke (Is it an actual project check this before working on it?).",
+      "supabase": "- Pathform infographic for duke (Is it an actual project check this before working on it?)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "- Osmium will be working on jam galaxy project.",
+      "supabase": "- Osmium will be working on jam galaxy project"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
