@@ -1,0 +1,53 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-03-13",
+  "differences": [
+    {
+      "field": "agendaItems[1].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "We meet in 2 weeks for 30min for check-in and Q and A - When we coordinate meeting with Andamio Team we would prefer a publicly shared session",
+      "supabase": "We meet in 2 weeks for 30min for check-in and Q and A"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "agendaItems[1].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Shared how workgroup is running, what we do here and what our results look like.",
+      "supabase": "Shared how workgroup is running, what we do here and what our results look like"
+    },
+    {
+      "field": "agendaItems[2].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
