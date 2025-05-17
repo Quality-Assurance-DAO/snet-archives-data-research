@@ -1,0 +1,53 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-03-21",
+  "differences": [
+    {
+      "field": "agendaItems[2].discussionPoints[0]",
+      "gitbook": "Workgroup activities.",
+      "supabase": "Workgroup activities"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[1]",
+      "gitbook": "Workgroup roles.",
+      "supabase": "Workgroup roles"
+    },
+    {
+      "field": "agendaItems[2].discussionPoints[2]",
+      "gitbook": "Workgroup effects.",
+      "supabase": "Workgroup effects"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[0]",
+      "gitbook": "Quarterly budget requests.",
+      "supabase": "Quarterly budget requests"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[1]",
+      "gitbook": "Fund Request requirements.",
+      "supabase": "Fund Request requirements"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[2]",
+      "gitbook": "New Proposal Process https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit#heading=h.7ivzdnc619ji.",
+      "supabase": "New Proposal Process https://docs.google.com/document/d/1qT7C3Kb99tM5PzGej3GxCK-hhxlY5LEXnShNspixj24/edit#heading=h.7ivzdnc619ji"
+    },
+    {
+      "field": "agendaItems[3].discussionPoints[3]",
+      "gitbook": "Incentivizing people to learn about different workgroup methods and tools.",
+      "supabase": "Incentivizing people to learn about different workgroup methods and tools"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
