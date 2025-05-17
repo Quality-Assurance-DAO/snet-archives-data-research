@@ -1,0 +1,68 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-03-29",
+  "differences": [
+    {
+      "field": "meetingInfo.purpose",
+      "gitbook": "The meeting focused on task updates, Strategy for video content production, Existing tasks, Distribution of tasks",
+      "supabase": "The meeting focused on task updates, Strategy for video content production, Existing tasks, Distribution of task "
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Slate.",
+      "supabase": "Weekly meeting agenda outlined by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Slate provided updates on the welcome development with the Zealy task.",
+      "supabase": "Slate provided updates on the welcome development with the Zealy task"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Lord kizzy, the social media manager, gave weekly updates for video content engagement.",
+      "supabase": "Lord kizzy the social media manager gave weekly updates for Video content engagement."
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Introduction of new members joining in.",
+      "supabase": "Introduction of new members joining in"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Devon, the task management, gave more information on the weekly updates.",
+      "supabase": "Devon the task management gave more informations on the weekly updates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "LilyCupcake updated us on the Town Hall Video Edits.",
+      "supabase": "Lil-cupcake updated us on the Town Hall Video Edits"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Malik updated us on the Town Hall Summary.",
+      "supabase": "Malik updated us on the Town Hall Summary"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Allocation of task by Slate, the video workgroup facilitator.",
+      "supabase": "Allocation of task but the video work group facilitator Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Discussion on budgeting.",
+      "supabase": "Discussion on budgeting"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
