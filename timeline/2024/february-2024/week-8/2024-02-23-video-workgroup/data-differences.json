@@ -1,0 +1,45 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-02-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Tuso.",
+      "supabase": "Weekly meeting agenda outlined by Tuso"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussion on video production budget and scheduling for upcoming content creation.",
+      "supabase": "Discussion on video production budget and scheduling for upcoming content creation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Planning for future topics and collaborations within the group.",
+      "supabase": "Planning for future topics and collaborations within the group"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
