@@ -1,0 +1,62 @@
+{
+  "workgroup": "Dework PBL",
+  "meetingDate": "2024-03-27",
+  "differences": [
+    {
+      "field": "meetingInfo.miroBoardLink",
+      "gitbook": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764577501566856\\&cot=10",
+      "supabase": "https://miro.com/app/board/uXjVM7pbrUg=/?moveToWidget=3458764577501566856&cot=10"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Governance Guild Course Maintenance Service Fee.",
+      "supabase": "Governance Guild Course Maintenance Service Fee"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Course Content.",
+      "supabase": "Course Content"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Technical Andamio Updates.",
+      "supabase": "Technical Andamio Updates"
+    },
+    {
+      "field": "agendaItems[1].discussionPoints[0]",
+      "gitbook": "How could we get more participation to course?",
+      "supabase": "How could we get more participation to course"
+    },
+    {
+      "field": "agendaItems[1].decisionItems.length",
+      "gitbook": 1,
+      "supabase": 2
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].decision",
+      "gitbook": "Keep having Q and A sessions to provide opportunities to onboard people into the course and allow room to solve blockers - grant Emaden a Dework PBL Student role",
+      "supabase": "Keep having Q and A sessions to provide opportunities to onboard people into the course and allow room to solve blockers"
+    },
+    {
+      "field": "agendaItems[1].decisionItems[0].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "PBL, Miro Board, Lessons, Andamio, planning, course, student, testing, participation, onboarding, Q&A",
+      "supabase": "PBL, Miro Board, Lessons, Andamio, planning, course, student"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
