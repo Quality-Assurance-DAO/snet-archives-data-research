@@ -1,0 +1,72 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-02-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Will asked Slate if he can accept his Friend reqest on Discord and explain to him the process of making his video as it seemed ideal for Ambassador Certification Program.",
+      "supabase": "Will asked Slate if he can accept his Friend reqest on Discord and explain to him the process of making his video as it seemed ideal for Ambassador Certification Program"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Osmium's video for Ambassador Certification Program on Mindplex was previewed by every participant for feedback.",
+      "supabase": "Osmium's video for Ambassador Certification Program on Mindplex was previewed by every participant for feedback"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "On Osmium's video,WIll suggested: Needs to review other videos created by the members to get more idea of the overall video quality and making.",
+      "supabase": "On Osmium's video,WIll suggested: Needs to review other videos created by the members to get more idea of the overall video quality and making"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "On Osmium's Video : EseWilliams suggested text is slightly more and that she needs more time to read each slide before it gets changed, so suggested to increase the time duration of each slide.",
+      "supabase": "On Osmium's Video : EseWilliams suggested text is slightly more and that she needs more time to read each slide before it gets changed, so suggested to increase the time duration of each slide"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "On Osmium's video, Malik suggested to lessen text . Peter : the heading \"What\" is missing.",
+      "supabase": "On Osmium's video, Malik suggested to lessen text . Peter : the heading \"What\" is missing"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then Ese Williams shared her infographic on Awakening - Health and asked for feedback.",
+      "supabase": "Then Ese Williams shared her infographic on Awakening - Health and asked for feedback"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "On Ese Williams infographic : Slate suggested to add \"What\" heading.",
+      "supabase": "On Ese Williams infographic : Slate suggested to add \"What\" heading"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "On Ese Williams infographic The suggestions were: Peter The \"What\" reads more like a \"why\" Slate: Using the standard template design Slate: Robot pic is needed Peter: Include Meditation element of the robot Peter : \"Where\" has repetition.",
+      "supabase": "On Ese Williams infographic The suggestions were: Peter The \"What\" reads more like a \"why\" Slate: Using the standard template design Slate: Robot pic is needed Peter: Include Meditation element of the robot Peter : \"Where\" has repetition"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Will shared his infographic on SNET. Slate: It highlight the main 1 or 2 people who initially made the project come forward Slate: Need to put all the information into the Canva template that is being used for infographics.",
+      "supabase": "Will shared his infographic on SNET. Slate: It highlight the main 1 or 2 people who initially made the project come forward Slate: Need to put all the information into the Canva template that is being used for infographics"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Devon : discuss the infographic with Headelf, async or maybe next meeting.",
+      "supabase": "Devon : discuss the infographic with Headelf, async or maybe next meeting"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
