@@ -1,0 +1,72 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-02-14",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussion started with the Education Guild Budget Request for Q1 2024.",
+      "supabase": "Discussion started with the Education Guild Budget Request for Q1 2024"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "After having a look on the treasury guild last meeting, concerns were raised for the amount being put for the facilitation and management.",
+      "supabase": "After having a look on the treasury guild last meeting, concerns were raised for the amount being put for the facilitation and management"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "On this question Rojo said that it is a standard amount now for scribing meeting notes (which led to agreement of this amount).",
+      "supabase": "On this question Rojo said that it is a standard amount now for scribing meeting notes (which led to agreement of this amount)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Then EseWilliams infographic on Awakening Health was discussed.",
+      "supabase": "Then EseWilliams infographic on Awakening Health was discussed"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "The infographic quality was good and most of the details were mentioned.",
+      "supabase": "The infographic quality was good and most of the details were mentioned"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Headelf pointed out some minor grammar mistakes and Peter said that Hong Kong, China should be changed to just Hong Kong.",
+      "supabase": "Headelf pointed out some minor grammar mistakes and Peter said that Hong Kong, China should be changed to just Hong Kong"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "Rojo said that the graphic is good and just needs some minor rework and can be audited by next week.",
+      "supabase": "Rojo said that the graphic is good and just needs some minor rework and can be audited by next week"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[10]",
+      "gitbook": "The Reviews on the video are as follows : 1) Graphic couldn't be read 2)Voice sounded a little AI 3) AI voice is okeay-sh (Rojo), Visual is good (Rojo), Transition was good (Rojo), Good video (Rojo). 4) AL instead of ai (Peter), San Francisco HeadQuarters needs research.",
+      "supabase": "The Reviews on the video are as follows : 1) Graphic couldn't be read 2)Voice sounded a little AI 3) AI voice is okeay-sh (Rojo), Visual is good (Rojo), Transition was good (Rojo), Good video (Rojo). 4) AL instead of ai (Peter), San Francisco HeadQuarters needs research"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[11]",
+      "gitbook": "Video needs a bit rework before auditing (Headelf).",
+      "supabase": "Video needs a bit rework before auditing (Headelf)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[12]",
+      "gitbook": "Should we post these videos to the public?(Rojo) They are pretty good.",
+      "supabase": "Should we post these videos to the public?(Rojo) They are pretty good"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
