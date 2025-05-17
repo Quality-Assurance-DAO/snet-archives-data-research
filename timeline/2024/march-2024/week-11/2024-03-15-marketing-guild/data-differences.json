@@ -1,0 +1,43 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-03-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on The New Group for the Foundation.",
+      "supabase": "Discussions on The New Group for the Foundation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on Engagement strategy.",
+      "supabase": "Discussions on Engagement strategy"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].rationale",
+      "gitbook": "The foundation doesn't see any value of the Ambassadors program to them and will need a new group that will help with community engagement",
+      "supabase": "The foundation doesnt see any value of the ambassadors program to them and will need a new group that will help with community engagement"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].rationale",
+      "gitbook": "This was due to the fact that there weren't many participants in the meeting",
+      "supabase": "This was due to the fact that there weren't much participants in the meeting"
+    },
+    {
+      "field": "tags.emotions",
+      "gitbook": "Casual, Thoughtful, speedy",
+      "supabase": "Casual, Thoughtful , speedy "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
