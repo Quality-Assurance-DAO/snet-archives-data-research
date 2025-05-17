@@ -1,0 +1,37 @@
+{
+  "workgroup": "Education Workgroup",
+  "meetingDate": "2024-03-06",
+  "differences": [
+    {
+      "field": "agendaItems[0].meetingTopics[0]",
+      "gitbook": "Reviewed and approved Osmium's hypercycle video",
+      "supabase": "Reviewed and approved Osmium's hypercycle video."
+    },
+    {
+      "field": "agendaItems[0].meetingTopics[1]",
+      "gitbook": "Headelf's discussion with a SingularityNet funder about the Ambassador Program progress",
+      "supabase": "Headelf's discussion with a SingularityNet funder about the Ambassador Program progress."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[2].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "ACP, infographic, Google Classroom, slide decks, review, Cogito, Budget, Q2 Budget, Hypercycle, slide decks, facilitation, quiz, $10, pay, rewards, fairness,",
+      "supabase": "ACP, infographic, Google Classroom, slide decks, review, Cogito, Budget "
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
