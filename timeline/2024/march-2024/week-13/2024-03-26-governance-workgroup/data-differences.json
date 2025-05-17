@@ -1,0 +1,42 @@
+{
+  "workgroup": "Governance Workgroup",
+  "meetingDate": "2024-03-26",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Core Contributors' decision making processes.",
+      "supabase": "Contributors decision making processes"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Recent Core Contributors' decision on approving Q1 budgets.",
+      "supabase": "Governance AI Agent conversation"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Governance AI Agent conversation."
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "Change to meeting weekly instead of every 2 weeks",
+      "supabase": "Weekly Meetings"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Governance, AI tooling, Core Contributors, decisionmaking, Q1 budgets",
+      "supabase": "Governance, AI tooling"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
