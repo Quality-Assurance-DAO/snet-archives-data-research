@@ -1,0 +1,28 @@
+{
+  "workgroup": "Video Workgroup",
+  "meetingDate": "2024-03-15",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Weekly meeting agenda outlined by Slate.",
+      "supabase": "Weekly meeting agenda outlined by Slate"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussions on two new workgroup members.",
+      "supabase": "Discussions on two new workgroup members"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
