@@ -1,0 +1,53 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-03-27",
+  "differences": [
+    {
+      "field": "meetingInfo.workingDocs[0].title",
+      "gitbook": "Project Feedback Proposal: COLLABORATION SKILLS DATABASE_ 150224",
+      "supabase": "Project Feedback Proposal:  COLLABORATION SKILLS DATABASE _ 150224"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussions on Updates on projects (TECHNICAL UPDATES from Rojo and Curtis).",
+      "supabase": "Discussions on Updates on projects (TECHNICAL UPDATES from Rojo and Curtis)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on Archiving process for the work group.",
+      "supabase": "Discussions on Archiving process for the work group"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Discussions on projects management and the use of GitHub.",
+      "supabase": "Discussions on projects management and the use of GitHub"
+    },
+    {
+      "field": "agendaItems[0].actionItems[0].text",
+      "gitbook": "Rojo to continue building the backend and conduct backend testing with members of the project who manage the social media account. Once that is done, then build the front end",
+      "supabase": "Rojo to continue building the backend and conduct the Backend testing with members of the project who manage the social media account, once that is done, then build the Front end"
+    },
+    {
+      "field": "agendaItems[0].actionItems[4].text",
+      "gitbook": "Curtis and Guillermo to have a call to see where we are as a Guild, how we integrate with how treasury and archives workgroups work",
+      "supabase": "Curtis and Guillermo to have a call to see where we are as a Guild, how we integrate with treasury and archival workgroup works"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Guilds, Budget, Tool Development, Proposal, AI tooling, GitHub, FrontEnd, API, deliverables, Archives, Treasury",
+      "supabase": "Guilds , Budget , Tool Development, Proposal, AI tooling, GitHub, FrontEnd, API, deliverables"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
