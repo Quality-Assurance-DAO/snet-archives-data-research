@@ -1,0 +1,37 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-02-23",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Work on the Ambassador Program Explainer Page.",
+      "supabase": "Work on the Ambassador Program Explainer Page"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Things to include in an FAQ.",
+      "supabase": "Things to include in an FAQ"
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Marketing, Engagement, Task Assignment, Getting Started channel, Onboarding",
+      "supabase": "Marketing, Engagement, Task Assignment, Onboarding"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
