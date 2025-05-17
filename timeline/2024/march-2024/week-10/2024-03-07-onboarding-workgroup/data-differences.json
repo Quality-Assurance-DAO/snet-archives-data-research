@@ -1,0 +1,57 @@
+{
+  "workgroup": "Onboarding Workgroup",
+  "meetingDate": "2024-03-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Minutes of the last meeting.",
+      "supabase": "Minutes of the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Action Items from the last meeting.",
+      "supabase": "Action Items from the last meeting"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Sign-off of 2 Continuous Onboarding docs, and Onboarding slides voiceover (with music version).",
+      "supabase": "Sign-off of 2 Continuous Onboarding docs, and Onboarding slides voiceover (with music version)"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "New Welcome video - link has disappeared.",
+      "supabase": "New Welcome video - link has disappeared"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Town Hall update.",
+      "supabase": "Town Hall update"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "Idea of a new Introduction channel on Discord (\"tell-us-your-interest\" or \"which-workgroup-should-I-join?\").",
+      "supabase": "Idea of a new Introduction channel on Discord (\"tell-us-your-interest\" or \"which-workgroup-should-I-join?\")"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "Outstanding work that was budgeted for in Q1 and not yet done: Onboarding Journeys.",
+      "supabase": "Outstanding work that was budgeted for in Q1 and not yet done: Onboarding Journeys"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[1].effect",
+      "gitbook": "affectsOnlyThisWorkgroup"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
