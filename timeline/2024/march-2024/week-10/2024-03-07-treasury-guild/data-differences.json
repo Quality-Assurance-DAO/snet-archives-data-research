@@ -1,0 +1,76 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-03-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Discussed topics to bring over to next meeting when everyone is back.",
+      "supabase": "Discussed topics to bring over to next meeting when everyone is back"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Create budgets in AGIX or USD.",
+      "supabase": "Create budgets in AGIX or USD"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[2]",
+      "gitbook": "Limits on the Core Costs.",
+      "supabase": "Limits on the Core Costs"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "What are Core Costs.",
+      "supabase": "What are Core Costs"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Reporting on budgets.",
+      "supabase": "Reporting on budgets"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "How do we do reporting on proposals.",
+      "supabase": "How do we do reporting on proposals"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[6]",
+      "gitbook": "How do we handle workgroups that underspent on proposals and can the unspent budget be secured for next quarter.",
+      "supabase": "How do we handle workgroups that underspent on proposals and can the unspent budget be secured for next quarter"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[7]",
+      "gitbook": "Renewel of Ambassador budget 20th May and will the quarterly amount change.",
+      "supabase": "Renewel of Ambassador budget 20th May and will the quarterly amount change"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[8]",
+      "gitbook": "If the price rises, should the rates go up for tasks.",
+      "supabase": "If the price rises, should the rates go up for tasks"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[9]",
+      "gitbook": "Can workgroups bid on some of the surplus.",
+      "supabase": "Can workgroups bid on some of the surplus"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
