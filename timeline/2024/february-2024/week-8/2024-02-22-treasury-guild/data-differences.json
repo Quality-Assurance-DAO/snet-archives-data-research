@@ -1,0 +1,46 @@
+{
+  "workgroup": "Treasury Guild",
+  "meetingDate": "2024-02-22",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Don't try to improve budget fitting for this quarter as AGIX price went up and there is enough budget now.",
+      "supabase": "Don't try to improve budget fitting for this quarter as AGIX price went up and there is enough budget now"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Consider already spent rewards based on previous exchange rates.",
+      "supabase": "Consider already spent rewards based on previous exchange rates"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[3]",
+      "gitbook": "Discussed a limit for maximum amount per workgroup, but need to revisit this in next meetings.",
+      "supabase": "Discussed a limit for maximum amount per workgroup, but need to revisit this in next meetings"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[4]",
+      "gitbook": "Discussed how some workgroups can afford to cut core costs while others can't, as their main functions are core activities, like Treaury Guild.",
+      "supabase": "Discussed how some workgroups can afford to cut core costs while others can't, as their main functions are core activities, like Treaury Guild"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
