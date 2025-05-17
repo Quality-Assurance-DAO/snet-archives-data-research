@@ -1,0 +1,27 @@
+{
+  "workgroup": "Research and Development Guild",
+  "meetingDate": "2024-02-07",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[5]",
+      "gitbook": "AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037.",
+      "supabase": "AGIX Price $0.27 Q1 Total Estimated Cost in US Dollars $7,300 Q1 Total Estimated Cost in AGIX 27,037"
+    },
+    {
+      "field": "noSummaryGiven",
+      "gitbook": false
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
