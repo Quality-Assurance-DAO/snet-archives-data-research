@@ -1,0 +1,46 @@
+{
+  "workgroup": "Marketing Guild",
+  "meetingDate": "2024-03-08",
+  "differences": [
+    {
+      "field": "agendaItems[0].discussionPoints[0]",
+      "gitbook": "Explanation on how tasks are assigned in the Guild: once you are in the meeting in which tasks are being assigned, express your interest in where you feel you can contribute and the task will be assigned to you.",
+      "supabase": "Explanation on how tasks are assigned in the Guild; Once you are available in the meeting in which task are being assigned, express you interest in where you feel you can contribute and it would be assigned to you"
+    },
+    {
+      "field": "agendaItems[0].discussionPoints[1]",
+      "gitbook": "Discussions on Zealy updates by Kenichii.",
+      "supabase": "Discussions on Zealy Updates by Kenichii"
+    },
+    {
+      "field": "agendaItems[0].decisionItems[0].decision",
+      "gitbook": "The Zealy program could have a module for community engagement, like a separate Discord server for community posts",
+      "supabase": "The Zealy program could have a module for community engagement like a separate discord server for community posts"
+    },
+    {
+      "field": "agendaItems[0].actionItems",
+      "supabase": [
+        {
+          "status": "todo"
+        }
+      ]
+    },
+    {
+      "field": "tags.topicsCovered",
+      "gitbook": "Marketing, Engagement, Rewards, Zealy, Tasks",
+      "supabase": "Marketing, Engagement, Rewards"
+    },
+    {
+      "field": "canceledSummary",
+      "gitbook": false
+    },
+    {
+      "field": "noSummaryGivenText",
+      "gitbook": "No Summary Given"
+    },
+    {
+      "field": "canceledSummaryText",
+      "gitbook": "Meeting was cancelled"
+    }
+  ]
+}
